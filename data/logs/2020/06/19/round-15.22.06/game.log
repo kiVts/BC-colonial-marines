@@ -1,0 +1,1128 @@
+
+
+Starting up round 15:22:06
+---------------------
+[15:22:06]MISC: Saved mode is 'Distress  Signal'
+[15:22:06]ADMIN: Loading jobban_rank
+[15:22:06]ADMIN: Loading Banlist
+[15:22:06]DEBUG: Error setting up jobs, blank title job: /datum/job/captain.
+[15:22:06]DEBUG: Error setting up jobs, blank title job: /datum/job/hop.
+[15:22:06]DEBUG: Error setting up jobs, blank title job: /datum/job/assistant.
+[15:22:06]DEBUG: Error setting up jobs, blank title job: /datum/job/bartender.
+[15:22:06]DEBUG: Error setting up jobs, blank title job: /datum/job/chef.
+[15:22:06]DEBUG: Error setting up jobs, blank title job: /datum/job/hydro.
+[15:22:06]DEBUG: Error setting up jobs, blank title job: /datum/job/mining.
+[15:22:06]DEBUG: Error setting up jobs, blank title job: /datum/job/janitor.
+[15:22:06]DEBUG: Error setting up jobs, blank title job: /datum/job/librarian.
+[15:22:07]DEBUG: Error setting up jobs, blank title job: /datum/job/lawyer.
+[15:22:07]DEBUG: Error setting up jobs, blank title job: /datum/job/chaplain.
+[15:22:07]DEBUG: Error setting up jobs, blank title job: /datum/job/qm.
+[15:22:07]DEBUG: Error setting up jobs, blank title job: /datum/job/cargo_tech.
+[15:22:07]DEBUG: Error setting up jobs, blank title job: /datum/job/chief_engineer.
+[15:22:07]DEBUG: Error setting up jobs, blank title job: /datum/job/engineer.
+[15:22:07]DEBUG: Error setting up jobs, blank title job: /datum/job/atmos.
+[15:22:07]DEBUG: Error setting up jobs, blank title job: /datum/job/cmo.
+[15:22:07]DEBUG: Error setting up jobs, blank title job: /datum/job/doctor.
+[15:22:07]DEBUG: Error setting up jobs, blank title job: /datum/job/chemist.
+[15:22:07]DEBUG: Error setting up jobs, blank title job: /datum/job/geneticist.
+[15:22:07]DEBUG: Error setting up jobs, blank title job: /datum/job/psychiatrist.
+[15:22:07]DEBUG: Error setting up jobs, blank title job: /datum/job/rd.
+[15:22:07]DEBUG: Error setting up jobs, blank title job: /datum/job/scientist.
+[15:22:07]DEBUG: Error setting up jobs, blank title job: /datum/job/roboticist.
+[15:22:07]DEBUG: Error setting up jobs, blank title job: /datum/job/hos.
+[15:22:07]DEBUG: Error setting up jobs, blank title job: /datum/job/warden.
+[15:22:07]DEBUG: Error setting up jobs, blank title job: /datum/job/detective.
+[15:22:07]DEBUG: Error setting up jobs, blank title job: /datum/job/officer.
+[15:22:12]DEBUG: Next event in 36.994 minutes.
+[15:22:13]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:22:13]ACCESS: Login: CM.RU/(CM.RU) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:22:13]ACCESS: Notice: CM.RU/(CM.RU) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[15:22:13]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:22:13]ACCESS: Notice: BlackCrystalic/(BlackCrystalic) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[15:22:13]ACCESS: Notice: BlackCrystalic/(BlackCrystalic) has the same IP (80.240.253.147) and ID (3990586367) as CM.RU/(CM.RU).
+[15:22:13]ACCESS: Login: Alot/(Alot) from 85.141.70.207-1465043992 || BYOND v513.1513
+[15:22:13]ACCESS: Login: Sladk0ewka/(Sladk0ewka) from 77.222.104.59-2354459441 || BYOND v513.1524
+[15:22:13]ACCESS: Login: Artyuom/(Artyuom) from 95.174.127.234-114134526 || BYOND v513.1517
+[15:22:13]ACCESS: Login: Harlex5435/(Harlex5435) from 178.161.223.5-4085160650 || BYOND v513.1526
+[15:22:14]ACCESS: Login: Sewa/(Sewa) from 188.18.245.72-1345515308 || BYOND v513.1525
+[15:22:14]ACCESS: Logout: ZyberCpechnaz/(ZyberCpechnaz)
+[15:22:14]ACCESS: Logout: BlackCrystalic/(BlackCrystalic)
+[15:22:14]ACCESS: Logout: CM.RU/(CM.RU)
+[15:22:14]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 127.0.0.1-3990586367 || BYOND v513.1513
+[15:22:14]ACCESS: Login: CM.RU/(CM.RU) from 127.0.0.1-3990586367 || BYOND v513.1513
+[15:22:14]ACCESS: Notice: CM.RU/(CM.RU) has the same IP (127.0.0.1) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[15:22:14]ACCESS: Logout: Alot/(Alot)
+[15:22:15]ACCESS: Logout: Sewa/(Sewa)
+[15:22:17]ACCESS: Logout: Harlex5435/(Harlex5435)
+[15:22:17]ACCESS: Logout: Artyuom/(Artyuom)
+[15:22:17]ACCESS: Logout: Sladk0ewka/(Sladk0ewka)
+[15:22:18]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:22:18]ACCESS: Notice: BlackCrystalic/(BlackCrystalic) has the same ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[15:22:18]ACCESS: Notice: BlackCrystalic/(BlackCrystalic) has the same ID (3990586367) as CM.RU/(CM.RU).
+[15:22:18]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 22.
+[15:22:18]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 9.
+[15:22:18]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 3.
+[15:22:18]ACCESS: Login: Alot/(Alot) from 85.141.70.207-1465043992 || BYOND v513.1513
+[15:22:19]ACCESS: Login: Artyuom/(Artyuom) from 95.174.127.234-114134526 || BYOND v513.1517
+[15:22:19]ACCESS: Login: Harlex5435/(Harlex5435) from 178.161.223.5-4085160650 || BYOND v513.1526
+[15:22:20]ACCESS: Login: Sladk0ewka/(Sladk0ewka) from 77.222.104.59-2354459441 || BYOND v513.1524
+[15:22:46]SAY: *no key*/(МилкиВей) "HSSSSS" (Commander's Bunk (94, 268, 3))
+[15:23:05]ADMIN: BlackCrystalic/(BlackCrystalic) set the mode as Distress Signal.
+[15:23:13]SAY: *no key*/(corgi) "AUUUUUU" (Lambda Lab (170, 161, 1))
+[15:24:06]SAY: *no key*/(МилкиВей) "Esp!" (Commander's Bunk (97, 267, 3))
+[15:24:40]ACCESS: Login: ALex13t/(ALex13t) from 176.36.139.205-647948570 || BYOND v513.1526
+[15:24:43]ACCESS: Logout: ALex13t/(ALex13t)
+[15:24:46]ACCESS: Login: ALex13t/(ALex13t) from 176.36.139.205-647948570 || BYOND v513.1526
+[15:25:16]DEBUG: Alot had Alien enabled, so we are drafting them.
+[15:25:16]ACCESS: Logout: *no key*/(Alot)
+[15:25:16]ACCESS: Login: Alot/(Sarah 'Phantom' Black) from 85.141.70.207-1465043992 || BYOND v513.1513
+[15:25:16]ACCESS: Logout: *no key*/(Harlex5435)
+[15:25:17]ACCESS: Login: Harlex5435/(Nickolas Stone) from 178.161.223.5-4085160650 || BYOND v513.1526
+[15:25:17]ADMIN: Harlex5435/(Nickolas Stone) has been assigned as Alpha Squad Specialist
+[15:25:17]ACCESS: Logout: *no key*/(Sarah 'Phantom' Black)
+[15:25:17]ACCESS: Login: Alot/(Bloody Larva (0)) from 85.141.70.207-1465043992 || BYOND v513.1513
+[15:25:25]ACCESS: Logout: *no key*/(Artyuom)
+[15:25:25]ACCESS: Login: Artyuom/(Johnny Vietnam) from 95.174.127.234-114134526 || BYOND v513.1517
+[15:25:25]ADMIN: Artyuom/(Johnny Vietnam) has been assigned as Alpha Squad Medic
+[15:25:31]ACCESS: Logout: *no key*/(Sladk0ewka)
+[15:25:31]ACCESS: Login: Sladk0ewka/(Evan Tomato) from 77.222.104.59-2354459441 || BYOND v513.1524
+[15:25:31]ADMIN: Sladk0ewka/(Evan Tomato) has been assigned as Alpha Squad Smartgunner
+[15:25:32]ACCESS: Login: Sewa/(Sewa) from 188.18.245.72-1345515308 || BYOND v513.1525
+[15:26:18]ACCESS: Logout: Sewa/(Sewa)
+[15:26:27]ACCESS: Login: Sewa/(Sewa) from 188.18.245.72-1345515308 || BYOND v513.1525
+[15:26:28]ACCESS: Logout: Sewa/(Sewa)
+[15:26:33]ACCESS: Login: Sewa/(Sewa) from 188.18.245.72-1345515308 || BYOND v513.1525
+[15:27:16]ACCESS: Logout: *no key*/(Sewa)
+[15:27:16]ACCESS: Login: Sewa/(Kelvin Focell) from 188.18.245.72-1345515308 || BYOND v513.1525
+[15:27:16]ADMIN: Sewa/(Kelvin Focell) has been assigned as Alpha Squad Medic
+[15:27:24]ACCESS: Logout: *no key*/(ZyberCpechnaz)
+[15:27:24]ACCESS: Login: ZyberCpechnaz/(Aidan Waldron) from 127.0.0.1-3990586367 || BYOND v513.1513
+[15:27:24]ACCESS: Notice: ZyberCpechnaz/(Aidan Waldron) has the same IP (127.0.0.1) and ID (3990586367) as CM.RU/(CM.RU).
+[15:27:24]ACCESS: Notice: ZyberCpechnaz/(Aidan Waldron) has the same ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[15:27:34]ACCESS: Logout: *no key*/(CM.RU)
+[15:27:34]ACCESS: Login: CM.RU/(Jermaine Earl) from 127.0.0.1-3990586367 || BYOND v513.1513
+[15:27:34]ACCESS: Notice: CM.RU/(Jermaine Earl) has the same ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[15:27:34]ACCESS: Notice: CM.RU/(Jermaine Earl) has the same IP (127.0.0.1) and ID (3990586367) as ZyberCpechnaz/(Aidan Waldron).
+[15:27:40]ACCESS: Logout: *no key*/(Mature Larva (890))
+[15:27:40]ACCESS: Login: Alot/(Drone) from 85.141.70.207-1465043992 || BYOND v513.1513
+[15:27:42]GAME: <a href='?priv_msg=[0x5000000]'>ZyberCpechnaz</a>/(Aidan Waldron) has ghosted.
+[15:27:42]ACCESS: Logout: *no key*/(Aidan Waldron)
+[15:27:42]ACCESS: Login: ZyberCpechnaz/(Aidan Waldron) from 127.0.0.1-3990586367 || BYOND v513.1513
+[15:27:42]ACCESS: Notice: ZyberCpechnaz/(Aidan Waldron) has the same ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[15:27:42]ACCESS: Notice: ZyberCpechnaz/(Aidan Waldron) has the same IP (127.0.0.1) and ID (3990586367) as CM.RU/(Jermaine Earl).
+[15:27:47]SAY: *no key*/(corgi) "Bark!" (Lambda Lab (169, 161, 1))
+[15:28:23]ACCESS: Login: ADIBELL/(ADIBELL) from 109.187.207.243-2216789942 || BYOND v513.1526
+[15:28:26]ACCESS: Logout: ADIBELL/(ADIBELL)
+[15:28:30]ACCESS: Login: ADIBELL/(ADIBELL) from 109.187.207.243-2216789942 || BYOND v513.1526
+[15:30:14]SAY: *no key*/(corgi) "Bark!" (Lambda Lab (168, 162, 1))
+[15:30:50]ACCESS: Logout: *no key*/(ADIBELL)
+[15:30:50]ACCESS: Login: ADIBELL/(Magomed Sharipiv) from 109.187.207.243-2216789942 || BYOND v513.1526
+[15:30:50]ADMIN: ADIBELL/(Magomed Sharipiv) has been assigned as Alpha Squad Leader
+[15:31:51]ACCESS: Logout: *no key*/(Young Drone (890))
+[15:31:51]ACCESS: Login: Alot/(Queen) from 85.141.70.207-1465043992 || BYOND v513.1513
+[15:33:00]SAY: ADIBELL/(Magomed Sharipiv) "Альфа." (Squad Alpha Cargo (207, 178, 3))
+[15:33:04]SAY: ADIBELL/(Magomed Sharipiv) "Как слышите?" (Squad Alpha Cargo (207, 178, 3))
+[15:33:18]SAY: Harlex5435/(Nickolas Stone) "Прекрасно" (Hallway Starboard (109, 163, 3))
+[15:33:23]SAY: Sewa/(Kelvin Focell) "Слышим но без аттачей" (Hallway Starboard (180, 172, 3))
+[15:33:33]SAY: ADIBELL/(Magomed Sharipiv) "Сколько человек в команде?" (Squad Alpha Cargo (207, 178, 3))
+[15:33:52]SAY: CM.RU/(Jermaine Earl) "ВСЕМ НА АЛАМО, НАЧАЛО ОПЕРАЦИИ В 12 20" (Briefing Area (174, 154, 3))
+[15:34:07]SAY: ADIBELL/(Magomed Sharipiv) "Брифинг будет?" (Squad Alpha Cargo (207, 178, 3))
+[15:35:06]SAY: Harlex5435/(Nickolas Stone) "А можно бурст файр адаптер?" (Squad Alpha Cargo (176, 176, 3))
+[15:35:23]OOC: (LOCAL) Evan Tomato/Sladk0ewka : блет
+[15:35:30]SAY: ADIBELL/(Magomed Sharipiv) "Слушаю." (Squad Alpha Cargo (207, 178, 3))
+[15:35:32]OOC: (LOCAL) Evan Tomato/Sladk0ewka : как зарядить смарт ган....
+[15:35:50]OOC: (LOCAL) Magomed Sharipiv/ADIBELL : там кароче вроде худ есть какой то
+[15:35:55]OOC: (LOCAL) Magomed Sharipiv/ADIBELL : ну точнее чето на слот очков
+[15:36:00]OOC: (LOCAL) Magomed Sharipiv/ADIBELL : и он автоматом перезаряжает
+[15:36:04]SAY: *no key*/(МилкиВей) "HSSSSS" (Commander's Bunk (98, 267, 3))
+[15:36:27]SAY: ADIBELL/(Magomed Sharipiv) "На выход, сынок." (Squad Alpha Cargo (173, 176, 3))
+[15:36:33]SAY: CM.RU/(Jermaine Earl) "Что ты сказал?" (Squad Alpha Cargo (173, 176, 3))
+[15:36:43]SAY: Artyuom/(Johnny Vietnam) "Кит с тактикал дробовиком" (Squad Alpha Cargo (175, 177, 3))
+[15:36:52]SAY: CM.RU/(Jermaine Earl) "КАК ты обращяешся с вышим по званию?" (Squad Alpha Cargo (173, 176, 3))
+[15:37:10]OOC: (LOCAL) Johnny Vietnam/Artyuom : как с лохом
+[15:37:23]SAY: ADIBELL/(Magomed Sharipiv) "А, внатуре командир." (Squad Alpha Cargo (173, 177, 3))
+[15:37:28]SAY: ADIBELL/(Magomed Sharipiv) "Извините, не признал, сэр." (Squad Alpha Cargo (173, 177, 3))
+[15:37:44]ACCESS: Login: Vvv3544/(Vvv3544) from 93.170.246.82-568105908 || BYOND v513.1526
+[15:37:46]ACCESS: Logout: Vvv3544/(Vvv3544)
+[15:37:49]ACCESS: Login: Vvv3544/(Vvv3544) from 93.170.246.82-568105908 || BYOND v513.1526
+[15:39:00]ACCESS: Logout: Vvv3544/(Vvv3544)
+[15:39:41]SAY: *no key*/(МилкиВей) "Purr!" (Commander's Bunk (95, 269, 3))
+[15:39:45]ACCESS: Logout: *no key*/(ALex13t)
+[15:39:45]ACCESS: Login: ALex13t/(Reno 'Slowflake' Flake) from 176.36.139.205-647948570 || BYOND v513.1526
+[15:40:21]SAY: ADIBELL/(Magomed Sharipiv) "У нас из отдела поставок есть кто?" (Hallway Starboard (124, 164, 3))
+[15:40:36]SAY: ADIBELL/(Magomed Sharipiv) "УНГА  БУНГА!" (Medical Lower (107, 152, 3))
+[15:40:39]SAY: ADIBELL/(Magomed Sharipiv) "Унга бутылок бы." (Medical Lower (107, 152, 3))
+[15:41:31]SAY: ADIBELL/(Magomed Sharipiv) "А трамадол где?" (Medical Lower (110, 150, 3))
+[15:41:58]SAY: CM.RU/(Jermaine Earl) "Я" (Hallway Starboard (183, 181, 3))
+[15:42:11]ACCESS: Login: Chaburek/(Chaburek) from 178.46.63.9-2047396774 || BYOND v513.1513
+[15:42:13]ACCESS: Logout: Chaburek/(Chaburek)
+[15:42:17]ACCESS: Login: Chaburek/(Chaburek) from 178.46.63.9-2047396774 || BYOND v513.1513
+[15:43:14]ACCESS: Logout: Artyuom/(Johnny Vietnam)
+[15:43:32]SAY: ADIBELL/(Magomed Sharipiv) "Пиздец, даже брифинга не провели." (Dropship Alamo (92, 154, 3))
+[15:43:38]ACCESS: Logout: Sladk0ewka/(Evan Tomato)
+[15:43:42]SAY: ADIBELL/(Magomed Sharipiv) "И командир с нами на операцию пиздохает, да?" (Dropship Alamo (92, 154, 3))
+[15:43:51]SAY: ADIBELL/(Magomed Sharipiv) "В стандартном обмундировании морпеха." (Dropship Alamo (92, 154, 3))
+[15:43:52]SAY: Harlex5435/(Nickolas Stone) "Так нахуй нам брифинг" (Dropship Alamo (93, 149, 3))
+[15:44:01]ACCESS: Logout: *no key*/(BlackCrystalic)
+[15:44:01]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:44:01]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same ID (3990586367) as CM.RU/(Jermaine Earl).
+[15:44:01]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same ID (3990586367) as ZyberCpechnaz/(Aidan Waldron).
+[15:44:02]SAY: Harlex5435/(Nickolas Stone) "Сидим, пердим там" (Dropship Alamo (93, 149, 3))
+[15:44:07]SAY: ADIBELL/(Magomed Sharipiv) "Думаешь?" (Dropship Alamo (92, 154, 3))
+[15:44:11]SAY: Harlex5435/(Nickolas Stone) "Знаю" (Dropship Alamo (93, 149, 3))
+[15:44:15]SAY: CM.RU/(Jermaine Earl) "ВЫЛЕТ ЧЕРЕЗ 1 МИНУТУ!" (Hallway Starboard (182, 171, 3))
+[15:44:15]SAY: ADIBELL/(Magomed Sharipiv) "Предчувствие у меня плохое." (Dropship Alamo (92, 154, 3))
+[15:44:23]SAY: ADIBELL/(Magomed Sharipiv) "И офицеров поставки нету, бля." (Dropship Alamo (92, 154, 3))
+[15:44:28]SAY: ADIBELL/(Magomed Sharipiv) "Ебаный пиздец какой - то." (Dropship Alamo (92, 154, 3))
+[15:44:33]ACCESS: Logout: *no key*/(Chaburek)
+[15:44:33]ACCESS: Login: Chaburek/(Haidee Baxter) from 178.46.63.9-2047396774 || BYOND v513.1513
+[15:44:33]ADMIN: Chaburek/(Haidee Baxter) has been assigned as Alpha Squad Engineer
+[15:44:37]SAY: ADIBELL/(Magomed Sharipiv) "У колониальных пехов." (Dropship Alamo (92, 154, 3))
+[15:44:45]SAY: ADIBELL/(Magomed Sharipiv) "Я слышал, мол жалование нам урезали." (Dropship Alamo (92, 154, 3))
+[15:44:48]SAY: ADIBELL/(Magomed Sharipiv) "Типо нахуй не нужны." (Dropship Alamo (92, 154, 3))
+[15:44:53]SAY: ADIBELL/(Magomed Sharipiv) "Поэтому с кадрами такая хуйня." (Dropship Alamo (92, 154, 3))
+[15:45:09]SAY: ADIBELL/(Magomed Sharipiv) "Че по пушкам кстати взяли, парни?" (Dropship Alamo (92, 154, 3))
+[15:45:23]ACCESS: Login: Artyuom/(Johnny Vietnam) from 95.174.127.234-114134526 || BYOND v513.1517
+[15:45:23]SAY: ADIBELL/(Magomed Sharipiv) "Я вот пуллемет пульсовой взял, пиздец убойная штука." (Dropship Alamo (92, 154, 3))
+[15:45:23]ACCESS: Logout: Artyuom/(Johnny Vietnam)
+[15:45:26]ACCESS: Login: Artyuom/(Johnny Vietnam) from 95.174.127.234-114134526 || BYOND v513.1517
+[15:45:31]SAY: ADIBELL/(Magomed Sharipiv) "Лучше чем смартган обоссаный." (Dropship Alamo (92, 154, 3))
+[15:45:45]SAY: Harlex5435/(Nickolas Stone) "С сошками самое то" (Dropship Alamo (93, 149, 3))
+[15:45:50]SAY: ADIBELL/(Magomed Sharipiv) "Да." (Dropship Alamo (92, 154, 3))
+[15:45:58]SAY: ADIBELL/(Magomed Sharipiv) "Но я без сошек, мобильность люблю." (Dropship Alamo (92, 154, 3))
+[15:46:06]SAY: CM.RU/(Jermaine Earl) "АЛАМО ВЫЛЕТАЕТ" (Combat Information Center (100, 252, 3))
+[15:46:11]SAY: ADIBELL/(Magomed Sharipiv) "Слышь, спец, ты у нас кто?" (Dropship Alamo (92, 154, 3))
+[15:46:13]SAY: ADIBELL/(Magomed Sharipiv) "Снайпер?" (Dropship Alamo (92, 154, 3))
+[15:46:16]SAY: ADIBELL/(Magomed Sharipiv) "Или разведка?" (Dropship Alamo (92, 154, 3))
+[15:46:21]SAY: Harlex5435/(Nickolas Stone) "Снайпер" (Dropship Alamo (93, 149, 3))
+[15:46:44]SAY: ADIBELL/(Magomed Sharipiv) "Четко." (Dropship Alamo (92, 154, 3))
+[15:46:50]SAY: ADIBELL/(Magomed Sharipiv) "Так, нас вроде больше было." (Dropship Alamo (92, 154, 3))
+[15:47:03]SAY: ADIBELL/(Magomed Sharipiv) "Еще одна машина где?" (Dropship Alamo (92, 154, 3))
+[15:47:07]SAY: Harlex5435/(Nickolas Stone) "Четверо нас было вроде" (Dropship Alamo (93, 149, 3))
+[15:47:10]SAY: ADIBELL/(Magomed Sharipiv) "Смартганнер." (Dropship Alamo (92, 154, 3))
+[15:47:12]SAY: *no key*/(corgi) "AUUUUUU" (Lambda Lab (170, 163, 1))
+[15:47:12]SAY: ADIBELL/(Magomed Sharipiv) "Я его видел." (Dropship Alamo (92, 154, 3))
+[15:47:20]SAY: Harlex5435/(Nickolas Stone) "А я вот нет" (Dropship Alamo (93, 149, 3))
+[15:47:21]SAY: ADIBELL/(Magomed Sharipiv) "Он какую-то ебень спрашивал." (Dropship Alamo (92, 154, 3))
+[15:47:24]SAY: Harlex5435/(Nickolas Stone) "Может в баре" (Dropship Alamo (93, 149, 3))
+[15:47:28]ADMIN: Jermaine Earl (CM.RU) launched a shuttle from 'Alamo' dropship console
+[15:47:30]SAY: ADIBELL/(Magomed Sharipiv) "Ладно, надеюсь все гладко пройдет." (Dropship Alamo (92, 154, 3))
+[15:47:34]SAY: ADIBELL/(Magomed Sharipiv) "Без лишний приколов." (Dropship Alamo (92, 154, 3))
+[15:47:46]SAY: ADIBELL/(Magomed Sharipiv) "Помолитесь и надейтесь что долго там не задержимся." (Dropship Alamo Transit (70, 33, 4))
+[15:48:09]SAY: ADIBELL/(Magomed Sharipiv) "Далеко от меня не отходите, щяс как прибудем распределим обязанности." (Dropship Alamo Transit (70, 33, 4))
+[15:48:16]SAY: ADIBELL/(Magomed Sharipiv) "Полевой ставить будем?" (Dropship Alamo Transit (70, 33, 4))
+[15:48:33]SAY: Harlex5435/(Nickolas Stone) "Госпиталь?" (Dropship Alamo Transit (71, 28, 4))
+[15:48:37]SAY: ADIBELL/(Magomed Sharipiv) "Штаб." (Dropship Alamo Transit (70, 33, 4))
+[15:48:49]SAY: Harlex5435/(Nickolas Stone) "Без инженера сложно будет" (Dropship Alamo Transit (71, 28, 4))
+[15:48:53]SAY: ADIBELL/(Magomed Sharipiv) "Это да." (Dropship Alamo Transit (70, 33, 4))
+[15:48:54]SAY: Harlex5435/(Nickolas Stone) "Но можно" (Dropship Alamo Transit (71, 28, 4))
+[15:49:21]SAY: ADIBELL/(Magomed Sharipiv) "Слышь парни, ни у кого сижки нету?" (Dropship Alamo Transit (71, 27, 4))
+[15:49:22]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) has used rudimentary transformation on BlackCrystalic/(Blacky 'GG' Crysis). Transforming to larva; deletemob=1
+[15:49:22]ACCESS: Logout: *no key*/(Blacky 'GG' Crysis)
+[15:49:22]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:49:22]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same ID (3990586367) as CM.RU/(Jermaine Earl).
+[15:49:22]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same ID (3990586367) as ZyberCpechnaz/(Aidan Waldron).
+[15:49:27]SAY: BlackCrystalic/(Bloody Larva (774)) "Мямя!" (Lambda Lab (197, 143, 1))
+[15:49:31]SAY: Harlex5435/(Nickolas Stone) "Не курю, извиняй" (Dropship Alamo Transit (71, 28, 4))
+[15:49:33]SAY: Alot/(Queen) "Наконце" (Lambda Lab (197, 143, 1))
+[15:49:36]SAY: BlackCrystalic/(Bloody Larva (774)) "Мя!" (Lambda Lab (197, 143, 1))
+[15:49:36]SAY: Alot/(Queen) "Ура" (Lambda Lab (197, 143, 1))
+[15:49:40]SAY: BlackCrystalic/(Bloody Larva (774)) "РЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯ!" (Lambda Lab (197, 143, 1))
+[15:49:43]SAY: Alot/(Queen) "Ряяя" (Lambda Lab (197, 143, 1))
+[15:49:45]SAY: Alot/(Queen) "Так" (Lambda Lab (197, 143, 1))
+[15:49:48]ACCESS: Logout: Artyuom/(Johnny Vietnam)
+[15:49:52]SAY: ADIBELL/(Magomed Sharipiv) "Далеко не отходим, щяс прикинем че делать." (Space Port (27, 183, 1))
+[15:49:54]ACCESS: Login: Atlasic/(Atlasic) from 91.105.139.66-2065423311 || BYOND v513.1526
+[15:49:57]ACCESS: Logout: Atlasic/(Atlasic)
+[15:50:00]ACCESS: Login: Atlasic/(Atlasic) from 91.105.139.66-2065423311 || BYOND v513.1526
+[15:50:01]SAY: Alot/(Queen) "Можешь быть кем хочешь" (Lambda Lab (197, 143, 1))
+[15:50:10]SAY: ADIBELL/(Magomed Sharipiv) "Четвертый мудак куда делся?" (Space Port (46, 182, 1))
+[15:50:29]SAY: Harlex5435/(Nickolas Stone) "ВСТАВАЙ" (Dropship Alamo (30, 197, 1))
+[15:50:29]SAY: ADIBELL/(Magomed Sharipiv) "Пошли, док." (Dropship Alamo (29, 193, 1))
+[15:50:38]SAY: Harlex5435/(Nickolas Stone) "Уснул" (Dropship Alamo (30, 197, 1))
+[15:50:39]SAY: BlackCrystalic/(Larva (774)) "ИЗ ГРЯЗИ В КНЯЗИ" (Lambda Lab (198, 142, 1))
+[15:50:41]SAY: BlackCrystalic/(Larva (774)) "ПРЯМ СРАЗУ!" (Lambda Lab (198, 142, 1))
+[15:50:44]SAY: BlackCrystalic/(Larva (774)) "СПАСИБО МЯ" (Lambda Lab (198, 142, 1))
+[15:50:51]SAY: ADIBELL/(Magomed Sharipiv) "Возьмите кто." (Space Port (31, 182, 1))
+[15:50:55]SAY: ADIBELL/(Magomed Sharipiv) "Пригодятся." (Space Port (31, 182, 1))
+[15:50:59]SAY: ADIBELL/(Magomed Sharipiv) "Гранатки то." (Space Port (31, 182, 1))
+[15:51:03]SAY: ADIBELL/(Magomed Sharipiv) "Так, нас трое." (Space Port (31, 182, 1))
+[15:51:06]SAY: ADIBELL/(Magomed Sharipiv) "И это хуево." (Space Port (31, 182, 1))
+[15:51:10]ACCESS: Logout: *no key*/(Mature Larva (774))
+[15:51:10]ACCESS: Login: BlackCrystalic/(Defender) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:51:10]ACCESS: Notice: BlackCrystalic/(Defender) has the same ID (3990586367) as CM.RU/(Jermaine Earl).
+[15:51:10]ACCESS: Notice: BlackCrystalic/(Defender) has the same ID (3990586367) as ZyberCpechnaz/(Aidan Waldron).
+[15:51:10]HIVEMIND: Alot/(Queen) "Да, да, да... Дело в том что у меня есть только ты" (Lambda Lab (197, 143, 1))
+[15:51:10]SAY: ADIBELL/(Magomed Sharipiv) "Медик, куда сьебался?" (Space Port (31, 182, 1))
+[15:51:11]SAY: Harlex5435/(Nickolas Stone) "Это да" (Space Port (33, 181, 1))
+[15:51:26]SAY: ADIBELL/(Magomed Sharipiv) "Я щяс свяжусь с командованием и спрошу че конкретно от нас нужно." (Space Port (31, 182, 1))
+[15:51:26]HIVEMIND: BlackCrystalic/(Young Defender (774)) "МЯ, СЛОМАТЬ НАДО БУДЕТ КОГДА Я БУДУ ТИР 3" (Lambda Lab (168, 130, 1))
+[15:51:31]SAY: ADIBELL/(Magomed Sharipiv) "Прием." (Space Port (31, 182, 1))
+[15:51:40]SAY: ADIBELL/(Magomed Sharipiv) "Сэр, какие то конкретные указания будут?" (Space Port (31, 182, 1))
+[15:51:53]ACCESS: Logout: *no key*/(Atlasic)
+[15:51:53]ACCESS: Login: Atlasic/(Bloody Larva (0)) from 91.105.139.66-2065423311 || BYOND v513.1526
+[15:51:53]ADMIN: Atlasic has joined as the Bloody Larva (0).
+[15:51:53]ADMIN: Jermaine Earl (CM.RU) launched a shuttle from 'Alamo' dropship console
+[15:51:54]SAY: ADIBELL/(Magomed Sharipiv) "Документы может какие забрать, еще че." (Space Port (41, 181, 1))
+[15:51:59]ACCESS: Login: Artyuom/(Johnny Vietnam) from 95.174.127.234-114134526 || BYOND v513.1517
+[15:52:02]ACCESS: Logout: Artyuom/(Johnny Vietnam)
+[15:52:06]ACCESS: Login: Artyuom/(Johnny Vietnam) from 95.174.127.234-114134526 || BYOND v513.1517
+[15:52:10]SAY: Alot/(Queen) "Ещё" (Lambda Lab (197, 143, 1))
+[15:52:11]SAY: ADIBELL/(Magomed Sharipiv) "Ахуенно конечно." (Space Port (41, 180, 1))
+[15:52:24]SAY: ADIBELL/(Magomed Sharipiv) "Он, пока меня не было, говорил куда пиздохать?" (Space Port (41, 180, 1))
+[15:52:25]HIVEMIND: Alot/(Queen) "Тоже что и с прошлым" (Lambda Lab (197, 143, 1))
+[15:52:25]SAY: *no key*/(corgi) "Bark!" (Lambda Lab (171, 163, 1))
+[15:52:29]SAY: Harlex5435/(Nickolas Stone) "Нет" (Space Port (42, 181, 1))
+[15:52:31]SAY: ADIBELL/(Magomed Sharipiv) "Командование на связь не выходит ато." (Space Port (41, 180, 1))
+[15:52:38]HIVEMIND: Alot/(Queen) "Не буду тебя ограничивать" (Lambda Lab (197, 143, 1))
+[15:52:45]SAY: ADIBELL/(Magomed Sharipiv) "Ладно, пошлите сделаем разведку по бырому." (Space Port (41, 180, 1))
+[15:52:52]SAY: ADIBELL/(Magomed Sharipiv) "До бара пока что." (Space Port (41, 180, 1))
+[15:52:56]SAY: ADIBELL/(Magomed Sharipiv) "А далее по ситуации." (Space Port (41, 180, 1))
+[15:52:59]SAY: ADIBELL/(Magomed Sharipiv) "БЫСТРЕЕ!" (Space Port (41, 180, 1))
+[15:53:22]SAY: ADIBELL/(Magomed Sharipiv) "СТОЙ!" (Marshall Offices (82, 170, 1))
+[15:53:27]SAY: ADIBELL/(Magomed Sharipiv) "Движение!" (Marshall Offices (87, 170, 1))
+[15:53:37]SAY: ADIBELL/(Magomed Sharipiv) "Пушку возьмите лучше." (Marshall Offices (90, 170, 1))
+[15:53:42]HIVEMIND: Alot/(Queen) "Хотя, я бы была рада дрону, который мог бы распространять яйца и цеплять моих детей на морды лысых" (Lambda Lab (197, 143, 1))
+[15:53:48]SAY: Sewa/(Kelvin Focell) "М прикольно" (Northern Colony Grounds (92, 162, 1))
+[15:53:50]SAY: ADIBELL/(Magomed Sharipiv) "Че за ебень?" (Northern Colony Grounds (90, 163, 1))
+[15:53:52]SAY: ADIBELL/(Magomed Sharipiv) "Док." (Northern Colony Grounds (90, 163, 1))
+[15:53:52]ACCESS: Logout: *no key*/(Mature Larva (341))
+[15:53:52]ACCESS: Login: Atlasic/(Drone) from 91.105.139.66-2065423311 || BYOND v513.1526
+[15:54:02]SAY: Sewa/(Kelvin Focell) "Не видел такого ещё" (Northern Colony Grounds (92, 162, 1))
+[15:54:14]EMOTE: ADIBELL/(Magomed Sharipiv) <B>SSGT Magomed Sharipiv</B> ногой водит по чьим - то внутренностям. (Northern Colony Grounds (90, 163, 1))
+[15:54:15]SAY: Sewa/(Kelvin Focell) "Ну это не человек точно" (Northern Colony Grounds (92, 162, 1))
+[15:54:19]SAY: ADIBELL/(Magomed Sharipiv) "Пиздец." (Northern Colony Grounds (90, 163, 1))
+[15:54:23]SAY: ADIBELL/(Magomed Sharipiv) "Ну и мерзость, ебать ее." (Northern Colony Grounds (90, 163, 1))
+[15:54:27]HIVEMIND: Alot/(Queen) "Ты видел их?" (Lambda Lab (197, 143, 1))
+[15:54:32]HIVEMIND: Alot/(Queen) "Вижу" (Lambda Lab (197, 143, 1))
+[15:54:33]SAY: ADIBELL/(Magomed Sharipiv) "ДВИЖЕНИЕ!" (Northern Colony Grounds (90, 163, 1))
+[15:54:35]SAY: ADIBELL/(Magomed Sharipiv) "СЗАДИ НАС" (Northern Colony Grounds (90, 163, 1))
+[15:54:37]HIVEMIND: Alot/(Queen) "Стой" (Lambda Lab (197, 143, 1))
+[15:54:37]EMOTE: BlackCrystalic/(Young Defender (774)) <B>The Young Defender (774)</B> roars! (Northern Colony Grounds (91, 161, 1))
+[15:54:40]HIVEMIND: Alot/(Queen) "Беги" (Lambda Lab (197, 143, 1))
+[15:55:06]SAY: ADIBELL/(Magomed Sharipiv) "ЧЕ ЗА НАХУЙ?" (Marshall Offices (91, 166, 1))
+[15:55:12]OOC: (LOCAL) Magomed Sharipiv/ADIBELL : у мя одного лагает?
+[15:55:21]SAY: ADIBELL/(Magomed Sharipiv) "ПИЗДЕЦ! ВЫ ВИДЕЛИ?" (Marshall Offices (92, 169, 1))
+[15:55:23]SAY: ADIBELL/(Magomed Sharipiv) "ЕБАТЬ" (Marshall Offices (92, 169, 1))
+[15:55:30]SAY: ADIBELL/(Magomed Sharipiv) "Я ТАКОГО В ЖИЗНИ НЕ ВИДАЛ ЕЩЕ НАХУЙ." (Marshall Offices (92, 169, 1))
+[15:55:30]OOC: (LOCAL) Nickolas Stone/Harlex5435 : Немного подлагивает
+[15:55:35]SAY: Harlex5435/(Nickolas Stone) "Я сам ахуел" (Marshall Offices (91, 170, 1))
+[15:55:36]SAY: Sewa/(Kelvin Focell) "Возможно это та хуйня была" (Marshall Offices (90, 168, 1))
+[15:55:37]EMOTE: Sewa/(Kelvin Focell) <B>CPL Kelvin Focell</B> screams! (Marshall Offices (90, 168, 1))
+[15:55:40]EMOTE: BlackCrystalic/(Young Defender (774)) <B>The Young Defender (774)</B> hisses. (Marshall Offices (91, 166, 1))
+[15:55:41]EMOTE: Sewa/(Kelvin Focell) <B>CPL Kelvin Focell</B> screams! (Marshall Offices (90, 168, 1))
+[15:55:45]EMOTE: Harlex5435/(Nickolas Stone) <B>SGT Nickolas Stone</B> screams! (Marshall Offices (90, 170, 1))
+[15:55:45]EMOTE: Sewa/(Kelvin Focell) <B>CPL Kelvin Focell</B> screams! (Marshall Offices (88, 169, 1))
+[15:55:45]EMOTE: Sewa/(Kelvin Focell) <B>CPL Kelvin Focell</B> screams! (Marshall Offices (88, 169, 1))
+[15:55:51]SAY: ADIBELL/(Magomed Sharipiv) "АЙ БЛЯ!" (Marshall Offices (90, 169, 1))
+[15:55:55]SAY: ADIBELL/(Magomed Sharipiv) "ДВИЖЕНИЕ ТАМ!" (Marshall Offices (91, 169, 1))
+[15:55:57]HIVEMIND: Alot/(Queen) "Не рискуй" (Lambda Lab (197, 143, 1))
+[15:56:38]OOC: (LOCAL) Magomed Sharipiv/ADIBELL : пиздец у мя виснет
+[15:56:46]OOC: (LOCAL) Magomed Sharipiv/ADIBELL : конкретно
+[15:56:58]SAY: ADIBELL/(Magomed Sharipiv) "ПРИЕМ! ПРИЕМ!" (Marshall Offices (92, 169, 1))
+[15:57:04]SAY: ADIBELL/(Magomed Sharipiv) "КОНТАКТ С ПРОТИВНИКОМ!" (Marshall Offices (92, 169, 1))
+[15:57:07]HIVEMIND: Alot/(Queen) "Дрон. Возьми яйцо и иди на запад. Помоги своей сестре" (Lambda Lab (197, 143, 1))
+[15:57:21]EMOTE: Harlex5435/(Nickolas Stone) <B>SGT Nickolas Stone</B> screams! (Marshall Offices (91, 168, 1))
+[15:57:21]EMOTE: Harlex5435/(Nickolas Stone) <B>SGT Nickolas Stone</B> screams! (Marshall Offices (91, 168, 1))
+[15:57:23]EMOTE: Sewa/(Kelvin Focell) <B>CPL Kelvin Focell</B> screams! (Marshall Offices (92, 171, 1))
+[15:57:26]EMOTE: Sewa/(Kelvin Focell) <B>CPL Kelvin Focell</B> screams! (Marshall Offices (92, 171, 1))
+[15:57:27]GAME: Emitter deleted at (197,148,1)
+[15:57:27]EMOTE: Harlex5435/(Nickolas Stone) <B>SGT Nickolas Stone</B> screams! (Marshall Offices (88, 169, 1))
+[15:57:41]SAY: Harlex5435/(Nickolas Stone) "Р-Р-Бля" (Marshall Offices (89, 170, 1))
+[15:57:47]SAY: Harlex5435/(Nickolas Stone) "Р-Р-Помираю" (Marshall Offices (89, 170, 1))
+[15:57:50]GAME: Explosion with size (-1, -1, 2) in area Marshall Offices 
+[15:58:00]SAY: Harlex5435/(Nickolas Stone) "Р-Р-МЕДИК" (Marshall Offices (89, 170, 1))
+[15:58:06]HIVEMIND: Alot/(Queen) "Дрон!" (Lambda Lab (197, 143, 1))
+[15:58:12]OOC: (LOCAL) Magomed Sharipiv/ADIBELL : хавххахах сука а че лагает то так
+[15:58:14]HIVEMIND: Atlasic/(Young Drone (341)) "Что?" (Lambda Lab (202, 141, 1))
+[15:58:20]HIVEMIND: Alot/(Queen) "Бери яйцо и быстро на помощь сестре" (Lambda Lab (197, 143, 1))
+[15:58:31]HIVEMIND: Atlasic/(Young Drone (341)) "Да!" (Lambda Lab (209, 136, 1))
+[15:58:34]SAY: Harlex5435/(Nickolas Stone) "Р-СУКА" (Northern Colony Grounds (91, 161, 1))
+[15:58:40]SAY: Harlex5435/(Nickolas Stone) "Р-Нет" (Northern Colony Grounds (93, 155, 1))
+[15:58:51]EMOTE: ADIBELL/(Magomed Sharipiv) <B>SSGT Magomed Sharipiv</B> is having trouble keeping their eyes open. (Central Colony Grounds (98, 141, 1))
+[15:58:55]SAY: Harlex5435/(Nickolas Stone) "Р-Р-УРОД" (Central Colony Grounds (102, 141, 1))
+[15:59:06]EMOTE: ADIBELL/(Magomed Sharipiv) <B>SSGT Magomed Sharipiv</B> screams! (Central Colony Grounds (111, 133, 1))
+[15:59:12]SAY: Harlex5435/(Nickolas Stone) "Р-Как же Р-Р-больно" (Central Colony Grounds (112, 130, 1))
+[15:59:17]EMOTE: BlackCrystalic/(Young Defender (774)) <B>The Young Defender (774)</B> roars! (Central Colony Grounds (113, 130, 1))
+[15:59:19]DEBUG: Next event in 34.8352 minutes.
+[15:59:19]HIVEMIND: Alot/(Queen) "Она уже близко" (Lambda Lab (197, 143, 1))
+[15:59:22]SAY: Harlex5435/(Nickolas Stone) "Р-Р-Бляяя" (Central Colony Grounds (120, 130, 1))
+[15:59:26]SAY: Harlex5435/(Nickolas Stone) "Р-Помираю" (Central Colony Grounds (127, 130, 1))
+[15:59:35]SAY: Harlex5435/(Nickolas Stone) "Р-Прием" (Eastern Colony Grounds (143, 130, 1))
+[15:59:43]SAY: Harlex5435/(Nickolas Stone) "Р-Мне Р-пиздец" (Eastern Colony Grounds (149, 124, 1))
+[15:59:46]SAY: Sewa/(Kelvin Focell) "Р-ПРИЁМ Р-БЛЯТЬ&#34;" (Marshall Offices (88, 170, 1))
+[15:59:55]SAY: Artyuom/(Johnny Vietnam) ",kz xt nfv c dfvb," (Dropship Alamo (89, 152, 3))
+[15:59:56]SAY: ADIBELL/(Magomed Sharipiv) "Р-Р-ЭВАКУИРИУЙТЕ Р-МЕДИКА!" (Southeast Colony Grounds (158, 113, 1))
+[16:00:00]SAY: ADIBELL/(Magomed Sharipiv) "Р-НАС Р-ВЫЕБАЛИ!" (Southeast Colony Grounds (163, 112, 1))
+[16:00:02]SAY: Sewa/(Kelvin Focell) "Я С-уже не встану Р-короче" (Marshall Offices (88, 170, 1))
+[16:00:02]SAY: Harlex5435/(Nickolas Stone) "Р-Р-Этих С-тварей как минимум Р-двое" (Southeast Colony Grounds (166, 112, 1))
+[16:00:05]SAY: Chaburek/(Haidee Baxter) "Кстати, чего не летим?" (Dropship Alamo (93, 149, 3))
+[16:00:05]SAY: Artyuom/(Johnny Vietnam) "Бля чё там с вами" (Dropship Alamo (89, 152, 3))
+[16:00:10]SAY: ADIBELL/(Magomed Sharipiv) "Р-Р-ТУТ Р-ПИЗДЕЦ!" (Unknown Area (175, 107, 1))
+[16:00:16]SAY: Harlex5435/(Nickolas Stone) "Меня С-С-утащили" (Unknown Area (177, 114, 1))
+[16:00:16]SAY: ADIBELL/(Magomed Sharipiv) "Р-Р-КОМАНДОВАНИЮ Р-Р-СКАЖИТЕ" (Unknown Area (177, 115, 1))
+[16:00:25]SAY: Chaburek/(Haidee Baxter) "Капитан, когда мы уже будем лететь?" (Dropship Alamo (93, 149, 3))
+[16:00:28]SAY: Harlex5435/(Nickolas Stone) "Р-Р-Я Р-без Р-ноги" (Unknown Area (179, 123, 1))
+[16:00:32]SAY: CM.RU/(Jermaine Earl) "Я вижу" (Combat Information Center (100, 252, 3))
+[16:00:34]HIVEMIND: Alot/(Elder Queen) "Я так вами горжусь. Особенно защитником" (Lambda Lab (197, 143, 1))
+[16:00:36]SAY: ADIBELL/(Magomed Sharipiv) "ПУСТЬ Р-ЕБАШЯТ ПО КООРДИНАТАМ Р-НАШЕГО МЕСТОНАХОЖДЕНИЯ" (Unknown Area (180, 123, 1))
+[16:00:39]SAY: ADIBELL/(Magomed Sharipiv) "Р-Р-АРТОГНЕМ" (Unknown Area (180, 123, 1))
+[16:00:51]SAY: ADIBELL/(Magomed Sharipiv) "ХУЛИ ВЫ НЕ СООБЩАЛИ Р-О ПОДОБНОМ ПИЗДЕЦЕ?" (Unknown Area (180, 123, 1))
+[16:00:55]SAY: CM.RU/(Jermaine Earl) "Удар через 30 секунд!" (Combat Information Center (98, 254, 3))
+[16:00:57]SAY: Sewa/(Kelvin Focell) "Хуйня Р-двух метровая перебила нас" (Marshall Offices (88, 170, 1))
+[16:00:59]SAY: Artyuom/(Johnny Vietnam) "Rjvfylth ,kznm yfibv yf gkfytnt gbplf" (Hangar (98, 152, 3))
+[16:01:03]SAY: Chaburek/(Haidee Baxter) "Отряд уже разбит?" (Dropship Alamo (93, 149, 3))
+[16:01:12]SAY: Artyuom/(Johnny Vietnam) "Командер нашим на планете пизда" (Hangar (98, 152, 3))
+[16:01:13]EMOTE: ADIBELL/(Magomed Sharipiv) <B>SSGT Magomed Sharipiv</B> screams! (Lambda Lab (180, 135, 1))
+[16:01:23]SAY: Artyuom/(Johnny Vietnam) "Приём" (Medical Lower (107, 151, 3))
+[16:01:28]SAY: Artyuom/(Johnny Vietnam) "Ghb`v" (Medical Lower (107, 151, 3))
+[16:01:30]EMOTE: ADIBELL/(Magomed Sharipiv) <B>SSGT Magomed Sharipiv</B> gasps! (Lambda Lab (187, 147, 1))
+[16:01:34]SAY: Artyuom/(Johnny Vietnam) ",kz cdzpb ytn" (Medical Lower (105, 151, 3))
+[16:01:38]SAY: Artyuom/(Johnny Vietnam) "Да бля" (Medical Lower (105, 153, 3))
+[16:01:39]SAY: Chaburek/(Haidee Baxter) "Простите?" (Medical Lower (102, 151, 3))
+[16:01:42]SAY: Artyuom/(Johnny Vietnam) "Связи нет кароче" (Medical Lower (105, 153, 3))
+[16:01:45]ACCESS: Logout: *no key*/(Mature Defender (774))
+[16:01:45]ACCESS: Login: BlackCrystalic/(Warrior) from 80.240.253.147-3990586367 || BYOND v513.1513
+[16:01:45]ACCESS: Notice: BlackCrystalic/(Warrior) has the same ID (3990586367) as CM.RU/(Jermaine Earl).
+[16:01:45]ACCESS: Notice: BlackCrystalic/(Warrior) has the same ID (3990586367) as ZyberCpechnaz/(Aidan Waldron).
+[16:01:45]SAY: Chaburek/(Haidee Baxter) "Да." (Medical Lower (102, 151, 3))
+[16:01:57]ACCESS: Logout: *no key*/(Magomed Sharipiv)
+[16:01:57]ACCESS: Login: ADIBELL/(Magomed Sharipiv) from 109.187.207.243-2216789942 || BYOND v513.1526
+[16:02:10]SAY: CM.RU/(Jermaine Earl) "Там пиздец, все трупы" (Astronavigational Deck (42, 150, 3))
+[16:02:39]SAY: Chaburek/(Haidee Baxter) "Блин, только недавно все было хорошо." (Medical Lower (110, 156, 3))
+[16:02:41]SAY: Harlex5435/(Nickolas Stone) "Р-Бляяя" (Lambda Lab (180, 146, 1))
+[16:02:46]SAY: Artyuom/(Johnny Vietnam) "Им пизда" (Medical Lower (110, 155, 3))
+[16:02:48]SAY: Harlex5435/(Nickolas Stone) "Р-Лидер" (Lambda Lab (180, 146, 1))
+[16:02:57]SAY: Harlex5435/(Nickolas Stone) "Р-Ты С-слышишь?" (Lambda Lab (180, 146, 1))
+[16:03:01]SAY: Chaburek/(Haidee Baxter) "А кто там?" (Medical Lower (110, 156, 3))
+[16:03:05]SAY: Chaburek/(Haidee Baxter) "Ну, противник." (Medical Lower (110, 156, 3))
+[16:03:06]SAY: Artyuom/(Johnny Vietnam) "Наши" (Medical Lower (110, 158, 3))
+[16:03:10]SAY: Artyuom/(Johnny Vietnam) "Хз" (Medical Lower (110, 158, 3))
+[16:03:15]SAY: Harlex5435/(Nickolas Stone) "Р-Р-Коммандер, тут Р-Р-пиздец" (Lambda Lab (180, 146, 1))
+[16:03:20]SAY: Harlex5435/(Nickolas Stone) "Р-Блять" (Lambda Lab (180, 146, 1))
+[16:03:20]SAY: Artyuom/(Johnny Vietnam) "Твари какието" (Medical Lower (110, 158, 3))
+[16:03:24]SAY: Harlex5435/(Nickolas Stone) "И связи Р-нет" (Lambda Lab (180, 146, 1))
+[16:03:26]SAY: Chaburek/(Haidee Baxter) "Куда теперь идти?" (Medical Lower (110, 156, 3))
+[16:03:33]SAY: Artyuom/(Johnny Vietnam) "Хз" (Medical Lower (110, 155, 3))
+[16:03:38]SAY: Chaburek/(Haidee Baxter) "Хоть бы капитан сказал бы." (Medical Lower (110, 156, 3))
+[16:03:43]SAY: Chaburek/(Haidee Baxter) "У него же есть оповещения." (Medical Lower (110, 156, 3))
+[16:03:54]SAY: Artyuom/(Johnny Vietnam) "Командер!" (Medical Lower (113, 145, 3))
+[16:04:04]SAY: Chaburek/(Haidee Baxter) "Он коммодор, кстати." (Medical Lower (112, 145, 3))
+[16:04:04]ADMIN: BlackCrystalic/(Young Warrior (774)) jumped to 180,151,1 in Lambda Lab
+[16:04:05]SAY: Artyuom/(Johnny Vietnam) "Нашим на планете6 пизда" (Medical Lower (113, 145, 3))
+[16:04:10]SAY: Harlex5435/(Nickolas Stone) "Р-Бляя" (Lambda Lab (180, 146, 1))
+[16:04:13]SAY: Sewa/(Kelvin Focell) "ПРИВЕТ Р-Р-МЫ Р-ТУТ Р-Р-ПОДЫХАЕМ" (Marshall Offices (88, 170, 1))
+[16:04:14]SAY: Artyuom/(Johnny Vietnam) "Да комодор точно" (Medical Lower (113, 145, 3))
+[16:04:18]SAY: CM.RU/(Jermaine Earl) "ВЫСТРЕЛ" (Combat Information Center (94, 256, 3))
+[16:04:18]SAY: Harlex5435/(Nickolas Stone) "Не хочу С-умирать С-С-так" (Lambda Lab (180, 146, 1))
+[16:04:20]GAME: Explosion with size (1, 3, 5) in area Lambda Lab 
+[16:04:20]EMOTE: Harlex5435/(Nickolas Stone) <B>SGT Nickolas Stone</B> screams! (Lambda Lab (180, 146, 1))
+[16:04:20]GAME: Explosion with size (1, 3, 5) in area Lambda Lab 
+[16:04:23]SAY: Artyuom/(Johnny Vietnam) "Ебать" (Medical Lower (113, 145, 3))
+[16:04:29]ACCESS: Logout: *no key*/(Nickolas Stone)
+[16:04:29]ACCESS: Login: Harlex5435/(Nickolas Stone) from 178.161.223.5-4085160650 || BYOND v513.1526
+[16:04:33]SAY: Artyuom/(Johnny Vietnam) "Он из пушки ёбнул" (Medical Lower (113, 145, 3))
+[16:04:36]SAY: ADIBELL/(Magomed Sharipiv) (ghost) "рип" (Lambda Lab (180, 148, 1))
+[16:04:38]SAY: Artyuom/(Johnny Vietnam) "По планете" (Medical Lower (113, 145, 3))
+[16:04:40]SAY: Chaburek/(Haidee Baxter) "Да..." (Medical Lower (112, 145, 3))
+[16:04:40]HIVEMIND: Alot/(Elder Queen) "Хоть один из них жив?" (Lambda Lab (197, 143, 1))
+[16:04:40]SAY: BlackCrystalic/(Young Warrior (774)) "Блять" (Lambda Lab (180, 150, 1))
+[16:04:41]SAY: Harlex5435/(Nickolas Stone) (ghost) "Ага" (Lambda Lab (180, 145, 1))
+[16:04:46]HIVEMIND: BlackCrystalic/(Young Warrior (774)) "Оба" (Lambda Lab (180, 150, 1))
+[16:04:49]SAY: Chaburek/(Haidee Baxter) "И наших теперь точно убило." (Medical Lower (112, 145, 3))
+[16:04:49]HIVEMIND: Atlasic/(Mature Drone (341)) "Оба" (Lambda Lab (179, 146, 1))
+[16:04:49]HIVEMIND: BlackCrystalic/(Young Warrior (774)) "МЕртвы" (Lambda Lab (180, 150, 1))
+[16:04:51]SAY: ADIBELL/(Magomed Sharipiv) (ghost) "бля хули лагает так" (Lambda Lab (197, 143, 1))
+[16:04:55]SAY: Artyuom/(Johnny Vietnam) "Щя проверем" (Medical Lower (110, 144, 3))
+[16:04:55]HIVEMIND: Atlasic/(Mature Drone (341)) "Живы" (Lambda Lab (179, 146, 1))
+[16:04:59]SAY: Harlex5435/(Nickolas Stone) (ghost) "Да" (Lambda Lab (180, 145, 1))
+[16:05:01]SAY: ADIBELL/(Magomed Sharipiv) (ghost) "даже на СМ оригинальном не лагает как тут" (Lambda Lab (197, 143, 1))
+[16:05:03]ADMIN: BlackCrystalic/(Young Warrior (774)) powered all SMESs and APCs
+[16:05:04]SAY: Artyuom/(Johnny Vietnam) "1 жив" (Medical Lower (110, 156, 3))
+[16:05:07]HIVEMIND: Alot/(Elder Queen) "Там был третий. Он умер" (Lambda Lab (197, 143, 1))
+[16:05:08]SAY: Harlex5435/(Nickolas Stone) (ghost) "Бесит немного" (Lambda Lab (180, 145, 1))
+[16:05:09]SAY: Artyuom/(Johnny Vietnam) "Но не надолго" (Medical Lower (110, 156, 3))
+[16:05:09]SAY: CM.RU/(Jermaine Earl) "БЛЯТЬ" (Combat Information Center (94, 256, 3))
+[16:05:09]SAY: Chaburek/(Haidee Baxter) "Не задело?" (Medical Lower (110, 155, 3))
+[16:05:13]ADMIN: BlackCrystalic/(Young Warrior (774)) used secret power
+[16:05:13]HIVEMIND: Alot/(Elder Queen) "Воин?" (Lambda Lab (197, 143, 1))
+[16:05:14]SAY: CM.RU/(Jermaine Earl) "Я их убил" (Combat Information Center (94, 255, 3))
+[16:05:18]SAY: Chaburek/(Haidee Baxter) "Или это огонь?" (Medical Lower (110, 155, 3))
+[16:05:18]SAY: CM.RU/(Jermaine Earl) "Бляьтбь" (Combat Information Center (94, 255, 3))
+[16:05:19]SAY: ADIBELL/(Magomed Sharipiv) (ghost) "ксеносы лохи походу" (Lambda Lab (197, 143, 1))
+[16:05:19]SAY: Artyuom/(Johnny Vietnam) "2 умерло 1 жив" (Medical Lower (110, 156, 3))
+[16:05:22]SAY: ADIBELL/(Magomed Sharipiv) (ghost) "пушта" (Lambda Lab (197, 143, 1))
+[16:05:24]SAY: ADIBELL/(Magomed Sharipiv) (ghost) "мы умерли" (Lambda Lab (197, 143, 1))
+[16:05:25]SAY: CM.RU/(Jermaine Earl) "Шатл - вылет через 30 сек!" (Combat Information Center (94, 255, 3))
+[16:05:30]SAY: Chaburek/(Haidee Baxter) "Хм..." (Medical Lower (110, 155, 3))
+[16:05:35]SAY: Chaburek/(Haidee Baxter) "Не сильные повреждения." (Medical Lower (110, 155, 3))
+[16:05:38]SAY: Artyuom/(Johnny Vietnam) "Приём комодор это пиздец" (Medical Lower (110, 156, 3))
+[16:05:39]ACCESS: Login: Sladk0ewka/(Evan Tomato) from 77.222.104.59-2354459441 || BYOND v513.1524
+[16:05:40]SAY: Harlex5435/(Nickolas Stone) (ghost) "Я жил" (Lambda Lab (178, 136, 1))
+[16:05:43]ACCESS: Logout: Sladk0ewka/(Evan Tomato)
+[16:05:43]SAY: CM.RU/(Jermaine Earl) "ВЫЛЕТ" (Combat Information Center (100, 254, 3))
+[16:05:46]SAY: Harlex5435/(Nickolas Stone) (ghost) "Пока ОБ не ебнуло" (Lambda Lab (178, 136, 1))
+[16:05:49]ACCESS: Login: Sladk0ewka/(Evan Tomato) from 77.222.104.59-2354459441 || BYOND v513.1524
+[16:05:50]SAY: CM.RU/(Jermaine Earl) "Понимабю" (Combat Information Center (100, 254, 3))
+[16:05:57]SAY: Chaburek/(Haidee Baxter) "Так вы их убили? Что теперь делать?" (Medical Lower (106, 152, 3))
+[16:05:58]SAY: ADIBELL/(Magomed Sharipiv) (ghost) "бля а ты танком пробовал" (Combat Information Center (100, 253, 3))
+[16:06:01]SAY: ADIBELL/(Magomed Sharipiv) (ghost) "ебашить?" (Combat Information Center (100, 253, 3))
+[16:06:04]HIVEMIND: Alot/(Elder Queen) "Дрон. Раскидай ещё яица по улью. Что бы всегда был доступ" (Lambda Lab (197, 143, 1))
+[16:06:06]SAY: Sewa/(Kelvin Focell) "Приём Р-КОМАНДЕР Я Р-НЕ ХОЧУ Р-ПОДЫХАТЬ" (Marshall Offices (88, 170, 1))
+[16:06:13]SAY: ADIBELL/(Magomed Sharipiv) (ghost) "я на циве пиздато танком управляю" (Combat Information Center (100, 253, 3))
+[16:06:17]SAY: ADIBELL/(Magomed Sharipiv) (ghost) "хочу тут попробывать" (Combat Information Center (100, 253, 3))
+[16:06:20]SAY: Harlex5435/(Nickolas Stone) (ghost) "Танк хня как по мне" (Lambda Lab (178, 147, 1))
+[16:06:21]ADMIN: Jermaine Earl (CM.RU) launched a shuttle from 'Alamo' dropship console
+[16:06:21]HIVEMIND: Atlasic/(Mature Drone (341)) "Да" (Lambda Lab (186, 148, 1))
+[16:06:22]SAY: Artyuom/(Johnny Vietnam) ",kz yflj dscf;bdfncz" (Medical Lower (110, 155, 3))
+[16:06:22]SAY: ADIBELL/(Magomed Sharipiv) (ghost) "но там еще экипаж нужен" (Combat Information Center (100, 252, 3))
+[16:06:25]SAY: ADIBELL/(Magomed Sharipiv) (ghost) "почему?" (Combat Information Center (100, 252, 3))
+[16:06:32]SAY: Chaburek/(Haidee Baxter) "Шатл." (Medical Lower (109, 154, 3))
+[16:06:32]SAY: Artyuom/(Johnny Vietnam) "Бля надо высаживатся" (Medical Cryogenics Tubes (104, 155, 3))
+[16:06:37]SAY: Harlex5435/(Nickolas Stone) (ghost) "Если бы не кристаллик, то я бы показал баг с сошками" (Lambda Lab (178, 147, 1))
+[16:06:43]SAY: Chaburek/(Haidee Baxter) "Неуспели." (Hangar (98, 151, 3))
+[16:06:44]HIVEMIND: Alot/(Elder Queen) "Что привило к взрыву?" (Lambda Lab (197, 143, 1))
+[16:06:49]SAY: Artyuom/(Johnny Vietnam) "Кто аламо вызвал?" (Hangar (96, 152, 3))
+[16:06:55]GAME: <a href='?priv_msg=[0x5000008]'>Sewa</a>/(Kelvin Focell) has ghosted.
+[16:06:55]ACCESS: Logout: *no key*/(Kelvin Focell)
+[16:06:55]ACCESS: Login: Sewa/(Kelvin Focell) from 188.18.245.72-1345515308 || BYOND v513.1525
+[16:06:57]SAY: Harlex5435/(Nickolas Stone) (ghost) "Любое оружие в миниган делает" (Lambda Lab (178, 147, 1))
+[16:06:57]SAY: ADIBELL/(Magomed Sharipiv) (ghost) "а в чем он заключается?)" (Combat Information Center (100, 252, 3))
+[16:07:00]SAY: Artyuom/(Johnny Vietnam) "Комодор это вы?" (Hangar (96, 152, 3))
+[16:07:01]SAY: CM.RU/(Jermaine Earl) "Блять" (Combat Information Center (100, 252, 3))
+[16:07:03]SAY: ADIBELL/(Magomed Sharipiv) (ghost) "ебать че реал" (Combat Information Center (100, 253, 3))
+[16:07:11]HIVEMIND: Atlasic/(Mature Drone (341)) "Не знаю" (Lambda Lab (204, 140, 1))
+[16:07:16]SAY: CM.RU/(Jermaine Earl) "Главный канал упал, нас дудосят, чёртовы выжившие" (Combat Information Center (100, 253, 3))
+[16:07:17]SAY: ADIBELL/(Magomed Sharipiv) (ghost) "ты тут давно играешь?" (Combat Information Center (100, 253, 3))
+[16:07:18]SAY: Harlex5435/(Nickolas Stone) (ghost) "Типо не ограничения по скорости стрельбы" (Lambda Lab (178, 147, 1))
+[16:07:23]SAY: CM.RU/(Jermaine Earl) "Рации не работают" (Combat Information Center (100, 253, 3))
+[16:07:28]SAY: CM.RU/(Jermaine Earl) "Основной канал" (Combat Information Center (100, 253, 3))
+[16:07:34]SAY: CM.RU/(Jermaine Earl) "Значит так" (Combat Information Center (100, 253, 3))
+[16:07:35]SAY: Harlex5435/(Nickolas Stone) (ghost) "Я тут с марта не играл вроде" (Lambda Lab (178, 147, 1))
+[16:07:36]SAY: Artyuom/(Johnny Vietnam) "Комодор вы спустили аламо?" (Hangar (98, 152, 3))
+[16:07:41]SAY: ADIBELL/(Magomed Sharipiv) (ghost) "командор ебака или мне кажется?" (Combat Information Center (103, 248, 3))
+[16:07:42]SAY: CM.RU/(Jermaine Earl) "Да" (Combat Information Center (100, 253, 3))
+[16:07:42]HIVEMIND: Atlasic/(Mature Drone (341)) "Вроде что то с неба прилетела" (Lambda Lab (204, 140, 1))
+[16:07:49]SAY: CM.RU/(Jermaine Earl) "Вроде" (Combat Information Center (100, 253, 3))
+[16:07:52]SAY: CM.RU/(Jermaine Earl) "Да" (Combat Information Center (100, 253, 3))
+[16:07:52]SAY: ADIBELL/(Magomed Sharipiv) (ghost) "потому что его щяс выебут ксеносы" (Combat Information Center (97, 244, 3))
+[16:07:56]SAY: ADIBELL/(Magomed Sharipiv) (ghost) "и он спустил АЛАМО)" (Combat Information Center (97, 244, 3))
+[16:08:02]SAY: ADIBELL/(Magomed Sharipiv) (ghost) "туда где выживших нет" (Combat Information Center (94, 244, 3))
+[16:08:04]SAY: Harlex5435/(Nickolas Stone) (ghost) "Ну умный хуле" (Combat Information Center (100, 254, 3))
+[16:08:04]SAY: Artyuom/(Johnny Vietnam) "Бля аламо пустое улетело без нас" (Hangar (98, 152, 3))
+[16:08:30]SAY: Artyuom/(Johnny Vietnam) "1 ещё жив" (Medical Lower (110, 156, 3))
+[16:08:52]SAY: Chaburek/(Haidee Baxter) "Удивительно, что еще жив." (Medical Lower (110, 155, 3))
+[16:08:52]ADMIN: BlackCrystalic/(Young Warrior (774)) has created a Queen Mother report: Пора отомстить им за твоих 2 детей!
+[16:08:56]SAY: Artyuom/(Johnny Vietnam) "Ага" (Medical Lower (110, 156, 3))
+[16:08:59]HIVEMIND: Alot/(Elder Queen) "Воин, иди на разведку. И следи за светом. На стенах появился свет" (Lambda Lab (197, 143, 1))
+[16:09:02]HIVEMIND: BlackCrystalic/(Young Warrior (774)) "Королева?" (Lambda Lab (184, 148, 1))
+[16:09:06]SAY: Chaburek/(Haidee Baxter) "О." (Medical Lower (110, 155, 3))
+[16:09:09]SAY: Artyuom/(Johnny Vietnam) "Чё" (Medical Lower (110, 156, 3))
+[16:09:14]SAY: Chaburek/(Haidee Baxter) "У нас новое пополнение." (Medical Lower (110, 155, 3))
+[16:09:17]SAY: Chaburek/(Haidee Baxter) "Пулеметчик." (Medical Lower (110, 155, 3))
+[16:09:28]ADMIN: HELP: Alot/(Elder Queen): Те кто погибли, не будут играть за чужих? - heard by 2 non-AFK admins.
+[16:09:34]ACCESS: Logout: *no key*/(Magomed Sharipiv)
+[16:09:34]ACCESS: Login: ADIBELL/(Bloody Larva (0)) from 109.187.207.243-2216789942 || BYOND v513.1526
+[16:09:34]ADMIN: ADIBELL has joined as the Bloody Larva (0).
+[16:09:39]HIVEMIND: BlackCrystalic/(Young Warrior (774)) "Королева, можешь пойти, я почти готов к 3 тиру" (Lambda Lab (186, 140, 1))
+[16:09:49]SAY: ADIBELL/(Bloody Larva (278)) "Приветствую моя королева!" (Lambda Lab (198, 143, 1))
+[16:09:49]ADMIN: PM: BlackCrystalic/(Young Warrior (774))->Alot/(Elder Queen): могут
+[16:09:59]SAY: ADIBELL/(Bloody Larva (278)) "Кем мне лучше стать?" (Lambda Lab (198, 143, 1))
+[16:10:07]SAY: CM.RU/(Jermaine Earl) "Скоро подниму" (Combat Information Center (100, 252, 3))
+[16:10:35]HIVEMIND: Alot/(Elder Queen) "Кем хочешь" (Lambda Lab (197, 143, 1))
+[16:10:46]GAME: ADIBELL/(Larva (278)) Started ventcrawling (Lambda Lab (198, 140, 1))
+[16:10:56]HIVEMIND: Atlasic/(Mature Drone (341)) "Королева а мне можно будет эволюционировать в хаверлорда?" (Lambda Lab (184, 148, 1))
+[16:11:03]HIVEMIND: Alot/(Elder Queen) "Да" (Lambda Lab (197, 143, 1))
+[16:11:22]ADMIN: Jermaine Earl (CM.RU) launched a shuttle from 'Alamo' dropship console
+[16:11:25]SAY: Chaburek/(Haidee Baxter) "Это у вас сигареты на каске закреплены?" (Medical Lower (104, 150, 3))
+[16:11:27]HIVEMIND: Alot/(Elder Queen) "Воин. Тебе ещё долго?" (Lambda Lab (197, 143, 1))
+[16:11:29]ACCESS: Logout: *no key*/(Mature Drone (341))
+[16:11:29]ACCESS: Login: Atlasic/(Hivelord) from 91.105.139.66-2065423311 || BYOND v513.1526
+[16:11:32]ACCESS: Logout: *no key*/(Mature Larva (278))
+[16:11:32]ACCESS: Login: ADIBELL/(Runner) from 109.187.207.243-2216789942 || BYOND v513.1526
+[16:11:33]SAY: CM.RU/(Jermaine Earl) "Я запустил аламо .скоро прилетит" (Combat Information Center (100, 252, 3))
+[16:11:35]SAY: Artyuom/(Johnny Vietnam) "Да" (Medical Lower (106, 150, 3))
+[16:11:39]SAY: CM.RU/(Jermaine Earl) "НА ПЛАНЕТЕ ВСЕ БЛЯТЬ МЕРТЫ" (Combat Information Center (100, 252, 3))
+[16:11:40]SAY: Chaburek/(Haidee Baxter) "Понятно." (Medical Lower (104, 149, 3))
+[16:11:41]SAY: CM.RU/(Jermaine Earl) "ПИЗДА" (Combat Information Center (100, 252, 3))
+[16:12:00]SAY: Artyuom/(Johnny Vietnam) "Комодор медик ещё жив" (Medical Lower (109, 156, 3))
+[16:12:01]SAY: Chaburek/(Haidee Baxter) "Еще не все." (Medical Lower (110, 154, 3))
+[16:12:07]SAY: Harlex5435/(Nickolas Stone) (ghost) "Щас кароч попробую за ресерчера зайти" (Medical Lower (102, 151, 3))
+[16:12:12]SAY: CM.RU/(Jermaine Earl) (Command Announcement) "Command Announcement - Говорит Командор
+
+На планете все мертвы, ваша задача спасти выживших и разобраться с этими тварями!!! - Jermaine Earl (Commander)" (Combat Information Center (100, 252, 3))
+[16:12:21]SAY: Artyuom/(Johnny Vietnam) "Приборы показывают что он жив" (Medical Lower (110, 156, 3))
+[16:12:24]HIVEMIND: Alot/(Elder Queen) "Воин?" (Lambda Lab (197, 143, 1))
+[16:12:25]SAY: CM.RU/(Jermaine Earl) "Они находятся в восточной лаборатории" (Combat Information Center (100, 252, 3))
+[16:12:28]SAY: Harlex5435/(Nickolas Stone) (ghost) "И попробую как раньше лекарство от всего сделать" (Medical Lower (102, 151, 3))
+[16:12:34]HIVEMIND: BlackCrystalic/(Mature Warrior (774)) "ДА!" (Lambda Lab (197, 141, 1))
+[16:12:37]HIVEMIND: BlackCrystalic/(Mature Warrior (774)) "Нет" (Lambda Lab (197, 141, 1))
+[16:12:44]SAY: Artyuom/(Johnny Vietnam) "Вы 3 рыла" (Medical Lower (106, 151, 3))
+[16:12:53]SAY: Artyuom/(Johnny Vietnam) "Бля это жопа" (Medical Lower (106, 151, 3))
+[16:13:02]ACCESS: Logout: *no key*/(Nickolas Stone)
+[16:13:02]ACCESS: Login: Harlex5435/(Bloody Larva (0)) from 178.161.223.5-4085160650 || BYOND v513.1526
+[16:13:02]ADMIN: Harlex5435 has joined as the Bloody Larva (0).
+[16:13:08]HIVEMIND: Alot/(Elder Queen) "Как только воин будет готов. Мы пойдём в атаку" (Lambda Lab (197, 143, 1))
+[16:13:09]SAY: Chaburek/(Haidee Baxter) "Нет, живой находится в офисе маршала." (Medical Lower (110, 155, 3))
+[16:13:17]SAY: Chaburek/(Haidee Baxter) "В Лямбда все мертвы." (Medical Lower (110, 155, 3))
+[16:13:55]SAY: Chaburek/(Haidee Baxter) "Пулеметчик, вам лучше поторопиться." (Dropship Alamo (93, 149, 3))
+[16:14:19]SAY: *no key*/(МилкиВей) "Esp!" (Commander's Bunk (97, 268, 3))
+[16:14:20]SAY: Alot/(Elder Queen) (psychic whisper to Harlex5435/(Larva (628))) "У нас свободный улей. Я поощряю любой твой выбор эволюции" (Lambda Lab (197, 143, 1))
+[16:14:21]GAME: Harlex5435/(Larva (628)) Started ventcrawling (Lambda Lab (198, 141, 1))
+[16:15:00]ACCESS: Login: GhostPokolenie/(GhostPokolenie) from 95.215.48.242-300637069 || BYOND v513.1524
+[16:15:00]ACCESS: Logout: *no key*/(Mature Larva (628))
+[16:15:00]ACCESS: Login: Harlex5435/(Runner) from 178.161.223.5-4085160650 || BYOND v513.1526
+[16:15:03]ACCESS: Logout: GhostPokolenie/(GhostPokolenie)
+[16:15:08]GAME: Harlex5435/(Young Runner (628)) Started ventcrawling (Lambda Lab (198, 141, 1))
+[16:15:31]HIVEMIND: Alot/(Elder Queen) "Лорд. Иди вперёд. Распространи слизь" (Lambda Lab (197, 143, 1))
+[16:15:33]ACCESS: Login: GhostPokolenie/(GhostPokolenie) from 95.215.48.242-300637069 || BYOND v513.1524
+[16:15:36]GAME: Harlex5435/(Young Runner (628)) Started ventcrawling (Lambda Lab (210, 131, 1))
+[16:15:39]ADMIN: Jermaine Earl (CM.RU) launched a shuttle from 'Alamo' dropship console
+[16:15:49]SAY: CM.RU/(Jermaine Earl) "ОТПРАВИЛ" (Combat Information Center (100, 252, 3))
+[16:16:19]ACCESS: Logout: *no key*/(GhostPokolenie)
+[16:16:19]ACCESS: Login: GhostPokolenie/(Bloody Larva (0)) from 95.215.48.242-300637069 || BYOND v513.1524
+[16:16:19]ADMIN: GhostPokolenie has joined as the Bloody Larva (0).
+[16:16:22]ACCESS: Login: Raruo/(Raruo) from 176.215.103.109-1170784129 || BYOND v512.1488
+[16:16:24]ACCESS: Logout: Raruo/(Raruo)
+[16:16:25]SAY: GhostPokolenie/(Bloody Larva (298)) "Ряяяяяяяяя" (Lambda Lab (198, 143, 1))
+[16:16:27]ACCESS: Login: Raruo/(Raruo) from 176.215.103.109-1170784129 || BYOND v512.1488
+[16:16:27]HIVEMIND: Alot/(Elder Queen) "Воин. Сколько тебе осталось?" (Lambda Lab (197, 143, 1))
+[16:16:31]ACCESS: Logout: Raruo/(Raruo)
+[16:16:33]SAY: Alot/(Elder Queen) "Ря" (Lambda Lab (197, 143, 1))
+[16:16:44]SAY: GhostPokolenie/(Bloody Larva (298)) "Так" (Lambda Lab (198, 143, 1))
+[16:16:46]SAY: GhostPokolenie/(Bloody Larva (298)) "Блет" (Lambda Lab (198, 143, 1))
+[16:16:51]SAY: GhostPokolenie/(Bloody Larva (298)) "Кто тут батя в селе?" (Lambda Lab (198, 143, 1))
+[16:17:08]HIVEMIND: BlackCrystalic/(Mature Warrior (774)) "Я ПОЧТИ ГОТОВ" (Lambda Lab (197, 141, 1))
+[16:17:08]SAY: Alot/(Elder Queen) "Никаких блет в моём присутствии" (Lambda Lab (197, 143, 1))
+[16:17:13]SAY: GhostPokolenie/(Larva (298)) "А" (Lambda Lab (198, 143, 1))
+[16:17:15]SAY: GhostPokolenie/(Larva (298)) "Ну" (Lambda Lab (198, 143, 1))
+[16:17:18]HIVEMIND: BlackCrystalic/(Mature Warrior (774)) "60 ЦИКЛОВ" (Lambda Lab (197, 141, 1))
+[16:17:19]SAY: GhostPokolenie/(Larva (298)) "Аааааааааа" (Lambda Lab (195, 140, 1))
+[16:17:22]SAY: GhostPokolenie/(Larva (298)) "Блеееееееееет" (Lambda Lab (195, 140, 1))
+[16:17:25]SAY: GhostPokolenie/(Larva (298)) "Аааааяаяаяа" (Lambda Lab (195, 140, 1))
+[16:17:25]SAY: GhostPokolenie/(Larva (298)) "Яа" (Lambda Lab (195, 140, 1))
+[16:17:26]SAY: GhostPokolenie/(Larva (298)) "Яа" (Lambda Lab (195, 140, 1))
+[16:17:26]SAY: GhostPokolenie/(Larva (298)) "Яая" (Lambda Lab (195, 140, 1))
+[16:17:29]SAY: GhostPokolenie/(Larva (298)) "Яряр" (Lambda Lab (195, 140, 1))
+[16:17:30]SAY: GhostPokolenie/(Larva (298)) "Ряяяяяяя" (Lambda Lab (195, 140, 1))
+[16:17:42]SAY: GhostPokolenie/(Larva (298)) "Все я весь гнев выпустил" (Lambda Lab (198, 144, 1))
+[16:18:40]ACCESS: Logout: *no key*/(Mature Runner (278))
+[16:18:40]ACCESS: Login: ADIBELL/(Lurker) from 109.187.207.243-2216789942 || BYOND v513.1526
+[16:18:42]SAY: GhostPokolenie/(Mature Larva (298)) "Ма каким существом мне быть?" (Lambda Lab (198, 143, 1))
+[16:18:48]SAY: Alot/(Elder Queen) "Любым" (Lambda Lab (197, 143, 1))
+[16:18:54]SAY: Alot/(Elder Queen) "Я за свободу выбора" (Lambda Lab (197, 143, 1))
+[16:18:56]ACCESS: Logout: *no key*/(Mature Larva (298))
+[16:18:56]ACCESS: Login: GhostPokolenie/(Runner) from 95.215.48.242-300637069 || BYOND v513.1524
+[16:18:59]SAY: GhostPokolenie/(Young Runner (298)) "Мм" (Lambda Lab (198, 143, 1))
+[16:19:02]SAY: GhostPokolenie/(Young Runner (298)) "Ты это" (Lambda Lab (198, 143, 1))
+[16:19:03]SAY: GhostPokolenie/(Young Runner (298)) "Так" (Lambda Lab (198, 143, 1))
+[16:19:05]SAY: GhostPokolenie/(Young Runner (298)) "Как там" (Lambda Lab (198, 143, 1))
+[16:19:08]SAY: GhostPokolenie/(Young Runner (298)) "Ммм" (Lambda Lab (198, 143, 1))
+[16:19:10]SAY: GhostPokolenie/(Young Runner (298)) "Забыл" (Lambda Lab (198, 143, 1))
+[16:19:12]EMOTE: *no key*/(Kelvin Focell) <B>CPL Kelvin Focell</B> gasps! (Lambda Lab (187, 141, 1))
+[16:19:22]ACCESS: Logout: *no key*/(Mature Warrior (774))
+[16:19:22]ACCESS: Login: BlackCrystalic/(Praetorian) from 80.240.253.147-3990586367 || BYOND v513.1513
+[16:19:22]ACCESS: Notice: BlackCrystalic/(Praetorian) has the same ID (3990586367) as CM.RU/(Jermaine Earl).
+[16:19:22]ACCESS: Notice: BlackCrystalic/(Praetorian) has the same ID (3990586367) as ZyberCpechnaz/(Aidan Waldron).
+[16:19:23]SAY: Atlasic/(Young Hivelord (341)) "Ой" (Lambda Lab (187, 144, 1))
+[16:19:24]SAY: GhostPokolenie/(Young Runner (298)) "Супер" (Lambda Lab (186, 144, 1))
+[16:19:29]HIVEMIND: BlackCrystalic/(Young Praetorian (774)) "Я ГОТОВ, МЯМЯ!" (Lambda Lab (197, 141, 1))
+[16:19:29]SAY: Atlasic/(Young Hivelord (341)) "Чёрт" (Lambda Lab (187, 144, 1))
+[16:19:30]HIVEMIND: Alot/(Elder Queen) "Всё! Мы идём в атаку" (Lambda Lab (197, 143, 1))
+[16:19:35]ACCESS: Logout: *no key*/(Kelvin Focell)
+[16:19:35]ACCESS: Login: Sewa/(Bloody Larva (0)) from 188.18.245.72-1345515308 || BYOND v513.1525
+[16:19:35]ADMIN: Sewa has joined as the Bloody Larva (0).
+[16:19:42]SAY: Sewa/(Bloody Larva (22)) "ПРИВЕТ МА-МА" (Lambda Lab (197, 143, 1))
+[16:19:51]HIVEMIND: Alot/(Elder Queen) "Дитя" (Lambda Lab (197, 144, 1))
+[16:19:59]SAY: Sewa/(Bloody Larva (22)) "ДА МА-МА" (Lambda Lab (197, 144, 1))
+[16:20:01]HIVEMIND: Alot/(Elder Queen) "Можешь быть кем угодно" (Lambda Lab (197, 144, 1))
+[16:20:05]GAME: CM.RU/(Jermaine Earl) triggered and CM.RU/(Jermaine Earl) confirmed event Red alert
+[16:20:06]SAY: Sewa/(Bloody Larva (22)) "ХОРОШО" (Lambda Lab (197, 144, 1))
+[16:20:11]ACCESS: Login: Gradedgrey/(Gradedgrey) from 143.238.81.228-608545088 || BYOND v512.1488
+[16:20:15]ACCESS: Logout: Gradedgrey/(Gradedgrey)
+[16:20:20]ACCESS: Login: Gradedgrey/(Gradedgrey) from 143.238.81.228-608545088 || BYOND v512.1488
+[16:20:24]ACCESS: Logout: Gradedgrey/(Gradedgrey)
+[16:20:33]ADMIN: BlackCrystalic/(Young Praetorian (774)) jumped to 166,129,1 in Lambda Lab
+[16:20:36]SAY: GhostPokolenie/(Young Runner (298)) "Ряяяяя" (Unknown Area (166, 131, 1))
+[16:20:41]SAY: GhostPokolenie/(Young Runner (298)) "Порву на части" (Unknown Area (166, 131, 1))
+[16:20:44]SAY: *no key*/(МилкиВей) "Meow!" (Commander's Bunk (95, 270, 3))
+[16:20:47]SAY: GhostPokolenie/(Young Runner (298)) "Мама живыми брать?" (Unknown Area (166, 131, 1))
+[16:20:55]HIVEMIND: Harlex5435/(Mature Runner (628)) "Возле птицы есть хосты!" (Northwest Colony Grounds (40, 166, 1))
+[16:21:27]HIVEMIND: GhostPokolenie/(Young Runner (298)) "Мам иди сюда" (Eastern Colony Grounds (164, 127, 1))
+[16:21:30]SAY: Harlex5435/(Mature Runner (628)) "Стой" (Northwest Colony Grounds (50, 177, 1))
+[16:21:35]SAY: Chaburek/(Haidee Baxter) "Слышал." (Space Port (41, 182, 1))
+[16:21:35]SAY: Harlex5435/(Mature Runner (628)) "Там турель" (Northwest Colony Grounds (50, 177, 1))
+[16:21:38]SAY: Chaburek/(Haidee Baxter) "Какой-то рев." (Space Port (41, 182, 1))
+[16:21:38]SAY: Artyuom/(Johnny Vietnam) "Бля" (Space Port (42, 179, 1))
+[16:21:42]EMOTE: Alot/(Elder Queen) <B>The Elder Queen</B> roars! (Lambda Lab (168, 130, 1))
+[16:21:44]SAY: Chaburek/(Haidee Baxter) "Или рычание." (Space Port (41, 182, 1))
+[16:21:52]SAY: GhostPokolenie/(Young Runner (298)) "1ма замной" (Lambda Lab (169, 130, 1))
+[16:21:52]SAY: Artyuom/(Johnny Vietnam) "Может собака" (Space Port (41, 179, 1))
+[16:21:52]HIVEMIND: Alot/(Elder Queen) "Ладно. Идём другим путём" (Lambda Lab (167, 130, 1))
+[16:21:54]SAY: GhostPokolenie/(Young Runner (298)) "Кхм" (Lambda Lab (170, 130, 1))
+[16:21:56]SAY: GhostPokolenie/(Young Runner (298)) "Хамной" (Lambda Lab (171, 130, 1))
+[16:22:02]SAY: Chaburek/(Haidee Baxter) "Дикая, наверное." (Space Port (41, 182, 1))
+[16:22:02]ACCESS: Logout: Sewa/(Mature Larva (22))
+[16:22:08]SAY: GhostPokolenie/(Young Runner (298)) "Ох" (Unknown Area (177, 117, 1))
+[16:22:10]SAY: GhostPokolenie/(Young Runner (298)) "Ема" (Unknown Area (177, 117, 1))
+[16:22:16]SAY: GhostPokolenie/(Young Runner (298)) "Мощна" (Unknown Area (174, 107, 1))
+[16:22:23]ADMIN: A bioscan/Queen Mother message has completed. Humans: 4 on the planet and 0 on the ship. Xenos: 6 on the planet and 0 on the ship.
+[16:22:23]SAY: Chaburek/(Haidee Baxter) "Что там?" (Space Port (41, 182, 1))
+[16:22:32]EMOTE: Alot/(Elder Queen) <B>The Elder Queen</B> roars! (Southeast Colony Grounds (149, 113, 1))
+[16:22:38]SAY: Chaburek/(Haidee Baxter) "Их два." (Space Port (40, 180, 1))
+[16:22:46]ACCESS: Logout: *no key*/(Young Lurker (278))
+[16:22:46]ACCESS: Login: ADIBELL/(Young Lurker (278)) from 109.187.207.243-2216789942 || BYOND v513.1526
+[16:22:55]EMOTE: Sladk0ewka/(Evan Tomato) <B>LCPL Evan Tomato</B> screams! (Northeast Colony Grounds (160, 147, 1))
+[16:22:55]EMOTE: Sladk0ewka/(Evan Tomato) <B>LCPL Evan Tomato</B> screams! (Northeast Colony Grounds (160, 147, 1))
+[16:23:12]HIVEMIND: Harlex5435/(Mature Runner (628)) "Люркер умер очень глупой смертью" (Northwest Colony Grounds (37, 146, 1))
+[16:23:27]HIVEMIND: GhostPokolenie/(Mature Runner (298)) "Лукер!!!!!!!!!!!!!!" (Eastern Colony Grounds (162, 128, 1))
+[16:23:44]SAY: GhostPokolenie/(Mature Runner (298)) "Нест" (Eastern Colony Grounds (162, 128, 1))
+[16:23:46]SAY: GhostPokolenie/(Mature Runner (298)) "Тут" (Eastern Colony Grounds (162, 128, 1))
+[16:23:48]ACCESS: Logout: ADIBELL/(Young Lurker (278))
+[16:23:49]SAY: GhostPokolenie/(Mature Runner (298)) "Постройте" (Eastern Colony Grounds (162, 128, 1))
+[16:23:53]SAY: GhostPokolenie/(Mature Runner (298)) "Нест" (Eastern Colony Grounds (160, 128, 1))
+[16:23:54]SAY: GhostPokolenie/(Mature Runner (298)) "Построй" (Eastern Colony Grounds (160, 128, 1))
+[16:23:58]SAY: *no key*/(МилкиВей) "HSSSSS" (Commander's Bunk (95, 268, 3))
+[16:24:06]HIVEMIND: Alot/(Elder Queen) "Лорд" (Eastern Colony Grounds (157, 128, 1))
+[16:24:14]SAY: GhostPokolenie/(Mature Runner (298)) "Дура" (Eastern Colony Grounds (162, 129, 1))
+[16:25:12]SAY: Artyuom/(Johnny Vietnam) "Инж стой" (Northwest Colony Grounds (42, 173, 1))
+[16:25:14]SAY: Artyuom/(Johnny Vietnam) "Нет" (Northwest Colony Grounds (42, 174, 1))
+[16:25:17]SAY: Artyuom/(Johnny Vietnam) "Бля" (Northwest Colony Grounds (42, 174, 1))
+[16:25:18]HIVEMIND: Alot/(Elder Queen) "Так" (Lambda Lab (190, 140, 1))
+[16:25:21]HIVEMIND: Alot/(Elder Queen) "Ладно" (Lambda Lab (189, 140, 1))
+[16:25:22]SAY: Chaburek/(Haidee Baxter) "Все нормально." (Space Port (42, 178, 1))
+[16:25:28]SAY: Chaburek/(Haidee Baxter) "Можно же будет чинить." (Space Port (42, 178, 1))
+[16:25:34]ADMIN: Jermaine Earl (CM.RU) launched a shuttle from 'Alamo' dropship console
+[16:25:41]HIVEMIND: Alot/(Elder Queen) "Идём... Он заражен. Создай ему клетку" (Lambda Lab (182, 140, 1))
+[16:26:10]HIVEMIND: Alot/(Elder Queen) "Идём в бой" (Lambda Lab (164, 129, 1))
+[16:26:10]ADMIN: BlackCrystalic/(Young Praetorian (774)) jumped to 44,177,1 in Northwest Colony Grounds
+[16:26:19]EMOTE: Alot/(Elder Queen) <B>The Elder Queen</B> roars! (Eastern Colony Grounds (144, 129, 1))
+[16:26:35]EMOTE: BlackCrystalic/(Young Praetorian (774)) <B>The Young Praetorian (774)</B> hisses. (Northwest Colony Grounds (40, 177, 1))
+[16:26:45]HIVEMIND: Alot/(Elder Queen) "Лорд" (Central Colony Grounds (109, 135, 1))
+[16:26:47]EMOTE: BlackCrystalic/(Young Praetorian (774)) <B>The Young Praetorian (774)</B> hisses. (Northwest Colony Grounds (40, 177, 1))
+[16:26:59]HIVEMIND: Alot/(Elder Queen) "Претарианец, ты где?" (Central Colony Grounds (109, 137, 1))
+[16:26:59]ACCESS: Logout: *no key*/(Young Praetorian (774))
+[16:26:59]ACCESS: Login: BlackCrystalic/(Young Praetorian (774)) from 80.240.253.147-3990586367 || BYOND v513.1513
+[16:26:59]ACCESS: Notice: BlackCrystalic/(Young Praetorian (774)) has the same ID (3990586367) as CM.RU/(Jermaine Earl).
+[16:26:59]ACCESS: Notice: BlackCrystalic/(Young Praetorian (774)) has the same ID (3990586367) as ZyberCpechnaz/(Aidan Waldron).
+[16:27:07]EMOTE: Sladk0ewka/(Evan Tomato) <B>LCPL Evan Tomato</B> gasps! (Lambda Lab (179, 146, 1))
+[16:27:07]EMOTE: Alot/(Elder Queen) <B>The Elder Queen</B> roars! (Central Colony Grounds (92, 137, 1))
+[16:27:08]HIVEMIND: Harlex5435/(Elder Runner (628)) "Он умер" (Central Colony Grounds (111, 140, 1))
+[16:27:14]EMOTE: Alot/(Elder Queen) <B>The Elder Queen</B> roars! (Northern Colony Grounds (90, 152, 1))
+[16:27:17]SAY: Chaburek/(Haidee Baxter) "АЙ." (Space Port (42, 180, 1))
+[16:27:19]SAY: Chaburek/(Haidee Baxter) "Ахем." (Space Port (42, 180, 1))
+[16:27:23]HIVEMIND: Harlex5435/(Elder Runner (628)) "Тоже глупо" (Northern Colony Grounds (93, 162, 1))
+[16:27:54]EMOTE: Alot/(Elder Queen) <B>The Elder Queen</B> roars! (Marshall Offices (75, 170, 1))
+[16:28:17]SAY: GhostPokolenie/(Mature Runner (298)) "Хорча!!!!!!!!" (Northwest Colony Grounds (47, 176, 1))
+[16:28:18]ACCESS: Logout: *no key*/(Evan Tomato)
+[16:28:18]ACCESS: Login: Sladk0ewka/(Evan Tomato) from 77.222.104.59-2354459441 || BYOND v513.1524
+[16:28:33]EMOTE: GhostPokolenie/(Mature Runner (298)) <B>The Mature Runner (298)</B> hisses. (Northwest Colony Grounds (40, 174, 1))
+[16:28:54]ACCESS: Logout: *no key*/(Mature Runner (298))
+[16:28:54]ACCESS: Login: GhostPokolenie/(Mature Runner (298)) from 95.215.48.242-300637069 || BYOND v513.1524
+[16:29:26]EMOTE: Alot/(Elder Queen) <B>The Elder Queen</B> hisses. (Northwest Colony Grounds (43, 177, 1))
+[16:29:36]SAY: *no key*/(corgi) "Bark!" (Lambda Lab (169, 164, 1))
+[16:30:41]EMOTE: ALex13t/(Reno 'Slowflake' Flake) <B>PFC Reno 'Slowflake' Flake</B> screams! (Space Port (43, 179, 1))
+[16:31:31]SAY: Artyuom/(Johnny Vietnam) "Огонь" (Space Port (40, 182, 1))
+[16:31:35]EMOTE: Alot/(Elder Queen) <B>The Elder Queen</B> roars! (Northwest Colony Grounds (43, 175, 1))
+[16:31:36]EMOTE: Alot/(Elder Queen) <B>The Elder Queen</B> hisses. (Northwest Colony Grounds (43, 175, 1))
+[16:31:55]ADMIN: BlackCrystalic/(Young Praetorian (774)) jumped to 42,174,1 in Northwest Colony Grounds
+[16:31:58]ADMIN: BlackCrystalic/(Young Praetorian (774)) jumped to 44,174,1 in Northwest Colony Grounds
+[16:32:00]EMOTE: Alot/(Elder Queen) <B>The Elder Queen</B> hisses. (Space Port (43, 178, 1))
+[16:32:01]SAY: Artyuom/(Johnny Vietnam) "Бля нам пизда огонь по нашим позициям" (Space Port (39, 182, 1))
+[16:32:04]EMOTE: Alot/(Elder Queen) <B>The Elder Queen</B> hisses. (Space Port (41, 178, 1))
+[16:32:04]EMOTE: Chaburek/(Haidee Baxter) <B>CPL Haidee Baxter</B> screams! (Space Port (41, 179, 1))
+[16:32:11]GAME: Explosion with size (1, 3, 5) in area Space Port 
+[16:32:11]EMOTE: ALex13t/(Reno 'Slowflake' Flake) <B>PFC Reno 'Slowflake' Flake</B> screams! (Space Port (42, 181, 1))
+[16:32:11]GAME: Explosion with size (1, 3, 5) in area Northwest Colony Grounds 
+[16:32:11]GAME: Explosion with size (1, 3, 5) in area Northwest Colony Grounds 
+[16:32:11]GAME: Explosion with size (1, 3, 5) in area Northwest Colony Grounds 
+[16:32:11]GAME: Explosion with size (1, 3, 5) in area Space Port 
+[16:32:12]GAME: Explosion with size (1, 3, 5) in area Northwest Colony Grounds 
+[16:32:12]GAME: Explosion with size (1, 3, 5) in area Northwest Colony Grounds 
+[16:32:12]EMOTE: Chaburek/(Haidee Baxter) <B>CPL Haidee Baxter</B> screams! (Space Port (41, 179, 1))
+[16:32:12]EMOTE: ALex13t/(Reno 'Slowflake' Flake) <B>PFC Reno 'Slowflake' Flake</B>  is having trouble standing. (Space Port (42, 181, 1))
+[16:32:12]ACCESS: Logout: *no key*/(Young Hivelord (341))
+[16:32:12]ACCESS: Login: Atlasic/(Young Hivelord (341)) from 91.105.139.66-2065423311 || BYOND v513.1526
+[16:32:12]EMOTE: Chaburek/(Haidee Baxter) <B>CPL Haidee Baxter</B> gasps! (Space Port (41, 179, 1))
+[16:32:12]GAME: Explosion with size (1, 3, 5) in area Space Port 
+[16:32:14]EMOTE: ALex13t/(Reno 'Slowflake' Flake) <B>PFC Reno 'Slowflake' Flake</B> screams! (Space Port (42, 181, 1))
+[16:32:20]ACCESS: Logout: *no key*/(Haidee Baxter)
+[16:32:20]ACCESS: Login: Chaburek/(Haidee Baxter) from 178.46.63.9-2047396774 || BYOND v513.1513
+[16:32:26]SAY: GhostPokolenie/(Mature Runner (298)) (ghost) "Чево" (Northwest Colony Grounds (41, 173, 1))
+[16:32:30]SAY: Chaburek/(Haidee Baxter) (ghost) "Стоп, это рюкзак взорвался:?" (Space Port (40, 181, 1))
+[16:32:33]SAY: CM.RU/(Jermaine Earl) "Попал?" (Combat Information Center (94, 255, 3))
+[16:32:36]ACCESS: Logout: *no key*/(Mature Runner (298))
+[16:32:36]ACCESS: Login: GhostPokolenie/(Mature Larva (22)) from 95.215.48.242-300637069 || BYOND v513.1524
+[16:32:36]ADMIN: GhostPokolenie has joined as the Mature Larva (22).
+[16:32:37]EMOTE: Alot/(Elder Queen) <B>The Elder Queen</B> hisses. (Space Port (40, 179, 1))
+[16:32:39]SAY: Chaburek/(Haidee Baxter) (ghost) "А, капитан." (Space Port (38, 181, 1))
+[16:32:39]ADMIN: Jermaine Earl (CM.RU) launched a shuttle from 'Alamo' dropship console
+[16:32:47]SAY: GhostPokolenie/(Mature Larva (22)) "Хорч" (Lambda Lab (175, 130, 1))
+[16:32:48]SAY: Chaburek/(Haidee Baxter) (ghost) "А мы хорошо держались." (Space Port (40, 181, 1))
+[16:32:48]SAY: GhostPokolenie/(Mature Larva (22)) "А" (Lambda Lab (175, 130, 1))
+[16:32:48]ACCESS: Logout: *no key*/(Mature Larva (22))
+[16:32:48]ACCESS: Login: GhostPokolenie/(Sentinel) from 95.215.48.242-300637069 || BYOND v513.1524
+[16:32:50]SAY: CM.RU/(Jermaine Earl) "БЛЯТЬ" (Combat Information Center (100, 254, 3))
+[16:32:53]ACCESS: Logout: *no key*/(Reno 'Slowflake' Flake)
+[16:32:53]ACCESS: Login: ALex13t/(Reno 'Slowflake' Flake) from 176.36.139.205-647948570 || BYOND v513.1526
+[16:33:04]SAY: CM.RU/(Jermaine Earl) "СУКА, ПОЧЕМУ!?" (Combat Information Center (94, 255, 3))
+[16:33:10]SAY: CM.RU/(Jermaine Earl) "ПОЧЕМУ В СВОИХ" (Combat Information Center (94, 255, 3))
+[16:33:16]SAY: CM.RU/(Jermaine Earl) "ЗА ЧТО!?" (Combat Information Center (94, 255, 3))
+[16:33:46]EMOTE: Artyuom/(Johnny Vietnam) <B>CPL Johnny Vietnam</B> screams! (Space Port (43, 191, 1))
+[16:34:02]SAY: GhostPokolenie/(Young Sentinel (22)) "Сука" (Space Port (42, 190, 1))
+[16:34:02]SAY: Harlex5435/(Elder Runner (628)) "Вот и все" (Space Port (43, 191, 1))
+[16:34:04]SAY: GhostPokolenie/(Young Sentinel (22)) "Он убил" (Space Port (42, 190, 1))
+[16:34:07]SAY: GhostPokolenie/(Young Sentinel (22)) "Наших!" (Space Port (42, 190, 1))
+[16:34:10]ACCESS: Logout: *no key*/(Johnny Vietnam)
+[16:34:10]ACCESS: Login: Artyuom/(Johnny Vietnam) from 95.174.127.234-114134526 || BYOND v513.1517
+[16:34:17]DEBUG: Next event in 30.3087 minutes.
+[16:34:22]EMOTE: Alot/(Elder Queen) <B>The Elder Queen</B> roars! (Space Port (40, 187, 1))
+[16:35:02]SAY: Harlex5435/(Elder Runner (628)) "Отомстим за павших сестер!" (Dropship Alamo (29, 196, 1))
+[16:35:09]SAY: CM.RU/(Jermaine Earl) "ТРЕВОГА, ШАТЛ УГНАИ БЛЯТЬ" (Combat Information Center (85, 249, 3))
+[16:35:11]HIVEMIND: Alot/(Elder Queen) "Найдите мелких" (Dropship Alamo (27, 199, 1))
+[16:35:18]HIVEMIND: Alot/(Elder Queen) "И заразите их" (Dropship Alamo (27, 199, 1))
+[16:35:28]GAME: CM.RU/(Jermaine Earl) triggered and CM.RU/(Jermaine Earl) confirmed event Grant Emergency Maintenance Access
+[16:35:31]ACCESS: Logout: Chaburek/(Haidee Baxter)
+[16:35:34]SAY: Harlex5435/(Elder Runner (628)) "Только не летите без меня" (Dropship Alamo (26, 196, 1))
+[16:35:46]HIVEMIND: GhostPokolenie/(Young Sentinel (22)) "Лети!" (Dropship Alamo (28, 187, 1))
+[16:35:47]ADMIN: BlackCrystalic/(Young Praetorian (774)) admin-called a distress beacon: Freelancers (Squad)
+[16:35:52]SAY: GhostPokolenie/(Young Sentinel (22)) "Стой" (Dropship Alamo (30, 195, 1))
+[16:35:56]SAY: GhostPokolenie/(Young Sentinel (22)) "Шетка" (Dropship Alamo (30, 198, 1))
+[16:35:59]SAY: GhostPokolenie/(Young Sentinel (22)) "Ждем" (Dropship Alamo (30, 198, 1))
+[16:35:59]ADMIN: <a href='?priv_msg=[0x5000002]'>CM.RU</a>/(Jermaine Earl) awarded a medal of exceptional heroism to Johnny Vietnam for: 'СТОЯЛ ДО КОНЦА, ГЕЙРО!'.
+[16:36:12]ACCESS: Login: Chaburek/(Haidee Baxter) from 178.46.63.9-2047396774 || BYOND v513.1513
+[16:36:12]SAY: GhostPokolenie/(Young Sentinel (22)) "Че" (Dropship Alamo (31, 194, 1))
+[16:36:14]ACCESS: Logout: Chaburek/(Haidee Baxter)
+[16:36:17]ACCESS: Login: Chaburek/(Haidee Baxter) from 178.46.63.9-2047396774 || BYOND v513.1513
+[16:36:17]SAY: GhostPokolenie/(Young Sentinel (22)) "Тебе от меня требо!" (Dropship Alamo (31, 194, 1))
+[16:36:32]ADMIN: <a href='?priv_msg=[0x5000002]'>CM.RU</a>/(Jermaine Earl) awarded a medal of exceptional heroism to Jermaine Earl for: 'Убил всех своих с ОБ, также убил 50% врагов!'.
+[16:36:34]HIVEMIND: Alot/(Elder Queen) "У нас может быть больше сестёр. Просто надо заразить ещё мелких" (Dropship Alamo (28, 201, 1))
+[16:36:44]ACCESS: Logout: *no key*/(Evan Tomato)
+[16:36:44]ACCESS: Login: Sladk0ewka/(Bloody Larva (0)) from 77.222.104.59-2354459441 || BYOND v513.1524
+[16:36:44]ADMIN: Sladk0ewka has joined as the Bloody Larva (0).
+[16:36:51]ADMIN: <a href='?priv_msg=[0x5000002]'>CM.RU</a>/(Jermaine Earl) awarded a medal of exceptional heroism to Reno 'Slowflake' Flake for: 'Не сдавался, не отдал фоб живым'.
+[16:36:52]ACCESS: Logout: *no key*/(Johnny Vietnam)
+[16:36:52]ACCESS: Login: Artyuom/(Johnny Vietnam) from 95.174.127.234-114134526 || BYOND v513.1517
+[16:36:55]ACCESS: Logout: *no key*/(Johnny Vietnam)
+[16:36:55]ACCESS: Login: Artyuom/(Johnny Vietnam) from 95.174.127.234-114134526 || BYOND v513.1517
+[16:37:01]ADMIN: BlackCrystalic/(Young Praetorian (774)) admin-called a distress beacon: Freelancers (Squad)
+[16:37:08]SAY: Sladk0ewka/(Bloody Larva (222)) "Я родился" (Dropship Alamo (25, 196, 1))
+[16:37:24]ADMIN: <a href='?priv_msg=[0x5000002]'>CM.RU</a>/(Jermaine Earl) awarded a medal of exceptional heroism to Kelvin Focell for: 'Был героем, посмерто'.
+[16:37:41]ADMIN: <a href='?priv_msg=[0x5000002]'>CM.RU</a>/(Jermaine Earl) awarded a bronze heart medal to Nickolas Stone for: 'Спасал своих. когда все бежали'.
+[16:37:43]HIVEMIND: Alot/(Elder Queen) "Бегун... В старом улье было много детей. Просто зарази других" (Dropship Alamo (28, 201, 1))
+[16:38:02]ACCESS: Logout: *no key*/(Reno 'Slowflake' Flake)
+[16:38:02]ACCESS: Login: ALex13t/(Clark Elliot) from 176.36.139.205-647948570 || BYOND v513.1526
+[16:38:02]ACCESS: Logout: *no key*/(Haidee Baxter)
+[16:38:02]ACCESS: Login: Chaburek/(Lydia Hunt) from 178.46.63.9-2047396774 || BYOND v513.1513
+[16:38:02]ACCESS: Logout: *no key*/(Aidan Waldron)
+[16:38:02]ACCESS: Login: ZyberCpechnaz/(Mihara Crowe) from 127.0.0.1-3990586367 || BYOND v513.1513
+[16:38:02]ACCESS: Notice: ZyberCpechnaz/(Mihara Crowe) has the same IP (127.0.0.1) and ID (3990586367) as CM.RU/(Jermaine Earl).
+[16:38:02]ACCESS: Notice: ZyberCpechnaz/(Mihara Crowe) has the same ID (3990586367) as BlackCrystalic/(Young Praetorian (774)).
+[16:38:02]ACCESS: Logout: *no key*/(Johnny Vietnam)
+[16:38:02]ACCESS: Login: Artyuom/(Heather Barrows) from 95.174.127.234-114134526 || BYOND v513.1517
+[16:38:04]SAY: GhostPokolenie/(Mature Sentinel (22)) "Рряяяя" (Dropship Alamo (28, 200, 1))
+[16:38:08]SAY: GhostPokolenie/(Mature Sentinel (22)) "Ляяя" (Dropship Alamo (28, 200, 1))
+[16:38:12]SAY: Alot/(Elder Queen) "Ря" (Dropship Alamo (28, 201, 1))
+[16:38:12]SAY: GhostPokolenie/(Mature Sentinel (22)) "Сестра" (Dropship Alamo (28, 200, 1))
+[16:38:17]SAY: GhostPokolenie/(Mature Sentinel (22)) "Иди на ручки" (Dropship Alamo (28, 200, 1))
+[16:38:24]ADMIN: Mihara Crowe (ZyberCpechnaz) launched a shuttle from the shuttle control console
+[16:38:34]ADMIN: BlackCrystalic/(Young Praetorian (774)) jumped to 28,197,1 in Dropship Alamo
+[16:38:42]SAY: GhostPokolenie/(Mature Sentinel (22)) "Была жестокая битва" (Dropship Alamo (28, 200, 1))
+[16:38:46]SAY: GhostPokolenie/(Mature Sentinel (22)) "Погибло" (Dropship Alamo (28, 200, 1))
+[16:38:52]SAY: GhostPokolenie/(Mature Sentinel (22)) "Много" (Dropship Alamo (28, 200, 1))
+[16:39:19]SAY: CM.RU/(Jermaine Earl) (Command Announcement) "Command Announcement - ВСЕМ КРАСНЫЙ КОД, ВСЕМ НА МОСТИК, БЛЯТЬ, КРАСНЫЙ КОД, АЛАМО ЗАХВАЧЕН, ПОВТОРЯЮ, КРАСНЫЙ КОД, КРАСНЫЙ КОД БЛЯТь! - Jermaine Earl (Commander)" (Combat Information Center (100, 252, 3))
+[16:39:39]SAY: CM.RU/(Jermaine Earl) "ЧЁРНЫЙ КОД НАХУЙ, ПИЗДЕЦ" (Combat Information Center (100, 252, 3))
+[16:39:48]HIVEMIND: Alot/(Elder Queen) "Вооот! Как их много" (Dropship Alamo (28, 201, 1))
+[16:40:00]ADMIN: <a href='?priv_msg=[0x5000002]'>CM.RU</a>/(Jermaine Earl) awarded a distinguished conduct medal to Magomed Sharipiv for: 'Нечего сказать, просто хорошь!'.
+[16:41:00]ADMIN: BlackCrystalic/(Young Praetorian (774)) has created an AI report: На борту фрилансеры! Срочно патруль к северному доку!
+[16:41:03]SAY: GhostPokolenie/(Mature Sentinel (22)) "Так" (Dropship Alamo (27, 199, 1))
+[16:41:05]SAY: Artyuom/(Heather Barrows) "Драсте" (Combat Information Center (102, 254, 3))
+[16:41:07]SAY: GhostPokolenie/(Mature Sentinel (22)) "Ты охроняй маму" (Dropship Alamo (27, 199, 1))
+[16:41:10]SAY: GhostPokolenie/(Mature Sentinel (22)) "Ээ" (Dropship Alamo (28, 199, 1))
+[16:41:13]SAY: GhostPokolenie/(Mature Sentinel (22)) "Попросил видь" (Dropship Alamo (28, 199, 1))
+[16:41:15]SAY: Chaburek/(Lydia Hunt) "Так." (Combat Information Center (103, 250, 3))
+[16:41:18]SAY: Artyuom/(Heather Barrows) "Мы наёмники и можем вам помоч за деньги" (Combat Information Center (102, 254, 3))
+[16:41:18]SAY: CM.RU/(Jermaine Earl) "Давайте поговорим?" (Combat Information Center (100, 252, 3))
+[16:41:23]SAY: Artyuom/(Heather Barrows) "Да" (Combat Information Center (102, 254, 3))
+[16:41:25]SAY: GhostPokolenie/(Mature Sentinel (22)) "Вот" (Dropship Alamo (28, 199, 1))
+[16:41:26]SAY: GhostPokolenie/(Mature Sentinel (22)) "Дя" (Dropship Alamo (28, 199, 1))
+[16:41:29]SAY: GhostPokolenie/(Mature Sentinel (22)) "Тут будь" (Dropship Alamo (28, 199, 1))
+[16:41:32]SAY: GhostPokolenie/(Mature Sentinel (22)) "И охроняй" (Dropship Alamo (28, 199, 1))
+[16:41:42]SAY: CM.RU/(Jermaine Earl) "Так сойдёт?" (Commander's Bunk (107, 269, 3))
+[16:41:48]GAME: <a href='?priv_msg=[0x5000000]'>ZyberCpechnaz</a>/(<font color='#FFA500'>Mihara Crowe</font>) has ghosted.
+[16:41:48]ACCESS: Logout: *no key*/(Mihara Crowe)
+[16:41:48]ACCESS: Login: ZyberCpechnaz/(Mihara Crowe) from 127.0.0.1-3990586367 || BYOND v513.1513
+[16:41:48]ACCESS: Notice: ZyberCpechnaz/(Mihara Crowe) has the same IP (127.0.0.1) and ID (3990586367) as CM.RU/(Jermaine Earl).
+[16:41:48]ACCESS: Notice: ZyberCpechnaz/(Mihara Crowe) has the same ID (3990586367) as BlackCrystalic/(Young Praetorian (774)).
+[16:41:52]SAY: Chaburek/(Lydia Hunt) "Хм." (Commander's Bunk (104, 263, 3))
+[16:41:56]SAY: Chaburek/(Lydia Hunt) "Хорошая сумма." (Commander's Bunk (104, 263, 3))
+[16:42:01]SAY: Artyuom/(Heather Barrows) "Хм" (Commander's Bunk (107, 266, 3))
+[16:42:05]SAY: CM.RU/(Jermaine Earl) "Там =бобло" (Commander's Bunk (104, 268, 3))
+[16:42:09]SAY: GhostPokolenie/(Mature Sentinel (22)) "Вииииии" (Space Port (51, 197, 1))
+[16:42:11]SAY: CM.RU/(Jermaine Earl) "Забирайет" (Commander's Bunk (104, 269, 3))
+[16:42:12]SAY: GhostPokolenie/(Mature Sentinel (22)) "Как весело" (Space Port (51, 197, 1))
+[16:42:14]SAY: Chaburek/(Lydia Hunt) "Мы не тупые." (Commander's Bunk (105, 264, 3))
+[16:42:16]SAY: Artyuom/(Heather Barrows) "Бери" (Commander's Bunk (104, 264, 3))
+[16:42:25]SAY: GhostPokolenie/(Mature Sentinel (22)) "Все" (Dropship Alamo (30, 197, 1))
+[16:42:28]SAY: GhostPokolenie/(Mature Sentinel (22)) "Я погулял" (Dropship Alamo (30, 197, 1))
+[16:42:57]SAY: CM.RU/(Jermaine Earl) "Подождите, вы куда?" (Combat Information Center (110, 256, 3))
+[16:43:03]SAY: Chaburek/(Lydia Hunt) "Кстат." (USS Almayer Evac 3 (129, 254, 3))
+[16:43:06]SAY: Chaburek/(Lydia Hunt) "Стой" (USS Almayer Evac 3 (130, 262, 3))
+[16:43:09]SAY: GhostPokolenie/(Mature Sentinel (22)) "ММ" (Dropship Alamo (26, 195, 1))
+[16:43:09]HIVEMIND: Alot/(Elder Queen) "222, почему ты ещё не эволюционировала?" (Dropship Alamo (28, 201, 1))
+[16:43:11]SAY: GhostPokolenie/(Mature Sentinel (22)) "Еда" (Dropship Alamo (26, 195, 1))
+[16:43:11]SAY: Chaburek/(Lydia Hunt) "Нас же уже наняли." (USS Almayer Evac 3 (133, 262, 3))
+[16:43:17]SAY: Artyuom/(Heather Barrows) "Я их отнесу на наш шатл" (USS Almayer Evac 3 (134, 263, 3))
+[16:43:17]SAY: Chaburek/(Lydia Hunt) "Мы должны защитить этот корабль." (USS Almayer Evac 3 (133, 262, 3))
+[16:43:27]SAY: Artyuom/(Heather Barrows) "Встретимся в сд" (USS Almayer Evac 3 (136, 263, 3))
+[16:43:29]ACCESS: Logout: *no key*/(Elder Sentinel (22))
+[16:43:29]ACCESS: Login: GhostPokolenie/(Spitter) from 95.215.48.242-300637069 || BYOND v513.1524
+[16:43:37]SAY: GhostPokolenie/(Young Spitter (22)) "Ммм" (Dropship Alamo (26, 196, 1))
+[16:43:40]SAY: GhostPokolenie/(Young Spitter (22)) "Вкусняшка" (Dropship Alamo (26, 196, 1))
+[16:43:41]SAY: Alot/(Elder Queen) "222?" (Dropship Alamo (28, 201, 1))
+[16:43:44]SAY: Chaburek/(Lydia Hunt) "Вы где?" (Combat Information Center (98, 250, 3))
+[16:43:46]SAY: GhostPokolenie/(Young Spitter (22)) "Все" (Dropship Alamo (27, 198, 1))
+[16:43:48]SAY: Harlex5435/(Ancient Runner (628)) "Выплюнь" (Dropship Alamo (26, 199, 1))
+[16:43:48]SAY: GhostPokolenie/(Young Spitter (22)) "Скушал" (Dropship Alamo (27, 198, 1))
+[16:43:54]SAY: Chaburek/(Lydia Hunt) "Так" (Combat Information Center (98, 250, 3))
+[16:43:57]SAY: GhostPokolenie/(Young Spitter (22)) "Нееет\" (Dropship Alamo (30, 193, 1))
+[16:43:58]SAY: CM.RU/(Jermaine Earl) "Тут" (Combat Information Center (98, 248, 3))
+[16:43:58]OOC: (LOCAL) Mature Larva (222)/Sladk0ewka : умел бы- эволюционировал)
+[16:43:59]SAY: GhostPokolenie/(Young Spitter (22)) "Моя" (Dropship Alamo (30, 193, 1))
+[16:44:02]SAY: GhostPokolenie/(Young Spitter (22)) "Кушалка" (Dropship Alamo (30, 193, 1))
+[16:44:02]SAY: Chaburek/(Lydia Hunt) "Мы будем защищаться в СД." (Combat Information Center (98, 250, 3))
+[16:44:05]ADMIN: Heather Barrows (Artyuom) launched a shuttle from the shuttle control console
+[16:44:07]SAY: Chaburek/(Lydia Hunt) "Вы уже подготовили его?" (Combat Information Center (98, 250, 3))
+[16:44:08]SAY: GhostPokolenie/(Young Spitter (22)) "Мм" (Dropship Alamo (29, 193, 1))
+[16:44:11]SAY: GhostPokolenie/(Young Spitter (22)) "Игрушка" (Dropship Alamo (29, 193, 1))
+[16:44:17]SAY: Chaburek/(Lydia Hunt) "Это как запасной вариант." (Combat Information Center (98, 250, 3))
+[16:44:17]SAY: CM.RU/(Jermaine Earl) "Нет, я не могу, нужно запрос" (Combat Information Center (98, 248, 3))
+[16:44:17]SAY: Artyuom/(Heather Barrows) "Ахахаха" (Distress Shuttle Transit (117, 141, 2))
+[16:44:18]OOC: (LOCAL) Mature Larva (222)/Sladk0ewka : так научился
+[16:44:19]SAY: Artyuom/(Heather Barrows) "Лохи" (Distress Shuttle Transit (117, 141, 2))
+[16:44:21]SAY: Artyuom/(Heather Barrows) "Блять" (Distress Shuttle Transit (117, 141, 2))
+[16:44:24]SAY: Artyuom/(Heather Barrows) "Моё бобло" (Distress Shuttle Transit (117, 141, 2))
+[16:44:24]SAY: CM.RU/(Jermaine Earl) "Только высшее командывание" (Combat Information Center (98, 248, 3))
+[16:44:24]SAY: Chaburek/(Lydia Hunt) "Мы не должны дать врагу захватить корабль." (Combat Information Center (98, 250, 3))
+[16:44:32]SAY: Chaburek/(Lydia Hunt) "Будь то коммунисты, или еще кто-нибудь." (Combat Information Center (98, 250, 3))
+[16:44:35]SAY: Sladk0ewka/(Mature Larva (222)) "Кем мне вырасти?" (Dropship Alamo (26, 197, 1))
+[16:44:42]ADMIN: <span class='xenoannounce'><b>Elder Queen</b> reaches you:"Эволюционируй уже!"</span>
+[16:44:45]SAY: CM.RU/(Jermaine Earl) (USCM announcement) "У меня нет времени объяснять, дайте мне возможность открыть сд!" (Combat Information Center (100, 252, 3))
+[16:44:45]SAY: Artyuom/(Heather Barrows) "Уахахахахаа" (Distress Shuttle Transit (117, 138, 2))
+[16:44:54]ACCESS: Logout: *no key*/(Mature Larva (222))
+[16:44:54]ACCESS: Login: Sladk0ewka/(Defender) from 77.222.104.59-2354459441 || BYOND v513.1524
+[16:44:55]SAY: Chaburek/(Lydia Hunt) "А что за угроза-то?" (Combat Information Center (98, 252, 3))
+[16:44:58]SAY: ALex13t/(Clark Elliot) "Тварь бросила нас" (Hull Lower (121, 173, 3))
+[16:45:04]SAY: GhostPokolenie/(Young Spitter (22)) "Уттютют" (Dropship Alamo (29, 197, 1))
+[16:45:04]SAY: Sladk0ewka/(Young Defender (222)) "Ъуъ" (Dropship Alamo (26, 198, 1))
+[16:45:11]ADMIN: BlackCrystalic replied to CM.RU/(Jermaine Earl)'s USCM message with the message Уже направили доступ!.
+[16:45:16]SAY: CM.RU/(Jermaine Earl) "Отлично" (Combat Information Center (100, 253, 3))
+[16:45:18]SAY: GhostPokolenie/(Young Spitter (22)) "Какой" (Dropship Alamo (29, 197, 1))
+[16:45:18]SAY: CM.RU/(Jermaine Earl) "Разрешили" (Combat Information Center (100, 253, 3))
+[16:45:19]OOC: (LOCAL) Elder Queen/Alot : Кто из вас был воином в первый раз?
+[16:45:20]SAY: GhostPokolenie/(Young Spitter (22)) "Ты милый" (Dropship Alamo (29, 197, 1))
+[16:45:25]SAY: CM.RU/(Jermaine Earl) "Но оно будет готово не скоро" (Combat Information Center (99, 254, 3))
+[16:45:25]SAY: Chaburek/(Lydia Hunt) "Я вас сопроважу." (Combat Information Center (98, 252, 3))
+[16:45:28]SAY: ALex13t/(Clark Elliot) "Тварь бросил нас" (Hallway Starboard (125, 169, 3))
+[16:45:30]SAY: GhostPokolenie/(Young Spitter (22)) "Нет" (Dropship Alamo (29, 197, 1))
+[16:45:31]SAY: Chaburek/(Lydia Hunt) "ХМ." (Combat Information Center (98, 252, 3))
+[16:45:31]SAY: GhostPokolenie/(Young Spitter (22)) "Мое" (Dropship Alamo (29, 197, 1))
+[16:45:32]OOC: (LOCAL) Elder Queen/Alot : Ну или преторианцом?
+[16:45:32]SAY: Sladk0ewka/(Young Defender (222)) "Да-да я" (Dropship Alamo (31, 197, 1))
+[16:45:34]SAY: GhostPokolenie/(Young Spitter (22)) "Бериту" (Dropship Alamo (29, 197, 1))
+[16:45:36]SAY: Chaburek/(Lydia Hunt) "Нужно быть на мостике?" (Combat Information Center (98, 252, 3))
+[16:45:37]SAY: CM.RU/(Jermaine Earl) "Инициализация протоколов, до 2 часов дня будет" (Combat Information Center (99, 254, 3))
+[16:45:40]SAY: GhostPokolenie/(Young Spitter (22)) "Я жадина" (Dropship Alamo (29, 192, 1))
+[16:45:44]SAY: CM.RU/(Jermaine Earl) "Идите к сд" (Combat Information Center (98, 254, 3))
+[16:45:56]SAY: Harlex5435/(Ancient Runner (628)) "Эти двое мои" (Dropship Alamo (30, 198, 1))
+[16:45:57]SAY: ALex13t/(Clark Elliot) "Вы где?" (USS Almayer Evac 3 (185, 261, 3))
+[16:45:57]OOC: (LOCAL) Elder Queen/Alot : 222, ты был преторианцом?
+[16:45:59]SAY: Harlex5435/(Ancient Runner (628)) "Я принес" (Dropship Alamo (30, 198, 1))
+[16:46:04]SAY: GhostPokolenie/(Young Spitter (22)) "!ну" (Dropship Alamo (31, 195, 1))
+[16:46:08]SAY: GhostPokolenie/(Young Spitter (22)) "Я курал!" (Dropship Alamo (31, 195, 1))
+[16:46:09]SAY: CM.RU/(Jermaine Earl) "На мостике необязательно, система сама всё сделает в 2 часа дня,.." (Combat Information Center (89, 260, 3))
+[16:46:11]SAY: GhostPokolenie/(Young Spitter (22)) "Кхм" (Dropship Alamo (31, 195, 1))
+[16:46:13]SAY: GhostPokolenie/(Young Spitter (22)) "Украл" (Dropship Alamo (31, 195, 1))
+[16:46:18]SAY: Harlex5435/(Ancient Runner (628)) "Тогда иди и ласкай меня" (Dropship Alamo (30, 198, 1))
+[16:46:21]SAY: ALex13t/(Clark Elliot) "Вы где?" (USS Almayer Evac 3 (185, 261, 3))
+[16:46:26]SAY: GhostPokolenie/(Young Spitter (22)) "Хм" (Dropship Alamo (30, 195, 1))
+[16:46:29]SAY: Chaburek/(Lydia Hunt) "Все идем к СД." (Hallway Aft (174, 244, 3))
+[16:46:32]SAY: GhostPokolenie/(Young Spitter (22)) "Ну иди комне" (Dropship Alamo (30, 197, 1))
+[16:46:39]SAY: Harlex5435/(Ancient Runner (628)) "Ооо да" (Dropship Alamo (30, 198, 1))
+[16:46:41]SAY: GhostPokolenie/(Young Spitter (22)) "Утютютютю" (Dropship Alamo (30, 197, 1))
+[16:46:46]SAY: Harlex5435/(Ancient Runner (628)) "Как же приятно" (Dropship Alamo (30, 198, 1))
+[16:46:54]SAY: GhostPokolenie/(Young Spitter (22)) "Так" (Dropship Alamo (30, 197, 1))
+[16:46:57]SAY: Artyuom/(Heather Barrows) "Уахахаха" (Distress Shuttle (74, 88, 2))
+[16:46:59]SAY: GhostPokolenie/(Young Spitter (22)) "Мне перехоетлось" (Dropship Alamo (30, 197, 1))
+[16:47:00]SAY: GhostPokolenie/(Young Spitter (22)) "Ааа" (Dropship Alamo (30, 197, 1))
+[16:47:03]SAY: GhostPokolenie/(Young Spitter (22)) "Ну трош" (Dropship Alamo (30, 197, 1))
+[16:47:04]HIVEMIND: Alot/(Elder Queen) "Скоро мы полетим к ним в их железный улей" (Dropship Alamo (28, 201, 1))
+[16:47:10]GAME: Explosion with size (-1, -1, 0) in area Dropship Alamo 
+[16:47:10]GAME: Explosion with size (-1, -1, 0) in area Dropship Alamo 
+[16:47:10]GAME: Explosion with size (-1, -1, 0) in area Dropship Alamo 
+[16:47:10]GAME: Explosion with size (-1, -1, 0) in area Dropship Alamo 
+[16:47:10]GAME: Explosion with size (-1, -1, 0) in area Dropship Alamo 
+[16:47:10]GAME: Explosion with size (-1, -1, 0) in area Dropship Alamo 
+[16:47:10]GAME: Explosion with size (-1, -1, 0) in area Dropship Alamo 
+[16:47:10]GAME: Explosion with size (-1, -1, 0) in area Dropship Alamo 
+[16:47:13]SAY: CM.RU/(Jermaine Earl) "ВЫСТРЕЛ ПО ДРОПШИПУ" (Combat Information Center (95, 255, 3))
+[16:47:22]ACCESS: Logout: *no key*/(Young Spitter (22))
+[16:47:22]ACCESS: Login: GhostPokolenie/(Young Spitter (22)) from 95.215.48.242-300637069 || BYOND v513.1524
+[16:47:24]ACCESS: Logout: *no key*/(Ancient Runner (628))
+[16:47:24]ACCESS: Login: Harlex5435/(Ancient Runner (628)) from 178.161.223.5-4085160650 || BYOND v513.1526
+[16:47:28]SAY: GhostPokolenie/(Young Spitter (22)) (ghost) "оо" (Dropship Alamo (30, 196, 1))
+[16:47:29]SAY: Harlex5435/(Ancient Runner (628)) (ghost) "Класс" (Dropship Alamo (31, 199, 1))
+[16:47:31]SAY: GhostPokolenie/(Young Spitter (22)) (ghost) "нюк" (Dropship Alamo (30, 196, 1))
+[16:47:37]SAY: Harlex5435/(Ancient Runner (628)) (ghost) "Полетали" (Dropship Alamo (31, 199, 1))
+[16:47:37]SAY: GhostPokolenie/(Young Spitter (22)) (ghost) "Ахаха" (Dropship Alamo (30, 196, 1))
+[16:47:39]SAY: CM.RU/(Jermaine Earl) "2 УБИТО!" (Combat Information Center (100, 252, 3))
+[16:47:39]SAY: GhostPokolenie/(Young Spitter (22)) (ghost) "поласкали" (Dropship Alamo (30, 196, 1))
+[16:47:48]ADMIN: Elder Queen (Alot) launched a shuttle from 'Alamo' flight controls
+[16:47:50]SAY: ALex13t/(Clark Elliot) "Отлично" (USS Almayer Evac 3 (146, 241, 3))
+[16:47:55]ACCESS: Logout: *no key*/(Young Defender (222))
+[16:47:55]ACCESS: Login: Sladk0ewka/(Young Defender (222)) from 77.222.104.59-2354459441 || BYOND v513.1524
+[16:47:57]SAY: Harlex5435/(Ancient Runner (628)) (ghost) "И мартыхи сдохли" (Dropship Alamo (31, 199, 1))
+[16:47:58]HIVEMIND: Alot/(Elder Queen) "Надо сваливать" (Dropship Alamo (28, 201, 1))
+[16:48:00]SAY: GhostPokolenie/(Young Spitter (22)) (ghost) "Ну" (Dropship Alamo (28, 197, 1))
+[16:48:10]SAY: GhostPokolenie/(Young Spitter (22)) (ghost) "больще не буду вас ласкать" (Dropship Alamo Transit (69, 33, 4))
+[16:48:15]SAY: GhostPokolenie/(Young Spitter (22)) (ghost) "Вон" (Dropship Alamo Transit (69, 33, 4))
+[16:48:18]SAY: GhostPokolenie/(Young Spitter (22)) (ghost) "видиш" (Dropship Alamo Transit (69, 33, 4))
+[16:48:20]SAY: GhostPokolenie/(Young Spitter (22)) (ghost) "полоскал" (Dropship Alamo Transit (69, 33, 4))
+[16:48:21]ACCESS: Login: EngineerConager/(EngineerConager) from 176.32.156.103-577737710 || BYOND v513.1526
+[16:48:25]ACCESS: Logout: EngineerConager/(EngineerConager)
+[16:48:29]ACCESS: Login: EngineerConager/(EngineerConager) from 176.32.156.103-577737710 || BYOND v513.1526
+[16:48:33]SAY: Harlex5435/(Ancient Runner (628)) (ghost) "Ну блин(" (Dropship Alamo Transit (69, 36, 4))
+[16:48:37]SAY: GhostPokolenie/(Young Spitter (22)) (ghost) "Стоп" (Dropship Alamo Transit (69, 28, 4))
+[16:48:41]HIVEMIND: Alot/(Elder Queen) "Как? Откуда был взрыв?" (Dropship Alamo Transit (69, 37, 4))
+[16:48:43]SAY: GhostPokolenie/(Young Spitter (22)) (ghost) "у меня мартыха живая!" (Dropship Alamo Transit (69, 28, 4))
+[16:48:47]SAY: Chaburek/(Lydia Hunt) "Эх." (Hallway Stern (252, 246, 3))
+[16:48:48]SAY: Harlex5435/(Ancient Runner (628)) (ghost) "Хы" (Dropship Alamo Transit (69, 36, 4))
+[16:48:50]SAY: Chaburek/(Lydia Hunt) "Зря не учился." (Hallway Stern (252, 246, 3))
+[16:48:59]SAY: GhostPokolenie/(Young Spitter (22)) (ghost) "вот" (Dropship Alamo Transit (70, 25, 4))
+[16:49:00]ACCESS: Logout: *no key*/(EngineerConager)
+[16:49:00]ACCESS: Login: EngineerConager/(Dell Conrad) from 176.32.156.103-577737710 || BYOND v513.1526
+[16:49:03]SAY: Chaburek/(Lydia Hunt) "Вы тоже?" (Hallway Stern (252, 248, 3))
+[16:49:04]SAY: ALex13t/(Clark Elliot) "Да ладно тебе" (Hallway Stern (253, 247, 3))
+[16:49:10]SAY: GhostPokolenie/(Young Spitter (22)) (ghost) "Под трупом" (Dropship Alamo Transit (70, 25, 4))
+[16:49:11]SAY: Chaburek/(Lydia Hunt) "Ну, можете построит баррикады?" (Hallway Stern (252, 248, 3))
+[16:49:15]SAY: Chaburek/(Lydia Hunt) "Вы где все-то?" (Hallway Stern (252, 248, 3))
+[16:49:20]SAY: Chaburek/(Lydia Hunt) "Мы уже у СД." (Hallway Stern (252, 248, 3))
+[16:49:25]SAY: ALex13t/(Clark Elliot) "Крысы везде есть" (Hallway Stern (253, 247, 3))
+[16:49:29]SAY: Chaburek/(Lydia Hunt) "Так." (Hallway Stern (252, 245, 3))
+[16:49:34]SAY: Chaburek/(Lydia Hunt) "Вы можете построить?" (Hallway Stern (252, 245, 3))
+[16:49:39]SAY: Chaburek/(Lydia Hunt) "Аль нет?" (Hallway Stern (252, 245, 3))
+[16:49:39]SAY: EngineerConager/(Dell Conrad) "Так я только вышел из сна, что вообще происходит ?" (Hallway Starboard (195, 162, 3))
+[16:49:43]ADMIN: HELP: Alot/(Elder Queen): Что это была за фигня? Откуда был взрыв? Это ваших рук дело? - heard by 3 non-AFK admins.
+[16:49:50]SAY: CM.RU/(Jermaine Earl) "БЕГИ В СД БЛЯТЬ БЫТРО" (Hallway Stern (227, 261, 3))
+[16:49:55]SAY: Chaburek/(Lydia Hunt) "Так понимаю, абордаж." (Hallway Stern (253, 245, 3))
+[16:50:04]SAY: ALex13t/(Clark Elliot) "Отряд, к сд" (Hallway Stern (252, 246, 3))
+[16:50:06]SAY: Chaburek/(Lydia Hunt) "Из пластали снизу." (Hallway Stern (253, 245, 3))
+[16:50:09]ADMIN: PM: BlackCrystalic/(Young Praetorian (774))->Alot/(Elder Queen): Это OB - орбитальная пушка
+[16:50:10]SAY: Chaburek/(Lydia Hunt) "Из пластали." (Hallway Stern (253, 245, 3))
+[16:50:27]SAY: Chaburek/(Lydia Hunt) "Сделайте проволку." (Hallway Stern (253, 247, 3))
+[16:50:46]SAY: Chaburek/(Lydia Hunt) "Как-то далеко." (Hallway Stern (253, 252, 3))
+[16:50:48]ADMIN: PM: Alot/(Elder Queen)->BlackCrystalic/(Young Praetorian (774)): Блин. Вот когда я играю за маринов у меня её нет. Как против них всегда есть
+[16:50:49]SAY: Chaburek/(Lydia Hunt) "Хм." (Hallway Stern (253, 252, 3))
+[16:50:57]ADMIN: PM: BlackCrystalic/(Young Praetorian (774))->Alot/(Elder Queen): Они подготовили координаты фоба
+[16:51:04]ADMIN: PM: BlackCrystalic/(Young Praetorian (774))->Alot/(Elder Queen): было 3 выстрела
+[16:51:14]GAME: Explosion with size (0, 5, 10) in area Hallway Starboard 
+[16:51:14]GAME: Explosion with size (0, 5, 10) in area Cafeteria Starboard 
+[16:51:15]GAME: Explosion with size (0, 5, 10) in area Hallway Starboard 
+[16:51:15]GAME: Explosion with size (0, 5, 10) in area Hallway Starboard 
+[16:51:16]GAME: Explosion with size (0, 5, 10) in area Extended Mission Bunks 
+[16:51:16]GAME: Explosion with size (0, 5, 10) in area Cryo Cells 
+[16:51:16]GAME: Explosion with size (0, 5, 10) in area Space 
+[16:51:17]GAME: Explosion with size (0, 5, 10) in area Extended Mission Bunks 
+[16:51:17]SAY: Chaburek/(Lydia Hunt) "Советую всем собраться у СД." (Hallway Stern (253, 245, 3))
+[16:51:17]GAME: Explosion with size (0, 5, 10) in area Firing Range Lower 
+[16:51:17]GAME: Explosion with size (0, 5, 10) in area Space 
+[16:51:23]SAY: EngineerConager/(Dell Conrad) "Блять !" (Combat Information Center (101, 254, 3))
+[16:52:25]ADMIN: A bioscan/Queen Mother message has completed. Humans: 1 on the planet and 4 on the ship. Xenos: 0 on the planet and 1 on the ship.
+[16:52:35]ADMIN: EngineerConager/(Dell Conrad) admin-called a randomized distress beacon: Pizza Delivery
+[16:52:38]EMOTE: Alot/(Elder Queen) <B>The Elder Queen</B> roars! (Hallway Port (216, 139, 3))
+[16:52:41]SAY: Chaburek/(Lydia Hunt) "Еще один?" (Hallway Stern (253, 245, 3))
+[16:52:41]GAME: EngineerConager/(Dell Conrad) has called for an emergency evacuation.
+[16:52:51]SAY: Chaburek/(Lydia Hunt) "Открыто!" (Hallway Stern (253, 249, 3))
+[16:52:54]SAY: Chaburek/(Lydia Hunt) "Идем внутрь?" (Hallway Stern (253, 249, 3))
+[16:52:57]SAY: Chaburek/(Lydia Hunt) "Хм." (Hallway Stern (253, 249, 3))
+[16:53:01]ADMIN: BlackCrystalic/(Young Praetorian (774)) spawned /obj/item/storage/pouch/flare/full at (253,252,3)
+[16:53:13]SAY: Chaburek/(Lydia Hunt) "Как там по СД?" (Hallway Stern (252, 248, 3))
+[16:53:18]EMOTE: Alot/(Elder Queen) <B>The Elder Queen</B> roars! (Hallway Aft (183, 237, 3))
+[16:53:29]EMOTE: Alot/(Elder Queen) <B>The Elder Queen</B> roars! (Hallway Aft (172, 244, 3))
+[16:53:31]ADMIN: Artyuom/(Heather Barrows) admin ghosted.
+[16:53:31]ACCESS: Logout: *no key*/(Heather Barrows)
+[16:53:31]ACCESS: Login: Artyuom/(Heather Barrows) from 95.174.127.234-114134526 || BYOND v513.1517
+[16:53:35]ACCESS: Logout: *no key*/(Ancient Runner (628))
+[16:53:35]ACCESS: Login: Harlex5435/(Diego Hegarty) from 178.161.223.5-4085160650 || BYOND v513.1526
+[16:54:02]EMOTE: Alot/(Elder Queen) <B>The Elder Queen</B> roars! (Hallway Aft (177, 244, 3))
+[16:54:04]ACCESS: Logout: *no key*/(Heather Barrows)
+[16:54:04]ACCESS: Login: Artyuom/(Heather Barrows) from 95.174.127.234-114134526 || BYOND v513.1517
+[16:54:16]SAY: Artyuom/(Heather Barrows) "Привет" (abandoned  Centcom Control (74, 85, 2))
+[16:54:21]SAY: Harlex5435/(Diego Hegarty) "Привет" (abandoned  Centcom Control (72, 85, 2))
+[16:54:23]SAY: EngineerConager/(Dell Conrad) "Что за..." (Hallway Port (183, 141, 3))
+[16:54:29]SAY: Harlex5435/(Diego Hegarty) "Пиццу заказывали?" (abandoned  Centcom Control (72, 85, 2))
+[16:54:32]SAY: Artyuom/(Heather Barrows) "Да" (abandoned  Centcom Control (74, 85, 2))
+[16:54:37]SAY: Chaburek/(Lydia Hunt) "Снизу, на юге." (Hallway Stern (254, 248, 3))
+[16:54:39]SAY: Chaburek/(Lydia Hunt) "Одна." (Hallway Stern (254, 248, 3))
+[16:54:40]SAY: Chaburek/(Lydia Hunt) "Большая." (Hallway Stern (254, 248, 3))
+[16:54:41]ADMIN: BlackCrystalic/(Young Praetorian (774)) spawned /obj/item/clothing/glasses/welding at (258,252,3)
+[16:54:42]SAY: Artyuom/(Heather Barrows) "Щясденьги принесу" (abandoned  Centcom Control (74, 85, 2))
+[16:54:49]SAY: Artyuom/(Heather Barrows) "Идём" (abandoned  Centcom Control (74, 82, 2))
+[16:55:09]SAY: Artyuom/(Heather Barrows) "Заберай" (abandoned  Centcom Control (84, 73, 2))
+[16:55:19]SAY: Chaburek/(Lydia Hunt) "Проволку." (Hallway Stern (253, 251, 3))
+[16:55:21]SAY: Chaburek/(Lydia Hunt) "Быстрее." (Hallway Stern (253, 251, 3))
+[16:55:57]SAY: Chaburek/(Lydia Hunt) "Прорвались." (Self-Destruct Core Room (262, 253, 3))
+[16:56:24]EMOTE: Alot/(Elder Empress) <B>The Elder Empress</B> roars! (Self-Destruct Core Room (265, 254, 3))
+[16:56:28]EMOTE: Alot/(Elder Empress) <B>The Elder Empress</B> roars! (Self-Destruct Core Room (269, 257, 3))
+[16:56:36]SAY: ALex13t/(Clark Elliot) "БЫСТРЕЕ!" (Self-Destruct Core Room (267, 253, 3))
+[16:56:44]SAY: GhostPokolenie/(Young Spitter (22)) (ghost) "- королева" (Self-Destruct Core Room (265, 252, 3))
+[16:56:44]EMOTE: Alot/(Elder Empress) <B>The Elder Empress</B> hisses. (Self-Destruct Core Room (269, 256, 3))
+[16:56:48]ADMIN: Diego Hegarty (Harlex5435) launched a shuttle from the shuttle control console
+[16:56:50]SAY: GhostPokolenie/(Young Spitter (22)) (ghost) "жаль" (Self-Destruct Core Room (265, 252, 3))
+[16:56:56]ADMIN: Artyuom/(Heather Barrows) admin ghosted.
+[16:56:56]ACCESS: Logout: *no key*/(Heather Barrows)
+[16:56:56]ACCESS: Login: Artyuom/(Heather Barrows) from 95.174.127.234-114134526 || BYOND v513.1517
+[16:56:59]SAY: EngineerConager/(Dell Conrad) "ЧТО ЭТО ЗА ХУЙНЯ ?" (Self-Destruct Core Room (259, 254, 3))
+[16:57:00]GAME: Marine Minor Victory
+Game mode: Distress Signal
+Round time: 1:34
+End round player population: 12
+Total xenos spawned: 8
+Total Preds spawned: 0
+Total humans spawned: 16
+[16:57:00]GAME: Antagonists at round end were...
+[16:57:00]GAME: Xenomorphs: Elder Empress(Alot), Young Praetorian (774)(BlackCrystalic), Young Hivelord (341)(Atlasic), Young Lurker (278)(ADIBELL), Ancient Runner (628)(Harlex5435), Mature Runner (298)(GhostPokolenie), Young Spitter (22)(GhostPokolenie), Young Defender (222)(Sladk0ewka).
+[16:57:00]GAME: FREELANCERSs: Clark Elliot(ALex13t), Lydia Hunt(Chaburek), Mihara Crowe(ZyberCpechnaz), Heather Barrows(Artyuom).
+[16:57:00]GAME: Pizzas: Diego Hegarty(Harlex5435).
+[16:57:12]SAY: Chaburek/(Lydia Hunt) "Хм." (Self-Destruct Core Room (261, 256, 3))
+[16:57:15]ACCESS: Logout: *no key*/(Heather Barrows)
+[16:57:15]ACCESS: Login: Artyuom/(Heather Barrows) from 95.174.127.234-114134526 || BYOND v513.1517
+[16:57:25]ACCESS: Logout: GhostPokolenie/(Young Spitter (22))
+[16:57:29]VOTE: Custom vote started by BlackCrystalic.
+VOTE MAP (OOC>VOTE)
+[16:57:36]ADMIN: Artyuom/(Heather Barrows) admin ghosted.
+[16:57:36]ACCESS: Logout: *no key*/(Heather Barrows)
+[16:57:36]ACCESS: Login: Artyuom/(Heather Barrows) from 95.174.127.234-114134526 || BYOND v513.1517
+[16:57:43]ACCESS: Logout: Atlasic/(Young Hivelord (341))
+[16:57:49]OOC: Alot/(Elder Empress) "У меня нет желания так играть. Нафиг! Каждый грёбаный раз когда я играло квиной по мне вели арт обстрелы. Когдя я играю марином такой хрени нету. Просто люди для слива!" (Self-Destruct Core Room (261, 254, 3))
+[16:57:52]SAY: Chaburek/(Lydia Hunt) "Хм." (Self-Destruct Core Room (261, 256, 3))
+[16:58:02]ACCESS: Logout: Chaburek/(Lydia Hunt)
+[16:58:13]ACCESS: Logout: EngineerConager/(Dell Conrad)
+[16:58:16]ADMIN: BlackCrystalic/(Young Praetorian (774)) forced the self-destruct system, destroying the USS Almayer.
+[16:58:25]ACCESS: Login: Atlasic/(Young Hivelord (341)) from 91.105.139.66-2065423311 || BYOND v513.1526
+[16:58:29]ACCESS: Logout: Atlasic/(Young Hivelord (341))
+[16:58:30]VOTE: <b>Vote Result: LV-624</b>
+[16:58:38]ACCESS: Login: Atlasic/(Young Hivelord (341)) from 91.105.139.66-2065423311 || BYOND v513.1526
+[16:58:47]ACCESS: Login: Chaburek/(Lydia Hunt) from 178.46.63.9-2047396774 || BYOND v513.1513
+[16:58:50]ACCESS: Logout: Chaburek/(Lydia Hunt)
+[16:58:56]ACCESS: Login: Chaburek/(Lydia Hunt) from 178.46.63.9-2047396774 || BYOND v513.1513
+[16:59:05]ACCESS: Logout: ZyberCpechnaz/(Mihara Crowe)
+[16:59:05]ACCESS: Logout: BlackCrystalic/(Young Praetorian (774))
+[16:59:05]ACCESS: Logout: CM.RU/(Jermaine Earl)
+[16:59:05]ACCESS: Logout: Harlex5435/(Diego Hegarty)
+[16:59:05]ACCESS: Logout: Alot/(Elder Empress)
+[16:59:05]ACCESS: Logout: Atlasic/(Young Hivelord (341))
+[16:59:05]ACCESS: Logout: Artyuom/(Heather Barrows)
+[16:59:05]ACCESS: Logout: ALex13t/(Clark Elliot)
+[16:59:05]ACCESS: Logout: Chaburek/(Lydia Hunt)
+[16:59:05]ACCESS: Logout: Sladk0ewka/(Young Defender (222))

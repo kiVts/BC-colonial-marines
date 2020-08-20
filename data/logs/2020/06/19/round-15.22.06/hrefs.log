@@ -1,0 +1,1369 @@
+
+
+Starting up round 15:22:06
+---------------------
+[15:22:25]HREF: 15:22 Harlex5435 (usr:Harlex5435) || Harlex5435 src=[0x3000021];lobby_choice=ready
+[15:22:27]HREF: 15:22 Artyuom (usr:Artyuom) || Artyuom src=[0x3000020];lobby_choice=show_preferences
+[15:22:43]HREF: 15:22 Artyuom (usr:Artyuom) || _src_=prefs;preference=job;task=menu
+[15:22:47]HREF: 15:22 Artyuom (usr:Artyuom) || _src_=prefs;preference=job;task=close
+[15:22:55]HREF: 15:22 Artyuom (usr:Artyuom) || _src_=prefs;preference=job;task=menu
+[15:23:04]HREF: 15:23 BlackCrystalic (usr:BlackCrystalic) || /datum/admins src=[0x210036cf];c_mode=1
+[15:23:05]HREF: 15:23 BlackCrystalic (usr:BlackCrystalic) || /datum/admins src=[0x210036cf];c_mode2=Distress%20Signal
+[15:23:12]HREF: 15:23 Sladk0ewka (usr:Sladk0ewka) || Sladk0ewka src=[0x3000022];lobby_choice=ready
+[15:23:15]HREF: 15:23 Sladk0ewka (usr:Sladk0ewka) || Sladk0ewka src=[0x3000022];lobby_choice=ready
+[15:23:17]HREF: 15:23 Alot (usr:Alot) || Alot src=[0x300001f];lobby_choice=show_preferences
+[15:23:18]HREF: 15:23 Sladk0ewka (usr:Sladk0ewka) || Sladk0ewka src=[0x3000022];lobby_choice=show_preferences
+[15:23:21]HREF: 15:23 Alot (usr:Alot) || _src_=prefs;preference=be_special;num=0
+[15:23:23]HREF: 15:23 Alot (usr:Alot) || Alot src=[0x300001f];lobby_choice=ready
+[15:23:24]HREF: 15:23 Sladk0ewka (usr:Sladk0ewka) || _src_=prefs;preference=name;task=random
+[15:23:26]HREF: 15:23 Artyuom (usr:Artyuom) || _src_=prefs;preference=job;task=close
+[15:23:27]HREF: 15:23 Sladk0ewka (usr:Sladk0ewka) || _src_=prefs;preference=name;task=random
+[15:23:27]HREF: 15:23 Artyuom (usr:Artyuom) || _src_=prefs;preference=job;task=menu
+[15:23:29]HREF: 15:23 Sladk0ewka (usr:Sladk0ewka) || _src_=prefs;preference=name;task=random
+[15:23:30]HREF: 15:23 Sladk0ewka (usr:Sladk0ewka) || _src_=prefs;preference=name;task=random
+[15:23:32]HREF: 15:23 Sladk0ewka (usr:Sladk0ewka) || _src_=prefs;preference=name;task=random
+[15:23:35]HREF: 15:23 Sladk0ewka (usr:Sladk0ewka) || _src_=prefs;preference=name;task=random
+[15:23:36]HREF: 15:23 Sladk0ewka (usr:Sladk0ewka) || _src_=prefs;preference=name;task=random
+[15:23:38]HREF: 15:23 Sladk0ewka (usr:Sladk0ewka) || _src_=prefs;preference=name;task=random
+[15:23:40]HREF: 15:23 Sladk0ewka (usr:Sladk0ewka) || _src_=prefs;preference=name;task=random
+[15:23:42]HREF: 15:23 Artyuom (usr:Artyuom) || _src_=prefs;preference=job;task=close
+[15:23:42]HREF: 15:23 Sladk0ewka (usr:Sladk0ewka) || _src_=prefs;preference=name;task=random
+[15:23:43]HREF: 15:23 Sladk0ewka (usr:Sladk0ewka) || _src_=prefs;preference=name;task=random
+[15:23:44]HREF: 15:23 Artyuom (usr:Artyuom) || Artyuom src=[0x3000020];lobby_choice=ready
+[15:23:46]HREF: 15:23 Sladk0ewka (usr:Sladk0ewka) || _src_=prefs;preference=name;task=random
+[15:23:48]HREF: 15:23 Sladk0ewka (usr:Sladk0ewka) || _src_=prefs;preference=name;task=random
+[15:23:50]HREF: 15:23 Sladk0ewka (usr:Sladk0ewka) || _src_=prefs;preference=name;task=random
+[15:23:53]HREF: 15:23 Sladk0ewka (usr:Sladk0ewka) || _src_=prefs;preference=name;task=random
+[15:24:04]HREF: 15:24 Sladk0ewka (usr:Sladk0ewka) || _src_=prefs;preference=name;task=input
+[15:24:17]HREF: 15:24 Sladk0ewka (usr:Sladk0ewka) || _src_=prefs;preference=h_style;task=input
+[15:24:22]HREF: 15:24 Sladk0ewka (usr:Sladk0ewka) || _src_=prefs;preference=h_style;task=input
+[15:24:30]HREF: 15:24 Sladk0ewka (usr:Sladk0ewka) || _src_=prefs;preference=h_style;task=input
+[15:24:39]HREF: 15:24 Sladk0ewka (usr:Sladk0ewka) || _src_=prefs;preference=h_style;task=input
+[15:24:43]HREF: 15:24 Sladk0ewka (usr:Sladk0ewka) || _src_=prefs;preference=h_style;task=input
+[15:24:51]HREF: 15:24 Sladk0ewka (usr:Sladk0ewka) || Sladk0ewka src=[0x3000022];preference=save
+[15:24:54]HREF: 15:24 Sladk0ewka (usr:Sladk0ewka) || Sladk0ewka src=[0x3000022];lobby_choice=ready
+[15:24:55]HREF: 15:24 Sladk0ewka (usr:Sladk0ewka) || Sladk0ewka src=[0x3000022];lobby_choice=ready
+[15:24:57]HREF: 15:24 Sladk0ewka (usr:Sladk0ewka) || Sladk0ewka src=[0x3000022];lobby_choice=ready
+[15:24:58]HREF: 15:24 Sladk0ewka (usr:Sladk0ewka) || Sladk0ewka src=[0x3000022];lobby_choice=ready
+[15:25:19]HREF: 15:25 Artyuom (usr:Artyuom) || Artyuom src=[0x3000020];lobby_choice=ready
+[15:25:21]HREF: 15:25 Sladk0ewka (usr:Sladk0ewka) || Sladk0ewka src=[0x3000022];lobby_choice=ready
+[15:25:21]HREF: 15:25 Artyuom (usr:Artyuom) || Artyuom src=[0x3000020];lobby_choice=late_join
+[15:25:24]HREF: 15:25 Artyuom (usr:Artyuom) || Artyuom src=[0x3000020];lobby_choice=SelectedJob;job_selected=Squad%20Medic
+[15:25:25]HREF: 15:25 Sladk0ewka (usr:Sladk0ewka) || Sladk0ewka src=[0x3000022];lobby_choice=late_join
+[15:25:31]HREF: 15:25 Sladk0ewka (usr:Sladk0ewka) || Sladk0ewka src=[0x3000022];lobby_choice=SelectedJob;job_selected=Squad%20Smartgunner
+[15:25:36]HREF: 15:25 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=show_preferences
+[15:25:42]HREF: 15:25 Sewa (usr:Sewa) || Sewa src=[0x3000043];lobby_choice=late_join
+[15:25:43]HREF: 15:25 Artyuom (usr:Johnny Vietnam) || _=1592569546662
+[15:25:43]HREF: 15:25 Artyuom (usr:Johnny Vietnam) || _=1592569546663
+[15:25:45]HREF: 15:25 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100613d];vend=5;cat=0
+[15:25:46]HREF: 15:25 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=ready
+[15:25:46]HREF: 15:25 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100613d];vend=5;cat=0
+[15:25:47]HREF: 15:25 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100613d];vend=5;cat=0
+[15:25:47]HREF: 15:25 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=ready
+[15:25:48]HREF: 15:25 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100613d];vend=5;cat=0
+[15:25:48]HREF: 15:25 Sladk0ewka (usr:Evan Tomato) || _=1592569555207
+[15:25:48]HREF: 15:25 Sladk0ewka (usr:Evan Tomato) || _=1592569555208
+[15:25:49]HREF: 15:25 Sewa (usr:Sewa) || Sewa src=[0x3000043];lobby_choice=late_join
+[15:25:49]HREF: 15:25 Sladk0ewka (usr:Evan Tomato) || /datum/nanoui src=[0x21006166];vend=7;cat=0
+[15:25:53]HREF: 15:25 Sewa (usr:Sewa) || Sewa src=[0x3000043];lobby_choice=late_join
+[15:25:54]HREF: 15:25 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=ready
+[15:26:00]HREF: 15:26 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=ready
+[15:26:01]HREF: 15:26 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=ready
+[15:26:02]HREF: 15:26 Harlex5435 (usr:Nickolas Stone) || _=1592569567795
+[15:26:02]HREF: 15:26 Harlex5435 (usr:Nickolas Stone) || _=1592569567796
+[15:26:04]HREF: 15:26 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x2100616c];vend=1;cat=0
+[15:26:06]HREF: 15:26 Sewa (usr:Sewa) || Sewa src=[0x3000043];lobby_choice=late_join
+[15:26:07]HREF: 15:26 Sewa (usr:Sewa) || Sewa src=[0x3000043];lobby_choice=late_join
+[15:26:07]HREF: 15:26 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x2100616c];vend=1;cat=0
+[15:26:09]HREF: 15:26 Sewa (usr:Sewa) || Sewa src=[0x3000043];lobby_choice=observe
+[15:26:13]HREF: 15:26 Sewa (usr:Sewa) || Sewa src=[0x3000043];lobby_choice=late_join_xeno
+[15:26:15]HREF: 15:26 Sewa (usr:Sewa) || Sewa src=[0x3000043];lobby_choice=late_join
+[15:26:15]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || _=1592569578716
+[15:26:15]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || _=1592569578717
+[15:26:19]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006174];vend=2
+[15:26:22]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006174];vend=3
+[15:26:23]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006174];vend=4
+[15:26:23]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006174];vend=6
+[15:26:24]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006174];vend=5
+[15:26:25]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006174];vend=7
+[15:26:28]HREF: 15:26 Sladk0ewka (usr:Evan Tomato) || _=1592569594615
+[15:26:28]HREF: 15:26 Sladk0ewka (usr:Evan Tomato) || _=1592569594616
+[15:26:28]HREF: 15:26 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=manifest
+[15:26:29]HREF: 15:26 Sladk0ewka (usr:Evan Tomato) || /datum/nanoui src=[0x21006172];vend=2
+[15:26:36]HREF: 15:26 Sladk0ewka (usr:Evan Tomato) || /datum/nanoui src=[0x21006172];vend=3
+[15:26:37]HREF: 15:26 Sewa (usr:Sewa) || Sewa src=[0x3000045];lobby_choice=late_join
+[15:26:39]HREF: 15:26 Sladk0ewka (usr:Evan Tomato) || /datum/nanoui src=[0x21006172];vend=4
+[15:26:40]HREF: 15:26 Harlex5435 (usr:Nickolas Stone) || _=1592569605773
+[15:26:40]HREF: 15:26 Harlex5435 (usr:Nickolas Stone) || _=1592569605774
+[15:26:40]HREF: 15:26 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x21006181];vend=2
+[15:26:41]HREF: 15:26 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x21006181];vend=3
+[15:26:41]HREF: 15:26 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x21006181];vend=4
+[15:26:42]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006174];vend=9
+[15:26:42]HREF: 15:26 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x21006181];vend=5
+[15:26:43]HREF: 15:26 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=late_join
+[15:26:44]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006174];vend=16
+[15:26:45]HREF: 15:26 Sladk0ewka (usr:Evan Tomato) || /datum/nanoui src=[0x21006172];vend=5
+[15:26:45]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006174];vend=19
+[15:26:46]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006174];vend=23
+[15:26:47]HREF: 15:26 Sladk0ewka (usr:Evan Tomato) || /datum/nanoui src=[0x21006172];vend=6
+[15:26:51]HREF: 15:26 Harlex5435 (usr:Nickolas Stone) || _=1592569617291
+[15:26:51]HREF: 15:26 Harlex5435 (usr:Nickolas Stone) || _=1592569617292
+[15:26:51]HREF: 15:26 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=manifest
+[15:26:54]HREF: 15:26 Sladk0ewka (usr:Evan Tomato) || /datum/nanoui src=[0x21006172];vend=8
+[15:26:55]HREF: 15:26 Sladk0ewka (usr:Evan Tomato) || /datum/nanoui src=[0x21006172];vend=11
+[15:26:57]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006174];vend=25
+[15:26:59]HREF: 15:26 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=late_join
+[15:27:01]HREF: 15:27 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x210062bb];vend=3
+[15:27:01]HREF: 15:27 ZyberCpechnaz (usr:ZyberCpechnaz) || ZyberCpechnaz src=[0x300001c];lobby_choice=ready
+[15:27:02]HREF: 15:27 ZyberCpechnaz (usr:ZyberCpechnaz) || ZyberCpechnaz src=[0x300001c];lobby_choice=late_join
+[15:27:03]HREF: 15:27 Artyuom (usr:Johnny Vietnam) || _=1592569626284
+[15:27:03]HREF: 15:27 Artyuom (usr:Johnny Vietnam) || _=1592569626285
+[15:27:04]HREF: 15:27 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210062bb];vend=2
+[15:27:07]HREF: 15:27 Sladk0ewka (usr:Evan Tomato) || /datum/nanoui src=[0x21006172];vend=22
+[15:27:07]HREF: 15:27 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=late_join_xeno
+[15:27:10]HREF: 15:27 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=late_join_xeno
+[15:27:10]HREF: 15:27 Sladk0ewka (usr:Evan Tomato) || /datum/nanoui src=[0x21006172];vend=23
+[15:27:14]HREF: 15:27 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210062bb];vend=12
+[15:27:15]HREF: 15:27 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210062bb];vend=13
+[15:27:15]HREF: 15:27 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210062bb];vend=14
+[15:27:15]HREF: 15:27 Sewa (usr:Sewa) || Sewa src=[0x3000045];lobby_choice=SelectedJob;job_selected=Squad%20Medic
+[15:27:16]HREF: 15:27 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210062bb];vend=17
+[15:27:18]HREF: 15:27 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=late_join
+[15:27:22]HREF: 15:27 Sladk0ewka (usr:Evan Tomato) || /datum/nanoui src=[0x21006172];vend=26
+[15:27:24]HREF: 15:27 ZyberCpechnaz (usr:ZyberCpechnaz) || ZyberCpechnaz src=[0x300001c];lobby_choice=SelectedJob;job_selected=Executive%20Officer
+[15:27:30]HREF: 15:27 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=manifest
+[15:27:33]HREF: 15:27 CM.RU (usr:CM.RU) || CM.RU src=[0x300001d];lobby_choice=ready
+[15:27:33]HREF: 15:27 CM.RU (usr:CM.RU) || CM.RU src=[0x300001d];lobby_choice=late_join
+[15:27:34]HREF: 15:27 CM.RU (usr:CM.RU) || CM.RU src=[0x300001d];lobby_choice=SelectedJob;job_selected=Commander
+[15:27:36]HREF: 15:27 Sladk0ewka (usr:Evan Tomato) || _=1592569663014
+[15:27:36]HREF: 15:27 Sladk0ewka (usr:Evan Tomato) || _=1592569663015
+[15:27:36]HREF: 15:27 Harlex5435 (usr:Nickolas Stone) || _=1592569662425
+[15:27:36]HREF: 15:27 Harlex5435 (usr:Nickolas Stone) || _=1592569662426
+[15:27:38]HREF: 15:27 Sladk0ewka (usr:Evan Tomato) || /datum/nanoui src=[0x210063a3];vend=2
+[15:27:40]HREF: 15:27 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=late_join
+[15:27:40]HREF: 15:27 Harlex5435 (usr:Nickolas Stone) || _=1592569666248
+[15:27:40]HREF: 15:27 Harlex5435 (usr:Nickolas Stone) || _=1592569666249
+[15:27:43]HREF: 15:27 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x210063b2];vend=22
+[15:27:43]HREF: 15:27 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x210063b2];vend=22
+[15:27:47]HREF: 15:27 Harlex5435 (usr:Nickolas Stone) || _=1592569673668
+[15:27:47]HREF: 15:27 Harlex5435 (usr:Nickolas Stone) || _=1592569673669
+[15:27:50]HREF: 15:27 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=manifest
+[15:27:50]HREF: 15:27 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x210063cd];vend=12
+[15:27:57]HREF: 15:27 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x210063cd];vend=18
+[15:28:04]HREF: 15:28 Sewa (usr:Kelvin Focell) || _=1592569689923
+[15:28:04]HREF: 15:28 Sewa (usr:Kelvin Focell) || _=1592569689924
+[15:28:05]HREF: 15:28 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210062bb];vend=27
+[15:28:06]HREF: 15:28 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210062bb];vend=27
+[15:28:07]HREF: 15:28 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210062bb];vend=28
+[15:28:08]HREF: 15:28 Sewa (usr:Kelvin Focell) || _=1592569694566
+[15:28:08]HREF: 15:28 Sewa (usr:Kelvin Focell) || _=1592569694567
+[15:28:09]HREF: 15:28 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210063c6];vend=2
+[15:28:10]HREF: 15:28 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210063c6];vend=3
+[15:28:11]HREF: 15:28 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210063c6];vend=4
+[15:28:12]HREF: 15:28 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210063c6];vend=5
+[15:28:12]HREF: 15:28 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210063c6];vend=6
+[15:28:13]HREF: 15:28 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210063c6];vend=7
+[15:28:13]HREF: 15:28 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=late_join
+[15:28:22]HREF: 15:28 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=manifest
+[15:28:27]HREF: 15:28 Sewa (usr:Kelvin Focell) || _=1592569714028
+[15:28:27]HREF: 15:28 Sewa (usr:Kelvin Focell) || _=1592569714029
+[15:28:28]HREF: 15:28 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=late_join
+[15:28:28]HREF: 15:28 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=10
+[15:28:31]HREF: 15:28 Harlex5435 (usr:Nickolas Stone) || _=1592569717360
+[15:28:31]HREF: 15:28 Harlex5435 (usr:Nickolas Stone) || _=1592569717361
+[15:28:33]HREF: 15:28 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x210063b1];vend=11
+[15:28:33]HREF: 15:28 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=16
+[15:28:33]HREF: 15:28 Artyuom (usr:Johnny Vietnam) || _=1592569716977
+[15:28:33]HREF: 15:28 Artyuom (usr:Johnny Vietnam) || _=1592569716978
+[15:28:36]HREF: 15:28 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=late_join_xeno
+[15:28:37]HREF: 15:28 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=19
+[15:28:37]HREF: 15:28 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x210063b1];vend=11
+[15:28:37]HREF: 15:28 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210063ad];vend=5;cat=0
+[15:28:38]HREF: 15:28 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=late_join_xeno
+[15:28:41]HREF: 15:28 ADIBELL (usr:ADIBELL) || ADIBELL src=[0x300004c];lobby_choice=show_preferences
+[15:28:41]HREF: 15:28 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x210063b1];vend=11
+[15:28:41]HREF: 15:28 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210063ad];vend=23;cat=0
+[15:28:41]HREF: 15:28 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210063ad];vend=22;cat=0
+[15:28:42]HREF: 15:28 ADIBELL (usr:ADIBELL) || ADIBELL src=[0x300004c];lobby_choice=show_preferences
+[15:28:43]HREF: 15:28 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=late_join_xeno
+[15:28:45]HREF: 15:28 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=23
+[15:28:45]HREF: 15:28 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=manifest
+[15:28:45]HREF: 15:28 CM.RU (usr:Jermaine Earl) || _=1592569725440
+[15:28:45]HREF: 15:28 CM.RU (usr:Jermaine Earl) || _=1592569725441
+[15:28:50]HREF: 15:28 CM.RU (usr:Jermaine Earl) || _=1592569730121
+[15:28:50]HREF: 15:28 CM.RU (usr:Jermaine Earl) || _=1592569730122
+[15:28:50]HREF: 15:28 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210063ad];vend=19;cat=0
+[15:28:50]HREF: 15:28 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=24
+[15:28:53]HREF: 15:28 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210063ad];vend=18;cat=0
+[15:28:54]HREF: 15:28 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210063ad];vend=18;cat=0
+[15:28:54]HREF: 15:28 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210063ad];vend=18;cat=0
+[15:28:55]HREF: 15:28 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210063ad];vend=18;cat=0
+[15:28:56]HREF: 15:28 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210063ad];vend=18;cat=0
+[15:28:57]HREF: 15:28 Harlex5435 (usr:Nickolas Stone) || _=1592569742188
+[15:28:57]HREF: 15:28 Harlex5435 (usr:Nickolas Stone) || _=1592569742189
+[15:28:57]HREF: 15:28 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210063ad];vend=18;cat=0
+[15:28:57]HREF: 15:28 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x210063b1];vend=42;cat=0
+[15:28:57]HREF: 15:28 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x210063b1];vend=42;cat=0
+[15:28:58]HREF: 15:28 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x210063b1];vend=42;cat=0
+[15:28:58]HREF: 15:28 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x210063b1];vend=42;cat=0
+[15:28:59]HREF: 15:28 Sladk0ewka (usr:Evan Tomato) || /datum/nanoui src=[0x210063a3];vend=4
+[15:28:59]HREF: 15:28 Sewa (usr:Kelvin Focell) || _=1592569745612
+[15:28:59]HREF: 15:28 Sewa (usr:Kelvin Focell) || _=1592569745613
+[15:29:01]HREF: 15:29 ADIBELL (usr:ADIBELL) || ADIBELL src=[0x300004c];preference=save
+[15:29:01]HREF: 15:29 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=2
+[15:29:02]HREF: 15:29 ADIBELL (usr:ADIBELL) || ADIBELL src=[0x300004c];preference=save
+[15:29:03]HREF: 15:29 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x21006517];vend=12;cat=0
+[15:29:03]HREF: 15:29 ADIBELL (usr:ADIBELL) || ADIBELL src=[0x300004c];preference=save
+[15:29:04]HREF: 15:29 ADIBELL (usr:ADIBELL) || ADIBELL src=[0x300004c];preference=save
+[15:29:06]HREF: 15:29 ADIBELL (usr:ADIBELL) || ADIBELL src=[0x300004c];preference=save
+[15:29:10]HREF: 15:29 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=late_join
+[15:29:18]HREF: 15:29 ADIBELL (usr:ADIBELL) || ADIBELL src=[0x300004c];lobby_choice=late_join
+[15:29:25]HREF: 15:29 Harlex5435 (usr:Nickolas Stone) || _=1592569771250
+[15:29:25]HREF: 15:29 Harlex5435 (usr:Nickolas Stone) || _=1592569771251
+[15:29:27]HREF: 15:29 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x2100652f];vend=19
+[15:29:37]HREF: 15:29 ADIBELL (usr:ADIBELL) || ADIBELL src=[0x300004c];lobby_choice=late_join
+[15:29:37]HREF: 15:29 Sladk0ewka (usr:Evan Tomato) || /datum/nanoui src=[0x210063a3];vend=13
+[15:29:44]HREF: 15:29 ADIBELL (usr:ADIBELL) || ADIBELL src=[0x300004c];lobby_choice=late_join
+[15:29:46]HREF: 15:29 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=4
+[15:29:49]HREF: 15:29 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=late_join
+[15:29:51]HREF: 15:29 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=17
+[15:29:53]HREF: 15:29 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=13
+[15:29:58]HREF: 15:29 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=18
+[15:29:59]HREF: 15:29 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=16
+[15:30:09]HREF: 15:30 Sladk0ewka (usr:Evan Tomato) || _=1592569815921
+[15:30:09]HREF: 15:30 Sladk0ewka (usr:Evan Tomato) || _=1592569815922
+[15:30:26]HREF: 15:30 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=25
+[15:30:27]HREF: 15:30 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=25
+[15:30:28]HREF: 15:30 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=25
+[15:30:28]HREF: 15:30 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=25
+[15:30:40]HREF: 15:30 Sladk0ewka (usr:Evan Tomato) || _=1592569847279
+[15:30:40]HREF: 15:30 Sladk0ewka (usr:Evan Tomato) || _=1592569847280
+[15:30:45]HREF: 15:30 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=38
+[15:30:49]HREF: 15:30 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=35
+[15:30:50]HREF: 15:30 ADIBELL (usr:ADIBELL) || ADIBELL src=[0x300004c];lobby_choice=SelectedJob;job_selected=Squad%20Leader
+[15:30:51]HREF: 15:30 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=35
+[15:30:52]HREF: 15:30 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=36
+[15:30:53]HREF: 15:30 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=36
+[15:31:00]HREF: 15:31 Sladk0ewka (usr:Evan Tomato) || _=1592569867319
+[15:31:00]HREF: 15:31 Sladk0ewka (usr:Evan Tomato) || _=1592569867320
+[15:31:04]HREF: 15:31 Sladk0ewka (usr:Evan Tomato) || /datum/nanoui src=[0x210065d7];vend=2;cat=0
+[15:31:08]HREF: 15:31 Sladk0ewka (usr:Evan Tomato) || /datum/nanoui src=[0x210065d7];vend=20;cat=0
+[15:31:16]HREF: 15:31 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=late_join
+[15:31:34]HREF: 15:31 Sewa (usr:Kelvin Focell) || _=1592569900208
+[15:31:34]HREF: 15:31 Sewa (usr:Kelvin Focell) || _=1592569900209
+[15:31:37]HREF: 15:31 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=3;cat=0
+[15:31:44]HREF: 15:31 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=19;cat=0
+[15:31:47]HREF: 15:31 Sladk0ewka (usr:Evan Tomato) || _=1592569914032
+[15:31:47]HREF: 15:31 Sladk0ewka (usr:Evan Tomato) || _=1592569914033
+[15:31:50]HREF: 15:31 Harlex5435 (usr:Nickolas Stone) || _=1592569916586
+[15:31:50]HREF: 15:31 Harlex5435 (usr:Nickolas Stone) || _=1592569916587
+[15:31:52]HREF: 15:31 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x210065ca];vend=7;cat=0
+[15:31:53]HREF: 15:31 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x210065ca];vend=7;cat=0
+[15:31:55]HREF: 15:31 Sladk0ewka (usr:Evan Tomato) || /datum/nanoui src=[0x2100616a];vend=5;cat=0
+[15:31:56]HREF: 15:31 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=19;cat=0
+[15:31:58]HREF: 15:31 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=late_join
+[15:32:03]HREF: 15:32 Sladk0ewka (usr:Evan Tomato) || /datum/nanoui src=[0x2100616a];vend=16;cat=0
+[15:32:05]HREF: 15:32 Harlex5435 (usr:Nickolas Stone) || _=1592569931151
+[15:32:05]HREF: 15:32 Harlex5435 (usr:Nickolas Stone) || _=1592569931152
+[15:32:05]HREF: 15:32 Sladk0ewka (usr:Evan Tomato) || /datum/nanoui src=[0x2100616a];vend=23;cat=0
+[15:32:06]HREF: 15:32 Sladk0ewka (usr:Evan Tomato) || /datum/nanoui src=[0x2100616a];vend=22;cat=0
+[15:32:06]HREF: 15:32 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210062bb];vend=23;cat=0
+[15:32:07]HREF: 15:32 CM.RU (usr:Jermaine Earl) || The safe src=[0x20141dc];increment=1
+[15:32:07]HREF: 15:32 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x21001fac];vend=8;cat=0
+[15:32:08]HREF: 15:32 CM.RU (usr:Jermaine Earl) || The safe src=[0x20141dc];increment=1
+[15:32:08]HREF: 15:32 CM.RU (usr:Jermaine Earl) || The safe src=[0x20141dc];increment=1
+[15:32:09]HREF: 15:32 CM.RU (usr:Jermaine Earl) || The safe src=[0x20141dc];increment=1
+[15:32:09]HREF: 15:32 CM.RU (usr:Jermaine Earl) || The safe src=[0x20141dc];increment2=1
+[15:32:10]HREF: 15:32 CM.RU (usr:Jermaine Earl) || The safe src=[0x20141dc];increment2=1
+[15:32:10]HREF: 15:32 CM.RU (usr:Jermaine Earl) || The safe src=[0x20141dc];increment2=1
+[15:32:11]HREF: 15:32 CM.RU (usr:Jermaine Earl) || The safe src=[0x20141dc];increment2=1
+[15:32:12]HREF: 15:32 CM.RU (usr:Jermaine Earl) || The safe src=[0x20141dc];open=1
+[15:32:14]HREF: 15:32 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x21001fac];vend=5;cat=0
+[15:32:16]HREF: 15:32 CM.RU (usr:Jermaine Earl) || The safe src=[0x20141dc];retrieve=[0x20141f4]
+[15:32:18]HREF: 15:32 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x21001fac];vend=6;cat=0
+[15:32:22]HREF: 15:32 CM.RU (usr:Jermaine Earl) || The safe src=[0x20141dc];retrieve=[0x20141e8]
+[15:32:23]HREF: 15:32 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x21001fac];vend=4;cat=0
+[15:32:24]HREF: 15:32 CM.RU (usr:Jermaine Earl) || The safe src=[0x20141dc];retrieve=[0x20141df]
+[15:32:24]HREF: 15:32 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x21001fac];vend=3;cat=0
+[15:32:25]HREF: 15:32 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x21001fac];vend=2;cat=0
+[15:32:26]HREF: 15:32 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x21001fac];vend=1;cat=0
+[15:32:30]HREF: 15:32 ADIBELL (usr:Magomed Sharipiv) || _=1592569954327
+[15:32:30]HREF: 15:32 ADIBELL (usr:Magomed Sharipiv) || _=1592569954328
+[15:32:31]HREF: 15:32 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x2100567c];vend=2
+[15:32:32]HREF: 15:32 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x2100567c];vend=3
+[15:32:32]HREF: 15:32 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x2100567c];vend=4
+[15:32:33]HREF: 15:32 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x2100567c];vend=5
+[15:32:33]HREF: 15:32 Sladk0ewka (usr:Evan Tomato) || _=1592569959852
+[15:32:33]HREF: 15:32 Sladk0ewka (usr:Evan Tomato) || _=1592569959853
+[15:32:33]HREF: 15:32 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x2100567c];vend=6
+[15:32:34]HREF: 15:32 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x2100567c];vend=7
+[15:32:36]HREF: 15:32 Sewa (usr:Kelvin Focell) || _=1592569962577
+[15:32:36]HREF: 15:32 Sewa (usr:Kelvin Focell) || _=1592569962578
+[15:32:38]HREF: 15:32 Sladk0ewka (usr:Evan Tomato) || /datum/nanoui src=[0x210065ed];vend=17;cat=0
+[15:32:44]HREF: 15:32 ADIBELL (usr:Magomed Sharipiv) || _=1592569968508
+[15:32:44]HREF: 15:32 ADIBELL (usr:Magomed Sharipiv) || _=1592569968509
+[15:32:47]HREF: 15:32 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=manifest
+[15:32:55]HREF: 15:32 Artyuom (usr:Johnny Vietnam) || _=1592569978318
+[15:32:55]HREF: 15:32 Artyuom (usr:Johnny Vietnam) || _=1592569978319
+[15:32:58]HREF: 15:32 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210065ec];vend=11;cat=0
+[15:33:07]HREF: 15:33 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=late_join
+[15:33:08]HREF: 15:33 ADIBELL (usr:Magomed Sharipiv) || _=1592569993073
+[15:33:08]HREF: 15:33 ADIBELL (usr:Magomed Sharipiv) || _=1592569993074
+[15:33:12]HREF: 15:33 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x21001fa9];vend=15
+[15:33:28]HREF: 15:33 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=manifest
+[15:33:34]HREF: 15:33 ADIBELL (usr:Magomed Sharipiv) || _=1592570019066
+[15:33:34]HREF: 15:33 ADIBELL (usr:Magomed Sharipiv) || _=1592570019067
+[15:33:36]HREF: 15:33 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=late_join
+[15:33:43]HREF: 15:33 ADIBELL (usr:Magomed Sharipiv) || _=1592570027861
+[15:33:43]HREF: 15:33 ADIBELL (usr:Magomed Sharipiv) || _=1592570027862
+[15:33:49]HREF: 15:33 Harlex5435 (usr:Nickolas Stone) || _=1592570035492
+[15:33:49]HREF: 15:33 Harlex5435 (usr:Nickolas Stone) || _=1592570035493
+[15:33:51]HREF: 15:33 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x21001fa9];vend=28
+[15:33:53]HREF: 15:33 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x21001fa9];vend=27
+[15:33:55]HREF: 15:33 Harlex5435 (usr:Nickolas Stone) || /datum/nanoui src=[0x21005674];vend=21;cat=0
+[15:34:12]HREF: 15:34 ADIBELL (usr:Magomed Sharipiv) || _=1592570056841
+[15:34:12]HREF: 15:34 ADIBELL (usr:Magomed Sharipiv) || _=1592570056842
+[15:34:13]HREF: 15:34 CM.RU (usr:Jermaine Earl) || _=1592570053076
+[15:34:13]HREF: 15:34 CM.RU (usr:Jermaine Earl) || _=1592570053077
+[15:34:14]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=1;cat=0
+[15:34:14]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=2;cat=0
+[15:34:15]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=3;cat=0
+[15:34:15]HREF: 15:34 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x21005698];vend=2
+[15:34:15]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=4;cat=0
+[15:34:15]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=6;cat=0
+[15:34:16]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=7;cat=0
+[15:34:16]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=5;cat=0
+[15:34:17]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=11;cat=0
+[15:34:17]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=8;cat=0
+[15:34:18]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=10;cat=0
+[15:34:18]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=12;cat=0
+[15:34:19]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=10;cat=0
+[15:34:19]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=9;cat=0
+[15:34:20]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=12;cat=0
+[15:34:20]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=12;cat=0
+[15:34:21]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=11;cat=0
+[15:34:21]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=14;cat=0
+[15:34:22]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=14;cat=0
+[15:34:23]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=16;cat=0
+[15:34:23]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=11;cat=0
+[15:34:23]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=11;cat=0
+[15:34:26]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=14;cat=0
+[15:34:27]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=15;cat=0
+[15:34:27]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=17;cat=0
+[15:34:28]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=23;cat=0
+[15:34:28]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=25;cat=0
+[15:34:29]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=21;cat=0
+[15:34:30]HREF: 15:34 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=22;cat=0
+[15:34:41]HREF: 15:34 ADIBELL (usr:Magomed Sharipiv) || _=1592570085639
+[15:34:41]HREF: 15:34 ADIBELL (usr:Magomed Sharipiv) || _=1592570085640
+[15:35:02]HREF: 15:35 CM.RU (usr:Jermaine Earl) || _=1592570102202
+[15:35:02]HREF: 15:35 CM.RU (usr:Jermaine Earl) || _=1592570102203
+[15:35:02]HREF: 15:35 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x21005697];vend=13
+[15:35:04]HREF: 15:35 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x21005697];vend=14
+[15:35:04]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=22;cat=0
+[15:35:04]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=20;cat=0
+[15:35:05]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=25;cat=0
+[15:35:05]HREF: 15:35 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x21005697];vend=15
+[15:35:05]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=23;cat=0
+[15:35:06]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=28;cat=0
+[15:35:06]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=25;cat=0
+[15:35:07]HREF: 15:35 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x21005697];vend=7
+[15:35:07]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=29;cat=0
+[15:35:08]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=26;cat=0
+[15:35:08]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=19;cat=0
+[15:35:09]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=11;cat=0
+[15:35:09]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=5;cat=0
+[15:35:10]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=17;cat=0
+[15:35:10]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=18;cat=0
+[15:35:11]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=19;cat=0
+[15:35:11]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=18;cat=0
+[15:35:12]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=16;cat=0
+[15:35:12]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=14;cat=0
+[15:35:12]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=13;cat=0
+[15:35:13]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=11;cat=0
+[15:35:13]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=9;cat=0
+[15:35:14]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=8;cat=0
+[15:35:14]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=5;cat=0
+[15:35:15]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=4;cat=0
+[15:35:15]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=5;cat=0
+[15:35:15]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=7;cat=0
+[15:35:16]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=9;cat=0
+[15:35:16]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=4;cat=0
+[15:35:17]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=1;cat=0
+[15:35:17]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=2;cat=0
+[15:35:18]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=3;cat=0
+[15:35:18]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=4;cat=0
+[15:35:19]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=6;cat=0
+[15:35:19]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=8;cat=0
+[15:35:20]HREF: 15:35 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=late_join
+[15:35:20]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=10;cat=0
+[15:35:20]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=15;cat=0
+[15:35:21]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=22;cat=0
+[15:35:22]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=21;cat=0
+[15:35:22]HREF: 15:35 ADIBELL (usr:Magomed Sharipiv) || _=1592570126469
+[15:35:22]HREF: 15:35 ADIBELL (usr:Magomed Sharipiv) || _=1592570126470
+[15:35:22]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=20;cat=0
+[15:35:22]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=21;cat=0
+[15:35:23]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=26;cat=0
+[15:35:23]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=28;cat=0
+[15:35:24]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=27;cat=0
+[15:35:24]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=29;cat=0
+[15:35:25]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=28;cat=0
+[15:35:25]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=29;cat=0
+[15:35:26]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=29;cat=0
+[15:35:26]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=28;cat=0
+[15:35:27]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=26;cat=0
+[15:35:27]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=27;cat=0
+[15:35:28]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=27;cat=0
+[15:35:28]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=27;cat=0
+[15:35:28]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=27;cat=0
+[15:35:29]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=27;cat=0
+[15:35:29]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=27;cat=0
+[15:35:30]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=27;cat=0
+[15:35:30]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=27;cat=0
+[15:35:30]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=27;cat=0
+[15:35:31]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=24;cat=0
+[15:35:31]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=24;cat=0
+[15:35:32]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=24;cat=0
+[15:35:32]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=24;cat=0
+[15:35:33]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=23;cat=0
+[15:35:33]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=23;cat=0
+[15:35:33]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=22;cat=0
+[15:35:34]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=21;cat=0
+[15:35:34]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=20;cat=0
+[15:35:35]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=20;cat=0
+[15:35:35]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=19;cat=0
+[15:35:35]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=19;cat=0
+[15:35:36]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=18;cat=0
+[15:35:36]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=18;cat=0
+[15:35:37]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=18;cat=0
+[15:35:37]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=18;cat=0
+[15:35:38]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=18;cat=0
+[15:35:38]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=17;cat=0
+[15:35:39]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=18;cat=0
+[15:35:39]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=17;cat=0
+[15:35:40]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=16;cat=0
+[15:35:40]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=16;cat=0
+[15:35:41]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=16;cat=0
+[15:35:41]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=15;cat=0
+[15:35:42]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=16;cat=0
+[15:35:43]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=13;cat=0
+[15:35:43]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=13;cat=0
+[15:35:44]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=15;cat=0
+[15:35:45]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=16;cat=0
+[15:35:45]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=15;cat=0
+[15:35:46]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=6;cat=0
+[15:35:46]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=7;cat=0
+[15:35:47]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=6;cat=0
+[15:35:47]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=7;cat=0
+[15:35:47]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=7;cat=0
+[15:35:48]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=7;cat=0
+[15:35:48]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=7;cat=0
+[15:35:49]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=7;cat=0
+[15:35:49]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=4;cat=0
+[15:35:50]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=4;cat=0
+[15:35:50]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=3;cat=0
+[15:35:50]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=3;cat=0
+[15:35:51]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=3;cat=0
+[15:35:51]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=3;cat=0
+[15:35:52]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=4;cat=0
+[15:35:52]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=4;cat=0
+[15:35:53]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=3;cat=0
+[15:35:53]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=3;cat=0
+[15:35:54]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=3;cat=0
+[15:35:54]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=4;cat=0
+[15:35:54]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=4;cat=0
+[15:35:55]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=3;cat=0
+[15:35:56]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=8;cat=0
+[15:35:57]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=2;cat=0
+[15:35:58]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=1;cat=0
+[15:35:58]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=2;cat=0
+[15:35:59]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=2;cat=0
+[15:35:59]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=2;cat=0
+[15:35:59]HREF: 15:35 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=1;cat=0
+[15:36:00]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=1;cat=0
+[15:36:00]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=1;cat=0
+[15:36:01]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=1;cat=0
+[15:36:01]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=1;cat=0
+[15:36:01]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=1;cat=0
+[15:36:02]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=1;cat=0
+[15:36:02]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=1;cat=0
+[15:36:03]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=1;cat=0
+[15:36:03]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=1;cat=0
+[15:36:03]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=1;cat=0
+[15:36:04]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=2;cat=0
+[15:36:04]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=2;cat=0
+[15:36:05]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=2;cat=0
+[15:36:05]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=2;cat=0
+[15:36:05]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=2;cat=0
+[15:36:06]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=2;cat=0
+[15:36:06]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=2;cat=0
+[15:36:07]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=2;cat=0
+[15:36:07]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=8;cat=0
+[15:36:08]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=9;cat=0
+[15:36:08]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=9;cat=0
+[15:36:08]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=9;cat=0
+[15:36:09]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=10;cat=0
+[15:36:09]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=11;cat=0
+[15:36:10]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=11;cat=0
+[15:36:10]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=11;cat=0
+[15:36:11]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=11;cat=0
+[15:36:11]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=9;cat=0
+[15:36:11]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=8;cat=0
+[15:36:12]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=8;cat=0
+[15:36:13]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=8;cat=0
+[15:36:13]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=9;cat=0
+[15:36:13]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=9;cat=0
+[15:36:14]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=8;cat=0
+[15:36:14]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=8;cat=0
+[15:36:15]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=8;cat=0
+[15:36:15]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=9;cat=0
+[15:36:15]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=9;cat=0
+[15:36:16]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=8;cat=0
+[15:36:16]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=8;cat=0
+[15:36:17]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=9;cat=0
+[15:36:17]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=9;cat=0
+[15:36:18]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=9;cat=0
+[15:36:19]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=13;cat=0
+[15:36:19]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=8;cat=0
+[15:36:20]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=13;cat=0
+[15:36:20]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=13;cat=0
+[15:36:21]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=13;cat=0
+[15:36:21]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=13;cat=0
+[15:36:22]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=13;cat=0
+[15:36:22]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=13;cat=0
+[15:36:22]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=13;cat=0
+[15:36:23]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=13;cat=0
+[15:36:23]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=13;cat=0
+[15:36:24]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=13;cat=0
+[15:36:24]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=16;cat=0
+[15:36:24]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=15;cat=0
+[15:36:25]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=15;cat=0
+[15:36:25]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=15;cat=0
+[15:36:26]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=16;cat=0
+[15:36:27]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=15;cat=0
+[15:36:28]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=16;cat=0
+[15:36:28]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=15;cat=0
+[15:36:47]HREF: 15:36 ADIBELL (usr:Magomed Sharipiv) || _=1592570212061
+[15:36:47]HREF: 15:36 ADIBELL (usr:Magomed Sharipiv) || _=1592570212062
+[15:36:53]HREF: 15:36 ADIBELL (usr:Magomed Sharipiv) || _=1592570217348
+[15:36:53]HREF: 15:36 ADIBELL (usr:Magomed Sharipiv) || _=1592570217349
+[15:36:54]HREF: 15:36 CM.RU (usr:Jermaine Earl) || _=1592570214295
+[15:36:54]HREF: 15:36 CM.RU (usr:Jermaine Earl) || _=1592570214296
+[15:36:55]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=15;cat=0
+[15:36:55]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=16;cat=0
+[15:36:56]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=15;cat=0
+[15:36:56]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=15;cat=0
+[15:36:57]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=16;cat=0
+[15:36:57]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=16;cat=0
+[15:36:57]HREF: 15:36 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x21005719];vend=34;cat=0
+[15:36:58]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=16;cat=0
+[15:36:58]HREF: 15:36 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=15;cat=0
+[15:37:04]HREF: 15:37 ADIBELL (usr:Magomed Sharipiv) || _=1592570228727
+[15:37:04]HREF: 15:37 ADIBELL (usr:Magomed Sharipiv) || _=1592570228728
+[15:37:05]HREF: 15:37 CM.RU (usr:Jermaine Earl) || _=1592570225738
+[15:37:05]HREF: 15:37 CM.RU (usr:Jermaine Earl) || _=1592570225739
+[15:37:09]HREF: 15:37 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=41;cat=0
+[15:37:10]HREF: 15:37 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=41;cat=0
+[15:37:11]HREF: 15:37 ADIBELL (usr:Magomed Sharipiv) || _=1592570235853
+[15:37:11]HREF: 15:37 ADIBELL (usr:Magomed Sharipiv) || _=1592570235854
+[15:37:16]HREF: 15:37 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=42;cat=0
+[15:37:16]HREF: 15:37 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005699];vend=42;cat=0
+[15:37:36]HREF: 15:37 ADIBELL (usr:Magomed Sharipiv) || _=1592570260344
+[15:37:36]HREF: 15:37 ADIBELL (usr:Magomed Sharipiv) || _=1592570260345
+[15:37:43]HREF: 15:37 ADIBELL (usr:Magomed Sharipiv) || _=1592570267276
+[15:37:43]HREF: 15:37 ADIBELL (usr:Magomed Sharipiv) || _=1592570267277
+[15:37:44]HREF: 15:37 CM.RU (usr:Jermaine Earl) || _=1592570264035
+[15:37:44]HREF: 15:37 CM.RU (usr:Jermaine Earl) || _=1592570264036
+[15:37:50]HREF: 15:37 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=42;cat=0
+[15:37:51]HREF: 15:37 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=42;cat=0
+[15:37:51]HREF: 15:37 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=42;cat=0
+[15:37:52]HREF: 15:37 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x21006384];vend=45;cat=0
+[15:37:52]HREF: 15:37 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=43;cat=0
+[15:37:52]HREF: 15:37 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=43;cat=0
+[15:37:53]HREF: 15:37 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=42;cat=0
+[15:38:02]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=41;cat=0
+[15:38:03]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=41;cat=0
+[15:38:03]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=41;cat=0
+[15:38:04]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=39;cat=0
+[15:38:04]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=39;cat=0
+[15:38:05]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=39;cat=0
+[15:38:06]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=43;cat=0
+[15:38:06]HREF: 15:38 ADIBELL (usr:Magomed Sharipiv) || _=1592570290835
+[15:38:06]HREF: 15:38 ADIBELL (usr:Magomed Sharipiv) || _=1592570290836
+[15:38:06]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=43;cat=0
+[15:38:07]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=43;cat=0
+[15:38:07]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=43;cat=0
+[15:38:08]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=43;cat=0
+[15:38:08]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=43;cat=0
+[15:38:08]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=43;cat=0
+[15:38:09]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=43;cat=0
+[15:38:09]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=42;cat=0
+[15:38:10]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=42;cat=0
+[15:38:10]HREF: 15:38 Sladk0ewka (usr:Evan Tomato) || _=1592570296904
+[15:38:10]HREF: 15:38 Sladk0ewka (usr:Evan Tomato) || _=1592570296905
+[15:38:10]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=42;cat=0
+[15:38:11]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=42;cat=0
+[15:38:11]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=42;cat=0
+[15:38:12]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=43;cat=0
+[15:38:12]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=42;cat=0
+[15:38:12]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=43;cat=0
+[15:38:13]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=43;cat=0
+[15:38:13]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=43;cat=0
+[15:38:13]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=43;cat=0
+[15:38:14]HREF: 15:38 Sladk0ewka (usr:Evan Tomato) || _=1592570300467
+[15:38:14]HREF: 15:38 Sladk0ewka (usr:Evan Tomato) || _=1592570300468
+[15:38:14]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=40;cat=0
+[15:38:15]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=40;cat=0
+[15:38:15]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=40;cat=0
+[15:38:15]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=40;cat=0
+[15:38:16]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=40;cat=0
+[15:38:16]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=40;cat=0
+[15:38:17]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=40;cat=0
+[15:38:17]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=40;cat=0
+[15:38:17]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=40;cat=0
+[15:38:18]HREF: 15:38 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100637f];vend=40;cat=0
+[15:38:20]HREF: 15:38 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x21006384];vend=47;cat=0
+[15:38:23]HREF: 15:38 Vvv3544 (usr:Vvv3544) || Vvv3544 src=[0x3000052];lobby_choice=late_join_xeno
+[15:38:25]HREF: 15:38 Vvv3544 (usr:Vvv3544) || Vvv3544 src=[0x3000052];lobby_choice=late_join_xeno
+[15:38:26]HREF: 15:38 ADIBELL (usr:Magomed Sharipiv) || _=1592570310393
+[15:38:26]HREF: 15:38 ADIBELL (usr:Magomed Sharipiv) || _=1592570310394
+[15:38:36]HREF: 15:38 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x21006384];vend=51;cat=0
+[15:38:38]HREF: 15:38 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x21006384];vend=51;cat=0
+[15:38:46]HREF: 15:38 ADIBELL (usr:Magomed Sharipiv) || _=1592570331015
+[15:38:46]HREF: 15:38 ADIBELL (usr:Magomed Sharipiv) || _=1592570331016
+[15:38:54]HREF: 15:38 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x2100637f];vend=8;cat=0
+[15:38:54]HREF: 15:38 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=late_join
+[15:38:58]HREF: 15:38 Vvv3544 (usr:Vvv3544) || Vvv3544 src=[0x3000052];lobby_choice=late_join
+[15:38:58]HREF: 15:38 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=late_join
+[15:38:59]HREF: 15:38 Vvv3544 (usr:Vvv3544) || Vvv3544 src=[0x3000052];lobby_choice=show_preferences
+[15:39:01]HREF: 15:39 CM.RU (usr:Jermaine Earl) || _=1592570341841
+[15:39:01]HREF: 15:39 CM.RU (usr:Jermaine Earl) || _=1592570341842
+[15:39:05]HREF: 15:39 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100569e];vend=10;cat=0
+[15:39:26]HREF: 15:39 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=manifest
+[15:39:30]HREF: 15:39 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=show_preferences
+[15:39:31]HREF: 15:39 ADIBELL (usr:Magomed Sharipiv) || _=1592570375533
+[15:39:31]HREF: 15:39 ADIBELL (usr:Magomed Sharipiv) || _=1592570375534
+[15:39:31]HREF: 15:39 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100569e];vend=42;cat=0
+[15:39:33]HREF: 15:39 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];preference=loadout;task=input
+[15:39:40]HREF: 15:39 CM.RU (usr:Jermaine Earl) || The plasteel src=[0x201809b];sublist=;make=2;multiplier=1
+[15:39:42]HREF: 15:39 CM.RU (usr:Jermaine Earl) || The plasteel src=[0x201809b];sublist=;make=1;multiplier=1
+[15:39:44]HREF: 15:39 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=late_join
+[15:39:45]HREF: 15:39 ALex13t (usr:ALex13t) || ALex13t src=[0x3000024];lobby_choice=SelectedJob;job_selected=Squad%20Marine
+[15:39:46]HREF: 15:39 Artyuom (usr:Johnny Vietnam) || _=1592570389297
+[15:39:46]HREF: 15:39 Artyuom (usr:Johnny Vietnam) || _=1592570389298
+[15:39:47]HREF: 15:39 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210065f8];vend=27;cat=0
+[15:39:47]HREF: 15:39 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210065f8];vend=27;cat=0
+[15:39:49]HREF: 15:39 Sladk0ewka (usr:Evan Tomato) || _=1592570395425
+[15:39:49]HREF: 15:39 Sladk0ewka (usr:Evan Tomato) || _=1592570395426
+[15:39:49]HREF: 15:39 CM.RU (usr:Jermaine Earl) || The plasteel src=[0x201809b];sublist=;make=1;multiplier=1
+[15:40:35]HREF: 15:40 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592570437698
+[15:40:35]HREF: 15:40 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592570437699
+[15:40:37]HREF: 15:40 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100660f];vend=1;cat=0
+[15:40:37]HREF: 15:40 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100660f];vend=1;cat=0
+[15:40:38]HREF: 15:40 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100660f];vend=1;cat=0
+[15:40:38]HREF: 15:40 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100660f];vend=1;cat=0
+[15:40:39]HREF: 15:40 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100660f];vend=1;cat=0
+[15:40:39]HREF: 15:40 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100660f];vend=1;cat=0
+[15:40:40]HREF: 15:40 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100660f];vend=1;cat=0
+[15:40:40]HREF: 15:40 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100660f];vend=1;cat=0
+[15:40:40]HREF: 15:40 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100660f];vend=1;cat=0
+[15:40:46]HREF: 15:40 ADIBELL (usr:Magomed Sharipiv) || _=1592570450622
+[15:40:46]HREF: 15:40 ADIBELL (usr:Magomed Sharipiv) || _=1592570450623
+[15:40:51]HREF: 15:40 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x2100660f];vend=7;cat=0
+[15:40:56]HREF: 15:40 ADIBELL (usr:Magomed Sharipiv) || /datum/nanoui src=[0x2100660f];vend=2;cat=0
+[15:41:03]HREF: 15:41 Artyuom (usr:Johnny Vietnam) || _=1592570466187
+[15:41:03]HREF: 15:41 Artyuom (usr:Johnny Vietnam) || _=1592570466188
+[15:41:06]HREF: 15:41 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100661b];vend=1;cat=0
+[15:41:06]HREF: 15:41 ADIBELL (usr:Magomed Sharipiv) || _=1592570470567
+[15:41:06]HREF: 15:41 ADIBELL (usr:Magomed Sharipiv) || _=1592570470568
+[15:41:07]HREF: 15:41 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100661b];vend=2;cat=0
+[15:41:08]HREF: 15:41 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100661b];vend=3;cat=0
+[15:41:08]HREF: 15:41 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100661b];vend=4;cat=0
+[15:41:09]HREF: 15:41 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100661b];vend=6;cat=0
+[15:41:10]HREF: 15:41 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100661b];vend=7;cat=0
+[15:41:10]HREF: 15:41 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100661b];vend=8;cat=0
+[15:41:11]HREF: 15:41 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592570473923
+[15:41:11]HREF: 15:41 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592570473924
+[15:41:12]HREF: 15:41 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100660f];vend=3
+[15:41:13]HREF: 15:41 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100660f];vend=4
+[15:41:13]HREF: 15:41 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100660f];vend=5
+[15:41:14]HREF: 15:41 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100660f];vend=6
+[15:41:18]HREF: 15:41 ADIBELL (usr:Magomed Sharipiv) || _=1592570482541
+[15:41:18]HREF: 15:41 ADIBELL (usr:Magomed Sharipiv) || _=1592570482542
+[15:41:23]HREF: 15:41 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592570486151
+[15:41:23]HREF: 15:41 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592570486152
+[15:41:24]HREF: 15:41 Sewa (usr:Kelvin Focell) || _=1592570490790
+[15:41:24]HREF: 15:41 Sewa (usr:Kelvin Focell) || _=1592570490791
+[15:41:25]HREF: 15:41 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100661f];vend=2
+[15:41:30]HREF: 15:41 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x2100661a];vend=4;cat=0
+[15:41:31]HREF: 15:41 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x2100661a];vend=4;cat=0
+[15:41:31]HREF: 15:41 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x2100661a];vend=4;cat=0
+[15:41:32]HREF: 15:41 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x2100661a];vend=4;cat=0
+[15:41:32]HREF: 15:41 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x2100661a];vend=4;cat=0
+[15:41:32]HREF: 15:41 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x2100661a];vend=4;cat=0
+[15:41:33]HREF: 15:41 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100661f];vend=9
+[15:41:52]HREF: 15:41 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100661f];vend=17
+[15:41:58]HREF: 15:41 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100661f];vend=20
+[15:42:00]HREF: 15:42 Artyuom (usr:Johnny Vietnam) || _=1592570523203
+[15:42:00]HREF: 15:42 Artyuom (usr:Johnny Vietnam) || _=1592570523204
+[15:42:05]HREF: 15:42 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100661f];vend=27
+[15:42:07]HREF: 15:42 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100661f];vend=28
+[15:42:35]HREF: 15:42 Chaburek (usr:Chaburek) || Chaburek src=[0x3000055];lobby_choice=manifest
+[15:42:48]HREF: 15:42 Chaburek (usr:Chaburek) || Chaburek src=[0x3000055];lobby_choice=show_preferences
+[15:42:59]HREF: 15:42 Chaburek (usr:Chaburek) || _src_=prefs;preference=job;task=menu
+[15:43:03]HREF: 15:43 Chaburek (usr:Chaburek) || _src_=prefs;preference=job;task=input;text=Squad%20Medic
+[15:43:04]HREF: 15:43 Chaburek (usr:Chaburek) || _src_=prefs;preference=job;task=input;text=Squad%20Medic
+[15:43:05]HREF: 15:43 Chaburek (usr:Chaburek) || _src_=prefs;preference=job;task=input;text=Squad%20Specialist
+[15:43:07]HREF: 15:43 Chaburek (usr:Chaburek) || _src_=prefs;preference=job;task=input;text=Squad%20Specialist
+[15:43:08]HREF: 15:43 Chaburek (usr:Chaburek) || _src_=prefs;preference=job;task=close
+[15:43:11]HREF: 15:43 Chaburek (usr:Chaburek) || _src_=prefs;preference=h_style;task=input
+[15:43:18]HREF: 15:43 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100661f];vend=35
+[15:43:28]HREF: 15:43 Chaburek (usr:Chaburek) || _src_=prefs;preference=hair;task=input
+[15:43:36]HREF: 15:43 Chaburek (usr:Chaburek) || Chaburek src=[0x3000055];preference=save
+[15:43:38]HREF: 15:43 Chaburek (usr:Chaburek) || _src_=prefs;preference=job;task=menu
+[15:43:41]HREF: 15:43 Chaburek (usr:Chaburek) || _src_=prefs;preference=job;task=input;text=Squad%20Specialist
+[15:43:42]HREF: 15:43 Chaburek (usr:Chaburek) || _src_=prefs;preference=job;task=input;text=Squad%20Specialist
+[15:43:46]HREF: 15:43 Chaburek (usr:Chaburek) || _src_=prefs;preference=job;task=input;text=Squad%20Engineer
+[15:43:47]HREF: 15:43 Chaburek (usr:Chaburek) || _src_=prefs;preference=job;task=input;text=Squad%20Engineer
+[15:43:48]HREF: 15:43 Chaburek (usr:Chaburek) || _src_=prefs;preference=job;task=input;text=Squad%20Engineer
+[15:43:51]HREF: 15:43 Chaburek (usr:Chaburek) || _src_=prefs;preference=job;task=close
+[15:43:53]HREF: 15:43 Chaburek (usr:Chaburek) || Chaburek src=[0x3000055];preference=save
+[15:43:57]HREF: 15:43 Chaburek (usr:Chaburek) || Chaburek src=[0x3000055];lobby_choice=late_join
+[15:44:00]HREF: 15:44 BlackCrystalic (usr:BlackCrystalic) || BlackCrystalic src=[0x300001e];lobby_choice=observe
+[15:44:24]HREF: 15:44 Chaburek (usr:Chaburek) || Chaburek src=[0x3000055];lobby_choice=show_preferences
+[15:44:30]HREF: 15:44 Chaburek (usr:Chaburek) || Chaburek src=[0x3000055];lobby_choice=show_preferences
+[15:44:33]HREF: 15:44 Chaburek (usr:Chaburek) || Chaburek src=[0x3000055];lobby_choice=SelectedJob;job_selected=Squad%20Engineer
+[15:44:43]HREF: 15:44 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592570685971
+[15:44:43]HREF: 15:44 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592570685972
+[15:44:49]HREF: 15:44 CM.RU (usr:Jermaine Earl) || _=1592570689132
+[15:44:49]HREF: 15:44 CM.RU (usr:Jermaine Earl) || _=1592570689133
+[15:44:50]HREF: 15:44 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005772];vend=1;cat=0
+[15:44:50]HREF: 15:44 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005772];vend=1;cat=0
+[15:44:52]HREF: 15:44 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x21006639];vend=51
+[15:44:52]HREF: 15:44 Chaburek (usr:Haidee Baxter) || _=1592570696664
+[15:44:52]HREF: 15:44 Chaburek (usr:Haidee Baxter) || _=1592570696665
+[15:44:53]HREF: 15:44 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100664d];vend=7;cat=0
+[15:44:53]HREF: 15:44 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100664d];vend=6;cat=0
+[15:44:54]HREF: 15:44 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005772];vend=4;cat=2
+[15:44:58]HREF: 15:44 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21005772];vend=3;cat=2
+[15:45:10]HREF: 15:45 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592570713228
+[15:45:10]HREF: 15:45 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592570713229
+[15:45:14]HREF: 15:45 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100664f];vend=19;cat=0
+[15:45:24]HREF: 15:45 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100664f];vend=17;cat=0
+[15:45:24]HREF: 15:45 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100664f];vend=17;cat=0
+[15:45:25]HREF: 15:45 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100664f];vend=16;cat=0
+[15:45:25]HREF: 15:45 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100664f];vend=16;cat=0
+[15:45:34]HREF: 15:45 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100664f];vend=16;cat=0
+[15:45:34]HREF: 15:45 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100664f];vend=17;cat=0
+[15:45:57]HREF: 15:45 Chaburek (usr:Haidee Baxter) || _=1592570761480
+[15:45:57]HREF: 15:45 Chaburek (usr:Haidee Baxter) || _=1592570761481
+[15:45:58]HREF: 15:45 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100664f];vend=2
+[15:45:58]HREF: 15:45 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100664f];vend=3
+[15:45:59]HREF: 15:45 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100664f];vend=4
+[15:45:59]HREF: 15:45 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100664f];vend=5
+[15:46:00]HREF: 15:46 CM.RU (usr:Jermaine Earl) || _=1592570760062
+[15:46:00]HREF: 15:46 CM.RU (usr:Jermaine Earl) || _=1592570760063
+[15:46:00]HREF: 15:46 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100664f];vend=7
+[15:46:01]HREF: 15:46 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100664f];vend=6
+[15:46:20]HREF: 15:46 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100664f];vend=9
+[15:46:26]HREF: 15:46 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100664f];vend=17
+[15:46:27]HREF: 15:46 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100664f];vend=19
+[15:46:37]HREF: 15:46 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100664f];vend=22
+[15:46:44]HREF: 15:46 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100664f];vend=25
+[15:46:45]HREF: 15:46 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100664f];vend=24
+[15:47:10]HREF: 15:47 Chaburek (usr:Haidee Baxter) || _=1592570835241
+[15:47:10]HREF: 15:47 Chaburek (usr:Haidee Baxter) || _=1592570835242
+[15:47:14]HREF: 15:47 Chaburek (usr:Haidee Baxter) || _=1592570838918
+[15:47:14]HREF: 15:47 Chaburek (usr:Haidee Baxter) || _=1592570838919
+[15:47:20]HREF: 15:47 Chaburek (usr:Haidee Baxter) || _=1592570845103
+[15:47:20]HREF: 15:47 Chaburek (usr:Haidee Baxter) || _=1592570845104
+[15:47:28]HREF: 15:47 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21006653];move=1
+[15:47:31]HREF: 15:47 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21006653];move=1
+[15:47:35]HREF: 15:47 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x21006652];vend=2
+[15:47:58]HREF: 15:47 Sewa (usr:Kelvin Focell) || Johnny Vietnam src=[0x3000041];medholocard=1
+[15:48:06]HREF: 15:48 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592570888731
+[15:48:06]HREF: 15:48 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592570888732
+[15:48:13]HREF: 15:48 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x21006652];vend=4
+[15:48:13]HREF: 15:48 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x21006652];vend=4
+[15:48:14]HREF: 15:48 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x21006653];vend=17;cat=0
+[15:48:14]HREF: 15:48 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x21006652];vend=4
+[15:48:15]HREF: 15:48 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x21006652];vend=4
+[15:48:31]HREF: 15:48 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x21006652];vend=10
+[15:48:32]HREF: 15:48 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x21006652];vend=10
+[15:48:37]HREF: 15:48 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x21006652];vend=5
+[15:48:38]HREF: 15:48 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x21006652];vend=5
+[15:48:39]HREF: 15:48 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x21006652];vend=5
+[15:48:43]HREF: 15:48 BlackCrystalic (usr:Blacky 'GG' Crysis) || Blacky 'GG' Crysis src=[0x3000056];track=[0x300004d]
+[15:48:44]HREF: 15:48 BlackCrystalic (usr:Blacky 'GG' Crysis) || Blacky 'GG' Crysis src=[0x3000056];track=[0x300003f]
+[15:48:57]HREF: 15:48 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x21006652];vend=24
+[15:49:11]HREF: 15:49 Chaburek (usr:Haidee Baxter) || _=1592570955462
+[15:49:11]HREF: 15:49 Chaburek (usr:Haidee Baxter) || _=1592570955463
+[15:49:11]HREF: 15:49 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100665a];vend=1;cat=0
+[15:49:12]HREF: 15:49 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100665a];vend=1;cat=0
+[15:49:21]HREF: 15:49 BlackCrystalic (usr:Blacky 'GG' Crysis) || /datum/admins src=[0x210036cf];simplemake=larva;mob=[0x3000056]
+[15:49:22]HREF: 15:49 Chaburek (usr:Haidee Baxter) || _=1592570966892
+[15:49:22]HREF: 15:49 Chaburek (usr:Haidee Baxter) || _=1592570966893
+[15:49:24]HREF: 15:49 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100668e];vend=3;cat=2
+[15:49:30]HREF: 15:49 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100668e];vend=4;cat=2
+[15:49:45]HREF: 15:49 Chaburek (usr:Haidee Baxter) || _=1592570989633
+[15:49:45]HREF: 15:49 Chaburek (usr:Haidee Baxter) || _=1592570989634
+[15:49:50]HREF: 15:49 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210056df];vend=19;cat=0
+[15:50:06]HREF: 15:50 Atlasic (usr:Atlasic) || Atlasic src=[0x300005a];lobby_choice=late_join
+[15:50:09]HREF: 15:50 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210056df];vend=5;cat=0
+[15:50:26]HREF: 15:50 Atlasic (usr:Atlasic) || Atlasic src=[0x300005a];lobby_choice=manifest
+[15:50:27]HREF: 15:50 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=774
+[15:50:28]HREF: 15:50 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=774
+[15:50:28]HREF: 15:50 Atlasic (usr:Atlasic) || Atlasic src=[0x300005a];lobby_choice=manifest
+[15:50:30]HREF: 15:50 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=774
+[15:50:32]HREF: 15:50 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210056df];vend=22;cat=0
+[15:50:38]HREF: 15:50 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210056df];vend=23;cat=0
+[15:50:51]HREF: 15:50 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210056df];vend=18;cat=0
+[15:50:53]HREF: 15:50 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210056df];vend=18;cat=0
+[15:51:01]HREF: 15:51 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210056df];vend=18;cat=0
+[15:51:15]HREF: 15:51 Atlasic (usr:Atlasic) || Atlasic src=[0x300005a];lobby_choice=late_join_xeno
+[15:51:16]HREF: 15:51 Atlasic (usr:Atlasic) || Atlasic src=[0x300005a];lobby_choice=late_join_xeno
+[15:51:25]HREF: 15:51 Atlasic (usr:Atlasic) || Atlasic src=[0x300005a];lobby_choice=manifest
+[15:51:31]HREF: 15:51 Atlasic (usr:Atlasic) || Atlasic src=[0x300005a];lobby_choice=manifest
+[15:51:32]HREF: 15:51 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592571094543
+[15:51:32]HREF: 15:51 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592571094544
+[15:51:33]HREF: 15:51 Atlasic (usr:Atlasic) || Atlasic src=[0x300005a];lobby_choice=late_join_xeno
+[15:51:36]HREF: 15:51 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x210056f5];vend=7;cat=0
+[15:51:38]HREF: 15:51 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=72
+[15:51:40]HREF: 15:51 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=774
+[15:51:48]HREF: 15:51 Atlasic (usr:Atlasic) || Atlasic src=[0x300005a];lobby_choice=late_join_xeno
+[15:51:51]HREF: 15:51 Atlasic (usr:Atlasic) || Atlasic src=[0x300005a];lobby_choice=late_join_xeno
+[15:51:52]HREF: 15:51 CM.RU (usr:Jermaine Earl) || _=1592571112729
+[15:51:52]HREF: 15:51 CM.RU (usr:Jermaine Earl) || _=1592571112730
+[15:51:53]HREF: 15:51 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x210056f3];move=1
+[15:51:59]HREF: 15:51 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=341
+[15:52:41]HREF: 15:52 Chaburek (usr:Haidee Baxter) || _=1592571165340
+[15:52:41]HREF: 15:52 Chaburek (usr:Haidee Baxter) || _=1592571165341
+[15:52:47]HREF: 15:52 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100665a];vend=10;cat=0
+[15:53:05]HREF: 15:53 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100665a];vend=13;cat=0
+[15:53:05]HREF: 15:53 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592571188237
+[15:53:05]HREF: 15:53 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592571188238
+[15:53:08]HREF: 15:53 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x21006677];vend=13;cat=0
+[15:53:19]HREF: 15:53 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100665a];vend=7;cat=0
+[15:53:23]HREF: 15:53 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592571205788
+[15:53:23]HREF: 15:53 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592571205789
+[15:53:29]HREF: 15:53 Chaburek (usr:Haidee Baxter) || _=1592571213524
+[15:53:29]HREF: 15:53 Chaburek (usr:Haidee Baxter) || _=1592571213525
+[15:53:30]HREF: 15:53 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100666e];vend=7;cat=0
+[15:53:54]HREF: 15:53 Chaburek (usr:Haidee Baxter) || _=1592571238459
+[15:53:54]HREF: 15:53 Chaburek (usr:Haidee Baxter) || _=1592571238460
+[15:54:04]HREF: 15:54 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=774
+[15:55:08]HREF: 15:55 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=341
+[15:55:13]HREF: 15:55 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=774
+[15:55:43]HREF: 15:55 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592571345829
+[15:55:43]HREF: 15:55 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592571345830
+[15:55:45]HREF: 15:55 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x210066c4];vend=9;cat=0
+[15:55:45]HREF: 15:55 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x210066c4];vend=9;cat=0
+[15:55:48]HREF: 15:55 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592571351177
+[15:55:48]HREF: 15:55 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592571351178
+[15:56:40]HREF: 15:56 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=341
+[15:57:11]HREF: 15:57 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=774
+[15:57:56]HREF: 15:57 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=341
+[15:58:21]HREF: 15:58 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=774
+[15:58:42]HREF: 15:58 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=341
+[15:58:47]HREF: 15:58 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=774
+[15:58:49]HREF: 15:58 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=341
+[15:58:50]HREF: 15:58 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=774
+[15:59:00]HREF: 15:59 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=774
+[15:59:02]HREF: 15:59 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=341
+[15:59:09]HREF: 15:59 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=774
+[15:59:24]HREF: 15:59 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=774
+[15:59:25]HREF: 15:59 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=341
+[15:59:31]HREF: 15:59 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=774
+[15:59:33]HREF: 15:59 Alot (usr:Queen) || Queen src=[0x300004e];watch_xeno_number=341
+[15:59:57]HREF: 15:59 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:00:02]HREF: 16:00 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=341
+[16:00:17]HREF: 16:00 Artyuom (usr:Johnny Vietnam) || _=1592571619699
+[16:00:17]HREF: 16:00 Artyuom (usr:Johnny Vietnam) || _=1592571619700
+[16:00:36]HREF: 16:00 CM.RU (usr:Jermaine Earl) || The marine command radio headset src=[0x20179e5];ch_name=Alpha;listen=1
+[16:01:47]HREF: 16:01 Artyuom (usr:Johnny Vietnam) || _=1592571710224
+[16:01:48]HREF: 16:01 Artyuom (usr:Johnny Vietnam) || _=1592571710225
+[16:01:52]HREF: 16:01 Artyuom (usr:Johnny Vietnam) || _=1592571715188
+[16:01:52]HREF: 16:01 Artyuom (usr:Johnny Vietnam) || _=1592571715189
+[16:02:03]HREF: 16:02 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:02:04]HREF: 16:02 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=341
+[16:02:04]HREF: 16:02 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:02:20]HREF: 16:02 ADIBELL (usr:Magomed Sharipiv) || Magomed Sharipiv src=[0x3000064];track=[0x3000048]
+[16:02:23]HREF: 16:02 Artyuom (usr:Johnny Vietnam) || _=1592571746188
+[16:02:23]HREF: 16:02 Artyuom (usr:Johnny Vietnam) || _=1592571746189
+[16:02:25]HREF: 16:02 Chaburek (usr:Haidee Baxter) || _=1592571750020
+[16:02:25]HREF: 16:02 Chaburek (usr:Haidee Baxter) || _=1592571750021
+[16:02:29]HREF: 16:02 Artyuom (usr:Johnny Vietnam) || _=1592571751947
+[16:02:29]HREF: 16:02 Artyuom (usr:Johnny Vietnam) || _=1592571751948
+[16:02:39]HREF: 16:02 Artyuom (usr:Johnny Vietnam) || _=1592571761478
+[16:02:39]HREF: 16:02 Artyuom (usr:Johnny Vietnam) || _=1592571761479
+[16:02:51]HREF: 16:02 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=341
+[16:02:52]HREF: 16:02 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:02:55]HREF: 16:02 ADIBELL (usr:Magomed Sharipiv) || Magomed Sharipiv src=[0x3000064];track=[0x300003f]
+[16:02:57]HREF: 16:02 Chaburek (usr:Haidee Baxter) || _=1592571781873
+[16:02:57]HREF: 16:02 Chaburek (usr:Haidee Baxter) || _=1592571781874
+[16:03:10]HREF: 16:03 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];load_tray=1
+[16:03:12]HREF: 16:03 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];chamber_tray=1
+[16:03:12]HREF: 16:03 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];check_req=1
+[16:03:17]HREF: 16:03 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];back=1
+[16:03:18]HREF: 16:03 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];unload_tray=1
+[16:03:19]HREF: 16:03 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];chamber_tray=1
+[16:03:19]HREF: 16:03 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];unload_tray=1
+[16:03:20]HREF: 16:03 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];unload_tray=1
+[16:03:23]HREF: 16:03 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];load_tray=1
+[16:03:23]HREF: 16:03 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];unload_tray=1
+[16:03:23]HREF: 16:03 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];chamber_tray=1
+[16:03:24]HREF: 16:03 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];chamber_tray=1
+[16:03:25]HREF: 16:03 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];unload_tray=1
+[16:03:29]HREF: 16:03 Artyuom (usr:Johnny Vietnam) || _=1592571811960
+[16:03:29]HREF: 16:03 Artyuom (usr:Johnny Vietnam) || _=1592571811961
+[16:03:40]HREF: 16:03 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:03:41]HREF: 16:03 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=341
+[16:03:43]HREF: 16:03 ADIBELL (usr:Magomed Sharipiv) || Magomed Sharipiv src=[0x3000064];track=[0x3000057]
+[16:03:46]HREF: 16:03 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:03:47]HREF: 16:03 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=341
+[16:03:49]HREF: 16:03 Artyuom (usr:Johnny Vietnam) || General Listening Channel src=[0x200ed97];talk=1
+[16:03:55]HREF: 16:03 CM.RU (usr:Jermaine Earl) || Overwatch Console src=[0x2013732];operation=change_operator
+[16:03:57]HREF: 16:03 CM.RU (usr:Jermaine Earl) || Overwatch Console src=[0x2013732];operation=pick_squad
+[16:04:00]HREF: 16:04 CM.RU (usr:Jermaine Earl) || Overwatch Console src=[0x2013732];operation=bombs
+[16:04:08]HREF: 16:04 CM.RU (usr:Jermaine Earl) || Overwatch Console src=[0x2013732];operation=bomb_x
+[16:04:10]HREF: 16:04 CM.RU (usr:Jermaine Earl) || Overwatch Console src=[0x2013732];operation=bomb_y
+[16:04:13]HREF: 16:04 CM.RU (usr:Jermaine Earl) || Overwatch Console src=[0x2013732];operation=dropbomb
+[16:04:21]HREF: 16:04 ADIBELL (usr:Magomed Sharipiv) || Magomed Sharipiv src=[0x3000064];track=[0x300003f]
+[16:04:22]HREF: 16:04 ADIBELL (usr:Magomed Sharipiv) || Magomed Sharipiv src=[0x3000064];track=[0x300003f]
+[16:04:43]HREF: 16:04 ADIBELL (usr:Magomed Sharipiv) || Magomed Sharipiv src=[0x3000064];track=[0x300004e]
+[16:04:59]HREF: 16:04 Artyuom (usr:Johnny Vietnam) || _=1592571902003
+[16:04:59]HREF: 16:04 Artyuom (usr:Johnny Vietnam) || _=1592571902004
+[16:05:02]HREF: 16:05 Chaburek (usr:Haidee Baxter) || _=1592571906572
+[16:05:02]HREF: 16:05 Chaburek (usr:Haidee Baxter) || _=1592571906573
+[16:05:03]HREF: 16:05 BlackCrystalic (usr:Young Warrior (774)) || /datum/admins src=[0x210036cf];secretsfun=power
+[16:05:23]HREF: 16:05 Chaburek (usr:Haidee Baxter) || _=1592571927926
+[16:05:23]HREF: 16:05 Chaburek (usr:Haidee Baxter) || _=1592571927927
+[16:05:25]HREF: 16:05 Chaburek (usr:Haidee Baxter) || _=1592571929099
+[16:05:25]HREF: 16:05 Chaburek (usr:Haidee Baxter) || _=1592571929100
+[16:05:27]HREF: 16:05 ADIBELL (usr:Magomed Sharipiv) || Magomed Sharipiv src=[0x3000064];track=[0x3000048]
+[16:05:47]HREF: 16:05 Artyuom (usr:Johnny Vietnam) || _=1592571949431
+[16:05:47]HREF: 16:05 Artyuom (usr:Johnny Vietnam) || _=1592571949432
+[16:05:59]HREF: 16:05 CM.RU (usr:Jermaine Earl) || The marine command radio headset src=[0x20179e5];ch_name=Delta;listen=1
+[16:05:59]HREF: 16:05 CM.RU (usr:Jermaine Earl) || The marine command radio headset src=[0x20179e5];ch_name=Charlie;listen=1
+[16:05:59]HREF: 16:05 CM.RU (usr:Jermaine Earl) || The marine command radio headset src=[0x20179e5];ch_name=Bravo;listen=1
+[16:06:06]HREF: 16:06 Artyuom (usr:Johnny Vietnam) || _=1592571968415
+[16:06:06]HREF: 16:06 Artyuom (usr:Johnny Vietnam) || _=1592571968416
+[16:06:20]HREF: 16:06 CM.RU (usr:Jermaine Earl) || _=1592571980634
+[16:06:20]HREF: 16:06 CM.RU (usr:Jermaine Earl) || _=1592571980635
+[16:06:21]HREF: 16:06 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21006796];move=1
+[16:06:22]HREF: 16:06 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21006796];move=1
+[16:07:04]HREF: 16:07 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];queentrack=[0x3000063]
+[16:07:05]HREF: 16:07 CM.RU (usr:Jermaine Earl) || General Listening Channel src=[0x2013429];talk=1
+[16:07:09]HREF: 16:07 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];queentrack=[0x3000061]
+[16:07:15]HREF: 16:07 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];queentrack=[0x3000061]
+[16:07:16]HREF: 16:07 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];queentrack=[0x3000063]
+[16:07:21]HREF: 16:07 ADIBELL (usr:Magomed Sharipiv) || Magomed Sharipiv src=[0x3000064];track=[0x3000048]
+[16:07:26]HREF: 16:07 Sewa (usr:Kelvin Focell) || Kelvin Focell src=[0x3000066];track=[0x3000048]
+[16:07:38]HREF: 16:07 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];queentrack=[0x3000061]
+[16:07:47]HREF: 16:07 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];queentrack=[0x3000061]
+[16:07:48]HREF: 16:07 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];queentrack=[0x3000063]
+[16:07:57]HREF: 16:07 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];queentrack=[0x3000061]
+[16:08:05]HREF: 16:08 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];queentrack=[0x3000061]
+[16:08:15]HREF: 16:08 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];queentrack=[0x3000061]
+[16:08:16]HREF: 16:08 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];queentrack=[0x3000063]
+[16:08:23]HREF: 16:08 Artyuom (usr:Johnny Vietnam) || _=1592572106066
+[16:08:23]HREF: 16:08 Artyuom (usr:Johnny Vietnam) || _=1592572106067
+[16:08:30]HREF: 16:08 Chaburek (usr:Haidee Baxter) || _=1592572114524
+[16:08:30]HREF: 16:08 Chaburek (usr:Haidee Baxter) || _=1592572114525
+[16:08:34]HREF: 16:08 Chaburek (usr:Haidee Baxter) || _=1592572118725
+[16:08:34]HREF: 16:08 Chaburek (usr:Haidee Baxter) || _=1592572118726
+[16:08:44]HREF: 16:08 Artyuom (usr:Johnny Vietnam) || _=1592572126966
+[16:08:44]HREF: 16:08 Artyuom (usr:Johnny Vietnam) || _=1592572126967
+[16:09:00]HREF: 16:09 Harlex5435 (usr:Nickolas Stone) || Nickolas Stone src=[0x3000065];track=[0x3000057]
+[16:09:11]HREF: 16:09 Artyuom (usr:Johnny Vietnam) || _=1592572153609
+[16:09:11]HREF: 16:09 Artyuom (usr:Johnny Vietnam) || _=1592572153610
+[16:09:38]HREF: 16:09 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=278
+[16:09:44]HREF: 16:09 BlackCrystalic (usr:Young Warrior (774)) || _src_=holder;mark=[0x300004e]
+[16:09:46]HREF: 16:09 Sewa (usr:Kelvin Focell) || Kelvin Focell src=[0x3000066];track=[0x3000063]
+[16:10:01]HREF: 16:10 CM.RU (usr:Jermaine Earl) || _=1592572201593
+[16:10:01]HREF: 16:10 CM.RU (usr:Jermaine Earl) || _=1592572201594
+[16:10:13]HREF: 16:10 Artyuom (usr:Johnny Vietnam) || _=1592572215976
+[16:10:13]HREF: 16:10 Artyuom (usr:Johnny Vietnam) || _=1592572215977
+[16:10:37]HREF: 16:10 Artyuom (usr:Johnny Vietnam) || _=1592572239863
+[16:10:37]HREF: 16:10 Artyuom (usr:Johnny Vietnam) || _=1592572239864
+[16:10:47]HREF: 16:10 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:10:48]HREF: 16:10 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=341
+[16:10:49]HREF: 16:10 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=278
+[16:10:50]HREF: 16:10 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=341
+[16:11:14]HREF: 16:11 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:11:21]HREF: 16:11 CM.RU (usr:Jermaine Earl) || _=1592572281443
+[16:11:21]HREF: 16:11 CM.RU (usr:Jermaine Earl) || _=1592572281444
+[16:11:22]HREF: 16:11 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21001fb9];move=1
+[16:11:22]HREF: 16:11 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21001fb9];move=1
+[16:11:28]HREF: 16:11 Harlex5435 (usr:Nickolas Stone) || Nickolas Stone src=[0x3000065];track=[0x3000057]
+[16:11:35]HREF: 16:11 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=278
+[16:11:37]HREF: 16:11 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=341
+[16:11:38]HREF: 16:11 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=278
+[16:11:40]HREF: 16:11 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=278
+[16:11:41]HREF: 16:11 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:11:43]HREF: 16:11 CM.RU (usr:Jermaine Earl) || The communications console src=[0x2013422];operation=login
+[16:11:44]HREF: 16:11 CM.RU (usr:Jermaine Earl) || The communications console src=[0x2013422];operation=announce
+[16:11:46]HREF: 16:11 Artyuom (usr:Johnny Vietnam) || _=1592572308564
+[16:11:46]HREF: 16:11 Artyuom (usr:Johnny Vietnam) || _=1592572308565
+[16:11:49]HREF: 16:11 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=341
+[16:11:50]HREF: 16:11 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:11:50]HREF: 16:11 Chaburek (usr:Haidee Baxter) || _=1592572314416
+[16:11:50]HREF: 16:11 Chaburek (usr:Haidee Baxter) || _=1592572314417
+[16:11:50]HREF: 16:11 Sewa (usr:Kelvin Focell) || Kelvin Focell src=[0x3000066];track=[0x3000048]
+[16:11:52]HREF: 16:11 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=341
+[16:11:53]HREF: 16:11 Sewa (usr:Kelvin Focell) || Kelvin Focell src=[0x3000066];track=[0x300004e]
+[16:12:01]HREF: 16:12 Artyuom (usr:Johnny Vietnam) || _=1592572323982
+[16:12:01]HREF: 16:12 Artyuom (usr:Johnny Vietnam) || _=1592572323983
+[16:12:02]HREF: 16:12 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=278
+[16:12:03]HREF: 16:12 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:12:05]HREF: 16:12 Chaburek (usr:Haidee Baxter) || _=1592572329236
+[16:12:05]HREF: 16:12 Chaburek (usr:Haidee Baxter) || _=1592572329237
+[16:12:05]HREF: 16:12 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:12:08]HREF: 16:12 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=341
+[16:12:13]HREF: 16:12 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:12:27]HREF: 16:12 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=278
+[16:12:36]HREF: 16:12 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];queentrack=[0x3000063]
+[16:12:45]HREF: 16:12 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:12:46]HREF: 16:12 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=278
+[16:12:52]HREF: 16:12 Chaburek (usr:Haidee Baxter) || _=1592572376207
+[16:12:52]HREF: 16:12 Chaburek (usr:Haidee Baxter) || _=1592572376208
+[16:12:56]HREF: 16:12 Artyuom (usr:Johnny Vietnam) || _=1592572378740
+[16:12:56]HREF: 16:12 Artyuom (usr:Johnny Vietnam) || _=1592572378741
+[16:12:57]HREF: 16:12 Harlex5435 (usr:Nickolas Stone) || Nickolas Stone src=[0x3000065];track=[0x3000063]
+[16:13:10]HREF: 16:13 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];queentrack=[0x3000063]
+[16:13:12]HREF: 16:13 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=628
+[16:14:04]HREF: 16:14 CM.RU (usr:Jermaine Earl) || _=1592572444195
+[16:14:04]HREF: 16:14 CM.RU (usr:Jermaine Earl) || _=1592572444196
+[16:14:27]HREF: 16:14 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:14:28]HREF: 16:14 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:14:29]HREF: 16:14 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=341
+[16:14:29]HREF: 16:14 Sewa (usr:Kelvin Focell) || Kelvin Focell src=[0x3000066];track=[0x3000057]
+[16:14:30]HREF: 16:14 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=278
+[16:14:47]HREF: 16:14 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=628
+[16:14:47]HREF: 16:14 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=628
+[16:14:49]HREF: 16:14 Sewa (usr:Kelvin Focell) || Kelvin Focell src=[0x3000066];track=[0x3000002]
+[16:14:50]HREF: 16:14 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:15:01]HREF: 16:15 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=278
+[16:15:02]HREF: 16:15 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:15:03]HREF: 16:15 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=278
+[16:15:04]HREF: 16:15 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=628
+[16:15:05]HREF: 16:15 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=341
+[16:15:38]HREF: 16:15 CM.RU (usr:Jermaine Earl) || _=1592572538110
+[16:15:38]HREF: 16:15 CM.RU (usr:Jermaine Earl) || _=1592572538111
+[16:15:38]HREF: 16:15 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:15:39]HREF: 16:15 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21006851];move=1
+[16:15:39]HREF: 16:15 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21006851];move=1
+[16:15:40]HREF: 16:15 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=278
+[16:15:41]HREF: 16:15 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=341
+[16:15:42]HREF: 16:15 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=628
+[16:15:45]HREF: 16:15 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=278
+[16:15:55]HREF: 16:15 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:15:56]HREF: 16:15 Sewa (usr:Kelvin Focell) || Kelvin Focell src=[0x3000066];track=[0x3000048]
+[16:16:01]HREF: 16:16 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=278
+[16:16:05]HREF: 16:16 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=341
+[16:16:05]HREF: 16:16 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:16:06]HREF: 16:16 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:16:16]HREF: 16:16 GhostPokolenie (usr:GhostPokolenie) || GhostPokolenie src=[0x300006d];lobby_choice=late_join_xeno
+[16:17:21]HREF: 16:17 Chaburek (usr:Haidee Baxter) || _=1592572645366
+[16:17:21]HREF: 16:17 Chaburek (usr:Haidee Baxter) || _=1592572645367
+[16:18:17]HREF: 16:18 Chaburek (usr:Haidee Baxter) || The plasteel src=[0x2018299];sublist=;make=2;multiplier=1
+[16:18:19]HREF: 16:18 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=341
+[16:18:20]HREF: 16:18 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:18:22]HREF: 16:18 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=278
+[16:18:23]HREF: 16:18 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=628
+[16:18:24]HREF: 16:18 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=298
+[16:18:26]HREF: 16:18 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=774
+[16:18:37]HREF: 16:18 Chaburek (usr:Haidee Baxter) || The plasteel src=[0x2018299];sublist=;make=2;multiplier=1
+[16:18:53]HREF: 16:18 Chaburek (usr:Haidee Baxter) || The metal src=[0x2018292];sublist=;make=13;multiplier=1
+[16:19:05]HREF: 16:19 Chaburek (usr:Haidee Baxter) || The metal src=[0x2018292];sublist=;make=13;multiplier=1
+[16:19:20]HREF: 16:19 Chaburek (usr:Haidee Baxter) || The metal src=[0x2018292];make=12;multiplier=10
+[16:19:30]HREF: 16:19 Chaburek (usr:Haidee Baxter) || The metal src=[0x2018292];sublist=;make=13;multiplier=1
+[16:19:44]HREF: 16:19 Chaburek (usr:Haidee Baxter) || The metal src=[0x2018292];sublist=;make=13;multiplier=1
+[16:19:55]HREF: 16:19 CM.RU (usr:Jermaine Earl) || Keycard Authentication Device src=[0x20132f9];triggerevent=Red%20alert
+[16:19:56]HREF: 16:19 Chaburek (usr:Haidee Baxter) || The metal src=[0x2018292];sublist=;make=13;multiplier=1
+[16:20:02]HREF: 16:20 CM.RU (usr:Jermaine Earl) || Keycard Authentication Device src=[0x20132f9];triggerevent=Red%20alert
+[16:20:12]HREF: 16:20 Chaburek (usr:Haidee Baxter) || The plasteel src=[0x2018299];sublist=;make=2;multiplier=1
+[16:20:27]HREF: 16:20 Chaburek (usr:Haidee Baxter) || The plasteel src=[0x2018299];sublist=;make=2;multiplier=1
+[16:20:48]HREF: 16:20 Chaburek (usr:Haidee Baxter) || The plasteel src=[0x20182b2];sublist=;make=3;multiplier=1
+[16:20:56]HREF: 16:20 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];unload_tray=1
+[16:21:14]HREF: 16:21 ALex13t (usr:Reno 'Slowflake' Flake) || The metal src=[0x2017fbf];sublist=;make=13;multiplier=1
+[16:21:23]HREF: 16:21 ALex13t (usr:Reno 'Slowflake' Flake) || The metal src=[0x2017fbf];sublist=;make=13;multiplier=1
+[16:21:45]HREF: 16:21 ALex13t (usr:Reno 'Slowflake' Flake) || The metal src=[0x2017fbf];sublist=;make=13;multiplier=1
+[16:21:46]HREF: 16:21 ALex13t (usr:Reno 'Slowflake' Flake) || The metal src=[0x2017fbf];sublist=;make=13;multiplier=1
+[16:21:47]HREF: 16:21 ALex13t (usr:Reno 'Slowflake' Flake) || The metal src=[0x2017fbf];sublist=;make=13;multiplier=1
+[16:21:49]HREF: 16:21 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];load_tray=1
+[16:21:50]HREF: 16:21 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];chamber_tray=1
+[16:21:51]HREF: 16:21 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];check_req=1
+[16:23:02]HREF: 16:23 Chaburek (usr:Haidee Baxter) || _=1592572985962
+[16:23:02]HREF: 16:23 Chaburek (usr:Haidee Baxter) || _=1592572985963
+[16:23:17]HREF: 16:23 ADIBELL (usr:Young Lurker (278)) || Young Lurker (278) src=[0x3000077];track=[0x300006c]
+[16:24:05]HREF: 16:24 Chaburek (usr:Haidee Baxter) || _=1592573049077
+[16:24:05]HREF: 16:24 Chaburek (usr:Haidee Baxter) || _=1592573049078
+[16:24:06]HREF: 16:24 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x21006947];?src=[0x20185ce];op=power
+[16:24:24]HREF: 16:24 Chaburek (usr:Haidee Baxter) || _=1592573068567
+[16:24:24]HREF: 16:24 Chaburek (usr:Haidee Baxter) || _=1592573068568
+[16:24:26]HREF: 16:24 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210068aa];?src=[0x20185ce];op=burst
+[16:25:05]HREF: 16:25 Chaburek (usr:Haidee Baxter) || The metal src=[0x2017fbf];sublist=;make=13;multiplier=1
+[16:25:19]HREF: 16:25 Chaburek (usr:Haidee Baxter) || The metal src=[0x2017fbf];sublist=;make=13;multiplier=1
+[16:25:33]HREF: 16:25 CM.RU (usr:Jermaine Earl) || _=1592573133565
+[16:25:33]HREF: 16:25 CM.RU (usr:Jermaine Earl) || _=1592573133566
+[16:25:34]HREF: 16:25 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x210068e4];move=1
+[16:25:36]HREF: 16:25 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x210068e4];move=1
+[16:25:38]HREF: 16:25 Chaburek (usr:Haidee Baxter) || The plasteel src=[0x2018299];sublist=;make=2;multiplier=1
+[16:26:14]HREF: 16:26 CM.RU (usr:Jermaine Earl) || Overwatch Console src=[0x2013732];operation=bomb_x
+[16:26:16]HREF: 16:26 CM.RU (usr:Jermaine Earl) || Overwatch Console src=[0x2013732];operation=bomb_y
+[16:27:11]HREF: 16:27 Chaburek (usr:Haidee Baxter) || The metal src=[0x2017fbf];sublist=;make=12;multiplier=1
+[16:27:28]HREF: 16:27 BlackCrystalic (usr:Young Praetorian (774)) || Young Praetorian (774) src=[0x3000078];track=[0x300006c]
+[16:29:21]HREF: 16:29 Chaburek (usr:Haidee Baxter) || _=1592573364941
+[16:29:21]HREF: 16:29 Chaburek (usr:Haidee Baxter) || _=1592573364942
+[16:29:49]HREF: 16:29 Artyuom (usr:Johnny Vietnam) || _=1592573391393
+[16:29:49]HREF: 16:29 Artyuom (usr:Johnny Vietnam) || _=1592573391394
+[16:29:50]HREF: 16:29 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100693f];?src=[0x20185ce];op=power
+[16:29:53]HREF: 16:29 Chaburek (usr:Haidee Baxter) || _=1592573397517
+[16:29:53]HREF: 16:29 Chaburek (usr:Haidee Baxter) || _=1592573397518
+[16:29:54]HREF: 16:29 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100693f];?src=[0x20185ce];op=power
+[16:29:55]HREF: 16:29 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100693f];?src=[0x20185ce];op=power
+[16:30:21]HREF: 16:30 Chaburek (usr:Haidee Baxter) || The metal src=[0x2017fbf];sublist=;make=13;multiplier=1
+[16:30:33]HREF: 16:30 Chaburek (usr:Haidee Baxter) || The metal src=[0x2017fbf];sublist=;make=13;multiplier=1
+[16:31:17]HREF: 16:31 Chaburek (usr:Haidee Baxter) || The metal src=[0x2017fbf];sublist=;make=13;multiplier=1
+[16:31:30]HREF: 16:31 Chaburek (usr:Haidee Baxter) || _=1592573494323
+[16:31:30]HREF: 16:31 Chaburek (usr:Haidee Baxter) || _=1592573494324
+[16:31:31]HREF: 16:31 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x2100630c];?src=[0x20185ce];op=power
+[16:32:01]HREF: 16:32 CM.RU (usr:Jermaine Earl) || Overwatch Console src=[0x2013732];operation=bomb_y
+[16:32:04]HREF: 16:32 CM.RU (usr:Jermaine Earl) || Overwatch Console src=[0x2013732];operation=dropbomb
+[16:32:38]HREF: 16:32 CM.RU (usr:Jermaine Earl) || _=1592573558407
+[16:32:38]HREF: 16:32 CM.RU (usr:Jermaine Earl) || _=1592573558408
+[16:32:39]HREF: 16:32 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21000c58];move=1
+[16:32:39]HREF: 16:32 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21000c58];move=1
+[16:32:54]HREF: 16:32 CM.RU (usr:Jermaine Earl) || Overwatch Console src=[0x2013732];operation=refresh
+[16:32:54]HREF: 16:32 CM.RU (usr:Jermaine Earl) || Overwatch Console src=[0x2013732];operation=back
+[16:32:56]HREF: 16:32 CM.RU (usr:Jermaine Earl) || Overwatch Console src=[0x2013732];operation=monitor
+[16:33:10]HREF: 16:33 Chaburek (usr:Haidee Baxter) || Haidee Baxter src=[0x300007c];track=[0x3000048]
+[16:33:14]HREF: 16:33 Chaburek (usr:Haidee Baxter) || Haidee Baxter src=[0x300007c];track=[0x3000074]
+[16:33:59]HREF: 16:33 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];back=1
+[16:34:01]HREF: 16:34 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];unload_tray=1
+[16:34:05]HREF: 16:34 Sladk0ewka (usr:Evan Tomato) || Evan Tomato src=[0x3000079];track=[0x3000048]
+[16:34:05]HREF: 16:34 Atlasic (usr:Young Hivelord (341)) || _src_=prefs;preference=job;task=menu
+[16:34:11]HREF: 16:34 Sladk0ewka (usr:Evan Tomato) || Evan Tomato src=[0x3000079];track=[0x300007e]
+[16:34:17]HREF: 16:34 Atlasic (usr:Young Hivelord (341)) || _src_=prefs;preference=job;task=reset
+[16:34:17]HREF: 16:34 Sladk0ewka (usr:Evan Tomato) || Evan Tomato src=[0x3000079];track=[0x300007e]
+[16:34:20]HREF: 16:34 Atlasic (usr:Young Hivelord (341)) || _src_=prefs;preference=job;task=input;text=Squad%20Specialist
+[16:34:22]HREF: 16:34 Atlasic (usr:Young Hivelord (341)) || _src_=prefs;preference=job;task=input;text=Squad%20Specialist
+[16:34:23]HREF: 16:34 Atlasic (usr:Young Hivelord (341)) || _src_=prefs;preference=job;task=input;text=Squad%20Specialist
+[16:34:24]HREF: 16:34 Atlasic (usr:Young Hivelord (341)) || _src_=prefs;preference=job;task=input;text=Squad%20Smartgunner
+[16:34:26]HREF: 16:34 Atlasic (usr:Young Hivelord (341)) || _src_=prefs;preference=job;task=input;text=Squad%20Smartgunner
+[16:34:32]HREF: 16:34 Alot (usr:Elder Queen) || _=1592573678274
+[16:34:32]HREF: 16:34 Alot (usr:Elder Queen) || _=1592573678275
+[16:34:34]HREF: 16:34 Sladk0ewka (usr:Evan Tomato) || Evan Tomato src=[0x3000079];track=[0x3000048]
+[16:34:49]HREF: 16:34 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];load_tray=1
+[16:34:50]HREF: 16:34 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];chamber_tray=1
+[16:34:50]HREF: 16:34 Chaburek (usr:Haidee Baxter) || Haidee Baxter src=[0x300007c];track=[0x300007e]
+[16:34:51]HREF: 16:34 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];chamber_tray=1
+[16:34:55]HREF: 16:34 Atlasic (usr:Young Hivelord (341)) || _src_=prefs;preference=job;task=input;text=Staff%20Officer
+[16:34:56]HREF: 16:34 Atlasic (usr:Young Hivelord (341)) || _src_=prefs;preference=job;task=input;text=Staff%20Officer
+[16:34:58]HREF: 16:34 Sladk0ewka (usr:Evan Tomato) || Evan Tomato src=[0x3000079];track=[0x300007e]
+[16:35:00]HREF: 16:35 Sladk0ewka (usr:Evan Tomato) || Evan Tomato src=[0x3000079];track=[0x300007e]
+[16:35:02]HREF: 16:35 Atlasic (usr:Young Hivelord (341)) || _src_=prefs;preference=job;task=input;text=Pilot%20Officer
+[16:35:04]HREF: 16:35 Sladk0ewka (usr:Evan Tomato) || Evan Tomato src=[0x3000079];track=[0x3000048]
+[16:35:09]HREF: 16:35 Atlasic (usr:Young Hivelord (341)) || _src_=prefs;preference=job;task=random
+[16:35:11]HREF: 16:35 Chaburek (usr:Haidee Baxter) || Haidee Baxter src=[0x300007c];track=[0x3000048]
+[16:35:11]HREF: 16:35 Atlasic (usr:Young Hivelord (341)) || _src_=prefs;preference=job;task=random
+[16:35:13]HREF: 16:35 Atlasic (usr:Young Hivelord (341)) || _src_=prefs;preference=job;task=random
+[16:35:13]HREF: 16:35 Chaburek (usr:Haidee Baxter) || Haidee Baxter src=[0x300007c];track=[0x300004e]
+[16:35:18]HREF: 16:35 Atlasic (usr:Young Hivelord (341)) || _src_=prefs;preference=job;task=close
+[16:35:20]HREF: 16:35 Atlasic (usr:Young Hivelord (341)) || Young Hivelord (341) src=[0x300007b];preference=save
+[16:35:21]HREF: 16:35 Atlasic (usr:Young Hivelord (341)) || Young Hivelord (341) src=[0x300007b];preference=save
+[16:35:22]HREF: 16:35 Chaburek (usr:Haidee Baxter) || Haidee Baxter src=[0x300007c];track=[0x300004e]
+[16:35:25]HREF: 16:35 CM.RU (usr:Jermaine Earl) || Keycard Authentication Device src=[0x20132f9];triggerevent=Grant%20Emergency%20Maintenance%20Access
+[16:35:51]HREF: 16:35 CM.RU (usr:Jermaine Earl) || The communications console src=[0x2013422];operation=award
+[16:35:56]HREF: 16:35 Sladk0ewka (usr:Evan Tomato) || Evan Tomato src=[0x3000079];track=[0x300007e]
+[16:36:08]HREF: 16:36 CM.RU (usr:Jermaine Earl) || The communications console src=[0x2013422];operation=award
+[16:36:19]HREF: 16:36 Chaburek (usr:Haidee Baxter) || Haidee Baxter src=[0x300007c];track=[0x300007e]
+[16:36:30]HREF: 16:36 Atlasic (usr:Young Hivelord (341)) || _src_=prefs;preference=job;task=menu
+[16:36:36]HREF: 16:36 CM.RU (usr:Jermaine Earl) || The communications console src=[0x2013422];operation=award
+[16:36:37]HREF: 16:36 ALex13t (usr:Reno 'Slowflake' Flake) || Reno 'Slowflake' Flake src=[0x300007f];track=[0x300007e]
+[16:36:39]HREF: 16:36 Atlasic (usr:Young Hivelord (341)) || _src_=prefs;preference=job;task=input;text=Squad%20Medic
+[16:36:41]HREF: 16:36 Atlasic (usr:Young Hivelord (341)) || _src_=prefs;preference=job;task=input;text=Squad%20Medic
+[16:37:12]HREF: 16:37 CM.RU (usr:Jermaine Earl) || The communications console src=[0x2013422];operation=award
+[16:37:14]HREF: 16:37 ALex13t (usr:Reno 'Slowflake' Flake) || Reno 'Slowflake' Flake src=[0x300007f];track=[0x3000081]
+[16:37:27]HREF: 16:37 CM.RU (usr:Jermaine Earl) || The communications console src=[0x2013422];operation=award
+[16:37:49]HREF: 16:37 ALex13t (usr:Reno 'Slowflake' Flake) || Reno 'Slowflake' Flake src=[0x300007f];track=[0x300004e]
+[16:38:21]HREF: 16:38 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=628
+[16:38:23]HREF: 16:38 ZyberCpechnaz (usr:Mihara Crowe) || _=1592573903658
+[16:38:23]HREF: 16:38 ZyberCpechnaz (usr:Mihara Crowe) || _=1592573903659
+[16:38:24]HREF: 16:38 ZyberCpechnaz (usr:Mihara Crowe) || /datum/nanoui src=[0x210062be];move=1
+[16:38:24]HREF: 16:38 ZyberCpechnaz (usr:Mihara Crowe) || /datum/nanoui src=[0x210062be];move=1
+[16:38:41]HREF: 16:38 CM.RU (usr:Jermaine Earl) || Overwatch Console src=[0x2013732];operation=back
+[16:38:44]HREF: 16:38 CM.RU (usr:Jermaine Earl) || Overwatch Console src=[0x2013732];operation=bombs
+[16:38:45]HREF: 16:38 CM.RU (usr:Jermaine Earl) || Overwatch Console src=[0x2013732];operation=bomb_x
+[16:38:49]HREF: 16:38 CM.RU (usr:Jermaine Earl) || Overwatch Console src=[0x2013732];operation=bomb_y
+[16:38:58]HREF: 16:38 CM.RU (usr:Jermaine Earl) || The communications console src=[0x2013422];operation=announce
+[16:39:32]HREF: 16:39 CM.RU (usr:Jermaine Earl) || The communications console src=[0x2013422];operation=announce
+[16:39:43]HREF: 16:39 CM.RU (usr:Jermaine Earl) || The communications console src=[0x2013422];operation=award
+[16:41:01]HREF: 16:41 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=222
+[16:41:03]HREF: 16:41 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=628
+[16:41:13]HREF: 16:41 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=22
+[16:41:16]HREF: 16:41 ALex13t (usr:Clark Elliot) || _=1592574078302
+[16:41:16]HREF: 16:41 ALex13t (usr:Clark Elliot) || _=1592574078303
+[16:41:19]HREF: 16:41 ALex13t (usr:Clark Elliot) || /datum/nanoui src=[0x21006639];vend=2;cat=0
+[16:41:36]HREF: 16:41 CM.RU (usr:Jermaine Earl) || The safe src=[0x20141dc];retrieve=[0x20141dd]
+[16:41:42]HREF: 16:41 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=22
+[16:41:43]HREF: 16:41 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=222
+[16:41:47]HREF: 16:41 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=628
+[16:41:50]HREF: 16:41 ALex13t (usr:Clark Elliot) || _=1592574112443
+[16:41:50]HREF: 16:41 ALex13t (usr:Clark Elliot) || _=1592574112444
+[16:41:55]HREF: 16:41 ALex13t (usr:Clark Elliot) || _=1592574117553
+[16:41:55]HREF: 16:41 ALex13t (usr:Clark Elliot) || _=1592574117554
+[16:42:02]HREF: 16:42 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=22
+[16:42:08]HREF: 16:42 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=628
+[16:42:10]HREF: 16:42 ALex13t (usr:Clark Elliot) || _=1592574132200
+[16:42:10]HREF: 16:42 ALex13t (usr:Clark Elliot) || _=1592574132201
+[16:42:12]HREF: 16:42 ALex13t (usr:Clark Elliot) || /datum/nanoui src=[0x21006234];vend=13;cat=0
+[16:42:13]HREF: 16:42 ALex13t (usr:Clark Elliot) || /datum/nanoui src=[0x21006234];vend=12;cat=0
+[16:42:19]HREF: 16:42 ALex13t (usr:Clark Elliot) || _=1592574141534
+[16:42:19]HREF: 16:42 ALex13t (usr:Clark Elliot) || _=1592574141535
+[16:42:24]HREF: 16:42 Atlasic (usr:Young Hivelord (341)) || _src_=prefs;preference=job;task=menu
+[16:42:25]HREF: 16:42 ALex13t (usr:Clark Elliot) || _=1592574147107
+[16:42:25]HREF: 16:42 ALex13t (usr:Clark Elliot) || _=1592574147108
+[16:42:31]HREF: 16:42 ALex13t (usr:Clark Elliot) || /datum/nanoui src=[0x2100630c];vend=6;cat=0
+[16:42:34]HREF: 16:42 Atlasic (usr:Young Hivelord (341)) || _src_=prefs;preference=be_special;num=0
+[16:42:37]HREF: 16:42 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=222
+[16:42:38]HREF: 16:42 Atlasic (usr:Young Hivelord (341)) || _src_=prefs;preference=be_special;num=5
+[16:42:38]HREF: 16:42 ALex13t (usr:Clark Elliot) || _=1592574160274
+[16:42:38]HREF: 16:42 ALex13t (usr:Clark Elliot) || _=1592574160275
+[16:42:44]HREF: 16:42 ALex13t (usr:Clark Elliot) || /datum/nanoui src=[0x210065db];vend=17;cat=0
+[16:42:44]HREF: 16:42 ALex13t (usr:Clark Elliot) || /datum/nanoui src=[0x210065db];vend=17;cat=0
+[16:42:44]HREF: 16:42 ALex13t (usr:Clark Elliot) || /datum/nanoui src=[0x210065db];vend=17;cat=0
+[16:42:49]HREF: 16:42 ALex13t (usr:Clark Elliot) || /datum/nanoui src=[0x210065db];vend=16;cat=0
+[16:42:49]HREF: 16:42 Atlasic (usr:Young Hivelord (341)) || Young Hivelord (341) src=[0x300007b];preference=save
+[16:42:49]HREF: 16:42 ALex13t (usr:Clark Elliot) || /datum/nanoui src=[0x210065db];vend=16;cat=0
+[16:42:50]HREF: 16:42 ALex13t (usr:Clark Elliot) || /datum/nanoui src=[0x210065db];vend=16;cat=0
+[16:42:50]HREF: 16:42 Atlasic (usr:Young Hivelord (341)) || Young Hivelord (341) src=[0x300007b];preference=save
+[16:42:51]HREF: 16:42 Atlasic (usr:Young Hivelord (341)) || Young Hivelord (341) src=[0x300007b];preference=save
+[16:43:04]HREF: 16:43 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=222
+[16:43:08]HREF: 16:43 Atlasic (usr:Young Hivelord (341)) || Young Hivelord (341) src=[0x300007b];track=[0x3000084]
+[16:43:19]HREF: 16:43 Alot (usr:Elder Queen) || Elder Queen src=[0x300004e];watch_xeno_number=222
+[16:43:35]HREF: 16:43 CM.RU (usr:Jermaine Earl) || Orbital Cannon Console src=[0x200eab3];chamber_tray=1
+[16:44:01]HREF: 16:44 Artyuom (usr:Heather Barrows) || _=1592574243126
+[16:44:01]HREF: 16:44 Artyuom (usr:Heather Barrows) || _=1592574243127
+[16:44:04]HREF: 16:44 Artyuom (usr:Heather Barrows) || /datum/nanoui src=[0x21006289];select_dock=1
+[16:44:04]HREF: 16:44 Artyuom (usr:Heather Barrows) || /datum/nanoui src=[0x21006289];move=1
+[16:44:05]HREF: 16:44 Artyuom (usr:Heather Barrows) || /datum/nanoui src=[0x21006289];move=1
+[16:44:31]HREF: 16:44 CM.RU (usr:Jermaine Earl) || The communications console src=[0x2013422];operation=messageUSCM
+[16:44:59]HREF: 16:44 BlackCrystalic (usr:Young Praetorian (774)) || _src_=holder;adminplayeropts=[0x3000048]
+[16:45:01]HREF: 16:45 BlackCrystalic (usr:Young Praetorian (774)) || _src_=holder;CentcommReply=[0x3000048]
+[16:45:06]HREF: 16:45 Atlasic (usr:Young Hivelord (341)) || Young Hivelord (341) src=[0x300007b];track=[0x3000083]
+[16:47:03]HREF: 16:47 CM.RU (usr:Jermaine Earl) || Overwatch Console src=[0x2013732];operation=dropbomb
+[16:47:42]HREF: 16:47 Alot (usr:Elder Queen) || _=1592574467853
+[16:47:42]HREF: 16:47 Alot (usr:Elder Queen) || _=1592574467854
+[16:47:43]HREF: 16:47 Alot (usr:Elder Queen) || /datum/nanoui src=[0x210069c8];move=1
+[16:47:58]HREF: 16:47 Artyuom (usr:Heather Barrows) || The safe src=[0x200b3ea];increment=1
+[16:47:58]HREF: 16:47 Artyuom (usr:Heather Barrows) || The safe src=[0x200b3ea];increment=1
+[16:48:00]HREF: 16:48 Artyuom (usr:Heather Barrows) || The safe src=[0x200b3ea];increment=1
+[16:48:00]HREF: 16:48 Artyuom (usr:Heather Barrows) || The safe src=[0x200b3ea];increment=1
+[16:48:06]HREF: 16:48 Artyuom (usr:Heather Barrows) || The safe src=[0x200b3ea];increment=1
+[16:48:07]HREF: 16:48 Artyuom (usr:Heather Barrows) || The safe src=[0x200b3ea];increment2=1
+[16:48:07]HREF: 16:48 Artyuom (usr:Heather Barrows) || The safe src=[0x200b3ea];increment2=1
+[16:48:08]HREF: 16:48 Sladk0ewka (usr:Young Defender (222)) || Young Defender (222) src=[0x300008c];track=[0x300004e]
+[16:48:11]HREF: 16:48 Artyuom (usr:Heather Barrows) || The safe src=[0x200b3ea];increment=1
+[16:48:11]HREF: 16:48 Artyuom (usr:Heather Barrows) || The safe src=[0x200b3ea];increment=1
+[16:48:12]HREF: 16:48 Artyuom (usr:Heather Barrows) || The safe src=[0x200b3ea];increment=1
+[16:48:12]HREF: 16:48 Artyuom (usr:Heather Barrows) || The safe src=[0x200b3ea];increment=1
+[16:48:13]HREF: 16:48 Artyuom (usr:Heather Barrows) || The safe src=[0x200b3ea];open=1
+[16:48:39]HREF: 16:48 EngineerConager (usr:EngineerConager) || EngineerConager src=[0x300008e];lobby_choice=late_join
+[16:48:41]HREF: 16:48 EngineerConager (usr:EngineerConager) || EngineerConager src=[0x300008e];lobby_choice=late_join
+[16:48:41]HREF: 16:48 EngineerConager (usr:EngineerConager) || EngineerConager src=[0x300008e];lobby_choice=late_join
+[16:48:41]HREF: 16:48 EngineerConager (usr:EngineerConager) || EngineerConager src=[0x300008e];lobby_choice=late_join
+[16:48:42]HREF: 16:48 Chaburek (usr:Lydia Hunt) || The metal src=[0x2013abb];sublist=;make=13;multiplier=1
+[16:48:42]HREF: 16:48 EngineerConager (usr:EngineerConager) || EngineerConager src=[0x300008e];lobby_choice=late_join
+[16:48:45]HREF: 16:48 Sladk0ewka (usr:Young Defender (222)) || Young Defender (222) src=[0x300008c];track=[0x300004e]
+[16:48:52]HREF: 16:48 Harlex5435 (usr:Ancient Runner (628)) || Ancient Runner (628) src=[0x300008b];track=[0x3000084]
+[16:48:56]HREF: 16:48 Sladk0ewka (usr:Young Defender (222)) || Young Defender (222) src=[0x300008c];track=[0x3000084]
+[16:49:00]HREF: 16:49 EngineerConager (usr:EngineerConager) || EngineerConager src=[0x300008e];lobby_choice=SelectedJob;job_selected=Staff%20Officer
+[16:49:00]HREF: 16:49 Harlex5435 (usr:Ancient Runner (628)) || Ancient Runner (628) src=[0x300008b];track=[0x300004e]
+[16:49:20]HREF: 16:49 Sladk0ewka (usr:Young Defender (222)) || Young Defender (222) src=[0x300008c];track=[0x3000084]
+[16:49:46]HREF: 16:49 ALex13t (usr:Clark Elliot) || The metal src=[0x2013aa5];sublist=;make=13;multiplier=1
+[16:49:58]HREF: 16:49 Sladk0ewka (usr:Young Defender (222)) || Young Defender (222) src=[0x300008c];track=[0x3000084]
+[16:50:01]HREF: 16:50 Sladk0ewka (usr:Young Defender (222)) || Young Defender (222) src=[0x300008c];track=[0x3000048]
+[16:50:07]HREF: 16:50 Sladk0ewka (usr:Young Defender (222)) || Young Defender (222) src=[0x300008c];track=[0x3000083]
+[16:50:10]HREF: 16:50 ALex13t (usr:Clark Elliot) || The plasteel src=[0x2013aba];sublist=;make=2;multiplier=1
+[16:50:19]HREF: 16:50 Chaburek (usr:Lydia Hunt) || The metal src=[0x2013abb];make=12;multiplier=10
+[16:50:28]HREF: 16:50 ALex13t (usr:Clark Elliot) || The metal src=[0x2013aa5];sublist=;make=12;multiplier=1
+[16:50:30]HREF: 16:50 ALex13t (usr:Clark Elliot) || The metal src=[0x2013aa5];sublist=;make=12;multiplier=1
+[16:50:41]HREF: 16:50 CM.RU (usr:Jermaine Earl) || The metal src=[0x2013abb];sublist=;make=13;multiplier=1
+[16:50:41]HREF: 16:50 ALex13t (usr:Clark Elliot) || The plasteel src=[0x2013aba];sublist=;make=2;multiplier=1
+[16:50:47]HREF: 16:50 ALex13t (usr:Clark Elliot) || The plasteel src=[0x2013aba];sublist=;make=2;multiplier=1
+[16:51:00]HREF: 16:51 Harlex5435 (usr:Ancient Runner (628)) || Ancient Runner (628) src=[0x300008b];track=[0x3000084]
+[16:51:07]HREF: 16:51 ALex13t (usr:Clark Elliot) || The metal src=[0x2013aa5];sublist=;make=13;multiplier=1
+[16:51:11]HREF: 16:51 CM.RU (usr:Jermaine Earl) || The metal src=[0x2013abb];sublist=;make=13;multiplier=1
+[16:51:29]HREF: 16:51 CM.RU (usr:Jermaine Earl) || The metal src=[0x2013abb];sublist=;make=13;multiplier=1
+[16:51:42]HREF: 16:51 CM.RU (usr:Jermaine Earl) || The metal src=[0x2013abb];sublist=;make=13;multiplier=1
+[16:51:50]HREF: 16:51 ALex13t (usr:Clark Elliot) || The plasteel src=[0x2013aa4];sublist=;make=2;multiplier=1
+[16:51:53]HREF: 16:51 EngineerConager (usr:Dell Conrad) || The communications console src=[0x2013422];operation=distress
+[16:51:54]HREF: 16:51 EngineerConager (usr:Dell Conrad) || The communications console src=[0x2013422];operation=distress
+[16:51:55]HREF: 16:51 EngineerConager (usr:Dell Conrad) || The communications console src=[0x2013422];operation=distress
+[16:51:55]HREF: 16:51 EngineerConager (usr:Dell Conrad) || The communications console src=[0x2013422];operation=distress
+[16:51:55]HREF: 16:51 EngineerConager (usr:Dell Conrad) || The communications console src=[0x2013422];operation=distress
+[16:51:56]HREF: 16:51 EngineerConager (usr:Dell Conrad) || The communications console src=[0x2013422];operation=distress
+[16:51:57]HREF: 16:51 EngineerConager (usr:Dell Conrad) || The communications console src=[0x2013422];operation=distress
+[16:51:58]HREF: 16:51 EngineerConager (usr:Dell Conrad) || The communications console src=[0x2013422];operation=distress
+[16:51:58]HREF: 16:51 EngineerConager (usr:Dell Conrad) || The communications console src=[0x2013422];operation=distress
+[16:52:07]HREF: 16:52 ALex13t (usr:Clark Elliot) || The metal src=[0x2013aa5];sublist=;make=13;multiplier=1
+[16:52:17]HREF: 16:52 CM.RU (usr:Jermaine Earl) || The plasteel src=[0x2013aba];sublist=;make=2;multiplier=1
+[16:52:24]HREF: 16:52 ALex13t (usr:Clark Elliot) || The metal src=[0x2013aa5];sublist=;make=13;multiplier=1
+[16:52:36]HREF: 16:52 EngineerConager (usr:Dell Conrad) || The communications console src=[0x2013422];operation=main
+[16:52:40]HREF: 16:52 EngineerConager (usr:Dell Conrad) || The communications console src=[0x2013422];operation=evacuation_start
+[16:52:41]HREF: 16:52 EngineerConager (usr:Dell Conrad) || The communications console src=[0x2013422];operation=evacuation_start
+[16:52:42]HREF: 16:52 EngineerConager (usr:Dell Conrad) || The communications console src=[0x2013422];operation=evacuation_start
+[16:52:42]HREF: 16:52 EngineerConager (usr:Dell Conrad) || The communications console src=[0x2013422];operation=evacuation_start
+[16:52:42]HREF: 16:52 EngineerConager (usr:Dell Conrad) || The communications console src=[0x2013422];operation=evacuation_start
+[16:52:43]HREF: 16:52 EngineerConager (usr:Dell Conrad) || The communications console src=[0x2013422];operation=evacuation_start
+[16:52:43]HREF: 16:52 EngineerConager (usr:Dell Conrad) || The communications console src=[0x2013422];operation=evacuation_start
+[16:52:46]HREF: 16:52 EngineerConager (usr:Dell Conrad) || The communications console src=[0x2013422];operation=main
+[16:53:05]HREF: 16:53 Artyuom (usr:Heather Barrows) || _=1592574787318
+[16:53:05]HREF: 16:53 Artyuom (usr:Heather Barrows) || _=1592574787319
+[16:53:08]HREF: 16:53 Artyuom (usr:Heather Barrows) || /datum/nanoui src=[0x21005883];select_dock=1
+[16:54:22]HREF: 16:54 GhostPokolenie (usr:Young Spitter (22)) || Young Spitter (22) src=[0x300008a];track=[0x3000086]
+[16:55:47]HREF: 16:55 ALex13t (usr:Clark Elliot) || The plasteel src=[0x2013aba];sublist=;make=1;multiplier=1
+[16:56:07]HREF: 16:56 ALex13t (usr:Clark Elliot) || The plasteel src=[0x2013aba];sublist=;make=2;multiplier=1
+[16:56:20]HREF: 16:56 CM.RU (usr:Jermaine Earl) || _=1592574980597
+[16:56:20]HREF: 16:56 CM.RU (usr:Jermaine Earl) || _=1592574980598
+[16:56:21]HREF: 16:56 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x2100631a];command=dest_start
+[16:56:24]HREF: 16:56 CM.RU (usr:Jermaine Earl) || _=1592574984645
+[16:56:24]HREF: 16:56 CM.RU (usr:Jermaine Earl) || _=1592574984646
+[16:56:25]HREF: 16:56 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21006329];command=lock_door
+[16:56:26]HREF: 16:56 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21006329];command=lock_door
+[16:56:27]HREF: 16:56 CM.RU (usr:Jermaine Earl) || _=1592574987446
+[16:56:27]HREF: 16:56 CM.RU (usr:Jermaine Earl) || _=1592574987447
+[16:56:28]HREF: 16:56 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21006310];command=lock_door
+[16:56:29]HREF: 16:56 CM.RU (usr:Jermaine Earl) || _=1592574989896
+[16:56:29]HREF: 16:56 CM.RU (usr:Jermaine Earl) || _=1592574989897
+[16:56:30]HREF: 16:56 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21006357];command=delay_launch
+[16:56:34]HREF: 16:56 CM.RU (usr:Jermaine Earl) || _=1592574994293
+[16:56:34]HREF: 16:56 CM.RU (usr:Jermaine Earl) || _=1592574994294
+[16:56:34]HREF: 16:56 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21006310];command=delay_launch
+[16:56:39]HREF: 16:56 CM.RU (usr:Jermaine Earl) || _=1592574999595
+[16:56:39]HREF: 16:56 CM.RU (usr:Jermaine Earl) || _=1592574999596
+[16:56:40]HREF: 16:56 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21006314];command=delay_launch
+[16:56:46]HREF: 16:56 Harlex5435 (usr:Diego Hegarty) || _=1592575011185
+[16:56:46]HREF: 16:56 Harlex5435 (usr:Diego Hegarty) || _=1592575011186
+[16:56:48]HREF: 16:56 Harlex5435 (usr:Diego Hegarty) || /datum/nanoui src=[0x21006313];move=1
+[16:56:48]HREF: 16:56 Harlex5435 (usr:Diego Hegarty) || /datum/nanoui src=[0x21006313];move=1
+[16:56:53]HREF: 16:56 BlackCrystalic (usr:Young Praetorian (774)) || _src_=holder;adminplayerobservecoodjump=1;X=267;Y=254;Z=3
+[16:57:08]HREF: 16:57 BlackCrystalic (usr:Young Praetorian (774)) || /datum/controller/vote src=[0x21000002];vote=custom
+[16:57:31]HREF: 16:57 BlackCrystalic (usr:Young Praetorian (774)) || /datum/controller/vote src=[0x21000002];vote=1
+[16:57:32]HREF: 16:57 BlackCrystalic (usr:Young Praetorian (774)) || /datum/controller/vote src=[0x21000002];vote=close
+[16:57:49]HREF: 16:57 CM.RU (usr:Jermaine Earl) || _=1592575069586
+[16:57:49]HREF: 16:57 CM.RU (usr:Jermaine Earl) || _=1592575069587
+[16:57:51]HREF: 16:57 CM.RU (usr:Jermaine Earl) || _=1592575071231
+[16:57:51]HREF: 16:57 CM.RU (usr:Jermaine Earl) || _=1592575071232
+[16:57:51]HREF: 16:57 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21006316];command=dest_trigger
+[16:57:54]HREF: 16:57 CM.RU (usr:Jermaine Earl) || _=1592575074036
+[16:57:54]HREF: 16:57 CM.RU (usr:Jermaine Earl) || _=1592575074037
+[16:57:54]HREF: 16:57 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21006316];command=delay_launch
+[16:57:56]HREF: 16:57 CM.RU (usr:Jermaine Earl) || _=1592575075981
+[16:57:56]HREF: 16:57 CM.RU (usr:Jermaine Earl) || _=1592575075982
+[16:57:56]HREF: 16:57 CM.RU (usr:Jermaine Earl) || /datum/nanoui src=[0x21006316];command=force_launch
+[16:58:11]HREF: 16:58 BlackCrystalic (usr:Young Praetorian (774)) || /datum/admins src=[0x210036cf];check_antagonist=1
+[16:58:14]HREF: 16:58 BlackCrystalic (usr:Young Praetorian (774)) || /datum/admins src=[0x210036cf];evac_authority=use_dest

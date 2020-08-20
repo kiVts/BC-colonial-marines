@@ -1,0 +1,146 @@
+
+
+Starting up round 15:36:30
+---------------------
+[15:36:30]MISC: Saved mode is 'Distress Signal'
+[15:36:30]ADMIN: Loading jobban_rank
+[15:36:30]ADMIN: Loading Banlist
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/captain.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/hop.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/assistant.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/bartender.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/chef.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/hydro.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/mining.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/janitor.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/librarian.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/lawyer.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/chaplain.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/qm.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/cargo_tech.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/chief_engineer.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/engineer.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/atmos.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/cmo.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/doctor.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/chemist.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/geneticist.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/psychiatrist.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/rd.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/scientist.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/roboticist.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/hos.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/warden.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/detective.
+[15:36:30]DEBUG: Error setting up jobs, blank title job: /datum/job/officer.
+[15:36:39]DEBUG: Next event in 36.634 minutes.
+[15:36:44]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 22.
+[15:36:44]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 9.
+[15:36:44]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 3.
+[15:36:52]ACCESS: Login: Sewa/(Sewa) from 188.19.160.117-1345515308 || BYOND v513.1525
+[15:36:54]ACCESS: Logout: Sewa/(Sewa)
+[15:37:06]ACCESS: Login: Sewa/(Sewa) from 188.19.160.117-1345515308 || BYOND v513.1525
+[15:37:13]ACCESS: Login: EngineerConager/(EngineerConager) from 176.32.153.98-2402443160 || BYOND v513.1525
+[15:37:16]ACCESS: Logout: EngineerConager/(EngineerConager)
+[15:37:20]ACCESS: Login: EngineerConager/(EngineerConager) from 176.32.153.98-2402443160 || BYOND v513.1525
+[15:37:22]ACCESS: Login: NIKIGO/(NIKIGO) from 79.104.200.2-1951049353 || BYOND v513.1525
+[15:37:24]ACCESS: Logout: NIKIGO/(NIKIGO)
+[15:37:28]ACCESS: Login: NIKIGO/(NIKIGO) from 79.104.200.2-1951049353 || BYOND v513.1525
+[15:37:31]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 127.0.0.1-3990586367 || BYOND v513.1513
+[15:37:33]ACCESS: Logout: BlackCrystalic/(BlackCrystalic)
+[15:37:34]ACCESS: Login: Das228/(Das228) from 188.123.231.53-2235160672 || BYOND v513.1525
+[15:37:36]ACCESS: Logout: Das228/(Das228)
+[15:37:39]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:37:40]ACCESS: Login: Das228/(Das228) from 188.123.231.53-2235160672 || BYOND v513.1525
+[15:37:57]OOC: BlackCrystalic/(BlackCrystalic) "& (start area (8, 8, 2))
+[15:37:58]OOC: BlackCrystalic/(BlackCrystalic) " (start area (8, 8, 2))
+[15:38:00]OOC: BlackCrystalic/(BlackCrystalic) "а" (start area (8, 8, 2))
+[15:38:01]OOC: BlackCrystalic/(BlackCrystalic) "в" (start area (8, 8, 2))
+[15:38:03]OOC: BlackCrystalic/(BlackCrystalic) "п" (start area (8, 8, 2))
+[15:38:04]OOC: BlackCrystalic/(BlackCrystalic) "р" (start area (8, 8, 2))
+[15:38:05]OOC: BlackCrystalic/(BlackCrystalic) "л" (start area (8, 8, 2))
+[15:38:07]OOC: BlackCrystalic/(BlackCrystalic) "ж" (start area (8, 8, 2))
+[15:38:08]OOC: BlackCrystalic/(BlackCrystalic) "к" (start area (8, 8, 2))
+[15:38:10]OOC: BlackCrystalic/(BlackCrystalic) " (start area (8, 8, 2))
+[15:38:11]OOC: BlackCrystalic/(BlackCrystalic) "& (start area (8, 8, 2))
+[15:38:33]ACCESS: Login: Artyuom/(Artyuom) from 95.174.127.234-114134526 || BYOND v512.1488
+[15:38:35]ACCESS: Logout: Artyuom/(Artyuom)
+[15:38:42]ACCESS: Login: Artyuom/(Artyuom) from 95.174.127.234-114134526 || BYOND v512.1488
+[15:38:46]ACCESS: Logout: Artyuom/(Artyuom)
+[15:39:26]ACCESS: Login: Artyuom/(Artyuom) from 95.174.127.234-114134526 || BYOND v513.1517
+[15:39:28]ACCESS: Logout: Artyuom/(Artyuom)
+[15:39:32]ACCESS: Login: Artyuom/(Artyuom) from 95.174.127.234-114134526 || BYOND v513.1517
+[15:39:37]ACCESS: Login: Gaper/(Gaper) from 95.84.236.57-3712357326 || BYOND v513.1511
+[15:39:40]ACCESS: Logout: Gaper/(Gaper)
+[15:39:47]ACCESS: Login: Gaper/(Gaper) from 95.84.236.57-3712357326 || BYOND v513.1511
+[15:40:52]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 127.0.0.1-3990586367 || BYOND v513.1525
+[15:40:52]ACCESS: Notice: ZyberCpechnaz/(ZyberCpechnaz) has the same ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[15:40:53]ACCESS: Logout: ZyberCpechnaz/(ZyberCpechnaz)
+[15:40:57]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 80.240.253.147-3990586367 || BYOND v513.1525
+[15:40:57]ACCESS: Notice: ZyberCpechnaz/(ZyberCpechnaz) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[15:40:59]ACCESS: Login: Fogusin/(Fogusin) from 109.226.92.86-1633234977 || BYOND v513.1520
+[15:41:13]ACCESS: Logout: Fogusin/(Fogusin)
+[15:41:20]ACCESS: Login: Fogusin/(Fogusin) from 109.226.92.86-1633234977 || BYOND v513.1520
+[15:41:58]ACCESS: Logout: Fogusin/(Fogusin)
+[15:42:44]DEBUG: Gaper had Alien enabled, so we are drafting them.
+[15:42:44]DEBUG: Sewa had Survivor enabled, so we are drafting them.
+[15:42:44]ACCESS: Logout: *no key*/(Sewa)
+[15:42:44]ACCESS: Login: Sewa/(Kelvin Focell) from 188.19.160.117-1345515308 || BYOND v513.1525
+[15:42:44]ACCESS: Logout: *no key*/(EngineerConager)
+[15:42:44]ACCESS: Login: EngineerConager/(Dell Conrad) from 176.32.153.98-2402443160 || BYOND v513.1525
+[15:42:44]ACCESS: Logout: *no key*/(NIKIGO)
+[15:42:44]ACCESS: Login: NIKIGO/(Colten Stange) from 79.104.200.2-1951049353 || BYOND v513.1525
+[15:42:44]ACCESS: Logout: *no key*/(BlackCrystalic)
+[15:42:44]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:42:44]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[15:42:44]ACCESS: Logout: *no key*/(Das228)
+[15:42:44]ACCESS: Login: Das228/(Osmund Howard) from 188.123.231.53-2235160672 || BYOND v513.1525
+[15:42:44]ACCESS: Logout: *no key*/(Artyuom)
+[15:42:44]ACCESS: Login: Artyuom/(Johnny Vietnam) from 95.174.127.234-114134526 || BYOND v513.1517
+[15:42:45]ACCESS: Logout: *no key*/(Gaper)
+[15:42:45]ACCESS: Login: Gaper/(Alim Ali Khan San Sikh) from 95.84.236.57-3712357326 || BYOND v513.1511
+[15:42:45]ADMIN: EngineerConager/(Dell Conrad) has been assigned as Bravo Squad Leader
+[15:42:45]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) has been assigned as Alpha Squad Leader
+[15:42:45]ADMIN: Das228/(Osmund Howard) has been assigned as Alpha Squad Smartgunner
+[15:43:16]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) admin ghosted.
+[15:43:16]ACCESS: Logout: *no key*/(Blacky 'GG' Crysis)
+[15:43:16]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:43:16]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[15:43:23]ACCESS: Logout: *no key*/(Blacky 'GG' Crysis)
+[15:43:23]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:43:23]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[15:43:33]ACCESS: Logout: *no key*/(Alim Ali Khan San Sikh)
+[15:43:33]ACCESS: Login: Gaper/(Queen) from 95.84.236.57-3712357326 || BYOND v513.1511
+[15:43:50]ACCESS: Logout: Gaper/(Queen)
+[15:43:51]GAME: Marine Major Victory
+Game mode: Distress Signal
+Round time: 0:06
+End round player population: 7
+Total xenos spawned: 1
+Total Preds spawned: 0
+Total humans spawned: 7
+[15:43:51]GAME: Antagonists at round end were...
+[15:43:51]GAME: Survivors: Kelvin Focell(Sewa).
+[15:43:51]GAME: Xenomorphs: Queen(Gaper).
+[15:44:00]EMOTE: BlackCrystalic/(Blacky 'GG' Crysis) <B>SSGT Blacky 'GG' Crysis</B> РЕЖИТ ВЕНЫ (Cafeteria Starboard (218, 167, 3))
+[15:44:07]SAY: EngineerConager/(Dell Conrad) "Р ћбед.." (Cafeteria Starboard (216, 169, 3))
+[15:44:10]EMOTE: BlackCrystalic/(Blacky 'GG' Crysis) <B>SSGT Blacky 'GG' Crysis</B> КУРИЦЕЙ РЕЖИТ ВЕНЫ (Cafeteria Starboard (218, 167, 3))
+[15:44:18]SAY: BlackCrystalic/(Blacky 'GG' Crysis) "Р їобеда" (Cafeteria Starboard (218, 167, 3))
+[15:44:53]ACCESS: Logout: *no key*/(Kelvin Focell)
+[15:44:53]ACCESS: Login: Sewa/(Kelvin Focell) from 188.19.160.117-1345515308 || BYOND v513.1525
+[15:45:00]EMOTE: BlackCrystalic/(Blacky 'GG' Crysis) <B>SSGT Blacky 'GG' Crysis</B> screams! (Squad Alpha Cargo (208, 176, 3))
+[15:45:00]EMOTE: BlackCrystalic/(Blacky 'GG' Crysis) <B>SSGT Blacky 'GG' Crysis</B> screams! (Squad Alpha Cargo (208, 176, 3))
+[15:45:00]EMOTE: BlackCrystalic/(Blacky 'GG' Crysis) <B>SSGT Blacky 'GG' Crysis</B> screams! (Squad Alpha Cargo (208, 176, 3))
+[15:45:01]ACCESS: Logout: *no key*/(Blacky 'GG' Crysis)
+[15:45:01]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:45:01]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[15:45:14]ACCESS: Logout: *no key*/(Blacky 'GG' Crysis)
+[15:45:14]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:45:14]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[15:45:56]ACCESS: Logout: EngineerConager/(Dell Conrad)
+[15:45:56]ACCESS: Logout: Sewa/(Kelvin Focell)
+[15:45:56]ACCESS: Logout: NIKIGO/(Colten Stange)
+[15:45:56]ACCESS: Logout: Das228/(Osmund Howard)
+[15:45:56]ACCESS: Logout: BlackCrystalic/(Blacky 'GG' Crysis)
+[15:45:56]ACCESS: Logout: Artyuom/(Johnny Vietnam)
+[15:45:56]ACCESS: Logout: ZyberCpechnaz/(ZyberCpechnaz)

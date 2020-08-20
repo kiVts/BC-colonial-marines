@@ -1,0 +1,509 @@
+
+
+Starting up round 16:11:51
+---------------------
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the desert (77,61,1) (/turf/open/desertdam/desert)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the desert (77,61,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (77,61,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (77,61,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (77,61,1) (/turf/open/desertdam/desert), null)
+Colonist Drew Bellel (/obj/effect/landmark/corpsespawner/doctor): createCorpse()
+Colonist Drew Bellel (/obj/effect/landmark/corpsespawner/doctor): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the desert (81,61,1) (/turf/open/desertdam/desert)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the desert (81,61,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (81,61,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (81,61,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (81,61,1) (/turf/open/desertdam/desert), null)
+Colonist Olin Berus (/obj/effect/landmark/corpsespawner/security): createCorpse()
+Colonist Olin Berus (/obj/effect/landmark/corpsespawner/security): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the desert (79,63,1) (/turf/open/desertdam/desert)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the desert (79,63,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (79,63,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (79,63,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (79,63,1) (/turf/open/desertdam/desert), null)
+Colonist Olgin Vekin (/obj/effect/landmark/corpsespawner/miner): createCorpse()
+Colonist Olgin Vekin (/obj/effect/landmark/corpsespawner/miner): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the desert (84,63,1) (/turf/open/desertdam/desert)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the desert (84,63,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (84,63,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (84,63,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (84,63,1) (/turf/open/desertdam/desert), null)
+Colonist Lee Hesto (/obj/effect/landmark/corpsespawner/scientist): createCorpse()
+Colonist Lee Hesto (/obj/effect/landmark/corpsespawner/scientist): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the desert (75,64,1) (/turf/open/desertdam/desert)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the desert (75,64,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (75,64,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (75,64,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (75,64,1) (/turf/open/desertdam/desert), null)
+Colonist Ellis Bark (/obj/effect/landmark/corpsespawner/scientist): createCorpse()
+Colonist Ellis Bark (/obj/effect/landmark/corpsespawner/scientist): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the desert (79,65,1) (/turf/open/desertdam/desert)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the desert (79,65,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (79,65,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (79,65,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (79,65,1) (/turf/open/desertdam/desert), null)
+Colonist Wes Uvin (/obj/effect/landmark/corpsespawner/engineer): createCorpse()
+Colonist Wes Uvin (/obj/effect/landmark/corpsespawner/engineer): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the desert (73,67,1) (/turf/open/desertdam/desert)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the desert (73,67,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (73,67,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (73,67,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (73,67,1) (/turf/open/desertdam/desert), null)
+Colonist Ted Jarka (/obj/effect/landmark/corpsespawner/engineer): createCorpse()
+Colonist Ted Jarka (/obj/effect/landmark/corpsespawner/engineer): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the desert (75,68,1) (/turf/open/desertdam/desert)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the desert (75,68,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (75,68,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (75,68,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (75,68,1) (/turf/open/desertdam/desert), null)
+Colonist Innio Morris (/obj/effect/landmark/corpsespawner/scientist): createCorpse()
+Colonist Innio Morris (/obj/effect/landmark/corpsespawner/scientist): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the desert (86,68,1) (/turf/open/desertdam/desert)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the desert (86,68,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (86,68,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (86,68,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (86,68,1) (/turf/open/desertdam/desert), null)
+Colonist Jac Mester (/obj/effect/landmark/corpsespawner/security): createCorpse()
+Colonist Jac Mester (/obj/effect/landmark/corpsespawner/security): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the plating (173,73,1) (/turf/open/floor/plating)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the plating (173,73,1) (/turf/open/floor/plating), null)
+the unknown (/mob/living/carbon/human): New(the plating (173,73,1) (/turf/open/floor/plating), null)
+the unknown (/mob/living/carbon/human): New(the plating (173,73,1) (/turf/open/floor/plating), null)
+the unknown (/mob/living/carbon/human): New(the plating (173,73,1) (/turf/open/floor/plating), null)
+Deputy Maxwell Ligis (/obj/effect/landmark/corpsespawner/security): createCorpse()
+Deputy Maxwell Ligis (/obj/effect/landmark/corpsespawner/security): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the river (178,73,1) (/turf/open/gm/river)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the river (178,73,1) (/turf/open/gm/river), null)
+the unknown (/mob/living/carbon/human): New(the river (178,73,1) (/turf/open/gm/river), null)
+the unknown (/mob/living/carbon/human): New(the river (178,73,1) (/turf/open/gm/river), null)
+the unknown (/mob/living/carbon/human): New(the river (178,73,1) (/turf/open/gm/river), null)
+Colonist Ted Jarka (/obj/effect/landmark/corpsespawner/engineer): createCorpse()
+Colonist Ted Jarka (/obj/effect/landmark/corpsespawner/engineer): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the floor (83,75,1) (/turf/open/floor/almayer)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the floor (83,75,1) (/turf/open/floor/almayer), null)
+the unknown (/mob/living/carbon/human): New(the floor (83,75,1) (/turf/open/floor/almayer), null)
+the unknown (/mob/living/carbon/human): New(the floor (83,75,1) (/turf/open/floor/almayer), null)
+the unknown (/mob/living/carbon/human): New(the floor (83,75,1) (/turf/open/floor/almayer), null)
+Colonist Kegan Mills (/obj/effect/landmark/corpsespawner/scientist): createCorpse()
+Colonist Kegan Mills (/obj/effect/landmark/corpsespawner/scientist): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the plating (176,75,1) (/turf/open/floor/plating)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the plating (176,75,1) (/turf/open/floor/plating), null)
+the unknown (/mob/living/carbon/human): New(the plating (176,75,1) (/turf/open/floor/plating), null)
+the unknown (/mob/living/carbon/human): New(the plating (176,75,1) (/turf/open/floor/plating), null)
+the unknown (/mob/living/carbon/human): New(the plating (176,75,1) (/turf/open/floor/plating), null)
+Colonist Everett Mison (/obj/effect/landmark/corpsespawner/engineer): createCorpse()
+Colonist Everett Mison (/obj/effect/landmark/corpsespawner/engineer): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the plating (173,76,1) (/turf/open/floor/plating)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the plating (173,76,1) (/turf/open/floor/plating), null)
+the unknown (/mob/living/carbon/human): New(the plating (173,76,1) (/turf/open/floor/plating), null)
+the unknown (/mob/living/carbon/human): New(the plating (173,76,1) (/turf/open/floor/plating), null)
+the unknown (/mob/living/carbon/human): New(the plating (173,76,1) (/turf/open/floor/plating), null)
+Colonist Wes Uvin (/obj/effect/landmark/corpsespawner/engineer): createCorpse()
+Colonist Wes Uvin (/obj/effect/landmark/corpsespawner/engineer): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the plating (175,76,1) (/turf/open/floor/plating)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the plating (175,76,1) (/turf/open/floor/plating), null)
+the unknown (/mob/living/carbon/human): New(the plating (175,76,1) (/turf/open/floor/plating), null)
+the unknown (/mob/living/carbon/human): New(the plating (175,76,1) (/turf/open/floor/plating), null)
+the unknown (/mob/living/carbon/human): New(the plating (175,76,1) (/turf/open/floor/plating), null)
+Marshal Logan Bills (/obj/effect/landmark/corpsespawner/security): createCorpse()
+Marshal Logan Bills (/obj/effect/landmark/corpsespawner/security): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the floor (81,77,1) (/turf/open/floor/almayer)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the floor (81,77,1) (/turf/open/floor/almayer), null)
+the unknown (/mob/living/carbon/human): New(the floor (81,77,1) (/turf/open/floor/almayer), null)
+the unknown (/mob/living/carbon/human): New(the floor (81,77,1) (/turf/open/floor/almayer), null)
+the unknown (/mob/living/carbon/human): New(the floor (81,77,1) (/turf/open/floor/almayer), null)
+Colonist Evan Kark (/obj/effect/landmark/corpsespawner/scientist): createCorpse()
+Colonist Evan Kark (/obj/effect/landmark/corpsespawner/scientist): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: Cannot read null.x
+proc name: New (/datum/shuttle/ferry/hangar/New)
+  source file: shuttle_hangar.dm,25
+runtime error: Cannot read null.x
+proc name: New (/datum/shuttle/ferry/hangar/New)
+  source file: shuttle_hangar.dm,25

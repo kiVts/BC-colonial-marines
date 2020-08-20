@@ -1,0 +1,53 @@
+
+
+Starting up round 21:43:16
+---------------------
+[21:43:16]MISC: Saved mode is 'Distress Signal'
+[21:43:16]ADMIN: Loading jobban_rank
+[21:43:16]ADMIN: Loading Banlist
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/captain.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/hop.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/assistant.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/bartender.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/chef.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/hydro.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/mining.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/janitor.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/librarian.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/lawyer.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/chaplain.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/qm.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/cargo_tech.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/chief_engineer.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/engineer.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/atmos.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/cmo.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/doctor.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/chemist.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/geneticist.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/psychiatrist.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/rd.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/scientist.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/roboticist.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/hos.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/warden.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/detective.
+[21:43:16]DEBUG: Error setting up jobs, blank title job: /datum/job/officer.
+[21:43:24]DEBUG: Next event in 46.606 minutes.
+[21:43:24]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 80.240.253.147-3990586367 || BYOND v513.1513
+[21:43:24]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 80.240.253.147-3990586367 || BYOND v513.1513
+[21:43:24]ACCESS: Notice: ZyberCpechnaz/(ZyberCpechnaz) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[21:43:26]ACCESS: Logout: BlackCrystalic/(BlackCrystalic)
+[21:43:26]ACCESS: Logout: ZyberCpechnaz/(ZyberCpechnaz)
+[21:43:26]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 127.0.0.1-3990586367 || BYOND v513.1513
+[21:43:28]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 22.
+[21:43:28]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 9.
+[21:43:28]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 3.
+[21:49:06]SAY: *no key*/(corgi) "AUUUUUU" (Commandant's Quarters (107, 24, 1))
+[21:52:26]SAY: *no key*/(МилкиВей) "Esp!" (Commander's Bunk (95, 269, 3))
+[21:54:55]SAY: *no key*/(МилкиВей) "HSSSSS" (Commander's Bunk (96, 270, 3))
+[21:55:01]SAY: *no key*/(corgi) "AUUUUUU" (Commandant's Quarters (105, 26, 1))
+[22:11:07]SAY: *no key*/(corgi) "Bark!" (Commandant's Quarters (104, 25, 1))
+[22:13:32]SAY: *no key*/(corgi) "Bark!" (Commandant's Quarters (104, 26, 1))
+[22:16:16]SAY: *no key*/(corgi) "Woof!" (Commandant's Quarters (106, 25, 1))
+[22:20:39]ACCESS: Logout: ZyberCpechnaz/(ZyberCpechnaz)

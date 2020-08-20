@@ -1,0 +1,262 @@
+"aa" = (/mob/living/simple_animal/hostile/syndicate/melee/space,/turf/open/space,/area)
+"ab" = (/obj/structure/lattice,/obj/structure/grille,/mob/living/simple_animal/hostile/syndicate/melee/space,/turf/open/space,/area)
+"ac" = (/obj/structure/grille,/turf/open/floor/plating/airless,/area)
+"ad" = (/turf/closed/wall/r_wall,/area)
+"ae" = (/turf/closed/wall/r_wall,/area/space)
+"af" = (/turf/open/space,/area/space)
+"ag" = (/obj/structure/lattice,/turf/open/space,/area/space)
+"ah" = (/obj/structure/window/reinforced{dir = 4},/obj/machinery/camera{c_tag = "West Wing North"; dir = 2; network = list("Tcomsat")},/turf/open/space,/area/space)
+"ai" = (/obj/structure/window/reinforced{dir = 8},/turf/open/space,/area/space)
+"aj" = (/obj/structure/cable{icon_state = "0-4"; d2 = 4},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 6},/obj/machinery/power/apc{dir = 1; name = "north bump"; pixel_x = 0; pixel_y = 24},/turf/open/space,/area/space)
+"ak" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/obj/structure/cable{d1 = 2; d2 = 8; icon_state = "2-8"},/turf/open/space,/area/space)
+"al" = (/obj/machinery/atmospherics/pipe/manifold/hidden/supply{dir = 1},/turf/open/space,/area/space)
+"am" = (/obj/machinery/atmospherics/pipe/tank/air{dir = 8},/turf/open/space,/area/space)
+"an" = (/obj/machinery/light{dir = 1},/turf/open/space,/area/space)
+"ao" = (/obj/machinery/camera{c_tag = "Lounge"; dir = 2; network = list("Tcomsat")},/turf/open/space,/area/space)
+"ap" = (/obj/structure/lattice,/obj/structure/window/reinforced{dir = 4},/turf/open/space,/area/space)
+"aq" = (/obj/structure/window/reinforced{dir = 8},/obj/machinery/atmospherics/unary/vent_pump{on = 1},/turf/open/space,/area/space)
+"ar" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/meter,/turf/open/space,/area/space)
+"as" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/open/space,/area/space)
+"at" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 5},/turf/open/space,/area/space)
+"au" = (/obj/structure/window/reinforced{dir = 4},/obj/machinery/atmospherics/pipe/tank/air{dir = 8},/turf/open/space,/area/space)
+"av" = (/obj/structure/lattice,/obj/structure/window/reinforced{dir = 8},/turf/open/space,/area/space)
+"aw" = (/obj/structure/filingcabinet,/turf/open/space,/area/space)
+"ax" = (/obj/machinery/atmospherics/unary/vent_pump{dir = 1; external_pressure_bound = 140; on = 1; pressure_checks = 0},/obj/machinery/camera{c_tag = "Main Computer Room"; dir = 2; network = list("Tcomsat")},/obj/structure/table,/obj/machinery/light{dir = 1},/turf/open/space,/area/space)
+"ay" = (/obj/structure/table,/turf/open/space,/area/space)
+"az" = (/obj/structure/table,/obj/item/device/flashlight/lamp,/turf/open/space,/area/space)
+"aA" = (/obj/item/device/radio/intercom{name = "Station Intercom (General)"; pixel_x = -29; pixel_y = 0},/turf/open/space,/area/space)
+"aB" = (/obj/structure/window/reinforced{dir = 4},/turf/open/space,/area/space)
+"aC" = (/obj/structure/window/reinforced,/obj/machinery/atmospherics/pipe/simple/hidden/supply{req_access_txt = "0"},/obj/structure/window/reinforced{dir = 8},/turf/open/space,/area/space)
+"aD" = (/obj/machinery/atmospherics/valve/digital{pipe_color = "cyan"; icon_state = "valve1"; name = "Mixed Air Outlet Valve"; open = 1},/obj/structure/window/reinforced,/turf/open/space,/area/space)
+"aE" = (/obj/structure/window/reinforced,/turf/open/space,/area/space)
+"aF" = (/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 4},/obj/structure/closet,/turf/open/space,/area/space)
+"aG" = (/obj/item/device/radio/intercom{dir = 8; name = "Station Intercom (General)"; pixel_x = -28},/turf/open/space,/area/space)
+"aH" = (/obj/machinery/computer/telecomms/monitor{network = "tcommsat"},/obj/item/device/radio/intercom{anyai = 1; freerange = 1; name = "General Listening Channel"; pixel_x = 28; pixel_y = 0},/turf/open/space,/area/space)
+"aI" = (/obj/machinery/light{dir = 8},/turf/open/space,/area/space)
+"aJ" = (/obj/structure/lattice,/turf/open/space,/area)
+"aK" = (/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 5},/obj/structure/lattice,/turf/open/space,/area/space)
+"aL" = (/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/obj/structure/lattice,/obj/machinery/atmospherics/pipe/manifold/hidden/supply{dir = 4},/turf/open/space,/area/space)
+"aM" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/open/space,/area/space)
+"aN" = (/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/turf/open/space,/area/space)
+"aO" = (/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/turf/open/space,/area/space)
+"aP" = (/obj/structure/sign/securearea,/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 6},/turf/closed/wall/r_wall,/area/space)
+"aQ" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/turf/open/space,/area/space)
+"aR" = (/obj/machinery/atmospherics/unary/vent_pump{dir = 8; on = 1},/turf/open/space,/area/space)
+"aS" = (/obj/machinery/computer/telecomms/server{network = "tcommsat"},/turf/open/space,/area/space)
+"aT" = (/obj/machinery/atmospherics/unary/vent_pump{dir = 4; layer = 2.4; on = 1},/turf/open/space,/area/space)
+"aU" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 10},/turf/open/space,/area/space)
+"aV" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 6},/turf/open/space,/area/space)
+"aW" = (/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/machinery/atmospherics/pipe/manifold/hidden/supply,/turf/open/space,/area/space)
+"aX" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/obj/structure/window/reinforced,/obj/structure/cable{d1 = 1; d2 = 4; icon_state = "1-4"},/turf/open/space,/area/space)
+"aY" = (/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/turf/open/space,/area/space)
+"aZ" = (/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/obj/machinery/door/airlock/hatch{name = "Telecoms Control Room"; req_access_txt = "61"},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 9; pixel_y = 0},/turf/open/space,/area/space)
+"ba" = (/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/obj/machinery/atmospherics/pipe/simple/hidden{dir = 6},/turf/open/space,/area/space)
+"bb" = (/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/obj/machinery/atmospherics/pipe/manifold/hidden{tag = "icon-manifold-f (NORTH)"; icon_state = "manifold-f"; dir = 1},/turf/open/space,/area/space)
+"bc" = (/obj/structure/cable{d1 = 2; d2 = 4; icon_state = "2-4"},/obj/structure/cable{d1 = 2; d2 = 8; icon_state = "2-8"},/obj/machinery/atmospherics/pipe/simple/hidden{tag = "icon-intact-f (EAST)"; icon_state = "intact-f"; dir = 4},/turf/open/space,/area/space)
+"bd" = (/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/obj/machinery/atmospherics/pipe/simple/hidden{tag = "icon-intact-f (EAST)"; icon_state = "intact-f"; dir = 4},/turf/open/space,/area/space)
+"be" = (/obj/structure/cable{d2 = 8; icon_state = "0-8"},/obj/machinery/atmospherics/pipe/simple/hidden{tag = "icon-intact-f (SOUTHWEST)"; icon_state = "intact-f"; dir = 10},/obj/machinery/power/apc{dir = 4; name = "east bump"; pixel_x = 24},/turf/open/space,/area/space)
+"bf" = (/obj/machinery/vending/snack,/turf/open/space,/area/space)
+"bg" = (/obj/machinery/vending/cola,/obj/machinery/atmospherics/pipe/simple/hidden/supply,/turf/open/space,/area/space)
+"bh" = (/obj/machinery/light,/turf/open/space,/area/space)
+"bi" = (/obj/machinery/disposal,/obj/structure/disposalpipe/trunk{dir = 4},/turf/open/space,/area/space)
+"bj" = (/obj/structure/disposalpipe/segment{dir = 4},/turf/open/space,/area/space)
+"bk" = (/obj/structure/disposalpipe/segment{dir = 4},/turf/open/space,/area)
+"bl" = (/obj/structure/disposalpipe/segment{dir = 4},/obj/structure/grille,/turf/open/space,/area)
+"bm" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/turf/open/space,/area/space)
+"bn" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/mob/living/simple_animal/hostile/syndicate/melee/space,/turf/open/space,/area/space)
+"bo" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/lattice,/obj/machinery/light,/mob/living/simple_animal/hostile/syndicate/melee/space,/turf/open/space,/area/space)
+"bp" = (/obj/structure/window/reinforced{dir = 1},/mob/living/simple_animal/hostile/syndicate/melee/space,/turf/open/space,/area/space)
+"bq" = (/obj/machinery/light{dir = 8},/obj/structure/table,/obj/item/device/multitool,/obj/structure/sign/electricshock{pixel_x = -32},/obj/machinery/atmospherics/pipe/simple/hidden,/turf/open/space,/area/space)
+"br" = (/obj/machinery/atmospherics/pipe/simple/hidden,/turf/open/space,/area/space)
+"bs" = (/obj/machinery/door/firedoor/border_only{dir = 8; name = "Firelock West"},/obj/machinery/door/window/eastleft{req_access_txt = "61"},/obj/machinery/door/window/westleft{req_access_txt = "61"},/turf/open/space,/area/space)
+"bt" = (/obj/machinery/light/small{dir = 1},/turf/open/space,/area/space)
+"bu" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply,/turf/open/space,/area/space)
+"bv" = (/obj/machinery/door/airlock/hatch{name = "Telecoms Lounge"; req_access_txt = "61"},/turf/open/space,/area/space)
+"bw" = (/turf/open/floor/plating/airless,/area/space)
+"bx" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/lattice,/turf/open/space,/area/space)
+"by" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/structure/cable{icon_state = "0-4"; d2 = 4},/obj/machinery/atmospherics/pipe/simple/hidden,/turf/open/floor/plating,/area/space)
+"bz" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/structure/cable{icon_state = "0-4"; d2 = 4},/obj/structure/cable{d2 = 8; icon_state = "0-8"},/turf/open/space,/area/space)
+"bA" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/structure/cable{d2 = 2; icon_state = "0-2"; pixel_y = 0},/obj/structure/cable,/obj/structure/cable{icon_state = "0-4"; d2 = 4},/obj/structure/cable{d2 = 8; icon_state = "0-8"},/turf/open/space,/area/space)
+"bB" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/structure/cable{d2 = 8; icon_state = "0-8"},/obj/machinery/atmospherics/pipe/simple/hidden{tag = "icon-intact-f (NORTHEAST)"; icon_state = "intact-f"; dir = 5},/turf/open/space,/area/space)
+"bC" = (/obj/structure/sign/securearea{desc = "A warning sign which reads 'SERVER ROOM'."; name = "SERVER ROOM"; pixel_y = 0},/obj/machinery/atmospherics/pipe/simple/hidden{tag = "icon-intact-f (SOUTHWEST)"; icon_state = "intact-f"; dir = 10},/turf/open/space,/area/space)
+"bD" = (/obj/machinery/door/airlock/maintenance_hatch{name = "Telecoms Server Access"; req_access_txt = "61"},/turf/open/space,/area/space)
+"bE" = (/obj/structure/sign/securearea{desc = "A warning sign which reads 'SERVER ROOM'."; name = "SERVER ROOM"; pixel_y = 0},/turf/open/space,/area/space)
+"bF" = (/obj/structure/window/reinforced{dir = 4},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/structure/lattice,/turf/open/space,/area/space)
+"bG" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 8},/turf/open/space,/area/space)
+"bH" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/lattice,/turf/open/space,/area/space)
+"bI" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 8},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 5},/turf/open/space,/area/space)
+"bJ" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/lattice,/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 10},/turf/open/space,/area/space)
+"bK" = (/obj/structure/cable{icon_state = "0-4"; d2 = 4},/obj/machinery/power/apc{dir = 1; name = "north bump"; pixel_x = 0; pixel_y = 24},/turf/open/space,/area/space)
+"bL" = (/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/obj/machinery/atmospherics/pipe/simple/hidden,/turf/open/space,/area/space)
+"bM" = (/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/turf/open/space,/area/space)
+"bN" = (/obj/machinery/camera{c_tag = "Central Compartment North"; dir = 2; network = list("Tcomsat")},/obj/structure/cable{d1 = 2; d2 = 8; icon_state = "2-8"},/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/light{dir = 1},/turf/open/space,/area/space)
+"bO" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/obj/machinery/atmospherics/unary/vent_pump{dir = 4; layer = 2.4; on = 1},/turf/open/space,/area/space)
+"bP" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/lattice,/obj/machinery/atmospherics/pipe/manifold/hidden/supply{dir = 4},/turf/open/space,/area/space)
+"bQ" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 6},/turf/open/floor/plating,/area/space)
+"bR" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/turf/open/space,/area/space)
+"bS" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 10},/turf/open/floor/plating,/area/space)
+"bT" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 6},/turf/open/space,/area/space)
+"bU" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/lattice,/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 9; pixel_y = 0},/turf/open/space,/area/space)
+"bV" = (/obj/machinery/telecomms/server/presets/common,/turf/open/space,/area/space)
+"bW" = (/obj/machinery/telecomms/server/presets/engineering,/turf/open/space,/area/space)
+"bX" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 8},/obj/machinery/atmospherics/pipe/simple/hidden/supply,/turf/open/space,/area/space)
+"bY" = (/obj/machinery/atmospherics/unary/vent_pump{dir = 1; external_pressure_bound = 101.325; on = 1; pressure_checks = 1},/obj/machinery/camera{c_tag = "Telecoms Storage"; network = list("Tcomsat")},/turf/open/space,/area/space)
+"bZ" = (/obj/structure/rack,/turf/open/space,/area/space)
+"ca" = (/obj/machinery/camera{c_tag = "West Solars"; dir = 8; network = list("Tcomsat")},/turf/open/space,/area)
+"cb" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 8},/obj/machinery/atmospherics/pipe/simple/hidden/supply{req_access_txt = "0"},/turf/open/space,/area/space)
+"cc" = (/obj/structure/window/reinforced{dir = 8},/obj/machinery/camera{c_tag = "West Wing Middle"; dir = 8; network = list("Tcomsat")},/turf/open/space,/area/space)
+"cd" = (/obj/machinery/telecomms/broadcaster/preset_left,/turf/open/space,/area/space)
+"ce" = (/obj/machinery/telecomms/broadcaster/preset_right,/turf/open/space,/area/space)
+"cf" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/lattice,/obj/machinery/atmospherics/pipe/manifold/hidden/supply{dir = 8},/turf/open/space,/area/space)
+"cg" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 8},/obj/machinery/atmospherics/unary/vent_pump{dir = 8; on = 1},/turf/open/space,/area/space)
+"ch" = (/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/turf/open/space,/area/space)
+"ci" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/obj/machinery/atmospherics/pipe/simple/hidden/supply,/turf/open/space,/area/space)
+"cj" = (/turf/open/space,/area)
+"ck" = (/obj/structure/lattice,/obj/structure/window/reinforced{dir = 8},/obj/machinery/light{dir = 4},/turf/open/space,/area/space)
+"cl" = (/turf/open/floor/plating/airless,/area)
+"cm" = (/obj/structure/sign/nosmoking_2{pixel_x = -32; pixel_y = 0},/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/open/space,/area/space)
+"cn" = (/obj/machinery/telecomms/processor/preset_two,/turf/open/space,/area/space)
+"co" = (/obj/machinery/telecomms/bus/preset_two,/turf/open/space,/area/space)
+"cp" = (/obj/machinery/telecomms/relay/preset/telecomms,/turf/open/space,/area/space)
+"cq" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/telecomms/hub/preset,/turf/open/space,/area/space)
+"cr" = (/obj/machinery/telecomms/relay/preset/station,/obj/machinery/atmospherics/pipe/simple/hidden,/turf/open/space,/area/space)
+"cs" = (/obj/machinery/telecomms/processor/preset_four,/turf/open/space,/area/space)
+"ct" = (/obj/machinery/telecomms/bus/preset_four,/turf/open/space,/area/space)
+"cu" = (/obj/structure/sign/nosmoking_2{pixel_x = 32; pixel_y = 0},/obj/machinery/light{dir = 4},/turf/open/space,/area/space)
+"cv" = (/obj/structure/window/reinforced{dir = 4},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 5},/obj/structure/lattice,/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/open/space,/area/space)
+"cw" = (/obj/structure/window/reinforced{dir = 8},/obj/machinery/atmospherics/pipe/manifold/hidden/supply{dir = 1},/turf/open/space,/area/space)
+"cx" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/turf/open/space,/area/space)
+"cy" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 9},/obj/machinery/door/airlock/maintenance_hatch{name = "Telecoms Storage"; req_access_txt = "61"},/turf/open/space,/area/space)
+"cz" = (/obj/structure/table,/obj/item/device/radio/intercom{name = "Station Intercom (General)"; pixel_x = 29; pixel_y = 0},/obj/machinery/light/small{dir = 4},/turf/open/space,/area/space)
+"cA" = (/obj/machinery/telecomms/bus/preset_one,/turf/open/space,/area/space)
+"cB" = (/obj/machinery/telecomms/processor/preset_one,/turf/open/space,/area/space)
+"cC" = (/obj/machinery/telecomms/receiver/preset_left,/turf/open/space,/area/space)
+"cD" = (/obj/machinery/telecomms/bus/preset_three,/turf/open/space,/area/space)
+"cE" = (/obj/machinery/telecomms/processor/preset_three,/turf/open/space,/area/space)
+"cF" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/turf/open/space,/area/space)
+"cG" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/turf/open/space,/area/space)
+"cH" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 8},/turf/open/space,/area/space)
+"cI" = (/obj/machinery/telecomms/server/presets/medical,/turf/open/space,/area/space)
+"cJ" = (/obj/machinery/atmospherics/pipe/simple/hidden{dir = 6},/turf/open/space,/area/space)
+"cK" = (/obj/machinery/atmospherics/pipe/simple/hidden{tag = "icon-intact-f (NORTHWEST)"; icon_state = "intact-f"; dir = 9},/turf/open/space,/area/space)
+"cL" = (/obj/machinery/telecomms/server/presets/command,/turf/open/space,/area/space)
+"cM" = (/obj/machinery/telecomms/server/presets/security,/turf/open/space,/area/space)
+"cN" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/turf/open/space,/area/space)
+"cO" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/turf/open/space,/area/space)
+"cP" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/turf/open/space,/area/space)
+"cQ" = (/obj/machinery/atmospherics/unary/vent_pump{dir = 1; external_pressure_bound = 140; on = 1; pressure_checks = 0},/turf/open/space,/area/space)
+"cR" = (/obj/machinery/camera{c_tag = "Central Compartment South"; dir = 1; network = list("Tcomsat")},/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/light,/turf/open/space,/area/space)
+"cS" = (/obj/machinery/atmospherics/unary/vent_pump{dir = 1; external_pressure_bound = 120; icon_state = "in"; initialize_directions = 1; internal_pressure_bound = 4000; on = 1; pressure_checks = 2; pump_direction = 0},/turf/open/space,/area/space)
+"cT" = (/obj/structure/window/reinforced{dir = 4},/obj/machinery/atmospherics/pipe/simple/hidden/supply{req_access_txt = "0"},/obj/structure/window/reinforced{dir = 8},/turf/open/space,/area/space)
+"cU" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/turf/open/space,/area/space)
+"cV" = (/obj/structure/window/reinforced,/obj/structure/lattice,/obj/machinery/light{dir = 1},/turf/open/space,/area/space)
+"cW" = (/obj/structure/sign/securearea{desc = "A warning sign which reads 'LETHAL TURRETS'. Enter at your own risk!"; name = "LETHAL TURRETS"; pixel_x = -32; pixel_y = 0},/turf/open/space,/area/space)
+"cX" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 6},/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/turf/open/space,/area/space)
+"cY" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/turretid{!INVALID_VAR! = 1; !INVALID_VAR! = "\improper Telecoms Satellite"; desc = "A firewall prevents AIs from interacting with this device."; icon_state = "motion1"; !INVALID_VAR! = 1; name = "Telecoms lethal turret control"; pixel_y = 29; req_access = list(61)},/obj/structure/cable{d1 = 2; d2 = 8; icon_state = "2-8"},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/obj/machinery/camera{c_tag = "Telecoms Foyer"; dir = 2; network = list("Tcomsat")},/turf/open/space,/area/space)
+"cZ" = (/obj/structure/sign/securearea{desc = "A warning sign which reads 'LETHAL TURRETS'. Enter at your own risk!"; name = "LETHAL TURRETS"; pixel_x = 32; pixel_y = 0},/turf/open/space,/area/space)
+"da" = (/obj/structure/window/reinforced,/obj/machinery/light{dir = 1},/turf/open/space,/area/space)
+"db" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/turf/open/space,/area/space)
+"dc" = (/obj/structure/window/reinforced,/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 5},/obj/structure/window/reinforced{dir = 8},/turf/open/space,/area/space)
+"dd" = (/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/turf/open/space,/area/space)
+"de" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/obj/machinery/door/airlock/hatch{name = "Telecoms West Wing"; req_access_txt = "61"},/turf/open/space,/area/space)
+"df" = (/obj/machinery/atmospherics/pipe/manifold/hidden/supply{dir = 4},/turf/open/space,/area/space)
+"dg" = (/obj/machinery/atmospherics/unary/vent_pump{dir = 1; external_pressure_bound = 101.325; on = 1; pressure_checks = 1},/turf/open/space,/area/space)
+"dh" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/obj/machinery/door/airlock/hatch{name = "Telecoms East Wing"; req_access_txt = "61"},/turf/open/space,/area/space)
+"di" = (/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 4},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 9},/turf/open/space,/area/space)
+"dj" = (/obj/machinery/camera{c_tag = "East Wing South"; dir = 8; network = list("Tcomsat")},/turf/open/space,/area/space)
+"dk" = (/obj/machinery/camera{c_tag = "West Wing South"; dir = 4; network = list("Tcomsat")},/turf/open/space,/area/space)
+"dl" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/lattice,/turf/open/space,/area/space)
+"dm" = (/obj/machinery/light/small,/turf/open/space,/area/space)
+"dn" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{req_access_txt = "0"},/turf/open/space,/area/space)
+"do" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/door/airlock/hatch{name = "Telecoms Satellite"; req_access_txt = "61"},/turf/open/space,/area/space)
+"dp" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/obj/structure/cable{icon_state = "0-4"; d2 = 4},/turf/open/space,/area/space)
+"dq" = (/obj/machinery/power/smes/magical,/obj/structure/cable{d2 = 2; icon_state = "0-2"; pixel_y = 0},/obj/structure/cable{d2 = 8; icon_state = "0-8"},/turf/open/space,/area/space)
+"dr" = (/obj/machinery/power/terminal{dir = 8},/turf/open/space,/area/space)
+"ds" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"; pixel_y = 0},/obj/structure/sign/electricshock,/turf/open/space,/area/space)
+"dt" = (/obj/item/device/radio/intercom{broadcasting = 0; listening = 1; name = "Station Intercom (General)"; pixel_y = 20},/obj/machinery/atmospherics/pipe/manifold/hidden/supply{dir = 8},/turf/open/space,/area/space)
+"du" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/turf/open/space,/area/space)
+"dv" = (/obj/machinery/turretid{!INVALID_VAR! = 1; !INVALID_VAR! = "\improper Telecoms Foyer"; desc = "A firewall prevents AIs from interacting with this device."; icon_state = "motion3"; !INVALID_VAR! = 0; name = "Telecoms Foyer turret control"; pixel_y = 29; req_access = list(61)},/obj/machinery/atmospherics/unary/vent_pump{dir = 8; on = 1},/turf/open/space,/area/space)
+"dw" = (/obj/structure/sign/electricshock,/turf/open/space,/area/space)
+"dx" = (/obj/structure/cable{d2 = 2; icon_state = "0-2"; pixel_y = 0},/obj/machinery/power/monitor{name = "telecoms power monitoring"},/obj/structure/cable{icon_state = "0-4"; d2 = 4},/turf/open/space,/area/space)
+"dy" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/obj/structure/cable{d2 = 8; icon_state = "0-8"},/turf/open/space,/area/space)
+"dz" = (/obj/structure/cable{d1 = 1; d2 = 4; icon_state = "1-4"},/turf/open/space,/area/space)
+"dA" = (/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/obj/machinery/camera{c_tag = "Power Room West"; dir = 1; network = list("Tcomsat")},/obj/machinery/light/small{dir = 1},/turf/open/space,/area/space)
+"dB" = (/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/obj/machinery/atmospherics/pipe/simple/hidden/supply{req_access_txt = "0"},/turf/open/space,/area/space)
+"dC" = (/obj/structure/cable{d1 = 2; d2 = 8; icon_state = "2-8"},/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/structure/cable{d1 = 2; d2 = 4; icon_state = "2-4"},/turf/open/space,/area/space)
+"dD" = (/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/obj/machinery/camera{c_tag = "Power Room East"; dir = 1; network = list("Tcomsat")},/obj/machinery/light/small{dir = 1},/turf/open/space,/area/space)
+"dE" = (/obj/structure/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/turf/open/space,/area/space)
+"dF" = (/obj/structure/sign/securearea,/obj/machinery/atmospherics/pipe/simple/hidden/supply{req_access_txt = "0"},/turf/open/space,/area/space)
+"dG" = (/obj/structure/sign/securearea,/turf/open/space,/area/space)
+"dH" = (/obj/machinery/camera{c_tag = "Entrance North"; dir = 2; network = list("Tcomsat")},/turf/open/space,/area/space)
+"dI" = (/turf/open/space,/area/shuttle/escape_pod1/centcom)
+"dJ" = (/obj/machinery/light{dir = 8},/obj/machinery/atmospherics/unary/vent_pump{dir = 4; layer = 2.4; on = 1},/turf/open/space,/area/space)
+"dK" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 9},/turf/open/space,/area/space)
+"dL" = (/obj/structure/cable{d2 = 8; icon_state = "0-8"},/obj/machinery/power/apc{dir = 4; name = "east bump"; pixel_x = 24},/turf/open/space,/area/space)
+"dM" = (/obj/structure/sign/vacuum,/turf/open/space,/area/space)
+"dN" = (/obj/machinery/atmospherics/pipe/tank/air,/turf/open/space,/area/space)
+"dO" = (/obj/structure/closet/malf/suits,/turf/open/space,/area/space)
+"dP" = (/obj/machinery/door/airlock/external{frequency = 1381; icon_state = "door_locked"; id_tag = "telecoms_outer"; locked = 1; name = "External Access"; req_access = null; req_access_txt = "10;13"},/obj/machinery/access_button{command = "cycle_interior"; frequency = 1381; master_tag = "telecoms_airlock"; name = "interior access button"; pixel_x = -7; pixel_y = 25; req_access_txt = "13"},/turf/open/space,/area/space)
+"dQ" = (/obj/machinery/camera/xray{c_tag = "External Airlock"; network = list("Tcomsat")},/obj/machinery/atmospherics/unary/vent_pump/high_volume{dir = 4; frequency = 1381; id_tag = "telecoms_pump"},/obj/machinery/embedded_controller/radio/airlock/airlock_controller{tag_airpump = "telecoms_pump"; tag_exterior_door = "telecoms_outer"; frequency = 1381; id_tag = "telecoms_airlock"; tag_interior_door = "telecoms_inner"; pixel_x = 0; pixel_y = -25; req_access_txt = "13"; tag_chamber_sensor = "telecoms_sensor"},/obj/machinery/airlock_sensor{frequency = 1381; id_tag = "telecoms_sensor"; pixel_x = 12; pixel_y = -25},/turf/open/space,/area/space)
+"dR" = (/obj/machinery/door/airlock/external{frequency = 1381; icon_state = "door_locked"; id_tag = "telecoms_inner"; locked = 1; name = "External Access"; req_access = null; req_access_txt = "13"},/obj/machinery/atmospherics/pipe/simple/visible{dir = 4},/turf/open/space,/area/space)
+"dS" = (/obj/machinery/access_button{command = "cycle_interior"; frequency = 1381; master_tag = "telecoms_airlock"; name = "interior access button"; pixel_x = -25; pixel_y = -25; req_access_txt = "13"},/obj/machinery/atmospherics/pipe/simple/visible{tag = "icon-intact (NORTHWEST)"; icon_state = "intact"; dir = 9},/turf/open/space,/area/space)
+"dT" = (/obj/machinery/bluespace_beacon,/turf/open/space,/area/space)
+"dU" = (/obj/item/device/radio/intercom{name = "Station Intercom (General)"; pixel_x = 29; pixel_y = 0},/turf/open/space,/area/space)
+"dV" = (/obj/structure/closet/crate,/obj/item/clothing/glasses/night,/turf/open/space,/area/space)
+"dW" = (/obj/structure/closet/crate,/obj/item/device/aicard,/obj/item/device/multitool,/obj/machinery/camera{c_tag = "Entrance South"; dir = 1; network = list("Tcomsat")},/turf/open/space,/area/space)
+"dX" = (/obj/machinery/light{dir = 4},/obj/structure/closet/emcloset,/turf/open/space,/area/space)
+"dY" = (/obj/machinery/computer/teleporter,/turf/open/space,/area/space)
+"dZ" = (/obj/machinery/teleport/station,/turf/open/space,/area/space)
+"ea" = (/obj/machinery/teleport/hub,/turf/open/space,/area/space)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaababababababababababababababacababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaababadadadadadadadadadadadadadadadadadadadadadadadadadadadababaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaababadadaeaeaeaeaeaeaeaeaeadadadadadadadadadafafafafafafafafadababaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaabadadaeagafahaiajakalamaeafafafafafafafafafafafanafaoafafafadadabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaabadaeagagagapaqarasatauavafafawaxayafazafafafaAafafafafafafadadabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaabadaeafagafaBaCaDasaEaFaiafaGafafafafaHafafafaIafafafafafafadadaJaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaabadaeafagafafaKaLaMaNaOaEaPaQaRafafafaSafafafaTaUafafayafafadadabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaabadaeafagafaBaVaWaXaYaYaYaZbabbbcbdbeafafafafbfbgafbhafbibjbkbkblbkaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaabababadaeafagafaBbmbnbobpbpbpafbqafasafbrbsbtafafafbubvafafafafadadababaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaJabadaeagbwagbxbmavafafafafafbybzbAbzbBbCbDbEafafbFbGbHagbwagaeadababaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaabadaeafagafaBbIbJafafafafbKbLbMbNafafbrafafafafbFbGaiafagafaeadababaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaclaaabadaeafagafaBbObPafafafafafbrafasafafbrafafafafbFbGaibQbRbSaeadadabaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaclaaabadaeafagafaBbTbUafafafafafbrafasafafbrbVbWafafbFbGaibXaybYbZaeadabaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaclcaabadaeafagafaBcbccafafafafafbrcdasceafbrafafafafcfcgchciayafayaeadabaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaclcjacadaeagagagbxbmckafcmcncocpbrafcqafafcrcsctcuafcvcwcxcyafafczaeadacaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaclaaabadaeafagafaBbmaiafafcAcBafbrcCasafafbrcDcEafafaBcbcFcGafafayaeadabaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaclaaabadaeafagafaBcbaiafafafafafbrafasafafbrafafafafaBcbaicHayayayaeadabaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaclaaabadaeafagafaBbmaiafafafcIcJcKafasafafbrcLcMafafaBcbaicNcOcPaeadadabaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaabadaeafagafaBbmaiafafafafcQafafcRafafcSafafafafaBcbaiafagafaeadababaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaababadaeagbwagbxcbavafafafafafafafasafafafafafafafbxcbavagbwagaeadababaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaabababadaeafagafaBcTcUcVaEaEafcWbKcXcYalaUcZafaEaEdadbcbaiafagafaeadababaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaabadaeafagafaBdcdddddddddeaQaQdfasdgataQdhddcxdddddiaiafagdjaeadabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaabadaedkagafafbpbpdlbpbpafcWdmdnasafdmcZafbpbpbpbpbpafafagafaeadabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaabadaeafagafafafafagafafafafafdndoafafafafafafafafafafafagafaeadabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaabadaeagagagagagagagagdpdqdrdsdtdudvdwafdxdyagagagagagagagagaeadabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaabadadaeagafafafafafaeafdzbMdAdBdCbMdDbMdEafaeafafafafafagaeadadabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaababadadaeaeaeaeaeaeaeafafafafdFdodGafafafafaeaeaeaeaeaeaeadadababaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaababadadadadadadadadadadadafdnasdHafadadadadadadadadadadadababaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaabababababababababababafafdnasafafafabababababababababababaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaadIdIdIdIababafafdJdKdzbMdLafafababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaadIdIdIdIafafdMdNafafafafafdOafabaJaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaadIdIdIdIdPdQdRdSafafdTafafdUafabaJaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaadIdIdIdIdGafafdVafafafafafdOafababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaadIdIdIdIababafafdWafafafdXafafababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaadIdIdIdIabababafafdYdZeaafafabababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababafafafafafababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababaaabababacabababaaababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+cjaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

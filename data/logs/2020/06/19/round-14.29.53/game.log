@@ -1,0 +1,244 @@
+
+
+Starting up round 14:29:53
+---------------------
+[14:29:53]MISC: Saved mode is 'Hunter Games'
+[14:29:53]ADMIN: Loading jobban_rank
+[14:29:53]ADMIN: Loading Banlist
+[14:29:53]DEBUG: Error setting up jobs, blank title job: /datum/job/captain.
+[14:29:53]DEBUG: Error setting up jobs, blank title job: /datum/job/hop.
+[14:29:53]DEBUG: Error setting up jobs, blank title job: /datum/job/assistant.
+[14:29:53]DEBUG: Error setting up jobs, blank title job: /datum/job/bartender.
+[14:29:53]DEBUG: Error setting up jobs, blank title job: /datum/job/chef.
+[14:29:53]DEBUG: Error setting up jobs, blank title job: /datum/job/hydro.
+[14:29:53]DEBUG: Error setting up jobs, blank title job: /datum/job/mining.
+[14:29:53]DEBUG: Error setting up jobs, blank title job: /datum/job/janitor.
+[14:29:53]DEBUG: Error setting up jobs, blank title job: /datum/job/librarian.
+[14:29:53]DEBUG: Error setting up jobs, blank title job: /datum/job/lawyer.
+[14:29:53]DEBUG: Error setting up jobs, blank title job: /datum/job/chaplain.
+[14:29:53]DEBUG: Error setting up jobs, blank title job: /datum/job/qm.
+[14:29:53]DEBUG: Error setting up jobs, blank title job: /datum/job/cargo_tech.
+[14:29:53]DEBUG: Error setting up jobs, blank title job: /datum/job/chief_engineer.
+[14:29:53]DEBUG: Error setting up jobs, blank title job: /datum/job/engineer.
+[14:29:53]DEBUG: Error setting up jobs, blank title job: /datum/job/atmos.
+[14:29:54]DEBUG: Error setting up jobs, blank title job: /datum/job/cmo.
+[14:29:54]DEBUG: Error setting up jobs, blank title job: /datum/job/doctor.
+[14:29:54]DEBUG: Error setting up jobs, blank title job: /datum/job/chemist.
+[14:29:54]DEBUG: Error setting up jobs, blank title job: /datum/job/geneticist.
+[14:29:54]DEBUG: Error setting up jobs, blank title job: /datum/job/psychiatrist.
+[14:29:54]DEBUG: Error setting up jobs, blank title job: /datum/job/rd.
+[14:29:54]DEBUG: Error setting up jobs, blank title job: /datum/job/scientist.
+[14:29:54]DEBUG: Error setting up jobs, blank title job: /datum/job/roboticist.
+[14:29:54]DEBUG: Error setting up jobs, blank title job: /datum/job/hos.
+[14:29:54]DEBUG: Error setting up jobs, blank title job: /datum/job/warden.
+[14:29:54]DEBUG: Error setting up jobs, blank title job: /datum/job/detective.
+[14:29:54]DEBUG: Error setting up jobs, blank title job: /datum/job/officer.
+[14:30:01]DEBUG: Next event in 30.778 minutes.
+[14:30:02]ACCESS: Login: Harlex5435/(Harlex5435) from 178.161.223.5-4085160650 || BYOND v513.1526
+[14:30:02]ACCESS: Login: Sewa/(Sewa) from 188.18.245.72-1345515308 || BYOND v513.1525
+[14:30:02]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 80.240.253.147-3990586367 || BYOND v513.1513
+[14:30:02]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 80.240.253.147-3990586367 || BYOND v513.1513
+[14:30:02]ACCESS: Notice: BlackCrystalic/(BlackCrystalic) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[14:30:05]ACCESS: Logout: ZyberCpechnaz/(ZyberCpechnaz)
+[14:30:05]ACCESS: Logout: BlackCrystalic/(BlackCrystalic)
+[14:30:05]ACCESS: Logout: Harlex5435/(Harlex5435)
+[14:30:05]ACCESS: Login: EngineerConager/(EngineerConager) from 176.32.156.103-2402443160 || BYOND v513.1526
+[14:30:05]ACCESS: Logout: Sewa/(Sewa)
+[14:30:06]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 22.
+[14:30:06]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 9.
+[14:30:06]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 3.
+[14:30:06]ACCESS: Logout: EngineerConager/(EngineerConager)
+[14:30:07]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 80.240.253.147-3990586367 || BYOND v513.1513
+[14:30:08]ACCESS: Login: Harlex5435/(Harlex5435) from 178.161.223.5-4085160650 || BYOND v513.1526
+[14:30:10]ACCESS: Login: EngineerConager/(EngineerConager) from 176.32.156.103-2402443160 || BYOND v513.1526
+[14:30:10]ACCESS: Login: Artyuom/(Artyuom) from 95.174.127.234-114134526 || BYOND v513.1517
+[14:30:10]ACCESS: Login: Sewa/(Sewa) from 188.18.245.72-1345515308 || BYOND v513.1525
+[14:30:12]ACCESS: Logout: Artyuom/(Artyuom)
+[14:30:15]ACCESS: Login: Artyuom/(Artyuom) from 95.174.127.234-114134526 || BYOND v513.1517
+[14:30:21]ACCESS: Login: CM.RU/(CM.RU) from 127.0.0.1-3990586367 || BYOND v513.1513
+[14:30:21]ACCESS: Notice: CM.RU/(CM.RU) has the same ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[14:30:22]ACCESS: Logout: CM.RU/(CM.RU)
+[14:30:26]ACCESS: Login: CM.RU/(CM.RU) from 80.240.253.147-3990586367 || BYOND v513.1513
+[14:30:26]ACCESS: Notice: CM.RU/(CM.RU) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[14:30:33]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 127.0.0.1-3990586367 || BYOND v513.1513
+[14:30:33]ACCESS: Notice: ZyberCpechnaz/(ZyberCpechnaz) has the same ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[14:30:33]ACCESS: Notice: ZyberCpechnaz/(ZyberCpechnaz) has the same ID (3990586367) as CM.RU/(CM.RU).
+[14:30:43]ADMIN: BlackCrystalic/(BlackCrystalic) set the mode as Distress Signal.
+[14:31:12]SAY: *no key*/(МилкиВей) "Meow!" (Commander's Bunk (95, 269, 3))
+[14:36:00]ACCESS: Login: GhostPokolenie/(GhostPokolenie) from 95.215.48.242-300637069 || BYOND v513.1524
+[14:36:01]ACCESS: Logout: GhostPokolenie/(GhostPokolenie)
+[14:36:06]ACCESS: Login: GhostPokolenie/(GhostPokolenie) from 95.215.48.242-300637069 || BYOND v513.1524
+[14:37:09]ACCESS: Login: ADIBELL/(ADIBELL) from 109.187.207.243-2216789942 || BYOND v513.1526
+[14:37:11]ACCESS: Logout: ADIBELL/(ADIBELL)
+[14:39:01]OOC: GhostPokolenie/(GhostPokolenie) "Ря" (start area (8, 8, 2))
+[14:39:04]DEBUG: GhostPokolenie had Alien enabled, so we are drafting them.
+[14:39:04]DEBUG: Sewa had Survivor enabled, so we are drafting them.
+[14:39:04]DEBUG: GhostPokolenie had Survivor enabled, so we are drafting them.
+[14:39:04]ACCESS: Logout: *no key*/(Harlex5435)
+[14:39:04]ACCESS: Login: Harlex5435/(Nickolas Stone) from 178.161.223.5-4085160650 || BYOND v513.1526
+[14:39:04]ACCESS: Logout: *no key*/(EngineerConager)
+[14:39:04]ACCESS: Login: EngineerConager/(Dell Conrad) from 176.32.156.103-2402443160 || BYOND v513.1526
+[14:39:04]ACCESS: Logout: *no key*/(Sewa)
+[14:39:04]ACCESS: Login: Sewa/(Kelvin Focell) from 188.18.245.72-1345515308 || BYOND v513.1525
+[14:39:04]ACCESS: Logout: *no key*/(GhostPokolenie)
+[14:39:04]ACCESS: Login: GhostPokolenie/(Abel Luna) from 95.215.48.242-300637069 || BYOND v513.1524
+[14:39:04]ADMIN: Harlex5435/(Nickolas Stone) has been assigned as Alpha Squad Specialist
+[14:39:04]ACCESS: Logout: *no key*/(Abel Luna)
+[14:39:04]ACCESS: Login: GhostPokolenie/(Queen) from 95.215.48.242-300637069 || BYOND v513.1524
+[14:39:12]ACCESS: Logout: *no key*/(Artyuom)
+[14:39:12]ACCESS: Login: Artyuom/(Johnny Vietnam) from 95.174.127.234-114134526 || BYOND v513.1517
+[14:39:12]ADMIN: Artyuom/(Johnny Vietnam) has been assigned as Alpha Squad Medic
+[14:39:15]SAY: GhostPokolenie/(Queen) "Ммм" (Central Caves (76, 164, 1))
+[14:39:19]SAY: GhostPokolenie/(Queen) "Нас так много" (Central Caves (76, 164, 1))
+[14:40:12]SAY: *no key*/(МилкиВей) "Meow!" (Commander's Bunk (97, 268, 3))
+[14:41:06]EMOTE: GhostPokolenie/(Queen) <B>The Queen</B> roars! (North Eastern Barrens (121, 136, 1))
+[14:41:14]ACCESS: Logout: *no key*/(ZyberCpechnaz)
+[14:41:14]ACCESS: Login: ZyberCpechnaz/(Ian Christman) from 127.0.0.1-3990586367 || BYOND v513.1513
+[14:41:14]ACCESS: Notice: ZyberCpechnaz/(Ian Christman) has the same ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[14:41:14]ACCESS: Notice: ZyberCpechnaz/(Ian Christman) has the same ID (3990586367) as CM.RU/(CM.RU).
+[14:41:14]ADMIN: ZyberCpechnaz/(Ian Christman) has been assigned as Alpha Squad Engineer
+[14:41:18]SAY: EngineerConager/(Dell Conrad) (Command Announcement) "Command Announcement - Добрый день морпехи 
+Брифинг назначен на 12:20
+ - Dell Conrad (Commander)" (Combat Information Center (100, 252, 3))
+[14:42:38]ACCESS: Login: Vvv3544/(Vvv3544) from 93.170.246.82-568105908 || BYOND v513.1525
+[14:42:40]ACCESS: Logout: Vvv3544/(Vvv3544)
+[14:42:42]ACCESS: Login: Vvv3544/(Vvv3544) from 93.170.246.82-568105908 || BYOND v513.1525
+[14:43:04]ACCESS: Logout: Vvv3544/(Vvv3544)
+[14:43:44]SAY: Artyuom/(Johnny Vietnam) "Магнетик харнест и кит с тактикал дробовиком" (Squad Alpha Cargo (175, 177, 3))
+[14:44:15]SAY: Artyuom/(Johnny Vietnam) "Спасибо" (Squad Alpha Cargo (175, 177, 3))
+[14:44:25]EMOTE: GhostPokolenie/(Queen) <B>The Queen</B> roars! (North Central Barrens (117, 136, 1))
+[14:46:07]EMOTE: GhostPokolenie/(Queen) <B>The Queen</B> roars! (North Central Barrens (117, 138, 1))
+[14:46:22]SAY: ZyberCpechnaz/(Ian Christman) "Технические сапорты 4 шт" (Squad Alpha Cargo (175, 177, 3))
+[14:46:27]SAY: ZyberCpechnaz/(Ian Christman) "И один хпр" (Squad Alpha Cargo (175, 177, 3))
+[14:46:38]EMOTE: GhostPokolenie/(Queen) <B>The Queen</B> roars! (North Eastern Barrens (125, 132, 1))
+[14:49:37]SAY: EngineerConager/(Dell Conrad) "Т кто это сделал ?" (Hallway Starboard (166, 162, 3))
+[14:49:42]SAY: Harlex5435/(Nickolas Stone) "Вандалы!" (Hallway Starboard (166, 163, 3))
+[14:49:51]SAY: EngineerConager/(Dell Conrad) "Вандалы да ?" (Hallway Starboard (166, 162, 3))
+[14:49:51]SAY: Harlex5435/(Nickolas Stone) "Найду - накажу" (Hallway Starboard (166, 163, 3))
+[14:49:57]EMOTE: EngineerConager/(Dell Conrad) <B>CDR Dell Conrad</B> Вздох (Hallway Starboard (166, 162, 3))
+[14:50:07]ACCESS: Login: LimboBaggins/(LimboBaggins) from 188.170.76.22-1476891254 || BYOND v513.1525
+[14:50:10]ACCESS: Logout: LimboBaggins/(LimboBaggins)
+[14:50:14]ACCESS: Login: LimboBaggins/(LimboBaggins) from 188.170.76.22-1476891254 || BYOND v513.1525
+[14:51:03]SAY: Harlex5435/(Nickolas Stone) "Щас брифинг" (Squad Alpha Cargo (177, 175, 3))
+[14:51:08]SAY: Harlex5435/(Nickolas Stone) "Не забудь" (Squad Alpha Cargo (177, 175, 3))
+[14:51:13]ACCESS: Logout: LimboBaggins/(LimboBaggins)
+[14:51:35]ACCESS: Login: IsaacLoh/(IsaacLoh) from 188.170.76.22-1476891254 || BYOND v513.1525
+[14:51:37]ACCESS: Logout: IsaacLoh/(IsaacLoh)
+[14:51:41]ACCESS: Login: IsaacLoh/(IsaacLoh) from 188.170.76.22-1476891254 || BYOND v513.1525
+[14:51:59]ACCESS: Logout: *no key*/(IsaacLoh)
+[14:51:59]ACCESS: Login: IsaacLoh/(Armando Dominguez) from 188.170.76.22-1476891254 || BYOND v513.1525
+[14:51:59]ADMIN: IsaacLoh/(Armando Dominguez) has been assigned as Alpha Squad Smartgunner
+[14:52:40]SAY: EngineerConager/(Dell Conrad) (Command Announcement) "Command Announcement - Начало операций назначено на 12:30 - Dell Conrad (Commander)" (Combat Information Center (100, 252, 3))
+[14:52:51]SAY: Harlex5435/(Nickolas Stone) "ВПЕРЕД, ВПЕРЕД, ВПЕРЕД!" (Hallway Starboard (108, 163, 3))
+[14:55:41]SAY: EngineerConager/(Dell Conrad) "Инженера в карго" (Requisitions (192, 155, 3))
+[14:56:05]SAY: Harlex5435/(Nickolas Stone) "Ян" (Dropship Alamo (92, 155, 3))
+[14:56:10]SAY: Harlex5435/(Nickolas Stone) "Сходи в карго" (Dropship Alamo (92, 155, 3))
+[14:56:33]SAY: EngineerConager/(Dell Conrad) "Инженер Альфа в карго !" (Supply Shuttle (206, 149, 3))
+[14:56:36]SAY: Harlex5435/(Nickolas Stone) "Вроде живой" (Dropship Alamo (93, 156, 3))
+[14:56:44]SAY: Harlex5435/(Nickolas Stone) "Ты уснул?" (Dropship Alamo (93, 156, 3))
+[14:56:46]SAY: Harlex5435/(Nickolas Stone) "АЛЛО" (Dropship Alamo (93, 156, 3))
+[14:57:13]SAY: Harlex5435/(Nickolas Stone) "Блять" (Hangar (96, 162, 3))
+[14:57:31]SAY: Harlex5435/(Nickolas Stone) "Ян, подойди в карго" (Hangar (85, 162, 3))
+[14:57:39]SAY: ZyberCpechnaz/(Ian Christman) "Иан занят" (Dropship Normandy (68, 153, 3))
+[14:57:57]SAY: Harlex5435/(Nickolas Stone) "И чем же?" (Hallway Starboard (129, 163, 3))
+[14:59:41]EMOTE: Artyuom/(Johnny Vietnam) <B>CPL Johnny Vietnam</B> храпит (Hangar (98, 157, 3))
+[15:00:07]EMOTE: Artyuom/(Johnny Vietnam) <B>CPL Johnny Vietnam</B> спит (Hangar (98, 157, 3))
+[15:00:16]EMOTE: Artyuom/(Johnny Vietnam) <B>CPL Johnny Vietnam</B> храпит (Dropship Alamo (93, 154, 3))
+[15:00:23]ADMIN: Sewa/(Kelvin Focell) cut a wire at (91,18,1)
+[15:00:24]SAY: ZyberCpechnaz/(Ian Christman) "Чилю" (Dropship Alamo (90, 154, 3))
+[15:00:27]ADMIN: Sewa/(Kelvin Focell) cut a wire at (91,18,1)
+[15:00:28]SAY: EngineerConager/(Dell Conrad) (Command Announcement) "Command Announcement - Начало операций   - Dell Conrad (Commander)" (Combat Information Center (100, 252, 3))
+[15:00:35]ADMIN: Dell Conrad (EngineerConager) launched a shuttle from 'Alamo' dropship console
+[15:00:37]SAY: Harlex5435/(Nickolas Stone) "На аламо блять чиль" (Dropship Alamo (92, 150, 3))
+[15:00:40]EMOTE: Artyuom/(Johnny Vietnam) <B>CPL Johnny Vietnam</B> спит (Dropship Alamo (94, 155, 3))
+[15:00:45]SAY: ZyberCpechnaz/(Ian Christman) "БЛЯТЬ, МЕНЯ ЗАБЫЛИ" (Dropship Alamo (90, 154, 3))
+[15:00:48]DEBUG: Next event in 46.538 minutes.
+[15:00:54]ADMIN: Sewa/(Kelvin Focell) cut a wire at (91,18,1)
+[15:00:56]SAY: Harlex5435/(Nickolas Stone) "Так а нахуя убежал то?" (Dropship Alamo Transit (70, 34, 4))
+[15:00:57]SAY: ZyberCpechnaz/(Ian Christman) "Ебать" (Dropship Alamo Transit (68, 34, 4))
+[15:01:03]SAY: EngineerConager/(Dell Conrad) "Инженер не забудь проверить ящик с пойками" (Combat Information Center (94, 254, 3))
+[15:01:05]SAY: ZyberCpechnaz/(Ian Christman) "Яж на аламо чилил" (Dropship Alamo Transit (68, 34, 4))
+[15:01:09]SAY: Harlex5435/(Nickolas Stone) "Ебать" (Dropship Alamo Transit (67, 32, 4))
+[15:01:11]EMOTE: Artyuom/(Johnny Vietnam) <B>CPL Johnny Vietnam</B> храпит (Dropship Alamo Transit (72, 34, 4))
+[15:01:19]SAY: ZyberCpechnaz/(Ian Christman) "Магия" (Dropship Alamo Transit (68, 34, 4))
+[15:01:26]SAY: Harlex5435/(Nickolas Stone) "Понимаю" (Dropship Alamo Transit (68, 32, 4))
+[15:01:57]EMOTE: Artyuom/(Johnny Vietnam) <B>CPL Johnny Vietnam</B> спит (Dropship Alamo Transit (72, 34, 4))
+[15:02:53]EMOTE: Artyuom/(Johnny Vietnam) <B>CPL Johnny Vietnam</B> спит (Almayer Dropship 1 (156, 40, 1))
+[15:02:55]SAY: Harlex5435/(Nickolas Stone) "ПОШЕВЕЛИВАЙТЕСЬ!" (Almayer Dropship 1 (152, 35, 1))
+[15:03:12]EMOTE: Artyuom/(Johnny Vietnam) <B>CPL Johnny Vietnam</B> храпит (Almayer Dropship 1 (156, 40, 1))
+[15:03:13]SAY: Harlex5435/(Nickolas Stone) "Вставай, Джонни" (Almayer Dropship 1 (155, 40, 1))
+[15:03:17]SAY: Artyuom/(Johnny Vietnam) "А бля" (Almayer Dropship 1 (156, 40, 1))
+[15:03:21]SAY: Artyuom/(Johnny Vietnam) "Хули арёш" (Almayer Dropship 1 (156, 40, 1))
+[15:03:41]SAY: Sewa/(Kelvin Focell) "Привет" (Main Hallway (144, 35, 1))
+[15:03:45]SAY: Artyuom/(Johnny Vietnam) "Растрелять" (Main Hallway (144, 38, 1))
+[15:03:49]SAY: Harlex5435/(Nickolas Stone) "Ты кто блять?" (Main Hallway (142, 35, 1))
+[15:03:56]SAY: Sewa/(Kelvin Focell) "Я?" (Main Hallway (145, 36, 1))
+[15:04:01]SAY: Harlex5435/(Nickolas Stone) "Да, ты" (Main Hallway (143, 36, 1))
+[15:04:04]SAY: Artyuom/(Johnny Vietnam) "Медик в палто" (Alamo Landing Zone (146, 37, 1))
+[15:04:04]SAY: Sewa/(Kelvin Focell) "Я учёный" (Main Hallway (145, 36, 1))
+[15:04:32]SAY: Harlex5435/(Nickolas Stone) "Тебе к старшему у нас" (Main Hallway (143, 36, 1))
+[15:04:37]SAY: Harlex5435/(Nickolas Stone) "На главный корабль" (Main Hallway (143, 36, 1))
+[15:04:42]SAY: Sewa/(Kelvin Focell) "Ок" (Main Hallway (145, 36, 1))
+[15:05:02]SAY: Artyuom/(Johnny Vietnam) "Ёрик" (Alamo Landing Zone (146, 46, 1))
+[15:05:05]SAY: Artyuom/(Johnny Vietnam) "Не трош" (Alamo Landing Zone (146, 46, 1))
+[15:05:05]EMOTE: GhostPokolenie/(Queen) <B>The Queen</B> roars! (North Central Barrens (117, 134, 1))
+[15:05:51]EMOTE: GhostPokolenie/(Queen) <B>The Queen</B> roars! (North Central Barrens (111, 136, 1))
+[15:06:28]ACCESS: Logout: IsaacLoh/(Armando Dominguez)
+[15:06:35]SAY: Harlex5435/(Nickolas Stone) "Пиздеец" (Almayer Dropship 1 (151, 32, 1))
+[15:06:38]ACCESS: Logout: *no key*/(BlackCrystalic)
+[15:06:38]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:06:38]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same IP (80.240.253.147) and ID (3990586367) as CM.RU/(CM.RU).
+[15:06:38]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same ID (3990586367) as ZyberCpechnaz/(Ian Christman).
+[15:06:46]SAY: Harlex5435/(Nickolas Stone) "Блять" (Almayer Dropship 1 (151, 32, 1))
+[15:06:51]SAY: Harlex5435/(Nickolas Stone) "Аутист ебучий" (Almayer Dropship 1 (151, 32, 1))
+[15:06:55]SAY: Artyuom/(Johnny Vietnam) "Ебать офощ" (Almayer Dropship 1 (152, 33, 1))
+[15:07:01]SAY: Artyuom/(Johnny Vietnam) "Ну и хуй с ним" (Almayer Dropship 1 (152, 33, 1))
+[15:07:01]SAY: Sewa/(Kelvin Focell) "У вас всё плохо с боевым духом да?" (Almayer Dropship 1 (152, 35, 1))
+[15:07:07]SAY: Artyuom/(Johnny Vietnam) "Бухаем" (Almayer Dropship 1 (150, 36, 1))
+[15:07:16]SAY: Harlex5435/(Nickolas Stone) "До этого момента все прекрасно было" (Almayer Dropship 1 (152, 32, 1))
+[15:07:25]SAY: Sewa/(Kelvin Focell) "Ага...." (Almayer Dropship 1 (152, 35, 1))
+[15:07:27]SAY: Harlex5435/(Nickolas Stone) "Тут гробы есть?" (Almayer Dropship 1 (152, 32, 1))
+[15:07:30]ADMIN: blackcrystalic has banned isaacloh|Duration: 120 minutes|Reason: Самоубийство
+[15:07:30]ADMIN: <a href='?priv_msg=[0x5000002]'>BlackCrystalic</a>/(Blacky 'GG' Crysis) has edited isaacloh's notes: Banned by blackcrystalic|Duration: 120 minutes|Reason: Самоубийство
+[15:07:42]SAY: Sewa/(Kelvin Focell) "Наверное" (Almayer Dropship 1 (152, 35, 1))
+[15:08:40]ACCESS: Logout: GhostPokolenie/(Elder Queen)
+[15:08:43]GAME: Marine Major Victory
+Game mode: Distress Signal
+Round time: 0:38
+End round player population: 7
+Total xenos spawned: 1
+Total Preds spawned: 0
+Total humans spawned: 7
+[15:08:43]GAME: Antagonists at round end were...
+[15:08:43]GAME: Survivors: Kelvin Focell(Sewa).
+[15:08:43]GAME: Xenomorphs: Elder Queen(GhostPokolenie).
+[15:09:09]ACCESS: Logout: *no key*/(Dell Conrad)
+[15:09:09]ACCESS: Login: EngineerConager/(Dell Conrad) from 176.32.156.103-2402443160 || BYOND v513.1526
+[15:09:25]VOTE: Custom vote started by BlackCrystalic.
+Vote map - (OOC>VOTE)
+[15:09:42]SAY: Harlex5435/(Nickolas Stone) "ДВИЖЕМСЯ!" (Main Hallway (134, 37, 1))
+[15:09:43]ACCESS: Login: Sladk0ewka/(Sladk0ewka) from 77.222.104.59-2354459441 || BYOND v513.1524
+[15:09:51]ACCESS: Logout: Sladk0ewka/(Sladk0ewka)
+[15:09:59]ACCESS: Login: Sladk0ewka/(Sladk0ewka) from 77.222.104.59-2354459441 || BYOND v513.1524
+[15:10:00]SAY: Artyuom/(Johnny Vietnam) "Не я бухать" (Main Hallway (142, 34, 1))
+[15:10:05]ACCESS: Logout: *no key*/(Ian Christman)
+[15:10:05]ACCESS: Login: ZyberCpechnaz/(Ian Christman) from 127.0.0.1-3990586367 || BYOND v513.1513
+[15:10:05]ACCESS: Notice: ZyberCpechnaz/(Ian Christman) has the same ID (3990586367) as CM.RU/(CM.RU).
+[15:10:05]ACCESS: Notice: ZyberCpechnaz/(Ian Christman) has the same ID (3990586367) as BlackCrystalic/(Blacky 'GG' Crysis).
+[15:10:05]ACCESS: Logout: *no key*/(Nickolas Stone)
+[15:10:05]ACCESS: Login: Harlex5435/(Nickolas Stone) from 178.161.223.5-4085160650 || BYOND v513.1526
+[15:10:10]SAY: ZyberCpechnaz/(Ian Christman) (ghost) "[T[T[T" (Main Hallway (143, 37, 1))
+[15:10:12]SAY: ZyberCpechnaz/(Ian Christman) (ghost) "ХЕХЕХХЕ" (Main Hallway (143, 37, 1))
+[15:10:27]VOTE: <b>Vote Tied Between:</b>
+	Big Red
+	Dead Wood
+<b>Vote Result: Big Red</b>
+[15:10:28]SAY: Sewa/(Kelvin Focell) "НУ НОРМАЛЬНО" (Main Hallway (137, 37, 1))
+[15:10:48]ACCESS: Logout: Sewa/(Kelvin Focell)
+[15:10:48]ACCESS: Logout: Harlex5435/(Nickolas Stone)
+[15:10:48]ACCESS: Logout: BlackCrystalic/(Blacky 'GG' Crysis)
+[15:10:48]ACCESS: Logout: EngineerConager/(Dell Conrad)
+[15:10:48]ACCESS: Logout: Artyuom/(Johnny Vietnam)
+[15:10:48]ACCESS: Logout: CM.RU/(CM.RU)
+[15:10:48]ACCESS: Logout: ZyberCpechnaz/(Ian Christman)
+[15:10:48]ACCESS: Logout: Sladk0ewka/(Sladk0ewka)

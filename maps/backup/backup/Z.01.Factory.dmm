@@ -1,0 +1,835 @@
+"aa" = (/obj/effect/landmark/map_tag{name = "Dead Wood"},/turf/closed/mineral{color = "#db3413"},/area/davnbap/caves)
+"ab" = (/turf/closed/ice,/area/DeadWood/ground/caves/east2)
+"ac" = (/turf/closed/ice,/area/DeadWood/ground/caves)
+"ad" = (/turf/closed/mineral,/area/DeadWood/ground/caves)
+"ae" = (/turf/closed/mineral,/area/DeadWood/ground/caves/east2)
+"af" = (/turf/closed/wall/r_wall/deadwood,/area/DeadWood/ground/compound/c)
+"ag" = (/turf/closed/wall/r_wall/deadwood{icon_state = "pends"},/area/DeadWood/ground/compound/c)
+"ah" = (/turf/closed/wall,/area/lv624/lazarus/relay)
+"ai" = (/turf/open/floor/deadwood{icon_state = "demtal7"},/area/DeadWood/lazarus/security)
+"aj" = (/obj/effect/landmark{name = "surv_spawn"; pixel_x = -1},/turf/open/floor/plating,/area/DeadWood/lazarus/atmos)
+"ak" = (/obj/effect/decal/cleanable/dirt,/turf/open/gm/dirt,/area/DeadWood/ground/caves)
+"al" = (/obj/structure/pend_platform_decoration{dir = 1},/turf/open/floor/deadwood{icon_state = "demtal7"},/area/DeadWood/lazarus/security)
+"am" = (/turf/open/gm/dirt,/area/DeadWood/ground/caves)
+"an" = (/turf/open/floor,/area/lv624/lazarus/relay)
+"ao" = (/obj/structure/window/framed/zdeadwood,/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"ap" = (/obj/machinery/telecomms/relay/preset/station{explosion_resistance = 100; idle_power_usage = 0; listening_level = 1; unacidable = 1; use_power = 0},/turf/open/floor,/area/lv624/lazarus/relay)
+"aq" = (/obj/machinery/door/airlock/almayer/maint{name = "\improper Underground Maintenance"; req_access_txt = "100"; req_one_access_txt = "0"},/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"ar" = (/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"as" = (/obj/machinery/light/small{dir = 1},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"at" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"au" = (/turf/closed/wall/r_wall/deadwood,/area/DeadWood/lazarus/hop)
+"av" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood{icon_state = "demtal7"},/area/DeadWood/lazarus/security)
+"aw" = (/turf/closed/wall/r_wall/deadwood{icon_state = "pends"},/area/DeadWood/lazarus/security)
+"ax" = (/obj/structure/pend_platform_decoration,/turf/open/floor/deadwood{icon_state = "demtal7"},/area/DeadWood/lazarus/security)
+"ay" = (/obj/structure/pend_platform{dir = 8},/turf/open/floor/deadwood{icon_state = "demtal7"},/area/DeadWood/lazarus/security)
+"az" = (/obj/structure/pend_platform{dir = 4},/turf/open/floor/deadwood{icon_state = "demtal7"},/area/DeadWood/lazarus/security)
+"aA" = (/turf/closed/wall/r_wall/deadwood,/area/DeadWood/lazarus/security)
+"aB" = (/obj/structure/table/reinforced/prison,/obj/effect/spawner/random/tool,/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/lazarus/hop)
+"aC" = (/obj/structure/table/reinforced/prison,/obj/machinery/light{dir = 1},/obj/effect/spawner/random/technology_scanner,/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/lazarus/hop)
+"aD" = (/obj/structure/table/reinforced/prison,/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/lazarus/hop)
+"aE" = (/obj/structure/table/reinforced/prison,/obj/effect/spawner/random/toolbox,/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/lazarus/hop)
+"aF" = (/obj/structure/pend_platform{dir = 1},/obj/structure/pend_platform{dir = 8},/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"aG" = (/obj/structure/table/reinforced/prison,/obj/effect/spawner/random/tool,/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/lazarus/security)
+"aH" = (/obj/structure/table/reinforced/prison,/obj/effect/spawner/random/toolbox,/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/lazarus/security)
+"aI" = (/obj/structure/table/reinforced/prison,/obj/machinery/light{dir = 1},/obj/effect/spawner/random/tool,/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/lazarus/security)
+"aJ" = (/obj/structure/table/reinforced/prison,/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/lazarus/security)
+"aK" = (/obj/structure/table/reinforced/prison,/obj/effect/spawner/random/tool,/obj/effect/spawner/random/tool,/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/lazarus/hop)
+"aL" = (/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/lazarus/hop)
+"aM" = (/obj/machinery/light/small{dir = 8},/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"aN" = (/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/lazarus/hop)
+"aO" = (/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/lazarus/security)
+"aP" = (/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/lazarus/security)
+"aQ" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/lazarus/security)
+"aR" = (/obj/structure/table/reinforced/prison,/obj/effect/spawner/random/technology_scanner,/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/lazarus/security)
+"aS" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/lazarus/hop)
+"aT" = (/obj/machinery/door/airlock/multi_tile/almayer/generic{dir = 1; name = "\improper Control Center Lower"; req_access_txt = "100"},/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/lazarus/hop)
+"aU" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/lazarus/security)
+"aV" = (/obj/machinery/door/airlock/multi_tile/almayer/generic{dir = 1; name = "\improper Control Center Lower"; req_access_txt = "100"},/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/lazarus/security)
+"aW" = (/obj/structure/table/reinforced/prison,/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/lazarus/hop)
+"aX" = (/obj/structure/window/framed/zdeadwood,/turf/open/floor/plating,/area/DeadWood/lazarus/hop)
+"aY" = (/obj/structure/window/framed/zdeadwood,/turf/open/floor/plating,/area/DeadWood/lazarus/security)
+"aZ" = (/obj/structure/table/reinforced/prison,/obj/effect/decal/cleanable/dirt,/obj/machinery/light{dir = 4},/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/lazarus/security)
+"ba" = (/obj/machinery/door/airlock/almayer/maint{name = "\improper Underground Maintenance"; req_access_txt = "100"; req_one_access_txt = "0"},/turf/open/floor/plating,/area/DeadWood/lazarus/security)
+"bb" = (/obj/structure/table/reinforced/prison,/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/lazarus/hop)
+"bc" = (/obj/structure/pend_platform{dir = 1},/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"bd" = (/obj/structure/pend_platform{dir = 1},/obj/structure/pend_platform{dir = 4},/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"be" = (/turf/open/floor/deadwood,/area/DeadWood/ground/compound/c)
+"bf" = (/obj/structure/table/reinforced/prison,/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/lazarus/security)
+"bg" = (/obj/structure/pend_platform{dir = 8},/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"bh" = (/obj/structure/pend_platform{dir = 4},/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"bi" = (/obj/structure/pend_platform_decoration{dir = 8},/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"bj" = (/obj/structure/pend_platform_decoration{dir = 4},/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"bk" = (/obj/structure/pend_platform_decoration{dir = 8},/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/ground/compound/c)
+"bl" = (/obj/structure/pend_platform_decoration{dir = 4},/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/ground/compound/c)
+"bm" = (/obj/structure/jungle/vines{icon_state = "Light3"},/turf/open/gm/dirt,/area/DeadWood/ground/caves)
+"bn" = (/turf/closed/gm/dense{icon_state = "wall2"},/area/DeadWood/ground/caves)
+"bo" = (/obj/machinery/door/airlock/almayer/maint{dir = 1; name = "\improper Underground Maintenance"; req_access_txt = "100"; req_one_access_txt = "0"},/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/lazarus/research)
+"bp" = (/obj/machinery/vending/MarineMed{hacking_safety = 1; products = list(/obj/item/reagent_container/hypospray/autoinjector/quickclot = 6, /obj/item/reagent_container/hypospray/autoinjector/Bicard = 6, /obj/item/reagent_container/hypospray/autoinjector/dexP = 6, /obj/item/reagent_container/hypospray/autoinjector/Dylovene = 6, /obj/item/reagent_container/hypospray/autoinjector/Inaprovaline = 6, /obj/item/reagent_container/hypospray/autoinjector/Kelo = 6, /obj/item/reagent_container/hypospray/autoinjector/Oxycodone = 4, /obj/item/reagent_container/hypospray/autoinjector/tricord = 8, /obj/item/reagent_container/hypospray/autoinjector/hypervene = 4, /obj/item/storage/pill_bottle/bicaridine = 3, /obj/item/storage/pill_bottle/dexalin = 3, /obj/item/storage/pill_bottle/antitox = 3, /obj/item/storage/pill_bottle/kelotane = 3, /obj/item/storage/pill_bottle/spaceacillin = 3, /obj/item/storage/pill_bottle/inaprovaline = 3, /obj/item/storage/pill_bottle/tramadol = 3, /obj/item/storage/pill_bottle/russianRed = 5, /obj/item/storage/pill_bottle/peridaxon = 3, /obj/item/storage/pill_bottle/quickclot = 3, /obj/item/storage/pill_bottle/hypervene = 3, /obj/item/stack/medical/advanced/bruise_pack = 6, /obj/item/stack/medical/bruise_pack = 8, /obj/item/stack/medical/advanced/ointment = 6, /obj/item/stack/medical/ointment = 8, /obj/item/stack/medical/splint = 5, /obj/item/device/healthanalyzer = 3, /obj/item/bodybag/cryobag = 2); req_access = null; req_access_txt = "0"; req_one_access_txt = "2;8;19"; unacidable = 1},/turf/open/floor/deadwood{icon_state = "demtal10"},/area/DeadWood/lazarus/research)
+"bq" = (/turf/closed/wall/r_wall/deadwood,/area/DeadWood/lazarus/atmos)
+"br" = (/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/lazarus/research)
+"bs" = (/obj/machinery/vending/MarineMed,/obj/machinery/light{dir = 1},/turf/open/floor/deadwood{icon_state = "demtal10"},/area/DeadWood/lazarus/research)
+"bt" = (/obj/structure/table/almayer,/obj/item/storage/box/gloves,/obj/item/storage/box/beakers{pixel_x = 5; pixel_y = 5},/obj/item/reagent_container/spray/cleaner,/obj/item/storage/box/pillbottles,/turf/open/floor/deadwood{icon_state = "demtal10"},/area/DeadWood/lazarus/research)
+"bu" = (/obj/structure/table/almayer,/obj/item/storage/box/pillbottles,/obj/item/storage/box/pillbottles,/obj/item/storage/box/pillbottles{pixel_x = 3; pixel_y = 3},/obj/item/device/mass_spectrometer,/obj/machinery/light{dir = 1},/turf/open/floor/deadwood{icon_state = "demtal10"},/area/DeadWood/lazarus/research)
+"bv" = (/obj/structure/closet/toolcloset,/obj/effect/decal/cleanable/dirt,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"bw" = (/obj/machinery/light/small,/obj/effect/decal/cleanable/dirt,/obj/effect/landmark{name = "yautja_teleport_loc"},/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"bx" = (/obj/structure/table,/obj/machinery/light{dir = 1},/obj/item/tank/air,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"by" = (/obj/structure/table,/obj/effect/spawner/random/bomb_supply,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"bz" = (/obj/structure/table,/obj/effect/spawner/random/tool,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"bA" = (/obj/machinery/light{dir = 1},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"bB" = (/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"bC" = (/obj/machinery/door/airlock/almayer/engineering{dir = 4; name = "\improper Atmospherics Condenser Storage"; req_one_access_txt = "0"},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"bD" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"bE" = (/turf/open/floor/plating,/area/shuttle/drop1/lz1)
+"bF" = (/obj/structure/closet/toolcloset,/obj/machinery/light{dir = 1},/obj/effect/decal/cleanable/dirt,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"bG" = (/obj/machinery/portable_atmospherics/powered/scrubber/huge/chan,/turf/open/floor/plating,/area/DeadWood/lazarus/atmos)
+"bH" = (/obj/structure/cable{d2 = 8; icon_state = "0-8"},/obj/structure/disposalpipe/trunk{dir = 8},/obj/machinery/power/apc/almayer{dir = 1},/obj/structure/table/almayer,/obj/item/stack/sheet/mineral/phoron{amount = 25; pixel_x = 3; pixel_y = 3},/obj/machinery/reagentgrinder,/turf/open/floor/deadwood{icon_state = "demtal10"},/area/DeadWood/lazarus/research)
+"bI" = (/turf/open/floor/plating,/area/DeadWood/lazarus/atmos)
+"bJ" = (/obj/structure/pend_platform{dir = 8},/turf/open/floor/deadwood/demba{icon_state = "cerlet6"},/area/DeadWood/ground/compound/c)
+"bK" = (/turf/open/floor/deadwood/demba{icon_state = "cerlet3"},/area/DeadWood/ground/compound/c)
+"bL" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood/demba{icon_state = "cerlet3"},/area/DeadWood/ground/compound/c)
+"bM" = (/turf/open/floor/deadwood/demba{icon_state = "cerlet5"},/area/DeadWood/ground/compound/c)
+"bN" = (/obj/effect/landmark{name = "surv_spawn"; pixel_x = -1},/obj/effect/decal/cleanable/dirt,/obj/machinery/camera/autoname{dir = 4},/obj/machinery/alarm{dir = 4; pixel_x = -30},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"bO" = (/obj/structure/closet/firecloset/full,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"bP" = (/obj/structure/table,/obj/item/circuitboard/firealarm,/obj/effect/decal/cleanable/dirt,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"bQ" = (/obj/effect/decal/cleanable/dirt,/obj/effect/landmark{name = "crap_item"},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"bR" = (/obj/structure/table/reinforced/prison,/obj/machinery/reagentgrinder,/turf/open/floor/deadwood{icon_state = "demtal10"},/area/DeadWood/lazarus/research)
+"bS" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"bT" = (/obj/machinery/door/airlock/almayer/engineering{dir = 4; name = "\improper Atmospherics Condenser Air Filtration"; req_one_access_txt = "0"},/turf/open/floor/plating,/area/DeadWood/lazarus/atmos)
+"bU" = (/obj/machinery/camera/autoname{dir = 8},/turf/open/floor/plating,/area/DeadWood/lazarus/atmos)
+"bV" = (/obj/structure/pend_platform{dir = 8},/turf/open/floor/deadwood/demba,/area/DeadWood/ground/compound/c)
+"bW" = (/obj/machinery/landinglight/ds1/delaytwo{tag = "icon-landingstripe"; icon_state = "landingstripe"},/obj/machinery/floodlight/landing,/turf/open/floor/deadwood/demba{icon_state = "cerlet4"},/area/DeadWood/ground/compound/c)
+"bX" = (/obj/machinery/landinglight/ds1/delayone{tag = "icon-landingstripe"; icon_state = "landingstripe"},/turf/open/floor/deadwood/demba{icon_state = "cerlet4"},/area/DeadWood/ground/compound/c)
+"bY" = (/obj/machinery/landinglight/ds1{tag = "icon-landingstripe"; icon_state = "landingstripe"},/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood/demba{icon_state = "cerlet4"},/area/DeadWood/ground/compound/c)
+"bZ" = (/obj/machinery/landinglight/ds1/delaythree{tag = "icon-landingstripe"; icon_state = "landingstripe"},/turf/open/floor/deadwood/demba{icon_state = "cerlet4"},/area/DeadWood/ground/compound/c)
+"ca" = (/obj/machinery/landinglight/ds1/delaytwo{tag = "icon-landingstripe"; icon_state = "landingstripe"},/turf/open/floor/deadwood/demba{icon_state = "cerlet4"},/area/DeadWood/ground/compound/c)
+"cb" = (/obj/machinery/landinglight/ds1{tag = "icon-landingstripe"; icon_state = "landingstripe"},/turf/open/floor/deadwood/demba{icon_state = "cerlet4"},/area/DeadWood/ground/compound/c)
+"cc" = (/obj/machinery/landinglight/ds1{tag = "icon-landingstripe"; icon_state = "landingstripe"},/obj/machinery/floodlight/landing,/turf/open/floor/deadwood/demba{icon_state = "cerlet4"},/area/DeadWood/ground/compound/c)
+"cd" = (/turf/open/floor/deadwood/demba{icon_state = "cerlet2"},/area/DeadWood/ground/compound/c)
+"ce" = (/obj/structure/bed/chair/office/light{dir = 4},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"cf" = (/obj/structure/table,/obj/effect/spawner/random/bomb_supply,/obj/effect/spawner/random/tool,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"cg" = (/obj/machinery/computer/atmoscontrol,/obj/effect/decal/cleanable/dirt,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"ch" = (/obj/structure/bed/chair{dir = 8},/obj/effect/decal/cleanable/dirt,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"ci" = (/obj/machinery/camera/autoname/lz_camera,/turf/open/floor/plating,/area/shuttle/drop1/lz1)
+"cj" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/effect/landmark{name = "surv_spawn"; pixel_x = -1},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"ck" = (/obj/machinery/light{dir = 4; icon_state = "tube1"},/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/lazarus/research)
+"cl" = (/obj/structure/bed/stool,/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/lazarus/research)
+"cm" = (/obj/structure/table,/obj/effect/decal/cleanable/dirt,/obj/structure/sign/safety/atmospherics{pixel_x = 32},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"cn" = (/obj/machinery/landinglight/ds1/delaythree{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/obj/machinery/floodlight/landing,/turf/open/floor/deadwood/demba{icon_state = "cerlet2"},/area/DeadWood/ground/compound/c)
+"co" = (/obj/machinery/landinglight/ds1/delayone{tag = "icon-landingstripe (WEST)"; icon_state = "landingstripe"; dir = 8},/obj/machinery/floodlight/landing,/turf/open/floor/deadwood/demba,/area/DeadWood/ground/compound/c)
+"cp" = (/obj/structure/table/reinforced/prison,/turf/open/floor/deadwood{icon_state = "demtal10"},/area/DeadWood/lazarus/research)
+"cq" = (/turf/closed/wall/r_wall/deadwood,/area/DeadWood/lazarus/research)
+"cr" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/lazarus/research)
+"cs" = (/obj/structure/closet/wardrobe/atmospherics_yellow,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"ct" = (/obj/structure/table,/obj/item/tool/lighter/random,/obj/effect/decal/cleanable/dirt,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"cu" = (/obj/structure/table,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"cv" = (/obj/structure/window/framed/zdeadwood,/turf/open/floor/plating,/area/DeadWood/lazarus/atmos)
+"cw" = (/obj/machinery/landinglight/ds1/delaythree{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/turf/open/floor/deadwood/demba{icon_state = "cerlet2"},/area/DeadWood/ground/compound/c)
+"cx" = (/turf/open/floor/plating,/area/shuttle/drop1/DeadWood)
+"cy" = (/obj/machinery/landinglight/ds1/delayone{tag = "icon-landingstripe (WEST)"; icon_state = "landingstripe"; dir = 8},/turf/open/floor/deadwood/demba,/area/DeadWood/ground/compound/c)
+"cz" = (/obj/machinery/smartfridge/chemistry,/turf/open/floor/deadwood{icon_state = "demtal10"},/area/DeadWood/lazarus/research)
+"cA" = (/obj/machinery/light,/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/lazarus/research)
+"cB" = (/obj/machinery/chem_master,/turf/open/floor/deadwood{icon_state = "demtal10"},/area/DeadWood/lazarus/research)
+"cC" = (/obj/machinery/vending/medical,/obj/machinery/light,/turf/open/floor/deadwood{icon_state = "demtal10"},/area/DeadWood/lazarus/research)
+"cD" = (/obj/machinery/chem_dispenser,/turf/open/floor/deadwood{icon_state = "demtal10"},/area/DeadWood/lazarus/research)
+"cE" = (/obj/structure/table/reinforced/prison,/obj/item/tool/pen,/obj/item/paper,/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/ground/compound/c)
+"cF" = (/turf/closed/wall/r_wall/deadwood,/area/DeadWood/lazarus/engineering)
+"cG" = (/obj/structure/cable/yellow{d1 = 2; d2 = 4; icon_state = "2-4"; layer = 2.1},/turf/closed/wall/r_wall/deadwood,/area/DeadWood/lazarus/engineering)
+"cH" = (/obj/structure/cable/yellow{d1 = 2; d2 = 8; icon_state = "2-8"},/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"; layer = 2.1},/turf/closed/wall/r_wall/deadwood,/area/DeadWood/lazarus/engineering)
+"cI" = (/obj/structure/cable/yellow{d1 = 2; d2 = 8; icon_state = "2-8"},/turf/closed/wall/r_wall/deadwood,/area/DeadWood/lazarus/engineering)
+"cJ" = (/obj/machinery/computer3/server/rack,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"cK" = (/obj/effect/decal/cleanable/dirt,/obj/structure/cable{d1 = 2; d2 = 4; icon_state = "2-4"},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"cL" = (/obj/structure/cable{tag = "icon-4-8"; icon_state = "4-8"; d2 = 8},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"cM" = (/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/obj/machinery/door/airlock/almayer/engineering{dir = 4; name = "\improper Atmospherics Condenser Storage"; req_one_access_txt = "0"},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"cN" = (/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"cO" = (/obj/structure/cable{d1 = 2; d2 = 8; icon_state = "2-8"},/obj/effect/decal/cleanable/dirt,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"cP" = (/obj/effect/landmark{name = "crap_item"},/turf/open/floor/plating,/area/shuttle/drop1/lz1)
+"cQ" = (/obj/effect/decal/cleanable/dirt,/obj/item/device/radio/headset,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"cR" = (/obj/machinery/computer/area_atmos/area,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"cS" = (/obj/machinery/landinglight/ds1{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood/demba{icon_state = "cerlet2"},/area/DeadWood/ground/compound/c)
+"cT" = (/obj/machinery/landinglight/ds1{tag = "icon-landingstripe (WEST)"; icon_state = "landingstripe"; dir = 8},/turf/open/floor/deadwood/demba,/area/DeadWood/ground/compound/c)
+"cU" = (/obj/structure/table/reinforced/prison,/obj/machinery/light{dir = 1},/obj/effect/spawner/random/toolbox,/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/ground/compound/c)
+"cV" = (/obj/structure/table/reinforced/prison,/obj/effect/spawner/random/tool,/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/ground/compound/c)
+"cW" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/ground/compound/c)
+"cX" = (/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/open/floor/plating,/area/DeadWood/lazarus/engineering)
+"cY" = (/obj/machinery/power/smes/buildable{charge = 0; name = "colony distribution SMES"},/obj/structure/cable,/turf/open/floor/plating,/area/DeadWood/lazarus/engineering)
+"cZ" = (/obj/structure/table/reinforced/prison,/obj/effect/spawner/random/technology_scanner,/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/ground/compound/c)
+"da" = (/obj/structure/table,/obj/effect/spawner/random/toolbox,/turf/open/floor/plating,/area/DeadWood/lazarus/engineering)
+"db" = (/obj/structure/table,/obj/effect/spawner/random/tool,/turf/open/floor/plating,/area/DeadWood/lazarus/engineering)
+"dc" = (/obj/effect/decal/cleanable/blood,/obj/effect/decal/cleanable/dirt,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"dd" = (/obj/effect/decal/cleanable/dirt,/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"de" = (/obj/machinery/computer/general_air_control,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"df" = (/obj/structure/reagent_dispensers/watertank,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"dg" = (/obj/structure/window/framed/deadwood,/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"dh" = (/obj/machinery/light,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"di" = (/obj/machinery/power/apc,/obj/structure/cable,/obj/effect/decal/cleanable/dirt,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"dj" = (/obj/machinery/camera/autoname{dir = 2; network = list("interrogation")},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"dk" = (/obj/structure/bed/chair{dir = 4},/obj/effect/decal/cleanable/dirt,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"dl" = (/obj/machinery/computer/atmos_alert,/obj/structure/table,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"dm" = (/obj/machinery/landinglight/ds1/delayone{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/turf/open/floor/deadwood/demba{icon_state = "cerlet2"},/area/DeadWood/ground/compound/c)
+"dn" = (/obj/machinery/landinglight/ds1/delaythree{tag = "icon-landingstripe (WEST)"; icon_state = "landingstripe"; dir = 8},/turf/open/floor/deadwood/demba,/area/DeadWood/ground/compound/c)
+"do" = (/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/ground/compound/c)
+"dp" = (/obj/machinery/computer/shuttle_control/dropship1{dir = 4},/obj/structure/table/reinforced/prison,/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/lazarus/console)
+"dq" = (/obj/effect/decal/cleanable/dirt,/obj/structure/bed/chair/comfy/black{dir = 8},/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/ground/compound/c)
+"dr" = (/obj/machinery/door/airlock/almayer/maint{dir = 1; name = "\improper Underground Maintenance"; req_access_txt = "100"; req_one_access_txt = "0"},/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"ds" = (/turf/closed/mineral{icon_state = "cavewall20"},/area/DeadWood/ground/caves)
+"dt" = (/turf/closed/mineral{icon_state = "cavewall27"},/area/DeadWood/ground/caves)
+"du" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood/demba{icon_state = "cerlet2"},/area/DeadWood/ground/compound/c)
+"dv" = (/obj/machinery/power/terminal{icon_state = "term"; dir = 1},/obj/structure/cable{icon_state = "0-4"; d2 = 4},/turf/open/floor/plating,/area/DeadWood/lazarus/engineering)
+"dw" = (/obj/machinery/power/terminal{icon_state = "term"; dir = 1},/obj/machinery/power/terminal{icon_state = "term"; dir = 1},/obj/structure/cable{d1 = 2; d2 = 8; icon_state = "2-8"},/obj/structure/cable{d1 = 2; d2 = 4; icon_state = "2-4"},/obj/structure/cable{d2 = 2; icon_state = "0-2"; pixel_y = 0},/turf/open/floor/plating,/area/DeadWood/lazarus/engineering)
+"dx" = (/obj/machinery/power/terminal{icon_state = "term"; dir = 1},/obj/structure/cable{d2 = 8; icon_state = "0-8"},/turf/open/floor/plating,/area/DeadWood/lazarus/engineering)
+"dy" = (/turf/open/floor/plating,/area/DeadWood/lazarus/engineering)
+"dz" = (/obj/structure/table,/obj/effect/spawner/random/tool,/obj/effect/spawner/random/technology_scanner,/turf/open/floor/plating,/area/DeadWood/lazarus/engineering)
+"dA" = (/obj/machinery/computer3/server/rack,/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"dB" = (/obj/machinery/landinglight/ds1/delaytwo{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/turf/open/floor/deadwood/demba{icon_state = "cerlet2"},/area/DeadWood/ground/compound/c)
+"dC" = (/obj/effect/landmark{name = "crap_item"},/turf/open/floor/plating,/area/shuttle/drop1/DeadWood)
+"dD" = (/turf/closed/mineral,/area/DeadWood/ground/compound/c)
+"dE" = (/obj/machinery/light/small{dir = 1},/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"dF" = (/obj/structure/tunnel{id = "hole3"},/turf/open/desertdam/desert,/area/DeadWood/ground/compound/c)
+"dG" = (/turf/open/desertdam/desert,/area/DeadWood/ground/compound/c)
+"dH" = (/obj/machinery/landinglight/ds1/delaytwo{tag = "icon-landingstripe (WEST)"; icon_state = "landingstripe"; dir = 8},/turf/open/floor/deadwood/demba,/area/DeadWood/ground/compound/c)
+"dI" = (/obj/machinery/door/airlock/almayer/maint{name = "\improper Underground Maintenance"; req_access_txt = "100"; req_one_access_txt = "0"},/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/ground/compound/c)
+"dJ" = (/obj/machinery/light/small{dir = 4},/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/ground/compound/c)
+"dK" = (/obj/structure/cable{d1 = 2; d2 = 4; icon_state = "2-4"},/turf/open/floor/plating,/area/DeadWood/lazarus/engineering)
+"dL" = (/obj/structure/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/turf/open/floor/plating,/area/DeadWood/lazarus/engineering)
+"dM" = (/obj/effect/decal/cleanable/dirt,/obj/item/weapon/twohanded/fireaxe,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"dN" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"dO" = (/obj/structure/table/reinforced/prison,/obj/machinery/light,/obj/effect/spawner/random/tool,/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/ground/compound/c)
+"dP" = (/obj/item/frame/table,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"dQ" = (/turf/open/floor{tag = "icon-asteroidfloor (NORTH)"; icon_state = "asteroidfloor"; dir = 1},/area/DeadWood/lazarus/atmos)
+"dR" = (/obj/effect/decal/cleanable/blood/drip,/turf/open/floor{tag = "icon-asteroidfloor (NORTH)"; icon_state = "asteroidfloor"; dir = 1},/area/DeadWood/lazarus/atmos)
+"dS" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor{tag = "icon-asteroidfloor (NORTH)"; icon_state = "asteroidfloor"; dir = 1},/area/DeadWood/lazarus/atmos)
+"dT" = (/obj/machinery/landinglight/ds1/delaythree{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/obj/effect/landmark{name = "monkey_spawn"},/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood/demba{icon_state = "cerlet2"},/area/DeadWood/ground/compound/c)
+"dU" = (/obj/structure/table/reinforced/prison,/obj/effect/spawner/random/toolbox,/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/ground/compound/c)
+"dV" = (/obj/machinery/door/airlock/almayer/maint{dir = 1; name = "\improper Underground Maintenance"; req_access_txt = "100"; req_one_access_txt = "0"},/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/ground/compound/c)
+"dW" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/ground/compound/c)
+"dX" = (/turf/open/floor/wood,/area/DeadWood/ground/compound/c)
+"dY" = (/obj/structure/bed/chair{dir = 8},/turf/open/floor/wood,/area/DeadWood/ground/compound/c)
+"dZ" = (/obj/effect/decal/cleanable/dirt,/obj/structure/bed/chair{dir = 4},/turf/open/floor/wood,/area/DeadWood/ground/compound/c)
+"ea" = (/obj/machinery/light{dir = 1},/turf/open/floor/wood,/area/DeadWood/ground/compound/c)
+"eb" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"; tag = ""},/obj/structure/cable{d1 = 2; d2 = 4; icon_state = "2-4"},/turf/open/floor/plating,/area/DeadWood/lazarus/engineering)
+"ec" = (/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/turf/open/floor/plating,/area/DeadWood/lazarus/engineering)
+"ed" = (/obj/structure/cable{d1 = 2; d2 = 8; icon_state = "2-8"},/turf/open/floor/plating,/area/DeadWood/lazarus/engineering)
+"ee" = (/obj/structure/closet/secure_closet/atmos_personal,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"ef" = (/obj/machinery/pipedispenser,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"eg" = (/obj/machinery/vending/tool,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"eh" = (/obj/effect/landmark{name = "crap_item"},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"ei" = (/obj/structure/table/reinforced/prison,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/ground/compound/c)
+"ej" = (/obj/structure/bed/chair{dir = 4},/turf/open/floor/wood,/area/DeadWood/ground/compound/c)
+"ek" = (/obj/structure/pend_platform,/obj/structure/pend_platform{dir = 1},/obj/structure/pend_platform{dir = 8},/turf/open/desertdam/river/toxic,/area/DeadWood/ground/compound/c)
+"el" = (/obj/structure/pend_platform,/obj/structure/pend_platform{dir = 1},/turf/open/desertdam/river/toxic,/area/DeadWood/ground/compound/c)
+"em" = (/obj/structure/pend_platform,/obj/structure/pend_platform{dir = 1},/obj/structure/pend_platform{dir = 4},/turf/open/desertdam/river/toxic,/area/DeadWood/ground/compound/c)
+"en" = (/obj/machinery/light{dir = 1},/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/ground/compound/c)
+"eo" = (/obj/structure/bed/chair/comfy/black,/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/ground/compound/c)
+"ep" = (/obj/effect/decal/cleanable/blood,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"eq" = (/obj/machinery/power/geothermal{name = "Reactor Turbine"; power_generation_max = 1e+006},/obj/structure/cable,/turf/open/floor/plating,/area/DeadWood/lazarus/engineering)
+"er" = (/obj/structure/closet/secure_closet/engineering_welding,/turf/open/floor/plating,/area/DeadWood/lazarus/engineering)
+"es" = (/obj/structure/table,/obj/effect/spawner/random/tool,/obj/machinery/camera/autoname{dir = 2},/obj/machinery/light,/turf/open/floor/plating,/area/DeadWood/lazarus/engineering)
+"et" = (/obj/structure/closet/firecloset/full,/turf/open/floor/plating,/area/DeadWood/lazarus/engineering)
+"eu" = (/obj/machinery/power/apc{start_charge = 0},/obj/structure/cable,/turf/open/floor/plating,/area/DeadWood/lazarus/engineering)
+"ev" = (/obj/machinery/camera/autoname{dir = 4},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"ew" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/item/frame/table,/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"ex" = (/turf/open/gm/river,/area/DeadWood/lazarus/atmos)
+"ey" = (/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/ground/compound/c)
+"ez" = (/obj/machinery/landinglight/ds1/delayone{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood/demba{icon_state = "cerlet2"},/area/DeadWood/ground/compound/c)
+"eA" = (/obj/machinery/door/airlock/almayer/engineering{dir = 1; name = "\improper Engineering"; req_one_access_txt = "0"},/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/engineering)
+"eB" = (/obj/effect/landmark{name = "good_item"},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"eC" = (/obj/machinery/door/airlock/almayer/engineering{dir = 4; name = "\improper Atmospherics Condenser Water Filtration"; req_one_access_txt = "0"},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"eD" = (/obj/machinery/portable_atmospherics/powered/scrubber/huge/stationary,/obj/effect/decal/warning_stripes,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"eE" = (/obj/effect/decal/warning_stripes{tag = "icon-N"; icon_state = "N"},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"eF" = (/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"eG" = (/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/structure/table/reinforced/prison,/obj/item/paper,/obj/item/tool/pen,/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/ground/compound/c)
+"eH" = (/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/ground/compound/c)
+"eI" = (/obj/effect/decal/cleanable/dirt,/obj/effect/landmark{name = "crap_item"},/turf/open/floor{tag = "icon-asteroidfloor (NORTH)"; icon_state = "asteroidfloor"; dir = 1},/area/DeadWood/lazarus/atmos)
+"eJ" = (/obj/effect/landmark{name = "hunter_primary"},/turf/open/gm/dirt,/area/DeadWood/ground/caves)
+"eK" = (/mob/living/carbon/monkey/yiren,/turf/open/gm/dirt,/area/DeadWood/ground/caves)
+"eL" = (/obj/effect/landmark{name = "yautja_teleport_loc"},/turf/open/gm/dirt,/area/DeadWood/ground/caves)
+"eM" = (/obj/structure/jungle/vines/heavy{icon_state = "Hvy2"; pixel_x = 0},/turf/open/gm/dirt,/area/DeadWood/ground/caves)
+"eN" = (/obj/structure/table/reinforced/prison,/obj/structure/window/reinforced{dir = 8},/obj/item/paper,/obj/item/tool/pen,/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/ground/compound/c)
+"eO" = (/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"eP" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"eQ" = (/obj/structure/cable{d1 = 2; d2 = 4; icon_state = "2-4"},/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"eR" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"eS" = (/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/obj/effect/decal/cleanable/dirt,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"eT" = (/obj/effect/landmark/shuttle_loc/marine_trg/landing{name = "1"},/turf/open/floor/plating,/area/shuttle/drop1/lz1)
+"eU" = (/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/obj/machinery/door/airlock/almayer/engineering{dir = 4; name = "\improper Atmospherics Condenser Water Filtration"; req_one_access_txt = "0"},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"eV" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/flora/pottedplant,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 4},/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/ground/compound/c)
+"eW" = (/obj/structure/cable{d1 = 2; d2 = 8; icon_state = "2-8"},/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"eX" = (/obj/effect/decal/warning_stripes{tag = "icon-W"; icon_state = "W"},/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"eY" = (/obj/effect/decal/warning_stripes{tag = "icon-E-corner"; icon_state = "E-corner"},/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"eZ" = (/obj/effect/decal/cleanable/dirt,/obj/structure/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"fa" = (/obj/effect/decal/cleanable/dirt,/obj/effect/landmark{name = "surv_spawn"; pixel_x = -1},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"fb" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"fc" = (/obj/machinery/light{dir = 4; icon_state = "tube1"},/obj/structure/table,/obj/item/paper,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"fd" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/door_control{id = "Filtration Plant"; name = "Storm Shutters"; pixel_x = -32; pixel_y = 0},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"fe" = (/obj/effect/decal/warning_stripes{tag = "icon-S"; icon_state = "S"},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"ff" = (/obj/machinery/landinglight/ds1{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/turf/closed/wall/r_wall/deadwood,/area/DeadWood/ground/compound/c)
+"fg" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/ground/compound/c)
+"fh" = (/obj/machinery/light,/obj/structure/bed/chair{dir = 8},/turf/open/floor/wood,/area/DeadWood/ground/compound/c)
+"fi" = (/obj/machinery/landinglight/ds1{tag = "icon-landingstripe (WEST)"; icon_state = "landingstripe"; dir = 8},/turf/closed/wall/r_wall/deadwood,/area/DeadWood/ground/compound/c)
+"fj" = (/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/ground/compound/c)
+"fk" = (/turf/open/floor/deadwood{icon_state = "demtal3"},/area/DeadWood/ground/compound/c)
+"fl" = (/obj/effect/decal/cleanable/dirt,/obj/structure/cable/yellow{d1 = 1; d2 = 4; icon_state = "1-4"},/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"fm" = (/obj/machinery/door/airlock/almayer/maint{name = "\improper Underground Maintenance"; req_access_txt = "100"; req_one_access_txt = "0"},/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"; layer = 2.1},/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"fn" = (/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"; layer = 2.1},/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"fo" = (/obj/machinery/light/small{dir = 1},/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"; layer = 2.1},/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"fp" = (/obj/structure/cable/yellow{d1 = 2; d2 = 8; icon_state = "2-8"; layer = 2.1},/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"fq" = (/obj/structure/table,/obj/item/stack/cable_coil,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"fr" = (/obj/structure/table,/obj/item/tool/pen,/obj/item/device/radio/intercom{anyai = 1; freerange = 1; frequency = 1469; name = "General Listening Channel"; pixel_x = 30; pixel_y = 0},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"fs" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"ft" = (/turf/closed/mineral{icon_state = "cavewall23"},/area/DeadWood/ground/caves)
+"fu" = (/obj/machinery/landinglight/ds1/delayone{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/obj/machinery/floodlight/landing,/turf/open/floor/deadwood/demba{icon_state = "cerlet2"},/area/DeadWood/ground/compound/c)
+"fv" = (/obj/effect/landmark{name = "good_item"},/turf/open/floor/plating,/area/shuttle/drop1/DeadWood)
+"fw" = (/obj/machinery/landinglight/ds1/delaythree{tag = "icon-landingstripe (WEST)"; icon_state = "landingstripe"; dir = 8},/obj/machinery/floodlight/landing,/turf/open/floor/deadwood/demba,/area/DeadWood/ground/compound/c)
+"fx" = (/obj/machinery/light{dir = 1},/obj/structure/flora/pottedplant{tag = "icon-plant-10"; icon_state = "plant-22"},/turf/open/floor/wood,/area/DeadWood/ground/compound/c)
+"fy" = (/turf/open/floor/deadwood{icon_state = "demtal8"},/area/DeadWood/ground/compound/c)
+"fz" = (/obj/machinery/light,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"fA" = (/obj/structure/jungle/vines{icon_state = "Light3"},/turf/open/gm/dirtgrassborder{dir = 1; icon_state = "grassdirt_corner2"},/area/DeadWood/ground/caves)
+"fB" = (/turf/open/gm/dirtgrassborder{dir = 4; icon_state = "grassdirt_corner"},/area/DeadWood/ground/caves)
+"fC" = (/turf/open/gm/dirtgrassborder{dir = 1},/area/DeadWood/ground/caves)
+"fD" = (/turf/closed/mineral{icon_state = "cavewall17"},/area/DeadWood/ground/caves)
+"fE" = (/turf/closed/mineral{icon_state = "cavewall26"},/area/DeadWood/ground/caves)
+"fF" = (/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"fG" = (/obj/structure/jungle/vines{icon_state = "Light3"},/turf/open/gm/grass{icon_state = "grass2"},/area/DeadWood/ground/caves)
+"fH" = (/turf/closed/mineral{icon_state = "cavewall21"},/area/DeadWood/ground/caves)
+"fI" = (/turf/closed/mineral{icon_state = "cavewall22"},/area/DeadWood/ground/caves)
+"fJ" = (/obj/structure/table,/obj/item/stack/cable_coil,/obj/item/stack/cable_coil,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"fK" = (/obj/structure/bed/chair/office/light{dir = 4},/obj/effect/decal/cleanable/dirt,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"fL" = (/obj/structure/table,/obj/item/weapon/baton,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"fM" = (/turf/closed/mineral{icon_state = "cavewall18"},/area/DeadWood/ground/caves)
+"fN" = (/obj/effect/landmark{name = "monkey_spawn"},/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"fO" = (/turf/open/gm/grass{icon_state = "grass2"},/area/DeadWood/ground/caves)
+"fP" = (/mob/living/carbon/monkey/unathi,/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"fQ" = (/obj/structure/table,/obj/effect/spawner/random/tool,/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"fR" = (/obj/structure/bed/chair/office/light,/obj/effect/decal/cleanable/dirt,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"fS" = (/obj/effect/landmark{name = "hunter_primary"},/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"fT" = (/obj/structure/bed/chair/office/light,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"fU" = (/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/ground/compound/c)
+"fV" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/effect/decal/cleanable/dirt,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"fW" = (/obj/structure/table,/obj/effect/spawner/random/tool,/obj/effect/spawner/random/tool,/obj/machinery/power/apc,/obj/structure/cable,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"fX" = (/obj/structure/table,/obj/effect/spawner/random/technology_scanner,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"fY" = (/obj/structure/jungle/vines/heavy{icon_state = "Hvy2"; pixel_x = 0},/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"fZ" = (/obj/effect/landmark/lv624/xeno_tunnel,/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"ga" = (/obj/structure/jungle/vines{icon_state = "Light2"},/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"gb" = (/obj/structure/jungle/vines,/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"gc" = (/obj/structure/jungle/vines/heavy,/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"gd" = (/obj/structure/jungle/vines/heavy{icon_state = "Med1"; pixel_x = 0},/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"ge" = (/obj/structure/table,/obj/effect/spawner/random/tool,/obj/effect/spawner/random/toolbox,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"gf" = (/obj/structure/table,/obj/effect/spawner/random/toolbox,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"gg" = (/obj/structure/table,/obj/item/circuitboard/solar_tracker,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"gh" = (/obj/structure/jungle/vines/heavy{icon_state = "Med1"; pixel_x = 0},/turf/closed/gm/dense{icon_state = "wall2"},/area/DeadWood/ground/caves)
+"gi" = (/obj/structure/jungle/vines/heavy{icon_state = "Med2"; pixel_x = 0; pixel_y = 0},/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"gj" = (/obj/structure/jungle/vines{icon_state = "Light3"},/obj/effect/landmark{name = "monkey_spawn"},/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"gk" = (/obj/structure/jungle/vines/heavy,/turf/closed/gm/dense{icon_state = "wall2"},/area/DeadWood/ground/caves)
+"gl" = (/obj/structure/jungle/vines/heavy{icon_state = "Med2"; pixel_x = 0; pixel_y = 0},/obj/structure/jungle/vines{icon_state = "Light3"},/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"gm" = (/obj/structure/jungle/vines/heavy{icon_state = "Hvy2"; pixel_x = 0},/turf/closed/gm/dense,/area/DeadWood/ground/caves)
+"gn" = (/obj/structure/jungle/vines/heavy{icon_state = "Hvy2"; pixel_x = 0},/turf/closed/gm/dense{icon_state = "wall2"},/area/DeadWood/ground/caves)
+"go" = (/obj/structure/jungle/vines{icon_state = "Light2"},/turf/open/gm/grass{icon_state = "grass2"},/area/DeadWood/ground/caves)
+"gp" = (/obj/item/weapon/combat_knife{desc = "A curved blade made of a strange material. It looks both old and very sharp."; force = 30; icon_state = "unathiknife"; name = "\improper alien blade"; throwforce = 26},/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"gq" = (/turf/closed/mineral{icon_state = "cavewall24"},/area/DeadWood/ground/caves)
+"gr" = (/obj/structure/closet/wardrobe/engineering_yellow,/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"gs" = (/obj/structure/jungle/vines{icon_state = "Light3"},/turf/closed/gm/dense{icon_state = "wall2"},/area/DeadWood/ground/caves)
+"gt" = (/obj/structure/jungle/vines{icon_state = "Light3"},/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"gu" = (/turf/closed/mineral{icon_state = "cavewall19"},/area/DeadWood/ground/caves)
+"gv" = (/turf/closed/mineral{icon_state = "cavewall28"},/area/DeadWood/ground/caves)
+"gw" = (/turf/closed/mineral{icon_state = "cavewall29"},/area/DeadWood/ground/caves)
+"gx" = (/obj/structure/jungle/planttop1,/turf/closed/gm/dense{icon_state = "wall2"},/area/DeadWood/ground/caves)
+"gy" = (/obj/structure/jungle/vines{icon_state = "Light2"},/turf/closed/gm/dense{icon_state = "wall2"},/area/DeadWood/ground/caves)
+"gz" = (/mob/living/carbon/monkey,/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"gA" = (/obj/structure/jungle/plantbot1,/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"gB" = (/obj/effect/decal/remains/xeno,/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"gC" = (/obj/effect/landmark{name = "yautja_teleport_loc"},/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"gD" = (/obj/effect/landmark{name = "surv_spawn"; pixel_x = -1},/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"gE" = (/obj/effect/landmark{name = "monkey_spawn"},/turf/open/gm/grass{icon_state = "grass2"},/area/DeadWood/ground/caves)
+"gF" = (/obj/structure/tunnel{id = "hole1"},/turf/open/gm/grass{icon_state = "grass2"},/area/DeadWood/ground/caves)
+"gG" = (/mob/living/carbon/monkey/tajara,/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"gH" = (/obj/structure/jungle/vines/heavy{icon_state = "Med2"; pixel_x = 0; pixel_y = 0},/turf/open/gm/grass{icon_state = "grass2"},/area/DeadWood/ground/caves)
+"gI" = (/obj/structure/mineral_door/resin,/turf/open/gm/grass{icon_state = "grass2"},/area/DeadWood/ground/caves)
+"gJ" = (/mob/living/carbon/monkey,/turf/open/gm/grass{icon_state = "grass2"},/area/DeadWood/ground/caves)
+"gK" = (/obj/effect/decal/cleanable/dirt,/turf/open/gm/grass{icon_state = "grass2"},/area/DeadWood/ground/caves)
+"gL" = (/obj/structure/jungle/vines/heavy{icon_state = "Med1"; pixel_x = 0},/turf/closed/gm/dense,/area/DeadWood/ground/caves)
+"gM" = (/obj/structure/jungle/planttop1,/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"gN" = (/obj/structure/jungle/vines/heavy{icon_state = "Med1"; pixel_x = 0},/turf/open/gm/grass{icon_state = "grass2"},/area/DeadWood/ground/caves)
+"gO" = (/obj/structure/jungle/vines/heavy{icon_state = "Med2"; pixel_x = 0; pixel_y = 0},/obj/structure/jungle/vines{icon_state = "Light3"},/turf/open/gm/grass{icon_state = "grass2"},/area/DeadWood/ground/caves)
+"gP" = (/obj/structure/jungle/vines/heavy{icon_state = "Med2"; pixel_x = 0; pixel_y = 0},/obj/structure/jungle/vines{icon_state = "Light3"},/turf/closed/gm/dense,/area/DeadWood/ground/caves)
+"gQ" = (/obj/structure/jungle/vines,/turf/closed/gm/dense{icon_state = "wall2"},/area/DeadWood/ground/caves)
+"gR" = (/mob/living/carbon/monkey/skrell,/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"gS" = (/obj/effect/landmark{name = "hunter_secondary"},/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"gT" = (/obj/structure/jungle/vines/heavy,/turf/open/gm/grass{icon_state = "grass2"},/area/DeadWood/ground/caves)
+"gU" = (/obj/structure/jungle/vines/heavy{icon_state = "Med2"; pixel_x = 0; pixel_y = 0},/obj/effect/landmark{name = "monkey_spawn"},/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"gV" = (/obj/structure/jungle/vines/heavy{icon_state = "Hvy3"; pixel_x = 0},/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"gW" = (/obj/structure/jungle/vines/heavy{icon_state = "Hvy2"; pixel_x = 0},/turf/open/desertdam/desert{icon_state = "desert3"},/area/DeadWood/ground/caves)
+"gX" = (/obj/structure/jungle/vines/heavy,/mob/living/carbon/monkey,/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"gY" = (/obj/structure/jungle/vines{icon_state = "Light2"; pixel_y = -22},/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"gZ" = (/turf/open/desertdam/desert{icon_state = "desert3"},/area/DeadWood/ground/caves)
+"ha" = (/obj/structure/jungle/vines/heavy,/turf/closed/gm/dense,/area/DeadWood/ground/caves)
+"hb" = (/turf/closed/wall/mineral/sandstone,/area/DeadWood/ground/caves)
+"hc" = (/obj/structure/jungle/vines{icon_state = "Light2"; pixel_y = -22},/turf/open/gm/dirtgrassborder,/area/DeadWood/ground/caves)
+"hd" = (/obj/structure/jungle/vines{icon_state = "Light2"; pixel_y = -22},/turf/closed/wall/mineral/sandstone,/area/DeadWood/ground/caves)
+"he" = (/obj/structure/tunnel{id = "hole1"},/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"hf" = (/obj/structure/jungle/vines/heavy{icon_state = "Hvy3"; pixel_x = 0},/turf/open/desertdam/desert,/area/DeadWood/ground/caves)
+"hg" = (/turf/open/desertdam/desert{icon_state = "desert13"},/area/DeadWood/ground/caves)
+"hh" = (/turf/open/desertdam/desert{icon_state = "desert15"},/area/DeadWood/ground/caves)
+"hi" = (/turf/open/desertdam/desert{icon_state = "desert9"},/area/DeadWood/ground/caves)
+"hj" = (/turf/open/desertdam/desert,/area/DeadWood/ground/caves)
+"hk" = (/obj/structure/jungle/vines/heavy{icon_state = "Hvy2"; pixel_x = 0},/turf/open/desertdam/desert,/area/DeadWood/ground/caves)
+"hl" = (/obj/structure/tunnel{id = "ice_dorms"},/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"hm" = (/obj/structure/jungle/vines/heavy{icon_state = "Med2"; pixel_x = 0; pixel_y = 26},/obj/effect/decal/cleanable/cobweb,/turf/open/gm/dirt,/area/DeadWood/ground/caves)
+"hn" = (/obj/structure/jungle/vines{icon_state = "Light3"},/turf/open/floor{dir = 4; icon_state = "whiteyellowfull"},/area/DeadWood/ground/caves)
+"ho" = (/obj/structure/jungle/vines/heavy{icon_state = "Med2"; pixel_x = 0; pixel_y = 26},/turf/open/floor{dir = 4; icon_state = "whiteyellowfull"},/area/DeadWood/ground/caves)
+"hp" = (/obj/structure/jungle/vines{icon_state = "Light2"; pixel_y = -22},/turf/open/floor{dir = 4; icon_state = "whiteyellowfull"},/area/DeadWood/ground/caves)
+"hq" = (/obj/structure/jungle/vines/heavy{icon_state = "Med2"; pixel_x = 0; pixel_y = 26},/obj/structure/jungle/vines{icon_state = "Light2"; pixel_y = -22},/turf/open/floor{dir = 4; icon_state = "whiteyellowfull"},/area/DeadWood/ground/caves)
+"hr" = (/obj/structure/jungle/vines/heavy{icon_state = "Med2"; pixel_x = 0; pixel_y = 26},/obj/structure/jungle/vines{icon_state = "Light3"},/turf/open/floor{dir = 4; icon_state = "whiteyellowfull"},/area/DeadWood/ground/caves)
+"hs" = (/obj/structure/jungle/vines/heavy{icon_state = "Med2"; pixel_x = 0; pixel_y = 26},/turf/open/gm/dirt,/area/DeadWood/ground/caves)
+"ht" = (/obj/structure/jungle/vines/heavy{pixel_x = -28},/obj/structure/jungle/vines,/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"hu" = (/turf/open/desertdam/desert{icon_state = "desert12"},/area/DeadWood/ground/caves)
+"hv" = (/turf/open/desertdam/desert{icon_state = "desert10"},/area/DeadWood/ground/caves)
+"hw" = (/turf/open/desertdam/desert{icon_state = "desert7"},/area/DeadWood/ground/caves)
+"hx" = (/turf/open/gm/dirtgrassborder{dir = 4},/area/DeadWood/ground/caves)
+"hy" = (/obj/effect/landmark{name = "monkey_spawn"},/turf/open/floor{dir = 4; icon_state = "whiteyellowfull"},/area/DeadWood/ground/caves)
+"hz" = (/turf/open/floor{dir = 4; icon_state = "whiteyellowfull"},/area/DeadWood/ground/caves)
+"hA" = (/obj/effect/landmark{name = "monkey_spawn"},/turf/open/gm/dirt,/area/DeadWood/ground/caves)
+"hB" = (/obj/structure/jungle/vines/heavy{pixel_x = -28},/obj/structure/jungle/vines/heavy,/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"hC" = (/obj/structure/jungle/vines/heavy{pixel_x = -28},/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"hD" = (/obj/structure/jungle/vines/heavy,/turf/closed/wall/mineral/sandstone,/area/DeadWood/ground/caves)
+"hE" = (/obj/structure/jungle/vines/heavy{icon_state = "Med2"; pixel_x = 0; pixel_y = 0},/turf/closed/wall/mineral/sandstone,/area/DeadWood/ground/caves)
+"hF" = (/obj/structure/flora/ausbushes/ywflowers,/turf/open/floor{dir = 4; icon_state = "whiteyellowfull"},/area/DeadWood/ground/caves)
+"hG" = (/obj/structure/jungle/vines/heavy{pixel_x = -28},/obj/structure/jungle/vines{icon_state = "Light3"},/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"hH" = (/obj/structure/flora/ausbushes/reedbush,/turf/open/floor{dir = 4; icon_state = "whiteyellowfull"},/area/DeadWood/ground/caves)
+"hI" = (/obj/structure/jungle/vines/heavy,/turf/open/floor{dir = 4; icon_state = "whiteyellowfull"},/area/DeadWood/ground/caves)
+"hJ" = (/obj/structure/jungle/vines/heavy{icon_state = "Med2"; pixel_x = 0; pixel_y = 26},/turf/closed/wall/mineral/sandstone,/area/DeadWood/ground/caves)
+"hK" = (/obj/structure/jungle/vines/heavy{icon_state = "Med1"; pixel_x = -28},/obj/structure/jungle/vines,/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"hL" = (/turf/open/desertdam/desert{icon_state = "desert8"},/area/DeadWood/ground/caves)
+"hM" = (/mob/living/carbon/monkey,/turf/open/desertdam/desert,/area/DeadWood/ground/caves)
+"hN" = (/turf/open/desertdam/desert{icon_state = "desert5"},/area/DeadWood/ground/caves)
+"hO" = (/obj/structure/jungle/vines/heavy{icon_state = "Hvy3"; pixel_x = 0; pixel_y = 24},/turf/closed/gm/dense{icon_state = "wall2"},/area/DeadWood/ground/caves)
+"hP" = (/obj/structure/jungle/vines/heavy{icon_state = "Med2"; pixel_x = 0; pixel_y = 26},/turf/closed/gm/dense{icon_state = "wall2"},/area/DeadWood/ground/caves)
+"hQ" = (/obj/structure/jungle/vines/heavy{icon_state = "Hvy3"; pixel_x = 0; pixel_y = 24},/turf/open/gm/dirtgrassborder{dir = 8; icon_state = "grassdirt_corner"},/area/DeadWood/ground/caves)
+"hR" = (/obj/structure/jungle/vines/heavy{icon_state = "Med2"; pixel_x = 0; pixel_y = 26},/obj/structure/jungle/vines,/turf/open/gm/dirtgrassborder{dir = 4; icon_state = "grassdirt_corner"},/area/DeadWood/ground/caves)
+"hS" = (/obj/structure/jungle/vines/heavy{icon_state = "Hvy3"; pixel_x = 0; pixel_y = 24},/obj/structure/jungle/vines,/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"hT" = (/obj/structure/jungle/vines/heavy{icon_state = "Med2"; pixel_x = 0; pixel_y = 26},/obj/structure/jungle/vines{icon_state = "Light3"},/turf/closed/gm/dense{icon_state = "wall2"},/area/DeadWood/ground/caves)
+"hU" = (/obj/structure/jungle/vines,/obj/structure/jungle/planttop1,/turf/open/gm/grass,/area/DeadWood/ground/caves)
+"hV" = (/obj/effect/landmark{name = "hunter_secondary"},/turf/open/desertdam/desert,/area/DeadWood/ground/caves)
+"hW" = (/obj/structure/flora/desert/cactus/multiple{icon_state = "cacti_5"},/turf/open/desertdam/desert,/area/DeadWood/ground/caves)
+"hX" = (/obj/structure/bed/nest,/obj/effect/landmark/corpsespawner/security{corpsehelmet = /obj/item/clothing/head/cmcap/req; corpseuniform = /obj/item/clothing/under/colonist; name = "Colonist Olin Berus"},/obj/effect/landmark{name = "xeno_spawn"; pixel_x = -1},/turf/open/desertdam/desert,/area/DeadWood/ground/caves)
+"hY" = (/obj/effect/alien/weeds/node,/turf/open/desertdam/desert,/area/DeadWood/ground/caves)
+"hZ" = (/turf/open/desertdam/desert{icon_state = "desert2"},/area/DeadWood/ground/caves)
+"ia" = (/obj/structure/flora/desert/cactus{icon_state = "cactus_9"},/turf/open/desertdam/desert,/area/DeadWood/ground/caves)
+"ib" = (/obj/effect/alien/weeds/node,/turf/open/desertdam/desert{icon_state = "desert9"},/area/DeadWood/ground/caves)
+"ic" = (/obj/structure/bed/nest,/obj/effect/landmark/corpsespawner/scientist{corpseback = null; corpseshoes = /obj/item/clothing/shoes/black; corpsesuit = /obj/item/clothing/suit/storage/labcoat; corpseuniform = /obj/item/clothing/under/colonist; name = "Colonist Ellis Bark"},/obj/effect/landmark{name = "xeno_spawn"; pixel_x = -1},/turf/open/desertdam/desert{icon_state = "desert2"},/area/DeadWood/ground/caves)
+"id" = (/obj/structure/bed/nest,/obj/effect/landmark/corpsespawner/scientist{corpseback = null; corpsehelmet = /obj/item/clothing/head/soft/grey; corpseshoes = /obj/item/clothing/shoes/black; corpsesuit = /obj/item/clothing/suit/storage/labcoat; corpseuniform = /obj/item/clothing/under/colonist; name = "Colonist Innio Morris"},/obj/effect/landmark{name = "xeno_spawn"; pixel_x = -1},/turf/open/desertdam/desert,/area/DeadWood/ground/caves)
+"ie" = (/obj/effect/landmark{name = "surv_spawn"; pixel_x = -1},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"if" = (/obj/structure/tunnel{id = "ice_dorms"},/turf/open/desertdam/desert,/area/DeadWood/ground/caves)
+"ig" = (/obj/effect/landmark{name = "yautja_teleport_loc"},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"ih" = (/obj/effect/landmark{name = "monkey_spawn"},/turf/open/desertdam/desert,/area/DeadWood/ground/caves)
+"ii" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/ground/compound/c)
+"ij" = (/obj/machinery/landinglight/ds2/delaytwo{tag = "icon-landingstripe"; icon_state = "landingstripe"},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"ik" = (/obj/structure/barricade/wooden{dir = 1},/obj/machinery/landinglight/ds2/delayone{tag = "icon-landingstripe"; icon_state = "landingstripe"},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"il" = (/obj/structure/barricade/wooden{dir = 1},/obj/machinery/landinglight/ds2{tag = "icon-landingstripe"; icon_state = "landingstripe"},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"im" = (/obj/structure/barricade/wooden{dir = 1},/obj/machinery/landinglight/ds2/delaythree{tag = "icon-landingstripe"; icon_state = "landingstripe"},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"in" = (/obj/structure/barricade/wooden{dir = 1},/obj/machinery/landinglight/ds2/delaytwo{tag = "icon-landingstripe"; icon_state = "landingstripe"},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"io" = (/obj/machinery/landinglight/ds2{tag = "icon-landingstripe"; icon_state = "landingstripe"},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"ip" = (/obj/structure/bed/nest,/obj/effect/landmark/corpsespawner/miner{corpseback = null; corpseidjob = "Laborer"; corpseuniform = /obj/item/clothing/under/colonist; name = "Colonist Olgin Vekin"},/obj/effect/landmark{name = "xeno_spawn"; pixel_x = -1},/turf/open/desertdam/desert,/area/DeadWood/ground/caves)
+"iq" = (/obj/effect/landmark{name = "xeno_spawn_HH"; pixel_x = -1},/obj/effect/landmark/corpsespawner/engineer{corpseback = /obj/item/storage/backpack; corpseidjob = "Engineer"; corpseshoes = /obj/item/clothing/shoes/black; corpseuniform = /obj/item/clothing/under/colonist; name = "Colonist Wes Uvin"},/obj/structure/bed/nest,/turf/open/desertdam/desert,/area/DeadWood/ground/caves)
+"ir" = (/obj/structure/tunnel{id = "hole3"},/turf/open/desertdam/desert,/area/DeadWood/ground/caves)
+"is" = (/obj/structure/barricade/wooden{dir = 8},/obj/machinery/landinglight/ds2/delaythree{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"it" = (/obj/structure/barricade/wooden{dir = 4},/obj/machinery/landinglight/ds2/delayone{tag = "icon-landingstripe (WEST)"; icon_state = "landingstripe"; dir = 8},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"iu" = (/turf/open/desertdam/desert{icon_state = "desert4"},/area/DeadWood/ground/caves)
+"iv" = (/obj/effect/landmark{name = "xeno_spawn"; pixel_x = -1},/obj/effect/landmark/corpsespawner/engineer{corpseback = /obj/item/storage/backpack; corpsehelmet = /obj/item/clothing/head/welding; corpseidjob = "Engineer"; corpseshoes = /obj/item/clothing/shoes/black; corpseuniform = /obj/item/clothing/under/colonist; name = "Colonist Ted Jarka"},/obj/structure/bed/nest,/turf/open/desertdam/desert,/area/DeadWood/ground/caves)
+"iw" = (/obj/structure/bed/nest,/obj/effect/landmark/corpsespawner/scientist{corpseback = null; corpsehelmet = /obj/item/clothing/head/cmcap/req; corpseshoes = /obj/item/clothing/shoes/black; corpsesuit = /obj/item/clothing/suit/storage/labcoat; corpseuniform = /obj/item/clothing/under/colonist; name = "Colonist Lee Hesto"},/obj/effect/alien/weeds/node,/obj/effect/landmark{name = "xeno_spawn"; pixel_x = -1},/turf/open/desertdam/desert{icon_state = "desert2"},/area/DeadWood/ground/caves)
+"ix" = (/turf/open/space,/area/space)
+"iB" = (/obj/structure/barricade/wooden{desc = "This barricade is heavily reinforced. Nothing short of blasting it open seems like it'll do the trick, that or melting the breams supporting it..."; dir = 8; health = 25000},/obj/machinery/landinglight/ds2{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"iC" = (/obj/structure/barricade/wooden{dir = 4},/obj/machinery/landinglight/ds2{tag = "icon-landingstripe (WEST)"; icon_state = "landingstripe"; dir = 8},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"iD" = (/obj/structure/bed/nest,/obj/effect/landmark/corpsespawner/doctor{corpseback = null; corpsegloves = /obj/item/clothing/gloves/latex; corpseidjob = "Doctor"; corpseuniform = /obj/item/clothing/under/colonist; name = "Colonist Drew Bellel"},/obj/effect/landmark{name = "xeno_spawn"; pixel_x = -1},/turf/open/desertdam/desert{icon_state = "desert2"},/area/DeadWood/ground/caves)
+"iE" = (/obj/structure/bed/nest,/obj/effect/landmark/corpsespawner/security{corpseuniform = /obj/item/clothing/under/colonist; name = "Colonist Jac Mester"},/obj/effect/landmark{name = "xeno_spawn"; pixel_x = -1},/turf/open/desertdam/desert{icon_state = "desert2"},/area/DeadWood/ground/caves)
+"iF" = (/obj/structure/barricade/wooden{desc = "This barricade is heavily reinforced. Nothing short of blasting it open seems like it'll do the trick, that or melting the breams supporting it..."; dir = 8; health = 25000},/obj/machinery/landinglight/ds2/delayone{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"iG" = (/obj/structure/barricade/wooden{dir = 4},/obj/machinery/landinglight/ds2/delaythree{tag = "icon-landingstripe (WEST)"; icon_state = "landingstripe"; dir = 8},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"iK" = (/obj/structure/barricade/wooden{desc = "This barricade is heavily reinforced. Nothing short of blasting it open seems like it'll do the trick, that or melting the breams supporting it..."; dir = 8; health = 25000},/obj/machinery/landinglight/ds2/delaytwo{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"iL" = (/obj/structure/barricade/wooden{dir = 4},/obj/machinery/landinglight/ds2/delaytwo{tag = "icon-landingstripe (WEST)"; icon_state = "landingstripe"; dir = 8},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"iM" = (/obj/structure/barricade/wooden{desc = "This barricade is heavily reinforced. Nothing short of blasting it open seems like it'll do the trick, that or melting the breams supporting it..."; dir = 8; health = 25000},/obj/machinery/landinglight/ds2/delaythree{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"iN" = (/obj/machinery/landinglight/ds2{tag = "icon-landingstripe (WEST)"; icon_state = "landingstripe"; dir = 8},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"iO" = (/obj/machinery/landinglight/ds2/delayone{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"iP" = (/obj/machinery/landinglight/ds2/delaythree{tag = "icon-landingstripe (WEST)"; icon_state = "landingstripe"; dir = 8},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"iQ" = (/obj/effect/landmark{name = "surv_spawn"; pixel_x = -1},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"iR" = (/obj/machinery/landinglight/ds2/delaytwo{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"iS" = (/obj/effect/landmark{name = "monkey_spawn"},/obj/machinery/landinglight/ds2/delaytwo{tag = "icon-landingstripe (WEST)"; icon_state = "landingstripe"; dir = 8},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"iT" = (/obj/machinery/landinglight/ds2/delayone{tag = "icon-landingstripe (WEST)"; icon_state = "landingstripe"; dir = 8},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"iU" = (/obj/machinery/landinglight/ds2/delaytwo{tag = "icon-landingstripe (WEST)"; icon_state = "landingstripe"; dir = 8},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"iV" = (/obj/structure/barricade/wooden{dir = 8},/obj/machinery/landinglight/ds2/delaytwo{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"iW" = (/obj/machinery/landinglight/ds2{tag = "icon-landingstripe (NORTH)"; icon_state = "landingstripe"; dir = 1},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"iX" = (/obj/machinery/landinglight/ds2/delayone{tag = "icon-landingstripe (NORTH)"; icon_state = "landingstripe"; dir = 1},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"iY" = (/obj/machinery/landinglight/ds2/delaytwo{tag = "icon-landingstripe (NORTH)"; icon_state = "landingstripe"; dir = 1},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"ja" = (/obj/effect/landmark{name = "xeno_spawn"; pixel_x = -1},/obj/effect/landmark/corpsespawner/doctor,/obj/structure/bed/nest,/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/lazarus/research)
+"jb" = (/obj/effect/landmark{name = "xeno_spawn"; pixel_x = -1},/obj/effect/landmark/corpsespawner/scientist{corpseback = null; corpseshoes = /obj/item/clothing/shoes/black; corpsesuit = /obj/item/clothing/suit/storage/labcoat; corpseuniform = /obj/item/clothing/under/colonist; name = "Colonist Marko Quin"},/obj/structure/bed/nest,/turf/open/floor/plating,/area/DeadWood/lazarus/engineering)
+"jc" = (/obj/effect/decal/cleanable/dirt,/obj/machinery/light,/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/ground/compound/c)
+"jG" = (/obj/machinery/landinglight/ds1/delaythree{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood/demba{icon_state = "cerlet2"},/area/DeadWood/ground/compound/c)
+"jH" = (/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/open/floor/deadwood{icon_state = "demtal3"},/area/DeadWood/ground/compound/c)
+"jI" = (/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/structure/cable{d1 = 1; d2 = 4; icon_state = "1-4"; tag = "90Curve"},/turf/open/floor/deadwood{icon_state = "demtal8"},/area/DeadWood/ground/compound/c)
+"jJ" = (/obj/machinery/door/airlock/almayer/maint{dir = 1; name = "\improper Underground Maintenance"; req_access_txt = "100"; req_one_access_txt = "0"},/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"jK" = (/obj/machinery/door/airlock/multi_tile/almayer/generic{dir = 4; name = "\improper Atmospherics Condenser"},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"jL" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/open/floor,/area/DeadWood/lazarus/atmos)
+"jM" = (/obj/effect/decal/cleanable/dirt,/mob/living/carbon/monkey/unathi,/turf/open/floor{tag = "icon-asteroidfloor (NORTH)"; icon_state = "asteroidfloor"; dir = 1},/area/DeadWood/lazarus/atmos)
+"jN" = (/obj/machinery/landinglight/ds1{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/turf/open/floor/deadwood/demba{icon_state = "cerlet2"},/area/DeadWood/ground/compound/c)
+"jO" = (/obj/structure/cable{tag = "icon-4-8"; icon_state = "4-8"; d2 = 8},/turf/open/floor/deadwood{icon_state = "demtal8"},/area/DeadWood/ground/compound/c)
+"jP" = (/obj/effect/landmark{name = "yautja_teleport_loc"},/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/ground/compound/c)
+"jQ" = (/obj/effect/decal/cleanable/dirt,/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"; tag = ""},/turf/open/floor{tag = "icon-asteroidfloor (NORTH)"; icon_state = "asteroidfloor"; dir = 1},/area/DeadWood/lazarus/atmos)
+"jR" = (/obj/structure/pend_platform{dir = 8},/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood/demba,/area/DeadWood/ground/compound/c)
+"jS" = (/obj/effect/landmark{name = "hunter_secondary"},/obj/machinery/landinglight/ds1/delayone{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood/demba{icon_state = "cerlet2"},/area/DeadWood/ground/compound/c)
+"jT" = (/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/open/floor/deadwood{icon_state = "demtal8"},/area/DeadWood/ground/compound/c)
+"jU" = (/obj/machinery/landinglight/ds1/delaytwo{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood/demba{icon_state = "cerlet2"},/area/DeadWood/ground/compound/c)
+"jV" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/structure/flora/pottedplant{tag = "icon-plant-10"; icon_state = "plant-22"},/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"jW" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood{icon_state = "demtal3"},/area/DeadWood/ground/compound/c)
+"jX" = (/obj/structure/cable{tag = "icon-4-8"; icon_state = "4-8"; d2 = 8},/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"jY" = (/obj/effect/decal/cleanable/dirt,/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/turf/open/floor{tag = "icon-asteroidfloor (NORTH)"; icon_state = "asteroidfloor"; dir = 1},/area/DeadWood/lazarus/atmos)
+"jZ" = (/obj/effect/decal/cleanable/dirt,/obj/structure/cable{d1 = 1; d2 = 8; icon_state = "1-8"; tag = ""},/turf/open/floor{tag = "icon-asteroidfloor (NORTH)"; icon_state = "asteroidfloor"; dir = 1},/area/DeadWood/lazarus/atmos)
+"kb" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/obj/structure/flora/pottedplant{tag = "icon-plant-10"; icon_state = "plant-22"},/obj/structure/window/reinforced{dir = 4},/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"kc" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood{icon_state = "demtal8"},/area/DeadWood/ground/compound/c)
+"kd" = (/obj/machinery/door/airlock/multi_tile/almayer/generic{dir = 2; name = "\improper Canteen"},/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"ke" = (/turf/closed/wall/r_wall/deadwood,/area/DeadWood/lazarus/secure_storage)
+"kf" = (/obj/machinery/landinglight/ds1/delaytwo{tag = "icon-landingstripe (EAST)"; icon_state = "landingstripe"; dir = 4},/obj/machinery/floodlight/landing,/turf/open/floor/deadwood/demba{icon_state = "cerlet2"},/area/DeadWood/ground/compound/c)
+"kg" = (/obj/machinery/landinglight/ds1/delaytwo{tag = "icon-landingstripe (WEST)"; icon_state = "landingstripe"; dir = 8},/obj/machinery/floodlight/landing,/turf/open/floor/deadwood/demba,/area/DeadWood/ground/compound/c)
+"kh" = (/obj/structure/rack{layer = 2.5},/obj/item/weapon/gun/shotgun/pump,/obj/item/ammo_magazine/shotgun,/turf/open/floor{icon_state = "cult"; dir = 2},/area/DeadWood/lazarus/secure_storage)
+"ki" = (/obj/effect/decal/cleanable/cobweb2,/obj/item/reagent_container/hypospray/autoinjector/tricord,/obj/structure/rack{layer = 2.5},/obj/item/reagent_container/hypospray/autoinjector/dexP{pixel_x = -2; pixel_y = -2},/obj/item/reagent_container/hypospray/autoinjector/quickclot{pixel_x = 3; pixel_y = 3},/obj/item/reagent_container/hypospray/autoinjector/tricord,/obj/effect/landmark{name = "crap_item"},/obj/effect/landmark{name = "crap_item"},/turf/open/floor{icon_state = "cult"; dir = 2},/area/DeadWood/lazarus/secure_storage)
+"kj" = (/obj/item/target/syndicate,/obj/structure/target_stake{layer = 2},/turf/open/floor{icon_state = "red"; dir = 5},/area/DeadWood/lazarus/secure_storage)
+"kk" = (/obj/item/target,/obj/structure/target_stake{layer = 2},/turf/open/floor{icon_state = "red"; dir = 9},/area/DeadWood/lazarus/secure_storage)
+"kl" = (/obj/structure/window/framed/zdeadwood,/turf/open/floor/plating,/area/DeadWood/lazarus/secure_storage)
+"km" = (/obj/item/device/flash,/obj/structure/table/reinforced,/obj/item/explosive/grenade/flashbang{pixel_x = 7; pixel_y = 2},/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/light/small{dir = 1},/obj/item/device/radio/intercom{anyai = 1; freerange = 1; frequency = 1469; name = "General Listening Channel"; pixel_x = 0; pixel_y = 30},/turf/open/floor{dir = 2; icon_state = "redcorner"},/area/DeadWood/lazarus/secure_storage)
+"kn" = (/obj/structure/table/reinforced,/obj/item/weapon/gun/shotgun/pump/cmb,/obj/item/ammo_magazine/shotgun/buckshot,/turf/open/floor{icon_state = "red"},/area/DeadWood/lazarus/secure_storage)
+"ko" = (/obj/structure/table/reinforced,/obj/item/clothing/under/CM_uniform,/turf/open/floor{icon_state = "red"},/area/DeadWood/lazarus/secure_storage)
+"kp" = (/obj/structure/table/reinforced,/obj/item/device/flashlight/lamp{on = 0},/turf/open/floor{dir = 8; icon_state = "redcorner"},/area/DeadWood/lazarus/secure_storage)
+"kq" = (/obj/machinery/landinglight/ds1/delaythree{tag = "icon-landingstripe (NORTH)"; icon_state = "landingstripe"; dir = 1},/obj/machinery/floodlight/landing,/turf/open/floor/deadwood/demba{icon_state = "cerlet3"},/area/DeadWood/ground/compound/c)
+"kr" = (/obj/machinery/landinglight/ds1{tag = "icon-landingstripe (NORTH)"; icon_state = "landingstripe"; dir = 1},/turf/open/floor/deadwood/demba{icon_state = "cerlet3"},/area/DeadWood/ground/compound/c)
+"ks" = (/obj/machinery/landinglight/ds1/delayone{tag = "icon-landingstripe (NORTH)"; icon_state = "landingstripe"; dir = 1},/turf/open/floor/deadwood/demba{icon_state = "cerlet3"},/area/DeadWood/ground/compound/c)
+"kt" = (/obj/machinery/landinglight/ds1/delaytwo{tag = "icon-landingstripe (NORTH)"; icon_state = "landingstripe"; dir = 1},/turf/open/floor/deadwood/demba{icon_state = "cerlet3"},/area/DeadWood/ground/compound/c)
+"ku" = (/obj/machinery/landinglight/ds1/delaythree{tag = "icon-landingstripe (NORTH)"; icon_state = "landingstripe"; dir = 1},/turf/open/floor/deadwood/demba{icon_state = "cerlet3"},/area/DeadWood/ground/compound/c)
+"kv" = (/obj/machinery/landinglight/ds1/delayone{tag = "icon-landingstripe (NORTH)"; icon_state = "landingstripe"; dir = 1},/obj/machinery/floodlight/landing,/turf/open/floor/deadwood/demba{icon_state = "cerlet3"},/area/DeadWood/ground/compound/c)
+"kw" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/flora/pottedplant,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/ground/compound/c)
+"ky" = (/obj/machinery/light/small{dir = 1},/obj/structure/rack{layer = 2.5},/obj/item/weapon/gun/pistol/highpower,/obj/item/ammo_magazine/pistol/highpower,/obj/item/ammo_magazine/pistol/highpower,/obj/item/ammo_magazine/pistol/highpower,/turf/open/floor{icon_state = "cult"; dir = 2},/area/DeadWood/lazarus/secure_storage)
+"kz" = (/turf/open/floor{icon_state = "cult"; dir = 2},/area/DeadWood/lazarus/secure_storage)
+"kA" = (/obj/item/explosive/plastique{pixel_x = 3; pixel_y = 7},/obj/item/explosive/plastique{pixel_y = 4},/obj/structure/rack{layer = 2.5},/obj/effect/landmark{name = "crap_item"},/obj/effect/landmark{name = "crap_item"},/turf/open/floor{icon_state = "cult"; dir = 2},/area/DeadWood/lazarus/secure_storage)
+"kB" = (/obj/machinery/light/small{dir = 8},/turf/open/floor{icon_state = "red"; dir = 5},/area/DeadWood/lazarus/secure_storage)
+"kC" = (/turf/open/floor{icon_state = "red"; dir = 9},/area/DeadWood/lazarus/secure_storage)
+"kD" = (/obj/item/device/flashlight,/obj/structure/table/reinforced,/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/door_control{id = "nexus_blast"; name = "Nexus Lockdown"},/turf/open/floor{icon_state = "red"; dir = 4},/area/DeadWood/lazarus/secure_storage)
+"kE" = (/turf/open/floor{icon_state = "redfull"; dir = 9},/area/DeadWood/lazarus/secure_storage)
+"kF" = (/obj/structure/bed/chair/office/light{dir = 1},/turf/open/floor{icon_state = "redfull"; dir = 9},/area/DeadWood/lazarus/secure_storage)
+"kG" = (/obj/structure/table/reinforced,/obj/item/ashtray/bronze,/obj/item/storage/donut_box,/turf/open/floor{icon_state = "red"; dir = 8},/area/DeadWood/lazarus/secure_storage)
+"kH" = (/obj/structure/flora/pottedplant,/turf/open/floor{icon_state = "white"},/area/DeadWood/lazarus/secure_storage)
+"kI" = (/obj/machinery/vending/cola,/turf/open/floor{tag = "icon-whiteblue (SOUTHWEST)"; icon_state = "whiteblue"; dir = 10},/area/DeadWood/lazarus/secure_storage)
+"kJ" = (/obj/structure/pend_platform{dir = 8},/turf/open/floor/deadwood/demba{icon_state = "cerlet7"},/area/DeadWood/ground/compound/c)
+"kK" = (/turf/open/floor/deadwood/demba{icon_state = "cerlet4"},/area/DeadWood/ground/compound/c)
+"kL" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood/demba{icon_state = "cerlet4"},/area/DeadWood/ground/compound/c)
+"kM" = (/turf/open/floor/deadwood/demba{icon_state = "cerlet8"},/area/DeadWood/ground/compound/c)
+"kN" = (/obj/machinery/deployable/barrier,/turf/open/floor{icon_state = "cult"; dir = 2},/area/DeadWood/lazarus/secure_storage)
+"kO" = (/obj/structure/rack{layer = 2.5},/obj/effect/landmark{name = "crap_item"},/obj/effect/landmark{name = "crap_item"},/turf/open/floor{icon_state = "cult"; dir = 2},/area/DeadWood/lazarus/secure_storage)
+"kP" = (/turf/open/floor{icon_state = "red"; dir = 5},/area/DeadWood/lazarus/secure_storage)
+"kQ" = (/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/vending/security,/turf/open/floor{icon_state = "red"; dir = 4},/area/DeadWood/lazarus/secure_storage)
+"kR" = (/obj/item/folder/red,/turf/open/floor{icon_state = "redfull"; dir = 9},/area/DeadWood/lazarus/secure_storage)
+"kS" = (/turf/open/floor{icon_state = "red"; dir = 10},/area/DeadWood/lazarus/secure_storage)
+"kT" = (/turf/open/floor{icon_state = "red"},/area/DeadWood/lazarus/secure_storage)
+"kU" = (/turf/open/floor{dir = 8; icon_state = "redcorner"},/area/DeadWood/lazarus/secure_storage)
+"kV" = (/obj/machinery/door/airlock/almayer/security{locked = 1; name = "\improper Nexus Dome Marshal Office"; req_access_txt = "100"},/turf/open/floor,/area/DeadWood/lazarus/secure_storage)
+"kW" = (/obj/machinery/light,/obj/structure/flora/pottedplant{tag = "icon-plant-10"; icon_state = "plant-22"},/turf/open/floor/wood,/area/DeadWood/ground/compound/c)
+"kX" = (/obj/effect/decal/cleanable/dirt,/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"kY" = (/obj/machinery/power/apc{dir = 8; name = "Secure Vault APC"; pixel_x = -28; start_charge = 0},/obj/structure/cable/yellow{d2 = 4; icon_state = "0-4"},/turf/open/floor{icon_state = "cult"; dir = 2},/area/DeadWood/lazarus/secure_storage)
+"kZ" = (/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"},/turf/open/floor{icon_state = "cult"; dir = 2},/area/DeadWood/lazarus/secure_storage)
+"la" = (/obj/item/storage/toolbox/syndicate,/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"},/obj/structure/rack{layer = 2.5},/obj/effect/landmark{name = "crap_item"},/obj/effect/landmark{name = "crap_item"},/turf/open/floor{icon_state = "cult"; dir = 2},/area/DeadWood/lazarus/secure_storage)
+"lb" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/table,/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"},/obj/item/weapon/gun/revolver/cmb,/obj/item/ammo_magazine/revolver/cmb,/obj/item/ammo_magazine/revolver/cmb,/obj/item/ammo_magazine/revolver/cmb,/turf/open/floor{icon_state = "red"; dir = 5},/area/DeadWood/lazarus/secure_storage)
+"lc" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/table,/obj/item/clothing/ears/earmuffs,/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"},/obj/item/ammo_magazine/revolver/cmb,/obj/item/weapon/gun/revolver/cmb,/obj/item/ammo_magazine/revolver/cmb,/obj/item/ammo_magazine/revolver/cmb,/turf/open/floor{icon_state = "red"; dir = 9},/area/DeadWood/lazarus/secure_storage)
+"ld" = (/obj/structure/window/framed/zdeadwood,/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"; layer = 2.1},/turf/open/floor/plating,/area/DeadWood/lazarus/secure_storage)
+"le" = (/obj/structure/closet/secure_closet/security,/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"},/obj/structure/cable/yellow{d1 = 1; d2 = 4; icon_state = "1-4"},/turf/open/floor{icon_state = "red"; dir = 4},/area/DeadWood/lazarus/secure_storage)
+"lf" = (/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"},/turf/open/floor{icon_state = "redfull"; dir = 9},/area/DeadWood/lazarus/secure_storage)
+"lg" = (/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"; layer = 2.1},/turf/open/floor{icon_state = "redfull"; dir = 9},/area/DeadWood/lazarus/secure_storage)
+"lh" = (/obj/structure/table/reinforced,/obj/item/device/binoculars,/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"; layer = 2.1},/turf/open/floor{icon_state = "redfull"; dir = 9},/area/DeadWood/lazarus/secure_storage)
+"li" = (/obj/structure/bed/chair/office/light,/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"; layer = 2.1},/turf/open/floor{icon_state = "redfull"; dir = 9},/area/DeadWood/lazarus/secure_storage)
+"lj" = (/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"; layer = 2.1},/turf/open/floor{icon_state = "red"; dir = 8},/area/DeadWood/lazarus/secure_storage)
+"lk" = (/obj/structure/table/reinforced/prison,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/item/paper,/obj/item/tool/pen,/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/ground/compound/c)
+"ll" = (/obj/structure/table/reinforced/prison,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/ground/compound/c)
+"lm" = (/obj/machinery/light,/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/ground/compound/c)
+"ln" = (/obj/structure/bed/chair/comfy/black{tag = "icon-comfychair (NORTH)"; icon_state = "comfychair"; dir = 1},/turf/open/floor/deadwood{icon_state = "demtal11"},/area/DeadWood/ground/compound/c)
+"lo" = (/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"; layer = 2.1},/turf/open/floor/deadwood,/area/DeadWood/ground/compound/c)
+"lp" = (/obj/structure/pend_platform{dir = 8},/obj/structure/pend_platform,/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"; layer = 2.1},/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"lq" = (/obj/structure/pend_platform_decoration{dir = 1},/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"; layer = 2.1},/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/ground/compound/c)
+"lr" = (/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"},/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/ground/compound/c)
+"ls" = (/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"},/turf/closed/wall/r_wall/deadwood,/area/DeadWood/ground/compound/c)
+"lt" = (/obj/effect/decal/cleanable/dirt,/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"},/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/ground/compound/c)
+"lu" = (/obj/structure/cable/yellow{d1 = 2; d2 = 8; icon_state = "2-8"},/turf/closed/wall/r_wall/deadwood,/area/DeadWood/ground/compound/c)
+"lv" = (/obj/effect/landmark{name = "crap_item"},/turf/open/floor{icon_state = "cult"; dir = 2},/area/DeadWood/lazarus/secure_storage)
+"lw" = (/obj/machinery/door/airlock/almayer/secure{locked = 1; name = "\improper Nexus Dome Armory"; req_access_txt = "100"},/turf/open/floor{icon_state = "cult"; dir = 2},/area/DeadWood/lazarus/secure_storage)
+"lx" = (/turf/open/floor{icon_state = "redcorner"; dir = 4},/area/DeadWood/lazarus/secure_storage)
+"ly" = (/obj/machinery/light/small,/turf/open/floor{icon_state = "red"; dir = 1},/area/DeadWood/lazarus/secure_storage)
+"lz" = (/obj/structure/closet/lawcloset,/turf/open/floor{icon_state = "red"; dir = 1},/area/DeadWood/lazarus/secure_storage)
+"lA" = (/obj/structure/table/reinforced,/obj/machinery/computer/forensic_scanning,/turf/open/floor{icon_state = "red"; dir = 1},/area/DeadWood/lazarus/secure_storage)
+"lB" = (/obj/structure/table/reinforced,/obj/item/handcuffs,/obj/item/storage/firstaid/adv,/turf/open/floor{icon_state = "red"; dir = 1},/area/DeadWood/lazarus/secure_storage)
+"lC" = (/obj/structure/filingcabinet/security{desc = "A large cabinet with hard copy security records."; name = "Security Records"},/obj/machinery/light/small{dir = 4},/turf/open/floor{icon_state = "redcorner"; dir = 1},/area/DeadWood/lazarus/secure_storage)
+"lD" = (/obj/structure/pend_platform_decoration,/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"},/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/ground/compound/c)
+"lE" = (/obj/structure/pend_platform,/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"},/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"lF" = (/obj/machinery/door/airlock/almayer/maint{dir = 1; name = "\improper Underground Maintenance"; req_access_txt = "100"; req_one_access_txt = "0"},/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"},/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/ground/compound/c)
+"lG" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/open/floor/deadwood,/area/DeadWood/ground/compound/c)
+"lH" = (/obj/structure/pend_platform{dir = 8},/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/ground/compound/c)
+"lI" = (/obj/structure/cable/yellow{d1 = 1; d2 = 4; icon_state = "1-4"},/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"lJ" = (/obj/machinery/light/small,/obj/effect/decal/cleanable/dirt,/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"; layer = 2.1},/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"lK" = (/obj/effect/decal/cleanable/dirt,/obj/structure/cable/yellow{d1 = 2; d2 = 8; icon_state = "2-8"},/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"; layer = 2.1},/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"lL" = (/obj/effect/decal/cleanable/dirt,/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"; layer = 2.1},/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"lM" = (/obj/machinery/light/small,/obj/effect/decal/cleanable/dirt,/obj/structure/cable/yellow{d1 = 1; d2 = 8; icon_state = "1-8"; layer = 2.44},/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"lN" = (/obj/structure/pend_platform{dir = 4},/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/ground/compound/c)
+"lO" = (/obj/machinery/light{dir = 4},/turf/open/floor/deadwood,/area/DeadWood/ground/compound/c)
+"lP" = (/obj/structure/stairs{dir = 1},/obj/structure/pend_platform{dir = 8},/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"lQ" = (/obj/structure/pend_platform_decoration{dir = 8},/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/ground/compound/c)
+"lR" = (/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"; layer = 2.1},/turf/closed/wall/r_wall/deadwood,/area/DeadWood/ground/compound/c)
+"lS" = (/obj/structure/pend_platform_decoration{dir = 4},/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/ground/compound/c)
+"lT" = (/obj/structure/stairs{dir = 1},/obj/structure/pend_platform{dir = 4},/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"lU" = (/obj/machinery/light{dir = 8},/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/ground/compound/c)
+"lV" = (/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"; layer = 2.1},/turf/open/floor/deadwood{icon_state = "demtal9"},/area/DeadWood/ground/compound/c)
+"lW" = (/turf/closed/wall/r_wall/deadwood,/area/DeadWood/lazarus/comms)
+"lX" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/door/airlock/almayer/engineering{dir = 1; name = "\improper Telecommunications"; req_one_access_txt = "0"},/obj/machinery/atmospherics/pipe/simple/hidden/green,/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"lY" = (/obj/structure/pend_platform_decoration,/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/ground/compound/c)
+"lZ" = (/obj/structure/stairs{dir = 1; icon_state = "ramptop"},/turf/open/floor/deadwood{icon_state = "demtal3"},/area/DeadWood/ground/compound/c)
+"ma" = (/obj/structure/table,/obj/item/folder/black,/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mb" = (/turf/open/floor/greengrid,/area/DeadWood/lazarus/comms)
+"mc" = (/obj/structure/showcase{tag = "icon-bus"; icon_state = "bus"},/turf/open/floor/greengrid,/area/DeadWood/lazarus/comms)
+"md" = (/obj/structure/table,/obj/item/tool/hand_labeler,/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"me" = (/obj/structure/table,/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mf" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/atmospherics/pipe/simple/hidden/green,/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mg" = (/obj/machinery/alarm{dir = 4; pixel_x = -30},/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mh" = (/obj/structure/table,/obj/item/folder/black_random,/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mi" = (/obj/structure/table,/obj/effect/spawner/random/technology_scanner,/obj/machinery/atmospherics/pipe/simple/hidden/green{dir = 4; layer = 2.4},/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mj" = (/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mk" = (/obj/machinery/light{dir = 4; icon_state = "tube1"},/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"ml" = (/obj/structure/table,/obj/item/folder/yellow,/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mm" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mn" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/atmospherics/pipe/simple/hidden/green,/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mo" = (/obj/structure/table,/obj/machinery/light{tag = "icon-tube1 (EAST)"; icon_state = "tube1"; dir = 4},/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mp" = (/obj/structure/pend_platform_decoration{dir = 1},/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/ground/compound/c)
+"mq" = (/obj/effect/landmark{name = "surv_spawn"; pixel_x = -1},/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/ground/compound/c)
+"mr" = (/obj/structure/table,/obj/effect/spawner/random/technology_scanner,/obj/effect/spawner/random/tool,/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"ms" = (/obj/structure/table,/obj/item/tool/extinguisher,/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mt" = (/obj/machinery/computer/telecomms/monitor{req_one_access_txt = "19;200"},/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mu" = (/obj/item/device/radio/headset,/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mv" = (/obj/machinery/door/airlock/almayer/engineering{dir = 4; name = "\improper Telecommunications"; req_one_access_txt = "0"},/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mw" = (/obj/effect/decal/warning_stripes{tag = "icon-W-corner"; icon_state = "W-corner"},/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mx" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/atmospherics/unary/vent_pump{dir = 1; on = 1},/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"my" = (/obj/structure/table,/obj/item/device/radio/headset,/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mA" = (/obj/structure/pend_platform{dir = 4},/turf/open/floor/deadwood{icon_state = "demtal3"},/area/DeadWood/ground/compound/c)
+"mB" = (/turf/open/floor/deadwood{icon_state = "demtal2"},/area/DeadWood/ground/compound/c)
+"mC" = (/obj/structure/pend_platform{dir = 8},/turf/open/floor/deadwood{icon_state = "demtal3"},/area/DeadWood/ground/compound/c)
+"mD" = (/obj/structure/pend_platform{dir = 1},/turf/open/floor/deadwood{icon_state = "demtal3"},/area/DeadWood/ground/compound/c)
+"mE" = (/obj/machinery/computer/telecomms/server{req_access = null; req_one_access_txt = "19;200"},/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mF" = (/obj/structure/bed/chair/office/dark{dir = 8},/obj/effect/landmark{name = "surv_spawn"; pixel_x = -1},/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mG" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mH" = (/obj/structure/pend_platform_decoration{dir = 4},/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/ground/compound/c)
+"mI" = (/obj/structure/pend_platform{dir = 8},/obj/structure/pend_platform,/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"mJ" = (/obj/machinery/computer/telecomms/traffic{req_access = null; req_one_access_txt = "19;200"},/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mK" = (/obj/item/folder/yellow,/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mL" = (/obj/structure/cable{d1 = 2; d2 = 4; icon_state = "2-4"},/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mM" = (/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mN" = (/obj/structure/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mO" = (/obj/structure/table,/obj/effect/spawner/random/tech_supply,/obj/effect/spawner/random/tool,/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mP" = (/obj/structure/bed/chair/office/dark,/turf/open/floor{icon_state = "dark"},/area/DeadWood/lazarus/comms)
+"mQ" = (/obj/machinery/power/apc{start_charge = 0},/obj/structure/cable,/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/open/floor/greengrid,/area/DeadWood/lazarus/comms)
+"mR" = (/obj/structure/showcase{tag = "icon-broadcaster_send"; icon_state = "broadcaster_send"},/turf/open/floor/greengrid,/area/DeadWood/lazarus/comms)
+"mY" = (/obj/effect/landmark{name = "yautja_teleport_loc"},/turf/open/floor/plating,/area/DeadWood/ground/compound/c)
+"ne" = (/turf/open/floor/plating,/area/shuttle/drop2/lz2)
+"np" = (/turf/open/floor/plating,/area/shuttle/drop2/DeadWood)
+"nt" = (/obj/machinery/camera/autoname/lz_camera,/turf/open/floor/plating,/area/shuttle/drop2/lz2)
+"nA" = (/obj/effect/landmark{name = "crap_item"},/turf/open/floor/plating,/area/shuttle/drop2/DeadWood)
+"nG" = (/obj/effect/landmark{name = "crap_item"},/turf/open/floor/plating,/area/shuttle/drop2/lz2)
+"nI" = (/obj/effect/landmark/shuttle_loc/marine_trg/landing{name = "2"},/turf/open/floor/plating,/area/shuttle/drop2/lz2)
+"nN" = (/turf/closed/wall/r_wall/deadwood,/area/DeadWood/ground/caves)
+"nO" = (/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"nP" = (/obj/machinery/floodlight/landing,/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"nQ" = (/obj/structure/barricade/wooden,/obj/machinery/landinglight/ds2/delaythree{tag = "icon-landingstripe (NORTH)"; icon_state = "landingstripe"; dir = 1},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"nT" = (/obj/effect/landmark{name = "hunter_secondary"},/turf/open/floor/deadwood{icon_state = "demtal4"},/area/DeadWood/ground/compound/c)
+"nU" = (/obj/structure/pend_platform,/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"nW" = (/obj/structure/pend_platform,/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"nZ" = (/obj/structure/barricade/wooden,/obj/machinery/landinglight/ds2{tag = "icon-landingstripe (NORTH)"; icon_state = "landingstripe"; dir = 1},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"oa" = (/obj/structure/barricade/wooden,/obj/machinery/landinglight/ds2/delayone{tag = "icon-landingstripe (NORTH)"; icon_state = "landingstripe"; dir = 1},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"ob" = (/obj/structure/barricade/wooden,/obj/machinery/landinglight/ds2/delaytwo{tag = "icon-landingstripe (NORTH)"; icon_state = "landingstripe"; dir = 1},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"oc" = (/obj/machinery/landinglight/ds2/delaythree{tag = "icon-landingstripe (NORTH)"; icon_state = "landingstripe"; dir = 1},/turf/open/floor/plating,/area/DeadWood/ground/caves)
+"ol" = (/obj/structure/pend_platform_decoration{dir = 1},/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"om" = (/obj/structure/pend_platform_decoration,/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"on" = (/obj/structure/pend_platform,/obj/structure/pend_platform{dir = 4},/turf/open/floor/deadwood{icon_state = "demtal5"},/area/DeadWood/ground/compound/c)
+"oo" = (/obj/machinery/light,/turf/open/floor/deadwood,/area/DeadWood/ground/compound/c)
+"op" = (/obj/structure/pend_platform{dir = 8},/turf/open/floor/deadwood{icon_state = "demtal7"},/area/DeadWood/ground/compound/c)
+"oq" = (/turf/open/floor/deadwood{icon_state = "demtal7"},/area/DeadWood/ground/compound/c)
+"or" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/deadwood{icon_state = "demtal7"},/area/DeadWood/ground/compound/c)
+"os" = (/obj/structure/pend_platform{dir = 4},/turf/open/floor/deadwood{icon_state = "demtal7"},/area/DeadWood/ground/compound/c)
+"ot" = (/obj/structure/pend_platform_decoration{dir = 8},/turf/open/floor/deadwood{icon_state = "demtal7"},/area/DeadWood/ground/compound/c)
+"ou" = (/obj/effect/landmark{name = "yautja_teleport_loc"},/turf/open/floor/deadwood{icon_state = "demtal7"},/area/DeadWood/ground/compound/c)
+"ov" = (/obj/structure/pend_platform_decoration{dir = 4},/turf/open/floor/deadwood{icon_state = "demtal7"},/area/DeadWood/ground/compound/c)
+
+(1,1,1) = {"
+aaababababababababababababababababababababababababababababababababababababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+abahahahahahabababababababababababababababababababababababababababababababababababababababacacacacacacacacadacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacadacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+abahanananahabababababababababababababababababababababababababababababababababababababababacacacacacadadadadacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacadadadadacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacadacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+abahanapanahabababababababababababababababababababababababababababababababababababababababacacacacacadadadadadadadacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacadadadadadacacacacacacacacacacacacacacacacacacacacacadacacacacacacacacacacacadadadacacacacacacacacacacadacacacacacacacacacacacacacacacacacacacacacacacacac
+abahanananahababababababababababababababababababababababababaeabababaeaeaeaeabababababababacacacadadadadadadadadadadacacacacacacacacadacacacacacacacacacacacacacacacacacacacacacacacacacacacadacacadadadadadadacacacacacacacacacacacacacacadadadacacadadadadacacacacacacacacacacadadadadacadacadacacacacadadadadadacacadadacadacacacacacacacacacacacacacacacac
+abahahahahahababababababababababababababababababababababaeaeaeaeaeaeaeaeaeaeabababababababacacacadadadadadadadadadadacacacacacadacadadadadadacacacacacacacacacadacadadacacacacacacacacadacadadadadadadadadadadadacacacacadadadacadacacacacadadadadadadadadadacacacacacacacadadadadadadadadadadadacacadacadadadadadadadadadadadadacacacacacacacacacacacacacacac
+ababababababababababababababababababababababababababaeaeaeaeaeaeaeaeaeaeaeaeaeaeabababababacacacadadadadadadadadadadadacacadadadadadadadadadadadadacadacacadadadadadadadacacacacacadadadadadadadadadadadadadadadadacadadadadadadadadacacadadadadadadadadadadacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacac
+ababababababababababababababababababababababababaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeababababacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacadadadadadadadacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacac
+abababababababababababababababababababababaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacac
+abababababababababababababababababababababaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacac
+ababababababababababababababababababababaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacac
+abababababababababababababababababaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacac
+ababababababababababababababaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacac
+ababababababababababababaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacac
+abababababababababaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacac
+abababababababababaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacac
+ababababababababaeaeaeaeaeaeaeaeaeauauauauauauauawawawaAaAaAaAaAaAaAaeaeaeaeaeaeaeaeaeaeaeadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacac
+abababababababaeaeaeaeaeaeaeaeaeaeauaBaBaCaDaEauaiaiaiaAaGaHaIaGaJaAaeaeaeaeaeaeaeaeaeaeaeadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacac
+ababababababaeaeaeaeaeaeaeaeaeaeaeauaKaLaLaLaNaLaOaPaOaPaQaPaPaPaRaAaeaeaeaeaeaeaeaeaeaeaeadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacac
+ababababababaeaeaeaeaeaeaeaeaeaeaeauaNaSaSaSaNaTaOaUaOaVaOaPaUaUaOaAaeaeaeaeaeaeaeaeaeaeaeadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacac
+ababababababaeaeaeaeaeaeaeaeaeaeaeauaWaLaLaLaNaXaQaPaOaYaOaPaPaPaZaAafafafafafafadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+ababababababaeaeaeaeaeaeaeaeaeaeaeauaNaSaLaLaNaXaOaUaQaYaOaUaPaPaObaararasaratafadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+abababababababaeaeaeaeaeaeaeaeaeaeauaDbbbbbbaDaualavaxaAaJbfbfbfaJaAafafafafarafadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacac
+abababababababaeaeaeaeaeaeaeaeaeaeauaXaXaXaXaXauayaiazaAaYaYaYaYaYaAadadadafarafadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacac
+ababababababababaeaeaeaeaeaeaeafafafaFbcbcbcbcbcbkeHblbcbcbcbcbcbdafafafadafatafadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+abababababababaeaeaeaeaeaeaeaeafbebebgeFeFeFeFeFeFeReFeFeFeReFeFbhbebeafadafaMafadadadadadadadadadadadadadadadadadadadadadadadadadbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqbqadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacac
+ababababababababaeaeaeaeaeaeaeafbeaFbieFeFeFeFeFeFeFeFeFeFeFeFeFbjbdbeafadafarafadadadadadadadadadadadadadadadadadadadadadadadadadbqbvbvbxbybzbqbAbBbBbCbDbDbDbDbFbvbqbGbIbGbqadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacac
+ababababababababaeaeaeaeaeaeaeafbebJbKbKbKbKbKbKbKbLbLbKbKbKbKbMeRbhbeafadafatafafafafafafafafafadadadadadadadadadadadadadadadadadbqbNbDbBbBbybqbObObObqbPbDbQbSbSbSbTbIajbUbqadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacac
+abababababababababaeaeaeaeaeaeafbebVafbWbXbYbZcabXcbbZcabXccafcdeFbhbeafadafararatatbwatataratafadadadadadadadadadadadadadadadadadbqbDbDigcecfbqbqbqbqbqcgchbDcjbScmbqbGbIbGbqadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacac
+abababababaeababababaeaeaeaeaeafbebVcnbEbEbEbEbEbEbEbEbEbEbEcocdeFbjbccqcqcqbocqcqcqcqcqcqcqatafadadadadadadadadadadadadadadadadadbqbBbDbSbBbybqcscscsbqctbDbSbDbDcucvbIbIbIbqadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacac
+abababababaeaeababaeaeaeaeaeaeafbebVcwbEbEbEcxcxcxcxcxbEbEbEcycdeFmqeRcqbpbrbrbrbscqbtbubHcqarafadcFcGcHcHcIcFcFcFadadadadadadadadbqcJbDbScKcLcMcNcNcNcMcObDbSbDcQcRcvbGbIbGbqadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+ababababaeaeaeaeaeaeaeaeaeaeaeafbebVcSbEcibEcxcxcxcxcxbEcibEcTcdeFfUeFcqbRbrbrbrbrbrbrclbrcqaMafadcFcXcYcYcYdadbcFadadadadadadadadbqcJdciQdddebqdfdhbBbqdidjbBbDdkdlcvbIbIbIbqadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacac
+abababababaeaeaeaeaeaeaeaeaeaeafbebVdmbEbEbEcxcxcxcxcxbEbEbEdndueFfUeFcqcpcrbrbrbrbrcrbrckcqatafadcFcXdvdwdxdydzcFadadadadadadadadbqdAbDbDddbBbqbqbqbqbqbqcvcvcvcvbqbqbqbqbqbqadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacac
+ababababababaeaeaeaeaeaeaeaeaeafbebVdBbEcxcxcxcxdCcxcxcxcxbEdHcdeRfUeFcqczcAbrbrcrjabrclbrcqarafadcFcXdKdLjbdydycFadbqbqbqbqbqbqbqbqcJbDdMdNdPcvdQdQdRdQdQdQdQdQdSdSdSdSdSdSbqadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacac
+abababababababaeaeaeaeaeaeaeaeafbebVdTcxcxcxcxcxcxcxcxcxcxcxcycdeRfUeFcqcqcqcqcqbocqcBcCcDcqatafadcFcXebecececedcFadbqeeeeeebqefegefbBehbBepbBcvdQbqcvcvcvcvbqdQdQbqcvcvcvcvbqadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacac
+ababababababababaeaeaeaeaeaeaeafbebVcScxcxcxcxcxcxcxcxcxcxcxcTcdeFiieFafcEcUcVafcWcqcqcqcqcqarafafcFcXeqereseteucFadbqbBbBbBbqevbBbBbBbBbBewbBcvdQcvexexexexcvdQdScvexexexexbqadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacac
+ababababababababaeaeaeaeaeaeaeafbebVezcxcxcxcxcxcxcxcxcxcxcxdncdeFiieFdgcZdocWafdoaqaratasarataratcFeAcFcFcFcFcFcFbqbqbBeBbBeCbBeDeEeDeEeDdddebqdQcvexexexexcvdQeIcvexexexexbqadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacac
+abababababaeaeabaeaeaeaeaeaeaeafbebVdBbEcxcxcxcxcxcxcxcxcxbEdHcdeRfUeFdgdpdqdodIdJafafafafafatafdrafeOafdsdsdtadbqePbBeQeScNeUeWeXcNcNcNeYeZdebqdQcvexexexexcvdSdQcvexexexexbqadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacac
+abababababaeaeaeaeaeaeaeaeaeaeafbebVcnbEcxcxcxcxcxcxcxcxcxbEcocdeFfUeFdgcVcWdoafdoafdDdDdDafatafatdEeOafdFdGafafafcufafbbDfcbqfdeDfeeDfeeDbBbBcvdQcvexexexexcvdSdQcvexexexexbqadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacac
+ababababababaeaeaeaeaeaeaeaeaeafbebVffbEcxcxcxcxcxcxdCcxcxbEficdeFfUeFafcZdOdUafdVafafafafafdrafarmYflfmfnfnfofpaffqbDfbbDfrbqfsbDbDbDbBeBbDbBcvdQbqcvcvcvcvbqdSdQbqcvcvcvcvbqadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+ababababababaeaeaeaeaeaeaeaeaeafbebVfucicxcxcxfvcxcxcxcxcxcifwcdeFiieFafafafafafdXdYdZfxdYdZdXafaoaoaoafafafafeOaffJbDfbfKfLbqfQbDfRbDfTbDbSbDcvdSdSdSdSdSdQdSdQdSdSdQdQdQdQbqadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+abababababaeaeaeaeaeaeaeaeaeaeafbebVdBbEcxcxcxcxcxcxcxcxcxbEdHcdeFfUdWeidYeadYejdXdYejdXdYejdXafekelemafeHeoafeOaffqbDfVbBcubqfWfXgegfgggrgrgrbqdSdSdQdQdSdSdQdQdQdQdQdQdQdQbqadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+ababababababaeaeaeaeaeaeaeaeaeafbebVjGbEbEcxcxcxcxcxcxcxbEbEcycdeFfUeyeGdYdXdYejdXdYejdXdYejdXafaoaoaoafeHeNafjJafafjKjLbqbqbqbqbqbqbqcvcvcvbqbqdSjMbqbqbqbqbqbqbqbqbqbqbqbqbqadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+abababababababaeaeaeaeaeaeaeaeafbebVjNcxcxcxcxcxcxcxcxcxcxcxcTdueFfUeHeVeHeHfgeHeHeHeHeHeHeHeHeneHeHfgeneHeHeHfjenaodSjQdSdSdSdSdSdSdSdSdSdSdSdSdSdSbqadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+ababababababaeaeaeaeaeaeaeaeaeafbejRjScxcxcxcxcxcxcxcxcxcxcxdncdeFfUeHfkfkfyfyfUiifyfyfUfUfyfyfUfUfyfyfUfUfyfyjHfkaodSjQdSdSdSdSdSdSdSdSdSdSdSdQdSdSbqadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacac
+abababababababaeaeaeaeaeaeaeaeafbejRjUcxcxcxcxcxcxfvcxcxcxcxdHcdeFfUeHfkfkfyfyfUfUfyfyfUfUfyfyfUfUfyfyfUfUfyfyjHfkafdSjQakamamamamamamamamamamambmbmbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacac
+ababababababababaeaeaeaeaeaeaeafbebVcwcxcxcxcxcxcxcxcxcxcxcxcycdeFfUeHjVfUfUfUfyfyfUfUfyfyfkfkfyfyfUiifyfyfUiijIjOjXjYjZakameJamamamakamameKakakambmbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacac
+ababababababababaeaeaeaeaeaeaeafbebVcSbEcicxcxcxcxcxcxcxcibEcTdueFnTeHkbfUfUjPfyfyfUfUfyfyfkfkfyfyfUfUfyfyfUfUjTfykddSdSamamamamambmambmamamamamamambmbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacac
+ababababababababababaeaeaeaeaeafbebVdmbEbEcPcxbEbEbEcxbEbEbEdncdeFfUeHfkfkfyfyiifUfyfyfUfUfyfyfUfUfyfyfUfUfyfyjHjWafamamamamamakambmamamamamamamamambmbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacac
+ababkekekekekekekekekekekekeaeafbebVkfeTcxcxcxbEbEbEcxcxcxbEkgcdeFfUeHfkfkfyfyfUfUfyfyfUfUfyfyfUfUfykciifUfyfyjHfkaobmamamamamambmamambmamameKamamambmbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacac
+kekekekhkikekjkkklkmknkokpkekekebebVafkqkrksktkukrksktkukrkvafcdeFeFeHkweHeHeHeHeHeHeHfgfgeHeHlmeHeHfgjceHeHfgfjlmaobmamamamamamamamamamamamamakamambmbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacadadacacacacacacacacacac
+kekNkykzkAkekBkCklkDkEkFkGkHkIkebekJkKkKkKkKkKkKkLkKkKkKkKkKkKkMeFeFdWlkdYdXdYejdXdYejdXdYejdXafaoaoaoafeHeNafjJafafafamamameLamameKamamamamamamambmbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacac
+kekNkzkzkOkekPkCklkQkEkRkSkTkUkVbebgeFeFeFeFeFeFeFeFeFeFeFeFeFeFeFeFeylldYdXfhejdXdYejkWdYejdXafekelemafeHlnafkXafadafamamamamakamamamamamamamambmbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacac
+kekekYkZlakelblcldlelflglhliljldlolplqlrltltlrltlrlrlrlrlrlrlrlrlDlElElslslFlsluafafafafafafafafaoaoaoafafafafeOafafafamamakamamamamamamamamambmbnbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacac
+abkekzlvkzlwkPkCkVlxlylzlAlBlCkelGbelHfUfUfUfUfUiiiifUfUfUfUfUfUlNbelOafdocWaqlIfnlJfnlKfnlLfnfnfnfnfnlLfnfnfnlMararaqamamamamamamamamamamamambmbnftadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacac
+abkekekekekekekekekekekekekekekebelPlQfUfUfUfUiifUfUiifUfUfUiifUlSlTbeaflUdoafafafafaflRafafafafatfzarafafafafafafafafbnbmeMeMbmbmbmbmbmambmbmfAfBfDfEdsdsdsdtadadfEdsdsdtadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacac
+abababababababaeaeaeaeaeaeaeaeafbebgfUfUfUfUfUfUfUfUfUfUfUfUfUfUfUbhbeafdododododododolVafaeaeafafafafafaeaeaeaeaeaeaebnbnbnbmbmeMeMbnbmbmfAfCfBfFfHfIbnbnbnfHdsdsfIbnbnfHdsdsdtadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+ababababababaeaeaeaeaeaeaeaeaeafbebgfUlYlZlZmpfUmqfUfUlYlZlZmpfUfUbhbelWlWlWlWlWlWlWlWlXlWlWlWafaeaeaeaeaeaeaeaeaeaeaeaeadbnbnbnbnbnbnbnbnfBfFfFfFbnbnbnfFbnbnbnbnbnbnbnbnbnbnfHdsdsdtadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacac
+ababababababaeaeaeaeaeaeaeaeaeafbebgfUmAmBmBmCfUfUfUfUmAmBmBmCfUfUbhbelWmambmcmclWmdmemfmgmhlWadadadadadadadadadadadadadadadadadbnbnbnbnbnbnfFfFbnbnbnfFfFfFbnbnfFfFfFfFbnfFbnbnbnbnfDadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacac
+ababababababaeaeaeaeaeaeaeaeaeafbebgfUmAmBmBmCfUfUiifUmAmBmBmCiifUbhbelWmimjmjmklWmlmmmnmjmolWadadadadadadadadadadadadadadadadadadfMbnbnbnfFfFfGfGfFfFfFfGfFfFfFfFfNbnfFfFfOfFfFfFbnfDadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacac
+abababababababaeaeaeaeaeaeaeaeafbebgfUlSmDmDlQfUfUfUfUmHmDmDlQfUfUbhbelWmrmjmjmjlWmhmmmnmjmslWadadadadadadadadadadadadadadadadadadfMbnbnbnfFfFfGfFfGfNfGfOfFfFbnfFfFfFfOfFfNfFfFbnbnfHdtadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+abababababababaeaeaeaeaeaeaeaeaflGbgfUfUfUfUiifUfUfUfUfUfUfUfUfUfUbhlOlWmtmumjmjmvmwmmmxmmmylWadadadadadadadadadadadadadfEdsdsdsdsfIbnbnfFfPfFbnbnbnfFfFfOfOfFfFbnfSfFfFfFfFfFfYfYbnbnfDadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacac
+ababababababababaeaeaeaeaeaeaeafbemInUnUnWolfUfUfUfUfUfUomnUnUnUnUonbelWmEmFmjmjlWmjmjmGmjmjlWadadadadadadadadadadadfEdsfIfFfFfFfFfFfFfFfZfFfFbnbnbnbngagbfFfGbnbnbnbnbnbnfFbnbnfFfFbnfDadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacac
+ababababababababaeaeaeaeaeaeaeafbebebeoobeopoqoqoroqoqorosbeoobebebebelWmJmjmKmklWmLmMmNmjmjlWadadadadadadadadadfEdsfIfFfFfFfFfFfFfFfFbnbnbngcgdghbnbnbngigjgcbnfFfFfFbnbnfFghbnbngcgkfHdsdtadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacac
+abababababababababaeaeaeaeaeaeafafafafafafotoqoqouoqoroqovafafafafafaflWmOmemjmPlWmQmbmRmbmRlWadadadadadfEdsdsdsfIgdfFfFfFfFfFfFftgqbnbnbnbnghgdgdghbnbngdfYfYfFfFfFfFbnbnbngdghbnbnbngagafDadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacac
+abababababababababaeaeaeaeaeaeaeaeaeaeaeafageFageFagageFagafdtadadadadlWlWlWlWlWlWlWlWlWlWlWlWadadfEdsdsfIglgmgmgmgdgdfFfFftgugugvgwadadbnbnbngnfYgcgkgbfGfFfOgofFfNfFgdgifFfYgcgkbnbnbngafHdsdsdtadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacadadacadacacacacacacac
+acacacacacacacacadadadadadadadadadadadadfMfOfOfOfOfOfOfOfOfOfDadadadadadadadadadadadadadadadadadfEfIbnbnbngdglgmgmglgdftgugvadadadadadadbnbngpbnbngigafNfFbngcbnfFgbfYgsgtbnbnbnbngagbfFfGbnbnbnfDadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacadadadadadadacacacacac
+acacacacacacacacadadadadadadadadadadadfEfIfOfOfOfOfOfOfOfOfOfDadadadadadadadadadadadadadadadadfEfIglglgdbngdgdglftgugugvadadadadadadadbngxfFfFfFgxgygafOfFbngibnbnbngafFfFgdghbnbnbngigjgcbnfFbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacadadadadadadadacacacac
+acacacacacacacacacadadadadadadadadadadfMfOfOfOfOfOfOfOfOfOfOfHdsdtadadadadadadadadadadadadfEdsfIgdgdbngdglgzgdfFfHdtadadadadadadadadbnbngAfFgBfFgAbngagdbnbnfYbnfFgCfFgDfFgdgdghbnbngdfYfYfFfFfFbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacac
+acacacacacacacacacadadadadadadadadadadfMfOfOfOfOfOfOfOgEfOfOfOgFfDadadadadadadadadadadfEdsfIgcgcgcgdbnbngdbnfFgdbnfHdtadadadadadadadbnbnfFgBfFfFgBbnbngtgbfFbnbngGfFfFfFfFgnfYgcgkgbfGfFfOgofFfFbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacac
+acacacacacacacacacadadadadadadadadadfEfIgHfOgIfOfOfOgJfOgKgKfOfOfDadadadadadadadadadfEfIgLgdgdgcgcgdftgugugqfFfFfFbnfHdtadadadadadadbnbnfFfFfFbnbnbnbnfFgMfFfFbnfFfFfNfFfFbnbngigafNfFbngcbnfFbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacac
+acacacacacacacacacacadadadadadadfEdsfIbnbngigifOfOfOfOfOfOgNfOgNfDadadadadadadadadadfMglglglglglgcftgvadadgwgqbngdbnbnfHdtadadadadadadbnfFfFbnfSbnbnfFfFgAfFbnbnbnfFfFfFfFfFbngygafOfFbngigibnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacac
+acacacacacacacacacacadadadadadadfMbnbnbnbnbngifOgOfOfOgNgNgNgNgNfHdsdtfEdsdsdtadadfEfIfYfYgmgPgdgdfDadadadadgwgqfFgdfFbnfDadadadadadadbnfFfFfFfFfFbnfFfNfFfFfFfFfFfFbnbnfFfFfFfOgofFfFbnbnfFbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+acacacacacacacacacacadadadadadadfMbnbnbnbnbngifYglgsgdgNgQgQbnbnbnbnfHfIbnbnfDadadfMgLglglgngPftgugvadadadadadfMbnfFfFbnfDadadadadadadbnbnfFfNfFfFbngRbnfFfFfFfFgSfFbnbnfFfFbngcbnfFfFgibnbnbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+acacacacacacacacadadadadadadadadfMgygQgsbngigifYfYbngsfYgTgUgybnbnbnbnbnbnbnfHdtfEfIgcgdgdftgugvadadadadadadadgwgqbnfFfFfHdtadadadadadadbngtgcfFbnbnfFfFbnbnfFfFbnfFfFfFfFfFbngibnbnbngigifFbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacac
+acacacacacacacacacacadadadadadfEfIgdgVglgsgibnbngWbngygsgQgVgdgcgQgygQgsbnbnbnfHfIgdgXgcftgvadadadadadadadadadadgwgqfFfFfFfDadadadadadbnbngcbnbnbnbngYbnbnbngYgcbnbnfFfFfFfFbnbnbnbnbnbnbnbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacac
+acacacacacacacacacacadadadadadfMgVgVfYgdgigibngZgZbnbnbngsgygdfYgigdgVglgsgybnglfYgdgdhafDadadadadadadadadadfEdsdsfIfFfFftgvadadadadbnbnbnfYhbhbhbhbhchdhbhbhbhbhbbnbnhefFgMbnbnbnadadbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacac
+acacacacacacacacacacacacacadadfMhfbnbnbngygQgZhghhhihjhjbnhkhkgygQgVfYgdgigcgdgigdgdgcftgvadadadadadadadadfEfIgdgdfFgzfFfDadadadadadbnbnhlfYhbhmhnhohphqhnhrhnhshbhtbnfFfFgAbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacac
+acacacacacacacacacacacacacacadfMhuhjhjhjhjhjhvhwhuixixixixhjhkbnbnbnbnbngygQgdfYftgugugvadadadadadadadadadfMbnglgdfFfFftgvadadadadadbnbnfFfFhxamamhyhzhAhzhzhzhrhbhBbnfFbnfFbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+acacacacacacacacacacacacacacacachjixixixixixixixixixixixixixacacacbnbnacbngQgQfYfDadadadadadadadadadadadfEfIglgmglgdgdfDadadadadadadbnbnfFgbhbamhzhzhzhzhzamhzhnhbhCbnfFbnbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+acacacacacacacacadadadadadacacacacixixixixixixixixixixixixixixacacacacacacixhhhhfHdsdtadadadadadadadfEdsfIhjhjbnftgugugvadadadadadadadbnbngnhDhEhzhzhzamhyhFhnhbhbhGbnbnbnbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+acacacacacacacacadadadadadadacacacixixixixixixixixixixixixixixixixacixixixixixhjhjhhfHdsdtadadadadadfMhjhjhhhjhjfDadadadadadadadadadadbnbngQfYhDhnhHamamamhnhIhJhKfFfFfFfFbnbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacac
+acacacacacacacadadadadadadadfEdsacixixixixixixixixixixixixixixixixixixixixixixixixixhjhgfHdsdsdtadadgwgqhLhvhMftgvadadadadadadadadadbnbnbnfFfYhDhbhbhbamhbhbhbhbhCbnfFfFbnbnfFbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+acacacacacacacadadadadadadfEfIhjixixixixixixixixixixixixixixixixixixixixixixixixixixixixhjhuhjfHdtadfEfIhNhNhvfHdtadadadadadadadadadbnbnbnfFfObnhOhPhQfChRhShTgbfFbnfFfFfFfFfFbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacac
+acacacacacacadadadadadadadfMhjhjixixixixixixixixixixixixixixixixixixixixixixixixixixixixixixhjhjfDfEfIixixhjhjhjfHdsdtadadadadadadadbnbnbnfFfFfOfFfFfNfFgthUfFfFfFfFfFfFbnbnbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacac
+acacacacacacadadadadadadadfMhjhjixixixixixixixixixixixixixixixixixixixixixixixixixixixixixixixixfHfIixixixixhjhLhjhjfHdtadadadadadadbnbnbnbnbnbnbnfFfFfFfFgAfFfFfNfFbnbnbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacac
+acacacacacacacadadadadadadfMhjhjhjhuhjhjhjixixixixixixixixixixixixixixixixixixixixixixixixixixixixixixixixftgqhjhvhLhjfDadadadadadadadbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacac
+acacacacacacacacadadadadadgwgqhjhjhjhjhMhjhjhjixixixixhjhjhjhhhjixixixixixixhjhjixixixixixixixixixixixixixfDgwgqhNhjhjfHdtadadadadadadadadbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+acacacacacacacacadadadadadadfMhjhjhjhjhjhjhjhjhuhjhjhjhuhjhjhvhjhjixixixhjhuhjhjixixixixixixixixixixixixixfHdtgwgqhjhjhvfDadadadadadadadadadadadadbnbnbnbnbnbnbnbnbnbnbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacac
+acacacacacacacacadadadadadadgwgugqhjhjhjhuhjhjhjhhhjhjhjhjhjhjhjhjhjhjhvhjhVhjhvhjhjixixixixixixixixixixixixfDadfMhjhjhjfHdtadadadadadadadadadadadadadadadadbnadbnbnadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacac
+acacacacacacacacacadadadadadadadgwgqhjhjhjhjhjhjhjhjhjhvhjhjhjhhhjhjhjhjhjhjhjhuhjhjhjhjhhhjixixixixixixixixfDadgwgqhjhjhjfDadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+acacacacacacacacacadadadadadadadadgwgugqhjhjhuhjhjhWhjhjhjhMhjhXhjhYhjhjhjhMhuhjhjhjhjhjhvhjhjixixixixixixftgvadfEfIhjhjhjfDadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacac
+acacacacacacacacacadadadadadadadadadadgwgqhjhjhjhZhjhjhYhjhjhihihjhjhjhihihjhjftgugqhjhjhjhjhjixixixixixixfDadadfMhjhvhjftgvadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacac
+acacacacacacacacacadadadadadadadadadadadfMhihihZhZhjhihjhjftgugqhjhjiahjhjhjftgvadgwgugugqhjhjixixixixixixixnNnNnNhvhjhLnNnNnNnNnNnNnNnNnNnNnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+acacacacacacacacacacadadadadadadadadadadfMibhihiichjhjftgugvadgwgqhjhjidhjhjfHdtadadadadgwgqhjixixixixixixixnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOienNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+acacacacacacacacacacacadadadadadadadadadfMhihZhZhZhjhjadadadadadgwgqhYhhhjhjhjfDadadadadadadhjixixixixixixixnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacac
+acacacacacacacacacacacacadadadadadadadadgwgqhZhZhZifhjfHaddtadfEdsfIhihZhhhjhjfDadadadadadadhjnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+acacacacacacacacacacacacadadadadadadadfEdsfIhZhZhZhjhjhjihfHadfIhjhjhjhZhZhjhjfDadadadadadixixixixixixixixixnPijikiliminikilimijikionPnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+acacacacacacacacacacacacadadadadadadadfMhZhZhihZiphjiqibhjhjhjhjhjhjirhZhZhjftgvadadadadadixixixixixixixixixisneneneneneneneneneneneitnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+acacacacacacacacacadadadadadadadadadadgwgqiuiuhjhjhjhjhjivhihjhjhjiwhihZhZhjfDadadadadadadixixixixixixixixixisnenenenpnpnpnpnpneneneitnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacac
+acacacacacacacadadadadadadadadadadadadadgwgugqhjhYhjhjhjhjhihihjhYhjhihZhjhjfDadadadadadadixixixixixixixixixiBnenenenpnpnpnpnpneneneiCnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacac
+acacacacacacadadadadadadadadadadadadadadadadgwgqhjhjiDhjhjhjiEhjhjhjhjhjhYftgvadadadadadadixixixixixixixixixiFnentnenpnpnpnpnpnentneiGnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacacac
+acacacacacacadadadadadadadadadadadadadadadadadgwgugugugqhjhjhjhjftgugugugugvadadadadadadadadadadadadadnNnOnOiKnenpnpnpnpnpnpnpnpnpneiLnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacacac
+acacacacacacacacacadadadadadadadadadadadadadadadadadadgwgugugugugvadadadadadadadadadadadadadadadadadadnNnOnOiMnpnpnpnpnpnpnpnpnpnpnpitnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacacacac
+acacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadnNnOnOiBnpnpnpnpnpnpnpnpnpnpnpiNnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacacacac
+acacacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadnNnOnOiOnpnpnpnpnpnAnpnpnpnpnpiPnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacac
+acacacacacacadadacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadnNnOnOiRnenpnpnpnpnpnpnpnpnpneiSnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacac
+acacacacacadadadadadadacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadnNnOnOiMnenpnpnpnpnpnpnAnpnpneiTnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacac
+acacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadnNnOnOiBntnpnpnpnpnpnpnpnpnpntiNnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacacac
+acacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadnNnOnOiFnenpnpnpnpnpnpnpnpnAneiPnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacac
+acacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadnNnOnOiKnenpnpnpnpnpnpnpnpnpneiUnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacac
+acacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadnNnOnOiMnenenpnpnpnpnpnpnpneneiTnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacac
+acacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadnNnOnOiBnpnpnpnpnpnpnpnpnpnpnpiNnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacadacacacacacacacacacacac
+acacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadnNnOnOiOnpnpnpnpnpnpnpnpnpnpnpiPnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacadacacacacacacacacacacacacacacac
+acacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadnNnOnOiRnpnpnpnpnpnpnpnpnpnpnpiUnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadnNnOnOiMnpnpnpnpnpnpnpnpnpnpnpiTnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadnNnOnOiBnentnpnpnpnpnpnpnpntneiNnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacadadacacacacacacacacacacacac
+acacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadnNnOnOiFnenGnenpnenenenpneneneiPnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacadadadadadadacacacacacacacacacacac
+acacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadnNnOnOiVnInpnpnpnenenenpnpnpneiUnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacadadadadadadacacacacacacacacacacac
+acacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadnNnOnOnPnQnZoaobociWiXiYociWiXnPnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacadadadadacacacacacacacacacacacacacac
+acacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadnNnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacac
+acacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadnNnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacacac
+acacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadnNnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnOnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacacac
+acacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadnNnNnNnNnNnNnNnNnNnNnNnNnNnNnNnNnNnNnNnNadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacacac
+acacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacacac
+acacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacac
+acacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacac
+acacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacac
+acacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+acacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacac
+acacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacac
+acacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacac
+acacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacac
+acacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacadacacacac
+acacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacac
+acacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacac
+acacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacac
+acacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacac
+acacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacac
+acacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacac
+acacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacac
+acacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacac
+acacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacac
+acacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacadacacacacacac
+acacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacac
+acacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacac
+acacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacac
+acacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacac
+acacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacadacacacacacacacac
+acacacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacac
+acacacacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacac
+acacacacacacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacac
+acacacacacacacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+acacacacacacacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacac
+acacacacacacacacacacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacac
+acacacacacacacacacacacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacac
+acacacacacacacacacacacacacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacadadadadadadadadadadadadadadadadadadadadadacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacadadadadadadadadadadadadadadadadadadadadacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacadadadadadadadadadadadadadadadadadadadadadacacacadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacadadadadadadadadadadadadadadadadadadadacacadadadadadadadadadadadadadadadadadadadacadacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacadadadadadadadadadadadadadadadadadadacacacadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacadadadadadadadadadadadadadadadadadadadadacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacadadadadadadadadadadadadadadadadadacacadacadadadadadadadadadadadadacacacadacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacadadadadadadadadadadadadadadadacacacacacacadadadadadadadadadadadacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacadadadadadacacacacadacacadacacacacacacacacacadadadadadadadadadadacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacadadadadadadadadadacacacacacadadadadadadadadadacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacadacacacacadacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacadadadadadadadadadadacacacacacacacadadadadadadadacacacadadadadadadadadadacadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacadadadadadadadadadacacacacacacacacadadadadadadacacacacadadadadadadadadacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacadadadadadadadacacacacacacacacacadadadadacacacacacacadadadadadadadadacacadadadadadadadadadadadadadadadadacacacacadadadadadadadadacacacacacacacadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacadacacacacacacacacacacacacacadadacacacacacacacadadadadadadacacacacadadadacacacadadadadadadadadacacacacacacacadadadadadadadacacacacacacadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacadadadadadacacacacacacacacacacacacacadacacacacacacacacacacacadadadadadadadacacacacacacacadadadadadacacacacacacacadadadadacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacadadadadacacacacacacacacacadadadadacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacac
+"}

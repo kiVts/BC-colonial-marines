@@ -1,0 +1,93 @@
+
+
+Starting up round 20:40:41
+---------------------
+[20:40:41]MISC: Saved mode is 'Distress Signal'
+[20:40:42]ADMIN: Loading jobban_rank
+[20:40:42]ADMIN: Loading Banlist
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/captain.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/hop.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/assistant.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/bartender.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/chef.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/hydro.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/mining.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/janitor.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/librarian.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/lawyer.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/chaplain.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/qm.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/cargo_tech.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/chief_engineer.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/engineer.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/atmos.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/cmo.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/doctor.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/chemist.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/geneticist.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/psychiatrist.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/rd.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/scientist.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/roboticist.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/hos.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/warden.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/detective.
+[20:40:42]DEBUG: Error setting up jobs, blank title job: /datum/job/officer.
+[20:40:50]DEBUG: Next event in 44.756 minutes.
+[20:42:08]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 127.0.0.1-3990586367 || BYOND v513.1513
+[20:42:09]ACCESS: Logout: BlackCrystalic/(BlackCrystalic)
+[20:42:13]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 22.
+[20:42:13]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 9.
+[20:42:13]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 3.
+[20:42:14]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 80.240.253.147-3990586367 || BYOND v513.1513
+[20:42:57]ADMIN: BlackCrystalic/(BlackCrystalic) delayed the game.
+[20:43:01]ADMIN: BlackCrystalic is attempting to restart MapDaemon.
+[20:55:28]SAY: *no key*/(МилкиВей) "Esp!" (Commander's Bunk (98, 269, 3))
+[20:55:31]ACCESS: Logout: BlackCrystalic/(BlackCrystalic)
+[20:56:50]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 127.0.0.1-3990586367 || BYOND v513.1513
+[20:56:51]ACCESS: Logout: BlackCrystalic/(BlackCrystalic)
+[20:56:53]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 80.240.253.147-3990586367 || BYOND v513.1513
+[20:58:37]SAY: *no key*/(corgi) "Bark!" (Commandant's Quarters (107, 25, 1))
+[21:03:10]SAY: *no key*/(МилкиВей) "HSSSSS" (Commander's Bunk (98, 270, 3))
+[21:03:44]SAY: *no key*/(МилкиВей) "HSSSSS" (Commander's Bunk (98, 269, 3))
+[21:06:13]SAY: *no key*/(corgi) "Bark!" (Commandant's Quarters (106, 23, 1))
+[21:07:01]SAY: *no key*/(МилкиВей) "Esp!" (Commander's Bunk (98, 270, 3))
+[21:18:49]SAY: *no key*/(corgi) "AUUUUUU" (Commandant's Quarters (105, 25, 1))
+[21:20:26]SAY: *no key*/(МилкиВей) "Meow!" (Commander's Bunk (97, 267, 3))
+[21:25:43]DEBUG: Next event in 40.356 minutes.
+[21:36:17]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 127.0.0.1-3990586367 || BYOND v513.1513
+[21:36:17]ACCESS: Notice: ZyberCpechnaz/(ZyberCpechnaz) has the same ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[21:36:19]ACCESS: Logout: ZyberCpechnaz/(ZyberCpechnaz)
+[21:36:23]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 80.240.253.147-3990586367 || BYOND v513.1513
+[21:36:23]ACCESS: Notice: ZyberCpechnaz/(ZyberCpechnaz) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[21:36:54]ADMIN: BlackCrystalic has started the game.
+[21:36:55]DEBUG: ZyberCpechnaz had Alien enabled, so we are drafting them.
+[21:36:55]ACCESS: Logout: *no key*/(BlackCrystalic)
+[21:36:55]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 80.240.253.147-3990586367 || BYOND v513.1513
+[21:36:55]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[21:36:55]ACCESS: Logout: *no key*/(ZyberCpechnaz)
+[21:36:55]ACCESS: Login: ZyberCpechnaz/(Tim Rahl) from 80.240.253.147-3990586367 || BYOND v513.1513
+[21:36:55]ACCESS: Notice: ZyberCpechnaz/(Tim Rahl) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(Blacky 'GG' Crysis).
+[21:36:55]ACCESS: Logout: *no key*/(Tim Rahl)
+[21:36:55]ACCESS: Login: ZyberCpechnaz/(Queen) from 80.240.253.147-3990586367 || BYOND v513.1513
+[21:36:55]ACCESS: Notice: ZyberCpechnaz/(Queen) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(Blacky 'GG' Crysis).
+[21:37:23]ADMIN: BlackCrystalic just forced the next map to be Prison Station.
+[21:40:58]GAME: <a href='?priv_msg=[0x5000001]'>ZyberCpechnaz</a>/(<font color='#FFA500'>Queen</font>) has ghosted.
+[21:40:58]ACCESS: Logout: *no key*/(Queen)
+[21:40:58]ACCESS: Login: ZyberCpechnaz/(Queen) from 80.240.253.147-3990586367 || BYOND v513.1513
+[21:40:58]ACCESS: Notice: ZyberCpechnaz/(Queen) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(Blacky 'GG' Crysis).
+[21:41:00]GAME: Marine Major Victory
+Game mode: Distress Signal
+Round time: 0:57
+End round player population: 2
+Total xenos spawned: 1
+Total Preds spawned: 0
+Total humans spawned: 2
+[21:41:00]GAME: Antagonists at round end were...
+[21:41:00]GAME: Xenomorphs: Queen(ZyberCpechnaz).
+[21:41:08]ADMIN: BlackCrystalic is attempting to restart MapDaemon.
+[21:41:19]ADMIN: BlackCrystalic is attempting to force a MapDaemon vote.
+[21:41:22]ADMIN: BlackCrystalic is attempting to restart MapDaemon.
+[21:41:23]ADMIN: BlackCrystalic is attempting to force a MapDaemon vote.
+[21:43:05]ACCESS: Logout: BlackCrystalic/(Blacky 'GG' Crysis)
+[21:43:05]ACCESS: Logout: ZyberCpechnaz/(Queen)

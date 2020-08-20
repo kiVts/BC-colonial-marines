@@ -1,0 +1,17 @@
+<div class='commit sansserif'>
+	<h2 class='date'>XX MONTH 2019</h2>
+	<h3 class='author'>YOURNAME updated:</h3>
+	<ul class='changes bgimages16'>
+		<li class='bugfix'>green bug</li>
+		<li class='wip'>hard hat</li>
+		<li class='tweak'>screwdriver & wrench</li>
+		<li class='soundadd'>note plus</li>
+		<li class='sounddel'>note minus</li>
+		<li class='rscdel'>red circle with white X</li>
+		<li class='rscadd'>green circle with white v</li>
+		<li class='imageadd'>image plus</li>
+		<li class='imagedel'>image minus</li>
+		<li class='spellcheck'>abc v</li>
+		<li class='experiment'>nuclear symbol</li>
+	</ul>
+</div>

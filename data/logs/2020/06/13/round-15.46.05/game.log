@@ -1,0 +1,490 @@
+
+
+Starting up round 15:46:05
+---------------------
+[15:46:05]MISC: Saved mode is 'Distress Signal'
+[15:46:06]ADMIN: Loading jobban_rank
+[15:46:06]ADMIN: Loading Banlist
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/captain.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/hop.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/assistant.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/bartender.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/chef.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/hydro.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/mining.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/janitor.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/librarian.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/lawyer.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/chaplain.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/qm.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/cargo_tech.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/chief_engineer.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/engineer.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/atmos.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/cmo.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/doctor.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/chemist.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/geneticist.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/psychiatrist.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/rd.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/scientist.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/roboticist.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/hos.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/warden.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/detective.
+[15:46:06]DEBUG: Error setting up jobs, blank title job: /datum/job/officer.
+[15:46:14]DEBUG: Next event in 29.672 minutes.
+[15:46:15]ACCESS: Login: EngineerConager/(EngineerConager) from 176.32.153.98-2402443160 || BYOND v513.1525
+[15:46:15]ACCESS: Login: Artyuom/(Artyuom) from 95.174.127.234-114134526 || BYOND v513.1517
+[15:46:15]ACCESS: Login: Sewa/(Sewa) from 188.19.160.117-1345515308 || BYOND v513.1525
+[15:46:15]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:46:15]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 80.240.253.147-3990586367 || BYOND v513.1525
+[15:46:15]ACCESS: Notice: ZyberCpechnaz/(ZyberCpechnaz) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[15:46:16]ACCESS: Login: Das228/(Das228) from 188.123.231.53-2235160672 || BYOND v513.1525
+[15:46:16]ACCESS: Logout: EngineerConager/(EngineerConager)
+[15:46:16]ACCESS: Logout: Sewa/(Sewa)
+[15:46:16]ACCESS: Logout: Das228/(Das228)
+[15:46:18]ACCESS: Logout: Artyuom/(Artyuom)
+[15:46:18]ACCESS: Logout: ZyberCpechnaz/(ZyberCpechnaz)
+[15:46:18]ACCESS: Logout: BlackCrystalic/(BlackCrystalic)
+[15:46:19]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 22.
+[15:46:19]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 9.
+[15:46:19]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 3.
+[15:46:20]ACCESS: Login: Das228/(Das228) from 188.123.231.53-2235160672 || BYOND v513.1525
+[15:46:20]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 80.240.253.147-3990586367 || BYOND v513.1525
+[15:46:20]ACCESS: Login: EngineerConager/(EngineerConager) from 176.32.153.98-2402443160 || BYOND v513.1525
+[15:46:20]ACCESS: Login: Sewa/(Sewa) from 188.19.160.117-1345515308 || BYOND v513.1525
+[15:46:21]ACCESS: Login: Artyuom/(Artyuom) from 95.174.127.234-114134526 || BYOND v513.1517
+[15:46:22]ACCESS: Logout: ZyberCpechnaz/(ZyberCpechnaz)
+[15:46:53]ACCESS: Login: NIKIGO/(NIKIGO) from 79.104.200.2-1951049353 || BYOND v513.1525
+[15:46:55]ACCESS: Logout: NIKIGO/(NIKIGO)
+[15:47:00]ACCESS: Login: NIKIGO/(NIKIGO) from 79.104.200.2-1951049353 || BYOND v513.1525
+[15:47:40]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 127.0.0.1-3990586367 || BYOND v513.1513
+[15:47:41]ACCESS: Logout: ZyberCpechnaz/(ZyberCpechnaz)
+[15:47:45]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:47:51]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 127.0.0.1-3990586367 || BYOND v513.1513
+[15:47:51]ACCESS: Notice: BlackCrystalic/(BlackCrystalic) has the same ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[15:47:53]ACCESS: Login: Danik_10p/(Danik_10p) from 188.163.54.53-2119476545 || BYOND v513.1522
+[15:47:59]ACCESS: Logout: Danik_10p/(Danik_10p)
+[15:48:03]ACCESS: Login: Danik_10p/(Danik_10p) from 188.163.54.53-2119476545 || BYOND v513.1522
+[15:48:14]ACCESS: Login: CM.RU/(CM.RU) from 127.0.0.1-3990586367 || BYOND v513.1513
+[15:48:14]ACCESS: Notice: CM.RU/(CM.RU) has the same ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[15:48:14]ACCESS: Notice: CM.RU/(CM.RU) has the same IP (127.0.0.1) and ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[15:48:16]ACCESS: Logout: CM.RU/(CM.RU)
+[15:48:20]ACCESS: Login: CM.RU/(CM.RU) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:48:20]ACCESS: Notice: CM.RU/(CM.RU) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[15:48:20]ACCESS: Notice: CM.RU/(CM.RU) has the same ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[15:48:44]OOC: BlackCrystalic/(BlackCrystalic) "бл, есть трабл П" (start area (8, 8, 2))
+[15:48:47]OOC: BlackCrystalic/(BlackCrystalic) "Такс..." (start area (8, 8, 2))
+[15:48:57]OOC: BlackCrystalic/(BlackCrystalic) "Значит в чате не воркит &и П п" (start area (8, 8, 2))
+[15:49:07]OOC: BlackCrystalic/(BlackCrystalic) "Вроде онли п больша (start area (8, 8, 2))
+[15:49:17]DEBUG: Danik_10p had Alien enabled, so we are drafting them.
+[15:49:17]DEBUG: Sewa had Survivor enabled, so we are drafting them.
+[15:49:17]DEBUG: Danik_10p had Survivor enabled, so we are drafting them.
+[15:49:17]ACCESS: Logout: *no key*/(Das228)
+[15:49:17]ACCESS: Login: Das228/(Osmund Howard) from 188.123.231.53-2235160672 || BYOND v513.1525
+[15:49:17]ACCESS: Logout: *no key*/(Sewa)
+[15:49:17]ACCESS: Login: Sewa/(Kelvin Focell) from 188.19.160.117-1345515308 || BYOND v513.1525
+[15:49:18]ACCESS: Logout: *no key*/(Danik_10p)
+[15:49:18]ACCESS: Login: Danik_10p/(Danil Olympiskii) from 188.163.54.53-2119476545 || BYOND v513.1522
+[15:49:18]ACCESS: Logout: *no key*/(Danil Olympiskii)
+[15:49:18]ACCESS: Login: Danik_10p/(Bloody Larva (0)) from 188.163.54.53-2119476545 || BYOND v513.1522
+[15:49:25]ACCESS: Logout: *no key*/(BlackCrystalic)
+[15:49:25]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 127.0.0.1-3990586367 || BYOND v513.1513
+[15:49:25]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[15:49:25]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same ID (3990586367) as CM.RU/(CM.RU).
+[15:49:25]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) has been assigned as Alpha Squad Leader
+[15:49:29]ACCESS: Logout: *no key*/(EngineerConager)
+[15:49:29]ACCESS: Login: EngineerConager/(Dell Conrad) from 176.32.153.98-2402443160 || BYOND v513.1525
+[15:49:29]ADMIN: EngineerConager/(Dell Conrad) has been assigned as Bravo Squad Leader
+[15:50:10]SAY: Danik_10p/(Larva (185)) "Р џонимаю" (Central Caves (77, 169, 1))
+[15:50:15]SAY: Danik_10p/(Larva (185)) "Р ­х" (Central Caves (77, 168, 1))
+[15:50:23]SAY: Danik_10p/(Larva (185)) "Р В вЂР»яС‚СЊ" (Central Caves (77, 169, 1))
+[15:50:39]SAY: Danik_10p/(Larva (185)) "Р ђнус" (Central Caves (77, 169, 1))
+[15:50:42]SAY: Danik_10p/(Larva (185)) "Р §лен" (Central Caves (77, 169, 1))
+[15:50:44]SAY: Danik_10p/(Larva (185)) "Р В вЂР»яРґСЊ" (Central Caves (77, 169, 1))
+[15:50:54]SAY: Danik_10p/(Larva (185)) ":а ггГ" (Central Caves (74, 169, 1))
+[15:51:01]ACCESS: Logout: *no key*/(Artyuom)
+[15:51:01]ACCESS: Login: Artyuom/(Johnny Vietnam) from 95.174.127.234-114134526 || BYOND v513.1517
+[15:51:12]ACCESS: Logout: *no key*/(Mature Larva (185))
+[15:51:12]ACCESS: Login: Danik_10p/(Drone) from 188.163.54.53-2119476545 || BYOND v513.1522
+[15:51:18]ACCESS: Logout: *no key*/(NIKIGO)
+[15:51:18]ACCESS: Login: NIKIGO/(Colten Stange) from 79.104.200.2-1951049353 || BYOND v513.1525
+[15:51:29]SAY: Danik_10p/(Young Drone (185)) "Р ђчко" (Central Caves (76, 167, 1))
+[15:52:25]ACCESS: Login: Gfitkiilt/(Gfitkiilt) from 46.250.112.52-2323720707 || BYOND v513.1520
+[15:52:27]ACCESS: Logout: Gfitkiilt/(Gfitkiilt)
+[15:52:30]ACCESS: Login: Gfitkiilt/(Gfitkiilt) from 46.250.112.52-2323720707 || BYOND v513.1520
+[15:53:14]ACCESS: Logout: Gfitkiilt/(Gfitkiilt)
+[15:54:09]ACCESS: Failed Login: Guest-2323720707 - Guests not allowed
+[15:54:17]ACCESS: Failed Login: Guest-2323720707 - Guests not allowed
+[15:54:37]ACCESS: Logout: *no key*/(Young Drone (185))
+[15:54:37]ACCESS: Login: Danik_10p/(Queen) from 188.163.54.53-2119476545 || BYOND v513.1522
+[15:55:00]ACCESS: Login: Gfitkiilt/(Gfitkiilt) from 46.250.112.52-2323720707 || BYOND v512.1488
+[15:55:01]ACCESS: Logout: Gfitkiilt/(Gfitkiilt)
+[15:55:04]ACCESS: Login: Gfitkiilt/(Gfitkiilt) from 46.250.112.52-2323720707 || BYOND v512.1488
+[15:55:08]ACCESS: Logout: Gfitkiilt/(Gfitkiilt)
+[15:55:23]ADMIN: HELP: Danik_10p/(Queen): &РѕРїяС‚СЊ РѕРґРёРЅРѕРєРёР№ РєСЃРµРЅРѕСЃ, РґР°Р№С‚Рµ РјРЅРµ Р»СЋРґРµР№ - heard by 3 non-AFK admins.
+[15:56:07]ACCESS: Login: Gfitkiilt/(Gfitkiilt) from 46.250.112.52-2323720707 || BYOND v513.1520
+[15:56:07]ACCESS: Logout: Gfitkiilt/(Gfitkiilt)
+[15:56:10]ACCESS: Login: Gfitkiilt/(Gfitkiilt) from 46.250.112.52-2323720707 || BYOND v513.1520
+[15:56:21]SAY: *no key*/(corgi) "Woof!" (Commandant's Quarters (105, 25, 1))
+[15:56:36]ACCESS: Logout: Gfitkiilt/(Gfitkiilt)
+[15:57:01]OOC: (LOCAL) Queen/Danik_10p : Р­С…С…С…С…С…С…С…С… РѕРїяС‚СЊ РѕРґРёРЅ
+[15:57:12]OOC: (LOCAL) Queen/Danik_10p : &[15:57:14]OOC: (LOCAL) Queen/Danik_10p : [15:57:16]OOC: (LOCAL) Queen/Danik_10p : &[15:57:18]OOC: (LOCAL) Queen/Danik_10p : УУУУУУУУУУУ
+[15:57:22]OOC: (LOCAL) Queen/Danik_10p : &яСЃРЅРѕ
+[15:57:27]OOC: (LOCAL) Queen/Danik_10p : Понимаю
+[15:57:31]OOC: (LOCAL) Queen/Danik_10p : Один
+[15:57:35]OOC: (LOCAL) Queen/Danik_10p : Дайте мне ксенов
+[15:57:41]OOC: (LOCAL) Queen/Danik_10p : один не убью
+[15:57:51]OOC: (LOCAL) Queen/Danik_10p : meriCAT
+[15:59:29]SAY: Danik_10p/(Queen) "Р Ўидим" (Western Caves (17, 165, 1))
+[15:59:32]SAY: Danik_10p/(Queen) "Р џердим" (Western Caves (17, 165, 1))
+[15:59:59]SAY: *no key*/(corgi) "YAP" (Commandant's Quarters (105, 25, 1))
+[16:00:14]SAY: *no key*/(BlackCrystalic) "HSSSSS" (Commander's Bunk (97, 267, 3))
+[16:00:59]SAY: Danik_10p/(Queen) "Р џум" (Western Caves (17, 165, 1))
+[16:01:02]SAY: Danik_10p/(Queen) "Р џПППурум" (Western Caves (17, 165, 1))
+[16:01:11]SAY: Danik_10p/(Queen) "Р џП и что делать" (Western Caves (17, 165, 1))
+[16:01:15]SAY: Danik_10p/(Queen) "Р џ мда" (Western Caves (17, 165, 1))
+[16:01:23]SAY: Danik_10p/(Queen) "&&так могу говорить" (Western Caves (17, 165, 1))
+[16:01:27]SAY: Danik_10p/(Queen) "Р ђ А нет" (Western Caves (17, 165, 1))
+[16:01:38]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) admin ghosted.
+[16:01:38]ACCESS: Logout: *no key*/(Blacky 'GG' Crysis)
+[16:01:38]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 127.0.0.1-3990586367 || BYOND v513.1513
+[16:01:38]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[16:01:38]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same ID (3990586367) as CM.RU/(CM.RU).
+[16:02:08]ADMIN: SubtlePM: BlackCrystalic/(Blacky 'GG' Crysis) -> Danik_10p/(Queen) : Силы... Они рядом, жди
+[16:02:14]ACCESS: Logout: *no key*/(Blacky 'GG' Crysis)
+[16:02:14]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 127.0.0.1-3990586367 || BYOND v513.1513
+[16:02:14]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[16:02:14]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same ID (3990586367) as CM.RU/(CM.RU).
+[16:02:21]SAY: NIKIGO/(Colten Stange) "&теперь н5е пролезу в бтр" (Dropship Alamo (90, 144, 3))
+[16:03:04]SAY: NIKIGO/(Colten Stange) "Р ‘л (Dropship Alamo (90, 148, 3))
+[16:03:19]SAY: NIKIGO/(Colten Stange) "Р їилот подвигай ракету" (Dropship Alamo (90, 148, 3))
+[16:03:29]SAY: Das228/(Osmund Howard) "Р ћк" (Dropship Alamo (92, 149, 3))
+[16:03:33]SAY: NIKIGO/(Colten Stange) "РЎ‡е" (Dropship Alamo (90, 148, 3))
+[16:04:09]SAY: Danik_10p/(Queen) "Р џум" (Western Caves (17, 165, 1))
+[16:04:12]SAY: Danik_10p/(Queen) "Р џурупум" (Western Caves (17, 165, 1))
+[16:04:57]ADMIN: Osmund Howard (Das228) launched a shuttle from 'Alamo' flight controls
+[16:05:07]SAY: Danik_10p/(Queen) "Р ќыа" (Western Caves (17, 165, 1))
+[16:05:19]SAY: Danik_10p/(Queen) "Р џолучай" (Western Caves (17, 165, 1))
+[16:05:25]SAY: Danik_10p/(Queen) "Р ’раг монолита" (Western Caves (17, 165, 1))
+[16:05:32]SAY: BlackCrystalic/(Blacky 'GG' Crysis) "&СТРЕЛОК" (Dropship Alamo Transit (69, 25, 4))
+[16:06:41]SAY: Danik_10p/(Queen) "&тибсьем" (Western Caves (17, 165, 1))
+[16:06:44]ADMIN: NIKIGO/(Colten Stange) used a apc megaphone to say: >Р “рузи шмотки<
+[16:07:10]ACCESS: Login: Random12234/(Random12234) from 91.216.61.199-3230727184 || BYOND v513.1517
+[16:07:11]SAY: Sewa/(Kelvin Focell) "Р їривет" (Main Hallway (138, 37, 1))
+[16:07:14]ACCESS: Logout: Random12234/(Random12234)
+[16:07:17]SAY: EngineerConager/(Dell Conrad) "Р §то..." (Main Hallway (140, 39, 1))
+[16:07:18]ACCESS: Login: Random12234/(Random12234) from 91.216.61.199-3230727184 || BYOND v513.1517
+[16:07:20]SAY: EngineerConager/(Dell Conrad) "Р ќу привет" (Main Hallway (140, 39, 1))
+[16:07:24]SAY: EngineerConager/(Dell Conrad) "Р ґам" (Main Hallway (140, 39, 1))
+[16:07:33]SAY: NIKIGO/(Colten Stange) "Р џиздец" (Main Hallway (140, 38, 1))
+[16:07:37]SAY: EngineerConager/(Dell Conrad) "Р ўы что дурак ?" (Main Hallway (142, 38, 1))
+[16:07:40]SAY: NIKIGO/(Colten Stange) "Р В С–РµРЅРёРё Р±Р»яС‚СЊ" (Main Hallway (140, 38, 1))
+[16:07:40]SAY: BlackCrystalic/(Blacky 'GG' Crysis) "Р В В±Р›яРўР¬" (Main Hallway (143, 36, 1))
+[16:07:44]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) used a apc megaphone to say: >Р џиздец<
+[16:07:50]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) used a apc megaphone to say: >Р В В§С‚Рѕ Р·Р° С…СѓР№РЅя<
+[16:07:53]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) used a apc megaphone to say: >..что<
+[16:07:55]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) used a apc megaphone to say: >РЎ‡то<
+[16:08:11]SAY: NIKIGO/(Colten Stange) "Р їиздец" (Main Hallway (140, 37, 1))
+[16:08:20]SAY: EngineerConager/(Dell Conrad) "Р ‘ТР Давим" (Alamo Landing Zone (146, 35, 1))
+[16:08:43]SAY: Sewa/(Kelvin Focell) "юы не советовал идти туда" (Main Hallway (140, 33, 1))
+[16:08:49]SAY: Sewa/(Kelvin Focell) "Р Ѕу да ладно" (Main Hallway (140, 33, 1))
+[16:09:20]SAY: EngineerConager/(Dell Conrad) "Р ўам кто-то был..." (Main Hallway (122, 36, 1))
+[16:09:41]SAY: NIKIGO/(Colten Stange) "Р  что мы будем делать" (Main Hallway (136, 36, 1))
+[16:10:06]ADMIN: NIKIGO/(Colten Stange) used a apc megaphone to say: >Р Ѕу и что мы будет делать ?<
+[16:10:19]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) used a apc megaphone to say: >&НЕ ЗНАЮ<
+[16:10:43]ADMIN: NIKIGO/(Colten Stange) used a apc megaphone to say: >Р ’ыживший пойдешь с нами ?<
+[16:10:47]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) admin ghosted.
+[16:10:47]ACCESS: Logout: *no key*/(Blacky 'GG' Crysis)
+[16:10:47]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 127.0.0.1-3990586367 || BYOND v513.1513
+[16:10:47]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[16:10:47]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same ID (3990586367) as CM.RU/(CM.RU).
+[16:10:49]SAY: Sewa/(Kelvin Focell) "Р јенэвокуировать будут?" (Alamo Landing Zone (146, 33, 1))
+[16:10:57]SAY: EngineerConager/(Dell Conrad) "Р ’озможно ?" (Main Hallway (144, 35, 1))
+[16:11:00]OOC: (LOCAL) Queen/Danik_10p : CC Скучно
+[16:11:02]ADMIN: SubtlePM: BlackCrystalic/(Blacky 'GG' Crysis) -> Danik_10p/(Queen) : Пора!
+[16:11:07]OOC: (LOCAL) Queen/Danik_10p : Кого
+[16:11:11]SAY: Danik_10p/(Queen) "Р °?" (Western Caves (17, 165, 1))
+[16:11:18]SAY: Sewa/(Kelvin Focell) "Р »адно" (Main Hallway (145, 33, 1))
+[16:11:27]ADMIN: NIKIGO/(Colten Stange) used a apc megaphone to say: >Р їокидай флаеров<
+[16:11:29]SAY: EngineerConager/(Dell Conrad) "Р ”ави !" (Main Hallway (140, 33, 1))
+[16:11:39]ADMIN: NIKIGO/(Colten Stange) used a apc megaphone to say: >Р їрием<
+[16:11:50]ADMIN: NIKIGO/(Colten Stange) used a apc megaphone to say: >РЎ‚ы можешь кидать флаеры ?<
+[16:11:57]ADMIN: NIKIGO/(Colten Stange) used a apc megaphone to say: >Р ґа не ты<
+[16:11:59]SAY: EngineerConager/(Dell Conrad) "Р Ј нас их нет" (Main Hallway (113, 36, 1))
+[16:12:10]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) spawned /mob/living/simple_animal/hostile/alien/drone at (18,165,1)
+[16:12:12]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) spawned /mob/living/simple_animal/hostile/alien at (18,165,1)
+[16:12:15]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) spawned /mob/living/simple_animal/hostile/alien/ravager at (18,165,1)
+[16:12:23]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) spawned /mob/living/simple_animal/hostile/alien/ravager at (25,159,1)
+[16:12:25]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) spawned /mob/living/simple_animal/hostile/alien/drone at (24,154,1)
+[16:12:29]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) spawned /mob/living/simple_animal/hostile/alien at (25,148,1)
+[16:12:32]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) spawned /mob/living/simple_animal/hostile/alien/ravager at (20,148,1)
+[16:12:37]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) spawned /mob/living/simple_animal/hostile/alien/ravager at (26,144,1)
+[16:12:39]SAY: Danik_10p/(Queen) "Р •ее" (Western Caves (17, 165, 1))
+[16:12:40]SAY: NIKIGO/(Colten Stange) "Р В вЂР›яС‚СЊ Р°Р»СЊС„Р° СЃР» С‚С‹ СѓРјРµСЂ С‚Р°Рј С‡С‚РѕР»Рё ?" (Fitness Room (94, 61, 1))
+[16:12:40]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) spawned /mob/living/simple_animal/hostile/alien/drone at (30,139,1)
+[16:12:46]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) spawned /mob/living/simple_animal/hostile/alien at (35,136,1)
+[16:12:46]SAY: Danik_10p/(Queen) "Yeah" (Western Caves (17, 165, 1))
+[16:12:48]ACCESS: Logout: *no key*/(Blacky 'GG' Crysis)
+[16:12:48]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 127.0.0.1-3990586367 || BYOND v513.1513
+[16:12:48]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[16:12:48]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same ID (3990586367) as CM.RU/(CM.RU).
+[16:12:48]ADMIN: NIKIGO/(Colten Stange) used a apc megaphone to say: >Р °льфа лидер ты живой ?<
+[16:12:51]SAY: Danik_10p/(Queen) "Hell yeah" (Western Caves (17, 165, 1))
+[16:12:59]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) used a apc megaphone to say: >Р ”а<
+[16:13:01]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) used a apc megaphone to say: >DA<
+[16:13:06]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) used a apc megaphone to say: >Р –ИВ И НЕВРЕДИМ<
+[16:13:07]ADMIN: NIKIGO/(Colten Stange) used a apc megaphone to say: >РЎ„лаеры кидать будешь ?<
+[16:13:24]ADMIN: NIKIGO/(Colten Stange) used a apc megaphone to say: >Р Іау да ты можешь<
+[16:13:42]SAY: EngineerConager/(Dell Conrad) "Р ›адно будем ждать" (Hydroponics (95, 82, 1))
+[16:14:07]SAY: Sewa/(Kelvin Focell) "генераторы починил" (Hydroponics (100, 75, 1))
+[16:14:12]SAY: *no key*/(corgi) "YAP" (Commandant's Quarters (105, 25, 1))
+[16:14:23]SAY: Sewa/(Kelvin Focell) "Р Ѕо не знаю подоётсли энерги (Hydroponics (100, 75, 1))
+[16:14:25]ADMIN: NIKIGO/(Colten Stange) used a apc megaphone to say: >Р В СРѕР¶РµС‚ РЅР°Рј РЅРµ СЃС‚РѕРёС‚ СЂР°Р·РґРµР»яС‚СЊСЃ?<
+[16:14:32]ADMIN: NIKIGO/(Colten Stange) used a apc megaphone to say: >Р ё забрать медика ?<
+[16:15:33]SAY: NIKIGO/(Colten Stange) "Р ° ты тут" (APC_1 Interior (17, 67, 4))
+[16:15:50]SAY: EngineerConager/(Dell Conrad) "Р ­х" (Northern Jungle (99, 86, 1))
+[16:15:50]SAY: Danik_10p/(Queen) "Mmmm" (Western Caves (17, 165, 1))
+[16:15:56]SAY: EngineerConager/(Dell Conrad) "Р ћУ" (Northern Jungle (99, 88, 1))
+[16:15:59]SAY: EngineerConager/(Dell Conrad) "Р ћтлично" (Northern Jungle (99, 88, 1))
+[16:16:00]DEBUG: Next event in 26.632 minutes.
+[16:16:02]SAY: EngineerConager/(Dell Conrad) "Р “де бтр *?" (Northern Jungle (99, 88, 1))
+[16:16:08]SAY: Sewa/(Kelvin Focell) "РЎѓехал" (Northern Jungle (98, 88, 1))
+[16:16:14]SAY: EngineerConager/(Dell Conrad) "Р ќу будем ждать..." (Northern Jungle (99, 88, 1))
+[16:16:40]ACCESS: Logout: *no key*/(CM.RU)
+[16:16:40]ACCESS: Login: CM.RU/(Jamari Sloan) from 80.240.253.147-3990586367 || BYOND v513.1513
+[16:16:40]ACCESS: Notice: CM.RU/(Jamari Sloan) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[16:16:40]ACCESS: Notice: CM.RU/(Jamari Sloan) has the same ID (3990586367) as BlackCrystalic/(Blacky 'GG' Crysis).
+[16:17:01]ADMIN: NIKIGO/(Colten Stange) used a apc megaphone to say: >Р іранаты внутри<
+[16:17:16]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>40</b>
+[16:17:19]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>41</b>
+[16:17:19]DEBUG: Increasing RA shelf space. Current maximum space: <b>50</b>
+[16:17:32]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>50</b>
+[16:17:50]SAY: *no key*/(BlackCrystalic) "Purr!" (Commander's Bunk (95, 267, 3))
+[16:18:06]ADMIN: NIKIGO/(Colten Stange) used a apc megaphone to say: >Р µще есть флаеры ?<
+[16:18:11]SAY: EngineerConager/(Dell Conrad) "Р §то за дерьмо ?" (South Central Barrens (76, 111, 1))
+[16:18:23]SAY: EngineerConager/(Dell Conrad) "Р § что это за дерьмо ?" (South Central Barrens (70, 111, 1))
+[16:18:28]ADMIN: NIKIGO/(Colten Stange) used a apc megaphone to say: >не сылшу<
+[16:18:34]SAY: Sewa/(Kelvin Focell) "РЎЌто?" (South Central Barrens (72, 112, 1))
+[16:18:41]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>51</b>
+[16:18:41]DEBUG: Increasing RA shelf space. Current maximum space: <b>60</b>
+[16:18:55]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>60</b>
+[16:18:58]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>61</b>
+[16:18:58]DEBUG: Increasing RA shelf space. Current maximum space: <b>70</b>
+[16:19:18]ACCESS: Login: Gaper/(Gaper) from 95.84.236.57-3712357326 || BYOND v513.1511
+[16:19:19]ACCESS: Logout: Gaper/(Gaper)
+[16:19:21]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>70</b>
+[16:19:22]ACCESS: Login: Gaper/(Gaper) from 95.84.236.57-3712357326 || BYOND v513.1511
+[16:19:24]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>71</b>
+[16:19:24]DEBUG: Increasing RA shelf space. Current maximum space: <b>80</b>
+[16:19:34]ACCESS: Logout: *no key*/(Gaper)
+[16:19:34]ACCESS: Login: Gaper/(Alim Ali Khan San Sikh) from 95.84.236.57-3712357326 || BYOND v513.1511
+[16:19:46]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>80</b>
+[16:19:48]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>81</b>
+[16:19:48]DEBUG: Increasing RA shelf space. Current maximum space: <b>90</b>
+[16:20:00]ADMIN: NIKIGO/(Colten Stange) used a apc megaphone to say: >РЎ‚ут мы все<
+[16:20:17]SAY: EngineerConager/(Dell Conrad) "Р ± БТР Давай сюда" (Central Caves (102, 163, 1))
+[16:20:45]SAY: EngineerConager/(Dell Conrad) "Р “ Граната !" (Central Caves (79, 164, 1))
+[16:20:46]ADMIN: Alim Ali Khan San Sikh (Gaper) launched a shuttle from 'Alamo' dropship console
+[16:20:51]GAME: Explosion with size (-1, -1, 3) in area Central Caves 
+[16:21:20]SAY: EngineerConager/(Dell Conrad) "Р ќ Ну и что ?" (Central Caves (81, 156, 1))
+[16:21:26]SAY: Danik_10p/(Queen) "Р њ" (Western Caves (17, 165, 1))
+[16:21:33]SAY: BlackCrystalic/(Blacky 'GG' Crysis) "Р ґавайте за мной наверное" (Central Caves (88, 160, 1))
+[16:21:42]EMOTE: EngineerConager/(Dell Conrad) <B>SSGT Dell Conrad</B> Вздох (Central Caves (88, 160, 1))
+[16:22:10]SAY: *no key*/(corgi) "Woof!" (Commandant's Quarters (105, 26, 1))
+[16:22:29]SAY: BlackCrystalic/(Blacky 'GG' Crysis) "Р Іадик" (Western Caves (52, 163, 1))
+[16:22:30]SAY: BlackCrystalic/(Blacky 'GG' Crysis) "Р В В±Р»яС‚СЊ" (Western Caves (52, 163, 1))
+[16:22:34]SAY: EngineerConager/(Dell Conrad) "Р Ј Ух" (Western Caves (50, 160, 1))
+[16:22:46]SAY: Danik_10p/(Elder Queen) "Pora" (Western Caves (17, 165, 1))
+[16:22:46]ACCESS: Login: Alot/(Alot) from 85.141.70.207-1465043992 || BYOND v512.1488
+[16:22:48]ACCESS: Logout: Alot/(Alot)
+[16:22:50]ACCESS: Login: Alot/(Alot) from 85.141.70.207-1465043992 || BYOND v512.1488
+[16:22:54]ACCESS: Logout: Alot/(Alot)
+[16:22:55]SAY: EngineerConager/(Dell Conrad) "Р ”ам" (Western Caves (44, 163, 1))
+[16:22:56]GAME: Explosion with size (-4, -4, 8) in area Western Caves 
+[16:23:17]EMOTE: Sewa/(Kelvin Focell) <B>Kelvin Focell</B> claps. (Western Caves (46, 162, 1))
+[16:23:26]SAY: Danik_10p/(Elder Queen) "Uh" (Western Caves (28, 162, 1))
+[16:23:43]EMOTE: Danik_10p/(Elder Queen) <B>The Elder Queen</B> hisses. (Western Caves (33, 166, 1))
+[16:23:53]ADMIN: Alim Ali Khan San Sikh (Gaper) launched a shuttle from 'Alamo' dropship console
+[16:23:54]EMOTE: Danik_10p/(Elder Queen) <B>The Elder Queen</B> roars! (Western Caves (24, 166, 1))
+[16:23:59]ADMIN: Alim Ali Khan San Sikh (Gaper) launched a elevator from Elevator Console
+[16:24:07]EMOTE: Danik_10p/(Elder Queen) <B>The Elder Queen</B> hisses. (Western Caves (19, 166, 1))
+[16:24:15]EMOTE: EngineerConager/(Dell Conrad) <B>SSGT Dell Conrad</B> screams! (Western Caves (31, 166, 1))
+[16:24:22]GAME: Explosion with size (-4, -4, 8) in area Western Caves 
+[16:24:23]EMOTE: NIKIGO/(Colten Stange) <B>ENS Colten Stange</B> screams! (Western Caves (26, 166, 1))
+[16:24:34]SAY: NIKIGO/(Colten Stange) "Р џпиздец" (Western Caves (27, 167, 1))
+[16:24:36]EMOTE: Artyuom/(Johnny Vietnam) <B>Dr. Johnny Vietnam</B> screams! (Western Caves (23, 168, 1))
+[16:24:36]EMOTE: Artyuom/(Johnny Vietnam) <B>Dr. Johnny Vietnam</B> screams! (Western Caves (23, 168, 1))
+[16:24:38]EMOTE: Danik_10p/(Elder Queen) <B>The Elder Queen</B> hisses. (Western Caves (19, 163, 1))
+[16:24:51]SAY: EngineerConager/(Dell Conrad) "Р ­Й !" (Western Caves (21, 164, 1))
+[16:24:55]SAY: EngineerConager/(Dell Conrad) "Р ­ ЭТО &!" (Western Caves (22, 164, 1))
+[16:24:55]SAY: BlackCrystalic/(Blacky 'GG' Crysis) "Р їростите" (Western Caves (27, 166, 1))
+[16:25:00]SAY: BlackCrystalic/(Blacky 'GG' Crysis) "&испугалс (Western Caves (25, 166, 1))
+[16:25:04]ACCESS: Logout: Gaper/(Alim Ali Khan San Sikh)
+[16:25:07]SAY: EngineerConager/(Dell Conrad) "Р ” ДОК !" (Western Caves (22, 167, 1))
+[16:25:07]SAY: Sewa/(Kelvin Focell) "Р ЎПАСИБО ЗА ПУЛЮ" (Western Caves (28, 164, 1))
+[16:25:24]EMOTE: NIKIGO/(Colten Stange) <B>ENS Colten Stange</B> is having trouble keeping their eyes open. (Western Caves (51, 160, 1))
+[16:25:24]EMOTE: BlackCrystalic/(Blacky 'GG' Crysis) <B>SSGT Blacky 'GG' Crysis</B> screams! (Western Caves (25, 169, 1))
+[16:25:30]EMOTE: Artyuom/(Johnny Vietnam) <B>Dr. Johnny Vietnam</B> screams! (Western Caves (22, 166, 1))
+[16:25:30]EMOTE: EngineerConager/(Dell Conrad) <B>SSGT Dell Conrad</B>  is having trouble standing. (Western Caves (29, 169, 1))
+[16:25:32]EMOTE: EngineerConager/(Dell Conrad) <B>SSGT Dell Conrad</B>  is having trouble standing. (Western Caves (30, 170, 1))
+[16:25:37]EMOTE: Artyuom/(Johnny Vietnam) <B>Dr. Johnny Vietnam</B>  is having trouble standing. (Western Caves (22, 167, 1))
+[16:25:39]EMOTE: Artyuom/(Johnny Vietnam) <B>Dr. Johnny Vietnam</B>  is having trouble standing. (Western Caves (23, 168, 1))
+[16:25:39]EMOTE: BlackCrystalic/(Blacky 'GG' Crysis) <B>SSGT Blacky 'GG' Crysis</B> screams! (Western Caves (24, 165, 1))
+[16:25:41]EMOTE: Artyuom/(Johnny Vietnam) <B>Dr. Johnny Vietnam</B>  is having trouble standing. (Western Caves (23, 169, 1))
+[16:25:41]EMOTE: BlackCrystalic/(Blacky 'GG' Crysis) <B>SSGT Unknown (as Blacky 'GG' Crysis)</B> screams! (Western Caves (24, 165, 1))
+[16:25:43]EMOTE: BlackCrystalic/(Blacky 'GG' Crysis) <B>SSGT Unknown (as Blacky 'GG' Crysis)</B> screams! (Western Caves (25, 165, 1))
+[16:25:43]EMOTE: Artyuom/(Johnny Vietnam) <B>Dr. Johnny Vietnam</B>  is having trouble standing. (Western Caves (24, 169, 1))
+[16:25:45]EMOTE: Artyuom/(Johnny Vietnam) <B>Dr. Johnny Vietnam</B>  is having trouble standing. (Western Caves (26, 169, 1))
+[16:25:47]EMOTE: Artyuom/(Johnny Vietnam) <B>Dr. Johnny Vietnam</B>  is having trouble standing. (Western Caves (27, 169, 1))
+[16:25:49]EMOTE: Artyuom/(Johnny Vietnam) <B>Dr. Johnny Vietnam</B>  is having trouble standing. (Western Caves (29, 169, 1))
+[16:25:51]EMOTE: Artyuom/(Johnny Vietnam) <B>Dr. Johnny Vietnam</B>  is having trouble standing. (Western Caves (30, 169, 1))
+[16:25:52]SAY: EngineerConager/(Dell Conrad) "Р ’ ВАЛИМ !" (Western Caves (29, 170, 1))
+[16:25:53]EMOTE: Artyuom/(Johnny Vietnam) <B>Dr. Johnny Vietnam</B>  is having trouble standing. (Western Caves (32, 169, 1))
+[16:25:54]ACCESS: Logout: *no key*/(Blacky 'GG' Crysis)
+[16:25:54]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 127.0.0.1-3990586367 || BYOND v513.1513
+[16:25:54]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[16:25:54]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same ID (3990586367) as CM.RU/(Jamari Sloan).
+[16:26:05]SAY: Artyuom/(Johnny Vietnam) "Р-Р ѕттащи" (Western Caves (32, 169, 1))
+[16:26:12]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) spawned /mob/living/simple_animal/hostile/alien/ravager at (25,160,1)
+[16:26:14]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) spawned /mob/living/simple_animal/hostile/alien/ravager at (26,160,1)
+[16:26:18]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) spawned /mob/living/simple_animal/hostile/alien/ravager at (27,161,1)
+[16:26:19]EMOTE: Sewa/(Kelvin Focell) <B>Kelvin Focell</B> screams! (Western Caves (30, 169, 1))
+[16:26:21]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) spawned /mob/living/simple_animal/hostile/alien at (28,164,1)
+[16:26:23]EMOTE: Sewa/(Kelvin Focell) <B>Kelvin Focell</B> screams! (Western Caves (35, 170, 1))
+[16:26:24]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) spawned /mob/living/simple_animal/hostile/alien/drone at (31,165,1)
+[16:26:25]EMOTE: Sewa/(Kelvin Focell) <B>Kelvin Focell</B> screams! (Western Caves (37, 172, 1))
+[16:26:25]EMOTE: Sewa/(Kelvin Focell) <B>Kelvin Focell</B> screams! (Western Caves (37, 172, 1))
+[16:26:27]EMOTE: NIKIGO/(Colten Stange) <B>ENS Colten Stange</B>  is having trouble standing. (Central Caves (66, 164, 1))
+[16:26:34]SAY: EngineerConager/(Dell Conrad) "Р-Р-Р В вЂ Р-Р-Р‘Р›&amp; (Western Caves (37, 166, 1))
+[16:26:48]EMOTE: Artyuom/(Johnny Vietnam) <B>Dr. Johnny Vietnam</B> gasps! (Western Caves (26, 166, 1))
+[16:27:01]ACCESS: Logout: *no key*/(Johnny Vietnam)
+[16:27:01]ACCESS: Login: Artyuom/(Johnny Vietnam) from 95.174.127.234-114134526 || BYOND v513.1517
+[16:27:20]EMOTE: EngineerConager/(Dell Conrad) <B>SSGT Dell Conrad</B> screams! (Western Caves (16, 163, 1))
+[16:27:29]ACCESS: Logout: *no key*/(Kelvin Focell)
+[16:27:29]ACCESS: Login: Sewa/(Kelvin Focell) from 188.19.160.117-1345515308 || BYOND v513.1525
+[16:27:38]EMOTE: EngineerConager/(Dell Conrad) <B>SSGT Dell Conrad</B> gasps! (Western Caves (16, 163, 1))
+[16:27:48]ACCESS: Logout: *no key*/(Dell Conrad)
+[16:27:48]ACCESS: Login: EngineerConager/(Dell Conrad) from 176.32.153.98-2402443160 || BYOND v513.1525
+[16:27:49]SAY: *no key*/(BlackCrystalic) "HSSSSS" (Commander's Bunk (96, 268, 3))
+[16:27:52]ACCESS: Login: Armolitskiy/(Armolitskiy) from 109.126.59.117-2789151581 || BYOND v513.1522
+[16:27:55]SAY: NIKIGO/(Colten Stange) "Р-Р їиздец" (Central Caves (55, 156, 1))
+[16:27:55]ACCESS: Logout: Armolitskiy/(Armolitskiy)
+[16:27:55]EMOTE: NIKIGO/(Colten Stange) <B>ENS Colten Stange</B> screams! (Central Caves (55, 156, 1))
+[16:27:57]EMOTE: NIKIGO/(Colten Stange) <B>ENS Colten Stange</B> screams! (Central Caves (55, 156, 1))
+[16:28:00]ACCESS: Login: Armolitskiy/(Armolitskiy) from 109.126.59.117-2789151581 || BYOND v513.1522
+[16:28:03]EMOTE: Danik_10p/(Elder Queen) <B>The Elder Queen</B> roars! (Western Caves (24, 166, 1))
+[16:28:04]EMOTE: NIKIGO/(Colten Stange) <B>ENS Colten Stange</B> gasps! (Central Caves (55, 156, 1))
+[16:28:23]ACCESS: Login: Alot/(Alot) from 85.141.70.207-2303950589 || BYOND v513.1513
+[16:28:25]ACCESS: Logout: Alot/(Alot)
+[16:28:25]EMOTE: Danik_10p/(Elder Queen) <B>The Elder Queen</B> roars! (Western Caves (20, 166, 1))
+[16:28:28]ACCESS: Login: Alot/(Alot) from 85.141.70.207-2303950589 || BYOND v513.1513
+[16:28:33]ACCESS: Logout: *no key*/(Colten Stange)
+[16:28:33]ACCESS: Login: NIKIGO/(Colten Stange) from 79.104.200.2-1951049353 || BYOND v513.1525
+[16:28:40]EMOTE: Danik_10p/(Elder Queen) <B>The Elder Queen</B> roars! (Western Caves (37, 166, 1))
+[16:28:47]ACCESS: Logout: *no key*/(Alot)
+[16:28:47]ACCESS: Login: Alot/(Sarah 'Phantom' Black) from 85.141.70.207-2303950589 || BYOND v513.1513
+[16:28:48]ACCESS: Logout: Armolitskiy/(Armolitskiy)
+[16:28:54]EMOTE: Danik_10p/(Elder Queen) <B>The Elder Queen</B> roars! (Western Caves (21, 167, 1))
+[16:29:00]ADMIN: Osmund Howard (Das228) launched a shuttle from 'Alamo' flight controls
+[16:30:22]SAY: *no key*/(BlackCrystalic) "HSSSSS" (Commander's Bunk (97, 268, 3))
+[16:30:39]ACCESS: Logout: Random12234/(Random12234)
+[16:30:40]EMOTE: Danik_10p/(Elder Queen) <B>The Elder Queen</B> roars! (Central Caves (55, 157, 1))
+[16:30:57]EMOTE: Danik_10p/(Elder Queen) <B>The Elder Queen</B> roars! (Western Caves (50, 135, 1))
+[16:31:17]SAY: Das228/(Osmund Howard) "Р џриём" (Hangar (97, 136, 3))
+[16:31:24]SAY: Das228/(Osmund Howard) "Ghb`v" (Hangar (97, 136, 3))
+[16:31:31]EMOTE: Danik_10p/(Elder Queen) <B>The Elder Queen</B> roars! (Western Caves (51, 133, 1))
+[16:31:39]EMOTE: Danik_10p/(Elder Queen) <B>The Elder Queen</B> roars! (Western Caves (51, 122, 1))
+[16:32:54]EMOTE: Danik_10p/(Elder Queen) <B>The Elder Queen</B> roars! (Central W-Y Compound (87, 43, 1))
+[16:33:17]ACCESS: Logout: NIKIGO/(Colten Stange)
+[16:34:28]SAY: *no key*/(BlackCrystalic) "Purr!" (Commander's Bunk (95, 268, 3))
+[16:35:25]ADMIN: Elder Queen (Danik_10p) launched a shuttle from 'Alamo' dropship console
+[16:36:21]ACCESS: Logout: *no key*/(Dell Conrad)
+[16:36:21]ACCESS: Login: EngineerConager/(Dell Conrad) from 176.32.153.98-2402443160 || BYOND v513.1525
+[16:36:55]ADMIN: <a href='?priv_msg=[0x5000003]'>EngineerConager</a>/(Dell Conrad) awarded a medal of exceptional heroism to Blacky 'GG' Crysis for: 'Награда «Стрелок века»'.
+[16:37:02]ACCESS: Logout: *no key*/(Dell Conrad)
+[16:37:02]ACCESS: Login: EngineerConager/(Dell Conrad) from 176.32.153.98-2402443160 || BYOND v513.1525
+[16:37:51]ACCESS: Login: Random12234/(Random12234) from 91.216.61.199-3230727184 || BYOND v513.1517
+[16:37:55]ACCESS: Logout: Random12234/(Random12234)
+[16:37:58]SAY: Danik_10p/(Elder Queen) "Р ¤ф" (Almayer Dropship 1 (153, 43, 1))
+[16:37:59]ACCESS: Login: Random12234/(Random12234) from 91.216.61.199-3230727184 || BYOND v513.1517
+[16:38:19]ADMIN: Elder Queen (Danik_10p) launched a shuttle from 'Alamo' flight controls
+[16:38:30]ACCESS: Logout: *no key*/(Sarah 'Phantom' Black)
+[16:38:30]ACCESS: Login: Alot/(Bloody Larva (0)) from 85.141.70.207-2303950589 || BYOND v513.1513
+[16:38:30]ADMIN: Alot has joined as the Bloody Larva (0).
+[16:38:39]SAY: Danik_10p/(Elder Queen) "Yo" (Dropship Alamo Transit (69, 37, 4))
+[16:38:46]SAY: Alot/(Bloody Larva (969)) "Hi" (Dropship Alamo Transit (69, 37, 4))
+[16:38:56]SAY: Danik_10p/(Elder Queen) "Nu" (Dropship Alamo Transit (69, 37, 4))
+[16:39:01]SAY: Alot/(Bloody Larva (969)) "Р §то ну?" (Dropship Alamo Transit (70, 37, 4))
+[16:39:08]SAY: Danik_10p/(Elder Queen) "Rosti skoree" (Dropship Alamo Transit (69, 37, 4))
+[16:39:16]SAY: Alot/(Bloody Larva (969)) "Rostu" (Dropship Alamo Transit (70, 37, 4))
+[16:39:28]OOC: (LOCAL) Larva (969)/Alot : Нафиг играть на этом билде?
+[16:39:32]OOC: (LOCAL) Larva (969)/Alot : Мда
+[16:39:44]OOC: (LOCAL) Elder Queen/Danik_10p : это бан на этот раунд
+[16:39:46]OOC: (LOCAL) Elder Queen/Danik_10p : баг
+[16:39:49]SAY: Alot/(Larva (969)) "Р •щё немного" (Dropship Alamo Transit (68, 37, 4))
+[16:39:56]OOC: (LOCAL) Larva (969)/Alot : &проверю
+[16:39:58]OOC: (LOCAL) Larva (969)/Alot : А
+[16:40:01]OOC: (LOCAL) Larva (969)/Alot : &яСЃРЅРѕ
+[16:40:14]OOC: (LOCAL) Larva (969)/Alot : Просто что стало тут лучше?
+[16:40:20]OOC: (LOCAL) Elder Queen/Danik_10p : Tut?
+[16:40:24]OOC: (LOCAL) Elder Queen/Danik_10p : HZ
+[16:40:27]OOC: (LOCAL) Mature Larva (969)/Alot : Да? На этом билде?
+[16:40:36]OOC: (LOCAL) Elder Queen/Danik_10p : Sprosi adminov
+[16:40:54]OOC: (LOCAL) Mature Larva (969)/Alot : Мда... Праведьно тау остаютсна старом
+[16:41:07]ACCESS: Logout: *no key*/(Mature Larva (969))
+[16:41:07]ACCESS: Login: Alot/(Sentinel) from 85.141.70.207-2303950589 || BYOND v513.1513
+[16:41:21]SAY: Alot/(Young Sentinel (969)) "Р њало места" (Dropship Alamo Transit (70, 37, 4))
+[16:41:30]SAY: Alot/(Young Sentinel (969)) "Р ‘ыло ошибкой" (Dropship Alamo Transit (70, 37, 4))
+[16:41:40]GAME: Explosion with size (0, 5, 10) in area Requisitions 
+[16:41:40]GAME: Explosion with size (0, 5, 10) in area Requisitions 
+[16:41:41]GAME: Explosion with size (0, 0, 3) in area Requisitions 
+[16:41:41]GAME: Explosion with size (0, 5, 10) in area Squad Bravo Preparation 
+[16:41:41]SAY: Danik_10p/(Elder Queen) "Lozis" (Dropship Alamo Transit (69, 37, 4))
+[16:41:41]GAME: Explosion with size (0, 5, 10) in area Requisitions 
+[16:41:42]GAME: Explosion with size (0, 5, 10) in area Squad Bravo Preparation 
+[16:41:42]GAME: Explosion with size (0, 5, 10) in area Requisitions 
+[16:41:42]GAME: Explosion with size (0, 5, 10) in area Requisitions 
+[16:41:43]GAME: Explosion with size (0, 5, 10) in area Requisitions 
+[16:41:43]GAME: Explosion with size (0, 5, 10) in area Squad Bravo Preparation 
+[16:41:43]GAME: Explosion with size (0, 5, 10) in area Squad Bravo Preparation 
+[16:41:55]EMOTE: Das228/(Osmund Howard) <B>ENS Unknown (as Osmund Howard)</B> screams! (Hangar (103, 136, 3))
+[16:41:55]EMOTE: Das228/(Osmund Howard) <B>ENS Unknown (as Osmund Howard)</B> screams! (Hangar (103, 136, 3))
+[16:41:56]EMOTE: Das228/(Osmund Howard) <B>ENS Unknown (as Osmund Howard)</B> screams! (Hangar (103, 136, 3))
+[16:41:56]EMOTE: Das228/(Osmund Howard) <B>ENS Unknown (as Osmund Howard)</B> screams! (Hangar (103, 136, 3))
+[16:42:15]SAY: Danik_10p/(Elder Queen) "A" (Hallway Starboard (199, 163, 3))
+[16:42:40]HIVEMIND: Alot/(Young Sentinel (969)) "&думаю их не много" (Requisitions (200, 157, 3))
+[16:42:44]DEBUG: Next event in 32.97 minutes.
+[16:43:13]EMOTE: Das228/(Osmund Howard) <B>ENS Unknown (as Osmund Howard)</B> gasps! (Hangar (103, 136, 3))
+[16:43:22]GAME: Xenomorph Major Victory
+Game mode: Distress Signal
+Round time: 0:56
+End round player population: 10
+Total xenos spawned: 2
+Total Preds spawned: 0
+Total humans spawned: 8
+[16:43:22]GAME: Antagonists at round end were...
+[16:43:22]GAME: Survivors: Kelvin Focell(Sewa).
+[16:43:22]GAME: Xenomorphs: Elder Queen(Danik_10p), Young Sentinel (969)(Alot).
+[16:43:24]EMOTE: Danik_10p/(Elder Queen) <B>The Elder Queen</B> roars! (Hallway Port (192, 140, 3))
+[16:43:29]VOTE: Custom vote started by BlackCrystalic.
+Next Map (OOC>VOTE)
+[16:43:35]SAY: Danik_10p/(Elder Queen) "Ura" (Hallway Port (184, 141, 3))
+[16:43:41]ACCESS: Logout: *no key*/(Osmund Howard)
+[16:43:41]ACCESS: Login: Das228/(Osmund Howard) from 188.123.231.53-2235160672 || BYOND v513.1525
+[16:43:57]EMOTE: Danik_10p/(Elder Queen) <B>The Elder Queen</B> roars! (Hallway Port (149, 140, 3))
+[16:44:10]SAY: *no key*/(BlackCrystalic) "Purr!" (Commander's Bunk (94, 267, 3))
+[16:44:11]ACCESS: Logout: *no key*/(Random12234)
+[16:44:11]ACCESS: Login: Random12234/(Reuben Briner) from 91.216.61.199-3230727184 || BYOND v513.1517
+[16:44:30]VOTE: <b>Vote Result: Big Red\</b>
+[16:45:27]ACCESS: Logout: Das228/(Osmund Howard)
+[16:45:27]ACCESS: Logout: Sewa/(Kelvin Focell)
+[16:45:27]ACCESS: Logout: Random12234/(Reuben Briner)
+[16:45:27]ACCESS: Logout: EngineerConager/(Dell Conrad)
+[16:45:27]ACCESS: Logout: Danik_10p/(Elder Queen)
+[16:45:27]ACCESS: Logout: Artyuom/(Johnny Vietnam)
+[16:45:27]ACCESS: Logout: ZyberCpechnaz/(ZyberCpechnaz)
+[16:45:27]ACCESS: Logout: BlackCrystalic/(Blacky 'GG' Crysis)
+[16:45:27]ACCESS: Logout: CM.RU/(Jamari Sloan)
+[16:45:27]ACCESS: Logout: Alot/(Mature Sentinel (969))

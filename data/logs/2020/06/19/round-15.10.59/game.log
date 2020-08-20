@@ -1,0 +1,157 @@
+
+
+Starting up round 15:10:59
+---------------------
+[15:10:59]MISC: Saved mode is 'Distress Signal'
+[15:10:59]ADMIN: Loading jobban_rank
+[15:10:59]ADMIN: Loading Banlist
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/captain.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/hop.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/assistant.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/bartender.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/chef.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/hydro.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/mining.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/janitor.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/librarian.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/lawyer.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/chaplain.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/qm.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/cargo_tech.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/chief_engineer.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/engineer.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/atmos.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/cmo.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/doctor.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/chemist.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/geneticist.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/psychiatrist.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/rd.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/scientist.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/roboticist.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/hos.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/warden.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/detective.
+[15:10:59]DEBUG: Error setting up jobs, blank title job: /datum/job/officer.
+[15:11:08]DEBUG: Next event in 47.404 minutes.
+[15:11:09]ACCESS: Login: Harlex5435/(Harlex5435) from 178.161.223.5-4085160650 || BYOND v513.1526
+[15:11:09]ACCESS: Login: EngineerConager/(EngineerConager) from 176.32.156.103-2402443160 || BYOND v513.1526
+[15:11:10]ACCESS: Login: Artyuom/(Artyuom) from 95.174.127.234-114134526 || BYOND v513.1517
+[15:11:10]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 127.0.0.1-3990586367 || BYOND v513.1513
+[15:11:10]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:11:10]ACCESS: Notice: BlackCrystalic/(BlackCrystalic) has the same ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[15:11:10]ACCESS: Login: CM.RU/(CM.RU) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:11:10]ACCESS: Notice: CM.RU/(CM.RU) has the same ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[15:11:10]ACCESS: Notice: CM.RU/(CM.RU) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[15:11:10]ACCESS: Login: Sladk0ewka/(Sladk0ewka) from 77.222.104.59-2354459441 || BYOND v513.1524
+[15:11:12]ACCESS: Logout: ZyberCpechnaz/(ZyberCpechnaz)
+[15:11:12]ACCESS: Logout: BlackCrystalic/(BlackCrystalic)
+[15:11:12]ACCESS: Logout: Harlex5435/(Harlex5435)
+[15:11:12]ACCESS: Logout: CM.RU/(CM.RU)
+[15:11:12]ACCESS: Logout: Artyuom/(Artyuom)
+[15:11:12]ACCESS: Logout: EngineerConager/(EngineerConager)
+[15:11:12]ACCESS: Logout: Sladk0ewka/(Sladk0ewka)
+[15:11:13]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 22.
+[15:11:13]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 9.
+[15:11:13]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 3.
+[15:11:14]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:11:14]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:11:14]ACCESS: Notice: ZyberCpechnaz/(ZyberCpechnaz) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[15:11:14]ACCESS: Login: CM.RU/(CM.RU) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:11:14]ACCESS: Notice: CM.RU/(CM.RU) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[15:11:14]ACCESS: Notice: CM.RU/(CM.RU) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[15:11:15]ACCESS: Login: Artyuom/(Artyuom) from 95.174.127.234-114134526 || BYOND v513.1517
+[15:11:15]ACCESS: Login: EngineerConager/(EngineerConager) from 176.32.156.103-2402443160 || BYOND v513.1526
+[15:11:15]ACCESS: Login: Harlex5435/(Harlex5435) from 178.161.223.5-4085160650 || BYOND v513.1526
+[15:11:16]ACCESS: Login: Sladk0ewka/(Sladk0ewka) from 77.222.104.59-2354459441 || BYOND v513.1524
+[15:11:56]ACCESS: Logout: *no key*/(BlackCrystalic)
+[15:11:56]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:11:56]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[15:11:56]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same IP (80.240.253.147) and ID (3990586367) as CM.RU/(CM.RU).
+[15:11:58]ACCESS: Login: Sewa/(Sewa) from 188.18.245.72-1345515308 || BYOND v513.1525
+[15:12:05]ACCESS: Logout: Sewa/(Sewa)
+[15:12:34]ACCESS: Login: Sewa/(Sewa) from 188.18.245.72-1345515308 || BYOND v513.1525
+[15:13:36]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) set the mode as Distress  Signal.
+[15:13:45]ADMIN: BlackCrystalic has changed the custom event text.
+[15:14:12]ACCESS: Logout: *no key*/(CM.RU)
+[15:14:12]ACCESS: Login: CM.RU/(Cristian Seidner) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:14:12]ACCESS: Notice: CM.RU/(Cristian Seidner) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[15:14:12]ACCESS: Notice: CM.RU/(Cristian Seidner) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(Blacky 'GG' Crysis).
+[15:14:12]ACCESS: Logout: *no key*/(EngineerConager)
+[15:14:12]ACCESS: Login: EngineerConager/(Dell Conrad) from 176.32.156.103-2402443160 || BYOND v513.1526
+[15:14:12]ACCESS: Logout: *no key*/(Harlex5435)
+[15:14:12]ACCESS: Login: Harlex5435/(Nickolas Stone) from 178.161.223.5-4085160650 || BYOND v513.1526
+[15:14:12]ACCESS: Logout: *no key*/(Sewa)
+[15:14:12]ACCESS: Login: Sewa/(Kelvin Focell) from 188.18.245.72-1345515308 || BYOND v513.1525
+[15:14:12]ADMIN: EngineerConager/(Dell Conrad) has been assigned as Alpha Squad Leader
+[15:14:12]ADMIN: Harlex5435/(Nickolas Stone) has been assigned as Alpha Squad Specialist
+[15:14:12]ADMIN: Sewa/(Kelvin Focell) has been assigned as Alpha Squad Smartgunner
+[15:14:20]ACCESS: Logout: *no key*/(Artyuom)
+[15:14:20]ACCESS: Login: Artyuom/(Johnny Vietnam) from 95.174.127.234-114134526 || BYOND v513.1517
+[15:14:20]ADMIN: Artyuom/(Johnny Vietnam) has been assigned as Alpha Squad Medic
+[15:14:34]ACCESS: Logout: *no key*/(Sladk0ewka)
+[15:14:35]ACCESS: Login: Sladk0ewka/(Leroy Bullard) from 77.222.104.59-2354459441 || BYOND v513.1524
+[15:14:39]ADMIN: Announce: BlackCrystalic/(Blacky 'GG' Crysis) : ВЫ ДОЛЖНЫ УБИТЬ ДРУГ ДРУГА, ЧТО-ТО ВЗЯЛО КОНТРОЛЬ НАД ВАМИ, МОЖЕТЕ ПОМОЛИТСЯ!
+[15:14:41]SAY: *no key*/(corgi) "YAP" (Commandant's Quarters (105, 26, 1))
+[15:14:58]ACCESS: Login: Korsalpl/(Korsalpl) from 185.28.248.146-2833008750 || BYOND v513.1524
+[15:15:18]ACCESS: Logout: Korsalpl/(Korsalpl)
+[15:15:25]ACCESS: Login: Korsalpl/(Korsalpl) from 185.28.248.146-2833008750 || BYOND v513.1524
+[15:15:42]ACCESS: Logout: Korsalpl/(Korsalpl)
+[15:17:17]SAY: EngineerConager/(Dell Conrad) "Это глупо.." (Squad Alpha Cargo (207, 178, 3))
+[15:17:25]SAY: Harlex5435/(Nickolas Stone) "ГОРИ В АДУ, СУЧКА!" (Squad Alpha Cargo (206, 176, 3))
+[15:17:37]SAY: CM.RU/(Cristian Seidner) (Command Announcement) "Command Announcement - УМРИТЕ ВСЕ, ТОЛЬКО Я МОГУ ПОБЕДИТЬ! - Cristian Seidner (Commander)" (Combat Information Center (100, 253, 3))
+[15:17:38]SAY: EngineerConager/(Dell Conrad) "Я буду ждать" (Squad Alpha Cargo (207, 178, 3))
+[15:17:51]SAY: CM.RU/(Cristian Seidner) "БЫСТРЕЕ!" (Combat Information Center (107, 254, 3))
+[15:17:54]EMOTE: Sewa/(Kelvin Focell) <B>LCPL Kelvin Focell</B> screams! (Squad Alpha Cargo (190, 175, 3))
+[15:18:03]SAY: Artyuom/(Johnny Vietnam) "Тащи" (Squad Alpha Cargo (195, 178, 3))
+[15:18:14]EMOTE: Sladk0ewka/(Leroy Bullard) <B>PFC Leroy Bullard</B> screams! (Hallway Starboard (210, 176, 3))
+[15:18:14]ACCESS: Login: Alot/(Alot) from 85.141.70.207-1465043992 || BYOND v513.1513
+[15:18:16]ACCESS: Logout: Alot/(Alot)
+[15:18:19]ACCESS: Login: Alot/(Alot) from 85.141.70.207-1465043992 || BYOND v513.1513
+[15:18:23]SAY: Artyuom/(Johnny Vietnam) "Тащи" (Squad Alpha Cargo (195, 178, 3))
+[15:18:26]SAY: Artyuom/(Johnny Vietnam) "Пидр" (Squad Alpha Cargo (195, 178, 3))
+[15:18:31]SAY: Artyuom/(Johnny Vietnam) "Гаси их" (Squad Alpha Cargo (195, 178, 3))
+[15:18:35]SAY: Artyuom/(Johnny Vietnam) "Спек" (Squad Alpha Cargo (195, 178, 3))
+[15:18:35]ACCESS: Logout: *no key*/(Kelvin Focell)
+[15:18:35]ACCESS: Login: Sewa/(Kelvin Focell) from 188.18.245.72-1345515308 || BYOND v513.1525
+[15:18:36]EMOTE: Harlex5435/(Nickolas Stone) <B>SGT Nickolas Stone</B> screams! (Squad Alpha Cargo (200, 176, 3))
+[15:18:38]SAY: Artyuom/(Johnny Vietnam) "Димон" (Squad Alpha Cargo (195, 178, 3))
+[15:19:22]EMOTE: Harlex5435/(Nickolas Stone) <B>SGT Nickolas Stone</B> screams! (Squad Alpha Cargo (207, 175, 3))
+[15:19:22]EMOTE: Harlex5435/(Nickolas Stone) <B>SGT Nickolas Stone</B> screams! (Squad Alpha Cargo (207, 175, 3))
+[15:19:22]EMOTE: Harlex5435/(Nickolas Stone) <B>SGT Nickolas Stone</B> gasps! (Squad Alpha Cargo (207, 175, 3))
+[15:19:28]GAME: <a href='?priv_msg=[0x5000005]'>Harlex5435</a>/(Nickolas Stone) has ghosted.
+[15:19:28]ACCESS: Logout: *no key*/(Nickolas Stone)
+[15:19:28]ACCESS: Login: Harlex5435/(Nickolas Stone) from 178.161.223.5-4085160650 || BYOND v513.1526
+[15:19:32]SAY: Harlex5435/(Nickolas Stone) (ghost) "Бля" (Squad Alpha Cargo (193, 175, 3))
+[15:19:35]SAY: Harlex5435/(Nickolas Stone) (ghost) "Матеба" (Squad Alpha Cargo (193, 175, 3))
+[15:19:45]ACCESS: Logout: *no key*/(Leroy Bullard)
+[15:19:45]ACCESS: Login: Sladk0ewka/(Leroy Bullard) from 77.222.104.59-2354459441 || BYOND v513.1524
+[15:19:53]SAY: Artyuom/(Johnny Vietnam) "Тащи" (Squad Alpha Cargo (195, 178, 3))
+[15:19:55]SAY: Artyuom/(Johnny Vietnam) "Спек" (Squad Alpha Cargo (195, 178, 3))
+[15:19:57]SAY: Artyuom/(Johnny Vietnam) "Я за тебя" (Squad Alpha Cargo (195, 178, 3))
+[15:20:03]SAY: EngineerConager/(Dell Conrad) "Я не спек.." (Squad Alpha Cargo (196, 176, 3))
+[15:20:04]SAY: Artyuom/(Johnny Vietnam) "Ой лидер тащи" (Squad Alpha Cargo (195, 178, 3))
+[15:20:06]SAY: EngineerConager/(Dell Conrad) "Спеку пизда" (Squad Alpha Cargo (196, 176, 3))
+[15:20:08]SAY: EngineerConager/(Dell Conrad) "Ага" (Squad Alpha Cargo (196, 176, 3))
+[15:20:10]SAY: Artyuom/(Johnny Vietnam) "F" (Squad Alpha Cargo (195, 178, 3))
+[15:20:13]EMOTE: EngineerConager/(Dell Conrad) <B>SSGT Dell Conrad</B> screams! (Squad Alpha Cargo (196, 176, 3))
+[15:20:21]GAME: <a href='?priv_msg=[0x5000004]'>EngineerConager</a>/(Dell Conrad) has ghosted.
+[15:20:21]ACCESS: Logout: *no key*/(Dell Conrad)
+[15:20:21]ACCESS: Login: EngineerConager/(Dell Conrad) from 176.32.156.103-2402443160 || BYOND v513.1526
+[15:20:26]ADMIN: EngineerConager/(Dell Conrad) deleted Cristian Seidner at (210,177,3) (<A HREF='?_src_=holder;adminplayerobservejump=[0x300004a]'>JMP</A>)
+[15:20:26]ACCESS: Logout: *no key*/(Cristian Seidner)
+[15:20:26]ACCESS: Login: CM.RU/(Cristian Seidner) from 80.240.253.147-3990586367 || BYOND v513.1513
+[15:20:26]ACCESS: Notice: CM.RU/(Cristian Seidner) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[15:20:26]ACCESS: Notice: CM.RU/(Cristian Seidner) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(Blacky 'GG' Crysis).
+[15:20:29]ADMIN: HELP: Alot/(Alot): Только пришел. Я не понял ивент... Заходить за USCM и стрелять во всё что движется? - heard by 2 non-AFK admins.
+[15:21:11]SAY: Artyuom/(Johnny Vietnam) "F" (Squad Alpha Cargo (195, 176, 3))
+[15:21:42]ACCESS: Logout: EngineerConager/(Dell Conrad)
+[15:21:50]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) initiated a reboot.
+[15:21:55]ACCESS: Logout: ZyberCpechnaz/(ZyberCpechnaz)
+[15:21:55]ACCESS: Logout: BlackCrystalic/(Blacky 'GG' Crysis)
+[15:21:55]ACCESS: Logout: CM.RU/(Cristian Seidner)
+[15:21:55]ACCESS: Logout: Artyuom/(Johnny Vietnam)
+[15:21:55]ACCESS: Logout: Harlex5435/(Nickolas Stone)
+[15:21:55]ACCESS: Logout: Sladk0ewka/(Leroy Bullard)
+[15:21:55]ACCESS: Logout: Sewa/(Kelvin Focell)
+[15:21:55]ACCESS: Logout: Alot/(Alot)

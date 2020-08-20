@@ -1,0 +1,1082 @@
+
+
+Starting up round 14:42:21
+---------------------
+[14:42:46]HREF: 14:42 Drooper (usr:Drooper) || Drooper src=[0x300007a];lobby_choice=show_preferences
+[14:42:49]HREF: 14:42 Drooper (usr:Drooper) || Drooper src=[0x300007a];lobby_choice=show_preferences
+[14:42:57]HREF: 14:42 Random12234 (usr:Random12234) || Random12234 src=[0x300007d];lobby_choice=show_preferences
+[14:42:59]HREF: 14:42 Artyuom (usr:Artyuom) || Artyuom src=[0x300007c];lobby_choice=show_preferences
+[14:42:59]HREF: 14:42 Drooper (usr:Drooper) || Drooper src=[0x300007a];lobby_choice=show_preferences
+[14:43:00]HREF: 14:43 Drooper (usr:Drooper) || Drooper src=[0x300007a];lobby_choice=show_preferences
+[14:43:05]HREF: 14:43 Drooper (usr:Drooper) || _src_=prefs;preference=job;task=menu
+[14:43:14]HREF: 14:43 Artyuom (usr:Artyuom) || Artyuom src=[0x300007c];lobby_choice=ready
+[14:43:22]HREF: 14:43 EngineerConager (usr:EngineerConager) || EngineerConager src=[0x300007b];lobby_choice=ready
+[14:43:50]HREF: 14:43 BlackCrystalic (usr:BlackCrystalic) || /datum/admins src=[0x2100301d];c_mode=1
+[14:43:51]HREF: 14:43 BlackCrystalic (usr:BlackCrystalic) || /datum/admins src=[0x2100301d];c_mode2=Distress%20Signal
+[14:44:12]HREF: 14:44 Random12234 (usr:Random12234) || Random12234 src=[0x300007d];lobby_choice=ready
+[14:44:15]HREF: 14:44 Artyuom (usr:Artyuom) || Artyuom src=[0x300007c];lobby_choice=show_preferences
+[14:44:17]HREF: 14:44 Artyuom (usr:Artyuom) || _src_=prefs;preference=job;task=menu
+[14:44:19]HREF: 14:44 Random12234 (usr:Random12234) || Random12234 src=[0x300007d];lobby_choice=show_preferences
+[14:44:31]HREF: 14:44 Random12234 (usr:Random12234) || _src_=prefs;preference=be_special;num=0
+[14:44:38]HREF: 14:44 Random12234 (usr:Random12234) || Random12234 src=[0x300007d];lobby_choice=show_preferences
+[14:44:42]HREF: 14:44 Random12234 (usr:Random12234) || _src_=prefs;preference=job;task=menu
+[14:44:49]HREF: 14:44 Random12234 (usr:Random12234) || _src_=prefs;preference=job;task=input;text=Squad%20Marine
+[14:45:03]HREF: 14:45 Random12234 (usr:Random12234) || Random12234 src=[0x300007d];lobby_choice=show_preferences
+[14:45:11]HREF: 14:45 Sanyas325 (usr:Sanyas325) || Sanyas325 src=[0x300007e];lobby_choice=ready
+[14:45:45]HREF: 14:45 Artyuom (usr:Artyuom) || Artyuom src=[0x300007c];lobby_choice=show_preferences
+[14:45:47]HREF: 14:45 Artyuom (usr:Artyuom) || Artyuom src=[0x300007c];lobby_choice=ready
+[14:45:50]HREF: 14:45 Artyuom (usr:Artyuom) || Artyuom src=[0x300007c];lobby_choice=late_join
+[14:45:52]HREF: 14:45 Drooper (usr:Drooper) || Drooper src=[0x300007a];lobby_choice=ready
+[14:45:54]HREF: 14:45 Drooper (usr:Drooper) || Drooper src=[0x300007a];lobby_choice=manifest
+[14:45:54]HREF: 14:45 Artyuom (usr:Artyuom) || Artyuom src=[0x300007c];lobby_choice=SelectedJob;job_selected=Squad%20Medic
+[14:45:57]HREF: 14:45 Drooper (usr:Drooper) || Drooper src=[0x300007a];lobby_choice=late_join
+[14:46:02]HREF: 14:46 ZyberCpechnaz (usr:ZyberCpechnaz) || ZyberCpechnaz src=[0x3000079];lobby_choice=ready
+[14:46:02]HREF: 14:46 ZyberCpechnaz (usr:ZyberCpechnaz) || ZyberCpechnaz src=[0x3000079];lobby_choice=late_join
+[14:46:04]HREF: 14:46 ZyberCpechnaz (usr:ZyberCpechnaz) || ZyberCpechnaz src=[0x3000079];lobby_choice=SelectedJob;job_selected=Squad%20Leader
+[14:46:07]HREF: 14:46 Drooper (usr:Drooper) || Drooper src=[0x300007a];lobby_choice=SelectedJob;job_selected=Squad%20Specialist
+[14:46:13]HREF: 14:46 EngineerConager (usr:Dell Conrad) || The clipboard src=[0x20109c9];addpen=1
+[14:46:19]HREF: 14:46 ZyberCpechnaz (usr:Jadon Taylor) || _=1592394379648
+[14:46:19]HREF: 14:46 ZyberCpechnaz (usr:Jadon Taylor) || _=1592394379649
+[14:46:23]HREF: 14:46 Artyuom (usr:Johnny Vietnam) || _=1592394383083
+[14:46:23]HREF: 14:46 Artyuom (usr:Johnny Vietnam) || _=1592394383084
+[14:46:25]HREF: 14:46 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006337];vend=5;cat=0
+[14:46:26]HREF: 14:46 Sanyas325 (usr:Tom Svirten) || _=1592394378941
+[14:46:26]HREF: 14:46 Sanyas325 (usr:Tom Svirten) || _=1592394378942
+[14:46:26]HREF: 14:46 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x210062f0];vend=5;cat=0
+[14:46:26]HREF: 14:46 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006337];vend=5;cat=0
+[14:46:26]HREF: 14:46 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x210062f0];vend=5;cat=0
+[14:46:27]HREF: 14:46 Drooper (usr:Jonathon Edhard) || _=1592394388786
+[14:46:27]HREF: 14:46 Drooper (usr:Jonathon Edhard) || _=1592394388787
+[14:46:28]HREF: 14:46 Drooper (usr:Jonathon Edhard) || /datum/nanoui src=[0x21006336];vend=5;cat=0
+[14:46:29]HREF: 14:46 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x21006334];vend=2;cat=0
+[14:46:51]HREF: 14:46 Drooper (usr:Jonathon Edhard) || _=1592394412565
+[14:46:51]HREF: 14:46 Drooper (usr:Jonathon Edhard) || _=1592394412566
+[14:46:55]HREF: 14:46 Drooper (usr:Jonathon Edhard) || /datum/nanoui src=[0x21006340];vend=4;cat=0
+[14:47:02]HREF: 14:47 ZyberCpechnaz (usr:Jadon Taylor) || _=1592394422197
+[14:47:02]HREF: 14:47 ZyberCpechnaz (usr:Jadon Taylor) || _=1592394422198
+[14:47:02]HREF: 14:47 Drooper (usr:Jonathon Edhard) || /datum/nanoui src=[0x21006340];vend=1;cat=0
+[14:47:03]HREF: 14:47 Sanyas325 (usr:Tom Svirten) || _=1592394415875
+[14:47:03]HREF: 14:47 Sanyas325 (usr:Tom Svirten) || _=1592394415876
+[14:47:03]HREF: 14:47 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006341];vend=2
+[14:47:06]HREF: 14:47 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006341];vend=3
+[14:47:07]HREF: 14:47 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x2100633e];vend=2
+[14:47:08]HREF: 14:47 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006341];vend=4
+[14:47:08]HREF: 14:47 Artyuom (usr:Johnny Vietnam) || _=1592394428592
+[14:47:08]HREF: 14:47 Artyuom (usr:Johnny Vietnam) || _=1592394428593
+[14:47:09]HREF: 14:47 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006343];vend=2
+[14:47:10]HREF: 14:47 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006343];vend=3
+[14:47:10]HREF: 14:47 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006341];vend=5
+[14:47:10]HREF: 14:47 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006343];vend=4
+[14:47:11]HREF: 14:47 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006343];vend=5
+[14:47:11]HREF: 14:47 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006343];vend=6
+[14:47:11]HREF: 14:47 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006343];vend=7
+[14:47:12]HREF: 14:47 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006341];vend=6
+[14:47:13]HREF: 14:47 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006341];vend=7
+[14:47:13]HREF: 14:47 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x2100633e];vend=3
+[14:47:20]HREF: 14:47 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006341];vend=15
+[14:47:27]HREF: 14:47 Drooper (usr:Jonathon Edhard) || _=1592394448660
+[14:47:27]HREF: 14:47 Drooper (usr:Jonathon Edhard) || _=1592394448661
+[14:47:28]HREF: 14:47 Drooper (usr:Jonathon Edhard) || /datum/nanoui src=[0x21006340];vend=2
+[14:47:29]HREF: 14:47 Drooper (usr:Jonathon Edhard) || /datum/nanoui src=[0x21006340];vend=3
+[14:47:29]HREF: 14:47 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006343];vend=11
+[14:47:32]HREF: 14:47 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006343];vend=16
+[14:47:32]HREF: 14:47 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x2100633e];vend=4
+[14:47:32]HREF: 14:47 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006343];vend=19
+[14:47:34]HREF: 14:47 Drooper (usr:Jonathon Edhard) || /datum/nanoui src=[0x21006340];vend=4
+[14:47:35]HREF: 14:47 Drooper (usr:Jonathon Edhard) || /datum/nanoui src=[0x21006340];vend=5
+[14:47:36]HREF: 14:47 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x2100633e];vend=5
+[14:47:36]HREF: 14:47 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006341];vend=17
+[14:47:38]HREF: 14:47 EngineerConager (usr:Dell Conrad) || The communications console src=[0x200fd35];operation=login
+[14:47:38]HREF: 14:47 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006343];vend=23
+[14:47:39]HREF: 14:47 EngineerConager (usr:Dell Conrad) || The communications console src=[0x200fd35];operation=announce
+[14:47:39]HREF: 14:47 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006343];vend=25
+[14:47:40]HREF: 14:47 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006341];vend=25
+[14:47:41]HREF: 14:47 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006341];vend=25
+[14:47:41]HREF: 14:47 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x2100633e];vend=6
+[14:47:43]HREF: 14:47 Drooper (usr:Jonathon Edhard) || _=1592394464876
+[14:47:43]HREF: 14:47 Drooper (usr:Jonathon Edhard) || _=1592394464877
+[14:47:45]HREF: 14:47 ZyberCpechnaz (usr:Jadon Taylor) || _=1592394465762
+[14:47:45]HREF: 14:47 ZyberCpechnaz (usr:Jadon Taylor) || _=1592394465763
+[14:47:49]HREF: 14:47 Artyuom (usr:Johnny Vietnam) || _=1592394469503
+[14:47:49]HREF: 14:47 Artyuom (usr:Johnny Vietnam) || _=1592394469504
+[14:47:50]HREF: 14:47 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006343];vend=2
+[14:47:52]HREF: 14:47 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x2100633e];vend=9
+[14:48:03]HREF: 14:48 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x2100633e];vend=13
+[14:48:09]HREF: 14:48 Drooper (usr:Jonathon Edhard) || /datum/nanoui src=[0x21006497];vend=2
+[14:48:14]HREF: 14:48 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006341];vend=2
+[14:48:28]HREF: 14:48 Drooper (usr:Jonathon Edhard) || _=1592394509635
+[14:48:28]HREF: 14:48 Drooper (usr:Jonathon Edhard) || _=1592394509636
+[14:48:31]HREF: 14:48 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006343];vend=12
+[14:48:31]HREF: 14:48 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006343];vend=13
+[14:48:32]HREF: 14:48 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006343];vend=14
+[14:48:33]HREF: 14:48 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006343];vend=17
+[14:48:36]HREF: 14:48 Drooper (usr:Jonathon Edhard) || /datum/nanoui src=[0x21006340];vend=11
+[14:48:42]HREF: 14:48 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006343];vend=27
+[14:48:43]HREF: 14:48 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006343];vend=27
+[14:48:45]HREF: 14:48 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006343];vend=27
+[14:48:45]HREF: 14:48 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006341];vend=14
+[14:48:46]HREF: 14:48 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=change_operator
+[14:48:47]HREF: 14:48 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006341];vend=15
+[14:48:48]HREF: 14:48 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006341];vend=15
+[14:48:50]HREF: 14:48 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006341];vend=7
+[14:48:52]HREF: 14:48 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=pick_squad
+[14:48:56]HREF: 14:48 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[14:49:00]HREF: 14:49 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[14:49:05]HREF: 14:49 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[14:49:05]HREF: 14:49 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006343];vend=28
+[14:49:09]HREF: 14:49 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x200fe38];operation=change_operator
+[14:49:10]HREF: 14:49 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x200fe38];operation=pick_squad
+[14:49:11]HREF: 14:49 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x200fe38];operation=pick_squad
+[14:49:12]HREF: 14:49 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x2100633e];vend=19
+[14:49:19]HREF: 14:49 Drooper (usr:Jonathon Edhard) || _=1592394560838
+[14:49:19]HREF: 14:49 Drooper (usr:Jonathon Edhard) || _=1592394560839
+[14:49:23]HREF: 14:49 ZyberCpechnaz (usr:Jadon Taylor) || _=1592394563629
+[14:49:23]HREF: 14:49 ZyberCpechnaz (usr:Jadon Taylor) || _=1592394563630
+[14:49:36]HREF: 14:49 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006343];vend=3;cat=0
+[14:49:39]HREF: 14:49 Sanyas325 (usr:Tom Svirten) || _=1592394571968
+[14:49:39]HREF: 14:49 Sanyas325 (usr:Tom Svirten) || _=1592394571969
+[14:49:45]HREF: 14:49 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006343];vend=42;cat=0
+[14:49:46]HREF: 14:49 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006343];vend=42;cat=0
+[14:49:46]HREF: 14:49 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006343];vend=42;cat=0
+[14:49:46]HREF: 14:49 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006343];vend=42;cat=0
+[14:49:47]HREF: 14:49 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006343];vend=40;cat=0
+[14:49:48]HREF: 14:49 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006343];vend=40;cat=0
+[14:49:48]HREF: 14:49 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006343];vend=40;cat=0
+[14:49:49]HREF: 14:49 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006343];vend=40;cat=0
+[14:49:56]HREF: 14:49 Artyuom (usr:Johnny Vietnam) || _=1592394596294
+[14:49:56]HREF: 14:49 Artyuom (usr:Johnny Vietnam) || _=1592394596295
+[14:50:02]HREF: 14:50 Sanyas325 (usr:Tom Svirten) || _=1592394595497
+[14:50:02]HREF: 14:50 Sanyas325 (usr:Tom Svirten) || _=1592394595498
+[14:50:04]HREF: 14:50 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006545];vend=19;cat=0
+[14:50:12]HREF: 14:50 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x21006561];vend=4;cat=0
+[14:50:12]HREF: 14:50 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006545];vend=18;cat=0
+[14:50:13]HREF: 14:50 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006545];vend=18;cat=0
+[14:50:13]HREF: 14:50 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006545];vend=18;cat=0
+[14:50:14]HREF: 14:50 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006545];vend=18;cat=0
+[14:50:25]HREF: 14:50 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006545];vend=18;cat=0
+[14:50:26]HREF: 14:50 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006545];vend=18;cat=0
+[14:50:26]HREF: 14:50 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006545];vend=18;cat=0
+[14:50:27]HREF: 14:50 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006545];vend=18;cat=0
+[14:50:28]HREF: 14:50 EngineerConager (usr:Dell Conrad) || _=1592394627356
+[14:50:28]HREF: 14:50 EngineerConager (usr:Dell Conrad) || _=1592394627357
+[14:50:29]HREF: 14:50 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006364];input=max
+[14:50:29]HREF: 14:50 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006364];output=max
+[14:50:30]HREF: 14:50 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006364];cmode=1
+[14:50:32]HREF: 14:50 EngineerConager (usr:Dell Conrad) || _=1592394631833
+[14:50:32]HREF: 14:50 EngineerConager (usr:Dell Conrad) || _=1592394631834
+[14:50:34]HREF: 14:50 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x21006561];vend=14;cat=0
+[14:50:35]HREF: 14:50 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x2100596b];output=max
+[14:50:36]HREF: 14:50 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x2100596b];cmode=1
+[14:50:36]HREF: 14:50 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x21006561];vend=14;cat=0
+[14:50:37]HREF: 14:50 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x2100596b];output=set
+[14:50:37]HREF: 14:50 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x21006561];vend=14;cat=0
+[14:50:38]HREF: 14:50 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x21006561];vend=14;cat=0
+[14:50:59]HREF: 14:50 EngineerConager (usr:Dell Conrad) || _=1592394658457
+[14:50:59]HREF: 14:50 EngineerConager (usr:Dell Conrad) || _=1592394658458
+[14:51:00]HREF: 14:51 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006358];input=max
+[14:51:01]HREF: 14:51 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006358];output=max
+[14:51:02]HREF: 14:51 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006358];cmode=1
+[14:51:04]HREF: 14:51 Drooper (usr:Jonathon Edhard) || _=1592394665591
+[14:51:04]HREF: 14:51 Drooper (usr:Jonathon Edhard) || _=1592394665592
+[14:51:04]HREF: 14:51 EngineerConager (usr:Dell Conrad) || _=1592394663486
+[14:51:04]HREF: 14:51 EngineerConager (usr:Dell Conrad) || _=1592394663487
+[14:51:05]HREF: 14:51 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006358];cmode=1
+[14:51:05]HREF: 14:51 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006358];input=max
+[14:51:07]HREF: 14:51 EngineerConager (usr:Dell Conrad) || _=1592394666614
+[14:51:07]HREF: 14:51 EngineerConager (usr:Dell Conrad) || _=1592394666615
+[14:51:08]HREF: 14:51 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006358];input=max
+[14:51:08]HREF: 14:51 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006358];cmode=1
+[14:51:09]HREF: 14:51 Drooper (usr:Jonathon Edhard) || /datum/nanoui src=[0x21006545];vend=19;cat=0
+[14:51:10]HREF: 14:51 ZyberCpechnaz (usr:Jadon Taylor) || _=1592394670008
+[14:51:10]HREF: 14:51 ZyberCpechnaz (usr:Jadon Taylor) || _=1592394670009
+[14:51:19]HREF: 14:51 ZyberCpechnaz (usr:Jadon Taylor) || _=1592394679455
+[14:51:19]HREF: 14:51 ZyberCpechnaz (usr:Jadon Taylor) || _=1592394679456
+[14:51:21]HREF: 14:51 ZyberCpechnaz (usr:Jadon Taylor) || _=1592394681802
+[14:51:21]HREF: 14:51 ZyberCpechnaz (usr:Jadon Taylor) || _=1592394681803
+[14:51:24]HREF: 14:51 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x2100596c];vend=11;cat=0
+[14:51:24]HREF: 14:51 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x2100596c];vend=11;cat=0
+[14:51:24]HREF: 14:51 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x21006561];vend=14;cat=0
+[14:51:34]HREF: 14:51 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x21006561];vend=14;cat=0
+[14:51:35]HREF: 14:51 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x21006561];vend=14;cat=0
+[14:51:35]HREF: 14:51 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006358];vend=41;cat=0
+[14:51:35]HREF: 14:51 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x21006561];vend=14;cat=0
+[14:51:41]HREF: 14:51 ZyberCpechnaz (usr:Jadon Taylor) || _=1592394701016
+[14:51:41]HREF: 14:51 ZyberCpechnaz (usr:Jadon Taylor) || _=1592394701017
+[14:51:45]HREF: 14:51 ZyberCpechnaz (usr:Jadon Taylor) || _=1592394705344
+[14:51:45]HREF: 14:51 ZyberCpechnaz (usr:Jadon Taylor) || _=1592394705345
+[14:51:50]HREF: 14:51 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x21006561];vend=23;cat=0
+[14:51:51]HREF: 14:51 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006358];vend=22;cat=0
+[14:52:00]HREF: 14:52 ZyberCpechnaz (usr:Jadon Taylor) || _=1592394720396
+[14:52:00]HREF: 14:52 ZyberCpechnaz (usr:Jadon Taylor) || _=1592394720397
+[14:52:09]HREF: 14:52 Artyuom (usr:Johnny Vietnam) || _=1592394729053
+[14:52:09]HREF: 14:52 Artyuom (usr:Johnny Vietnam) || _=1592394729054
+[14:52:09]HREF: 14:52 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006564];vend=37;cat=0
+[14:52:10]HREF: 14:52 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006562];vend=23;cat=0
+[14:52:14]HREF: 14:52 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x21006561];vend=22;cat=0
+[14:52:16]HREF: 14:52 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006358];vend=11;cat=0
+[14:52:23]HREF: 14:52 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006358];vend=5;cat=0
+[14:52:35]HREF: 14:52 Sanyas325 (usr:Tom Svirten) || _=1592394748160
+[14:52:35]HREF: 14:52 Sanyas325 (usr:Tom Svirten) || _=1592394748161
+[14:52:36]HREF: 14:52 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006358];vend=13;cat=0
+[14:52:39]HREF: 14:52 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x21006561];vend=20;cat=0
+[14:52:43]HREF: 14:52 Sanyas325 (usr:Tom Svirten) || _=1592394755853
+[14:52:43]HREF: 14:52 Sanyas325 (usr:Tom Svirten) || _=1592394755854
+[14:52:56]HREF: 14:52 BlackCrystalic (usr:BlackCrystalic) || BlackCrystalic src=[0x3000078];lobby_choice=observe
+[14:53:06]HREF: 14:53 BlackCrystalic (usr:Blacky 'GG' Crysis) || /datum/admins src=[0x2100301d];revive=[0x3000098]
+[14:53:12]HREF: 14:53 Drooper (usr:Jonathon Edhard) || _=1592394793705
+[14:53:12]HREF: 14:53 Drooper (usr:Jonathon Edhard) || _=1592394793706
+[14:53:15]HREF: 14:53 Drooper (usr:Jonathon Edhard) || /datum/nanoui src=[0x21006561];vend=25
+[14:53:19]HREF: 14:53 Drooper (usr:Jonathon Edhard) || /datum/nanoui src=[0x21006561];vend=23
+[14:54:11]HREF: 14:54 Bobadoba (usr:Bobadoba) || Bobadoba src=[0x30000a2];lobby_choice=late_join
+[14:54:12]HREF: 14:54 Bobadoba (usr:Bobadoba) || Bobadoba src=[0x30000a3];lobby_choice=late_join
+[14:54:15]HREF: 14:54 Sanyas325 (usr:Tom Svirten) || _=1592394847673
+[14:54:15]HREF: 14:54 Sanyas325 (usr:Tom Svirten) || _=1592394847674
+[14:54:18]HREF: 14:54 Sanyas325 (usr:Tom Svirten) || _=1592394850553
+[14:54:18]HREF: 14:54 Sanyas325 (usr:Tom Svirten) || _=1592394850554
+[14:54:22]HREF: 14:54 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x21006569];vend=1;cat=0
+[14:54:24]HREF: 14:54 Bobadoba (usr:Bobadoba) || Bobadoba src=[0x30000a3];lobby_choice=SelectedJob;job_selected=Doctor
+[14:54:24]HREF: 14:54 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x21006569];vend=1;cat=0
+[14:54:35]HREF: 14:54 Bobadoba (usr:Lou Kimple) || _=1592394876070
+[14:54:35]HREF: 14:54 Bobadoba (usr:Lou Kimple) || _=1592394876071
+[14:54:36]HREF: 14:54 Bobadoba (usr:Lou Kimple) || /datum/nanoui src=[0x21006594];vend=5;cat=0
+[14:54:39]HREF: 14:54 Bobadoba (usr:Lou Kimple) || _=1592394880181
+[14:54:39]HREF: 14:54 Bobadoba (usr:Lou Kimple) || _=1592394880182
+[14:54:43]HREF: 14:54 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x21006569];vend=5;cat=0
+[14:55:01]HREF: 14:55 Sanyas325 (usr:Tom Svirten) || _=1592394894288
+[14:55:01]HREF: 14:55 Sanyas325 (usr:Tom Svirten) || _=1592394894289
+[14:55:18]HREF: 14:55 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x21006594];vend=26
+[14:55:30]HREF: 14:55 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x21006594];vend=27
+[14:56:03]HREF: 14:56 EngineerConager (usr:Dell Conrad) || _=1592394962859
+[14:56:03]HREF: 14:56 EngineerConager (usr:Dell Conrad) || _=1592394962860
+[14:56:05]HREF: 14:56 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x2100659d];online=1
+[14:56:06]HREF: 14:56 EngineerConager (usr:Dell Conrad) || _=1592394966048
+[14:56:06]HREF: 14:56 EngineerConager (usr:Dell Conrad) || _=1592394966049
+[14:56:08]HREF: 14:56 EngineerConager (usr:Dell Conrad) || _=1592394967514
+[14:56:08]HREF: 14:56 EngineerConager (usr:Dell Conrad) || _=1592394967515
+[14:56:46]HREF: 14:56 Sanyas325 (usr:Tom Svirten) || _=1592394998511
+[14:56:46]HREF: 14:56 Sanyas325 (usr:Tom Svirten) || _=1592394998512
+[14:56:48]HREF: 14:56 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x21006332];vend=14;cat=0
+[14:56:49]HREF: 14:56 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x21006332];vend=14;cat=0
+[14:56:50]HREF: 14:56 Sanyas325 (usr:Tom Svirten) || /datum/nanoui src=[0x21006332];vend=14;cat=0
+[15:01:59]HREF: 15:01 EngineerConager (usr:Dell Conrad) || The communications console src=[0x200fd35];operation=announce
+[15:02:07]HREF: 15:02 ZyberCpechnaz (usr:Jadon Taylor) || Jonathon Edhard src=[0x300009e];squadfireteam=1
+[15:02:11]HREF: 15:02 ZyberCpechnaz (usr:Jadon Taylor) || Jadon Taylor src=[0x300009d];squadfireteam=1
+[15:02:12]HREF: 15:02 ZyberCpechnaz (usr:Jadon Taylor) || Jadon Taylor src=[0x300009d];squadfireteam=1
+[15:02:14]HREF: 15:02 Bobadoba (usr:Lou Kimple) || _=1592395334517
+[15:02:14]HREF: 15:02 Bobadoba (usr:Lou Kimple) || _=1592395334518
+[15:02:15]HREF: 15:02 Bobadoba (usr:Lou Kimple) || /datum/nanoui src=[0x21006596];vend=6;cat=0
+[15:02:17]HREF: 15:02 ZyberCpechnaz (usr:Jadon Taylor) || Jadon Taylor src=[0x300009d];squadfireteam=1
+[15:02:31]HREF: 15:02 ZyberCpechnaz (usr:Jadon Taylor) || Tom Svirten src=[0x300009a];squadfireteam=1
+[15:03:27]HREF: 15:03 Artyuom (usr:Johnny Vietnam) || _=1592395407423
+[15:03:27]HREF: 15:03 Artyuom (usr:Johnny Vietnam) || _=1592395407424
+[15:03:30]HREF: 15:03 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210065b2];vend=27;cat=0
+[15:03:30]HREF: 15:03 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210065b2];vend=27;cat=0
+[15:03:31]HREF: 15:03 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:03:32]HREF: 15:03 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:03:32]HREF: 15:03 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:03:35]HREF: 15:03 Artyuom (usr:Johnny Vietnam) || _=1592395414952
+[15:03:35]HREF: 15:03 Artyuom (usr:Johnny Vietnam) || _=1592395414953
+[15:03:56]HREF: 15:03 EngineerConager (usr:Dell Conrad) || The marine command radio headset src=[0x2013dc8];ch_name=Alpha;listen=1
+[15:03:57]HREF: 15:03 EngineerConager (usr:Dell Conrad) || The marine command radio headset src=[0x2013dc8];ch_name=Bravo;listen=1
+[15:03:57]HREF: 15:03 EngineerConager (usr:Dell Conrad) || The marine command radio headset src=[0x2013dc8];ch_name=Charlie;listen=1
+[15:03:57]HREF: 15:03 EngineerConager (usr:Dell Conrad) || The marine command radio headset src=[0x2013dc8];ch_name=Delta;listen=1
+[15:04:13]HREF: 15:04 Artyuom (usr:Johnny Vietnam) || _=1592395453361
+[15:04:13]HREF: 15:04 Artyuom (usr:Johnny Vietnam) || _=1592395453362
+[15:05:13]HREF: 15:05 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x200fe38];operation=pick_squad
+[15:05:42]HREF: 15:05 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:05:48]HREF: 15:05 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009a]
+[15:05:48]HREF: 15:05 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:05:49]HREF: 15:05 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:05:49]HREF: 15:05 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:07:20]HREF: 15:07 EngineerConager (usr:Dell Conrad) || The communications console src=[0x200fd35];operation=announce
+[15:07:33]HREF: 15:07 Sewa (usr:Sewa) || Sewa src=[0x30000ac];lobby_choice=late_join
+[15:07:46]HREF: 15:07 Sewa (usr:Sewa) || Sewa src=[0x30000ac];lobby_choice=SelectedJob;job_selected=Squad%20Smartgunner
+[15:07:53]HREF: 15:07 EngineerConager (usr:Dell Conrad) || _=1592395672437
+[15:07:53]HREF: 15:07 EngineerConager (usr:Dell Conrad) || _=1592395672438
+[15:07:54]HREF: 15:07 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x210065de];move=1
+[15:07:54]HREF: 15:07 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x210065de];move=1
+[15:08:01]HREF: 15:08 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:08:01]HREF: 15:08 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:08:02]HREF: 15:08 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009a]
+[15:08:02]HREF: 15:08 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009a]
+[15:08:03]HREF: 15:08 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:08:04]HREF: 15:08 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:08:05]HREF: 15:08 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:08:07]HREF: 15:08 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:08:08]HREF: 15:08 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:08:11]HREF: 15:08 Sewa (usr:Kelvin Focell) || _=1592395693725
+[15:08:11]HREF: 15:08 Sewa (usr:Kelvin Focell) || _=1592395693726
+[15:08:12]HREF: 15:08 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210065eb];vend=5;cat=0
+[15:08:26]HREF: 15:08 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:08:28]HREF: 15:08 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009a]
+[15:08:31]HREF: 15:08 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:08:32]HREF: 15:08 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:08:40]HREF: 15:08 Sewa (usr:Kelvin Focell) || _=1592395722649
+[15:08:40]HREF: 15:08 Sewa (usr:Kelvin Focell) || _=1592395722650
+[15:08:41]HREF: 15:08 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210065f6];vend=2
+[15:08:41]HREF: 15:08 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210065f6];vend=3
+[15:08:42]HREF: 15:08 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210065f6];vend=4
+[15:08:48]HREF: 15:08 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210065f6];vend=5
+[15:08:51]HREF: 15:08 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210065f6];vend=6
+[15:08:54]HREF: 15:08 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210065f6];vend=8
+[15:09:05]HREF: 15:09 Sewa (usr:Kelvin Focell) || _=1592395748031
+[15:09:05]HREF: 15:09 Sewa (usr:Kelvin Focell) || _=1592395748032
+[15:09:06]HREF: 15:09 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210065f7];vend=2
+[15:09:31]HREF: 15:09 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:09:32]HREF: 15:09 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009a]
+[15:09:33]HREF: 15:09 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:09:46]HREF: 15:09 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:10:20]HREF: 15:10 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x210065f7];vend=4
+[15:10:28]HREF: 15:10 Sewa (usr:Kelvin Focell) || _=1592395830746
+[15:10:28]HREF: 15:10 Sewa (usr:Kelvin Focell) || _=1592395830747
+[15:10:32]HREF: 15:10 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x21006631];vend=22
+[15:10:41]HREF: 15:10 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:10:43]HREF: 15:10 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=sl_message
+[15:10:43]HREF: 15:10 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x21006631];vend=21
+[15:10:56]HREF: 15:10 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:10:57]HREF: 15:10 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:10:58]HREF: 15:10 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:10:59]HREF: 15:10 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:11:09]HREF: 15:11 EngineerConager (usr:Dell Conrad) || _=1592395868200
+[15:11:09]HREF: 15:11 EngineerConager (usr:Dell Conrad) || _=1592395868201
+[15:11:16]HREF: 15:11 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:11:20]HREF: 15:11 ZyberCpechnaz (usr:Jadon Taylor) || Johnny Vietnam src=[0x300009c];squadfireteam=1
+[15:11:36]HREF: 15:11 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:11:37]HREF: 15:11 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:12:02]HREF: 15:12 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:12:03]HREF: 15:12 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:12:31]HREF: 15:12 EngineerConager (usr:Dell Conrad) || _=1592395949916
+[15:12:31]HREF: 15:12 EngineerConager (usr:Dell Conrad) || _=1592395949917
+[15:12:32]HREF: 15:12 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006631];move=1
+[15:12:32]HREF: 15:12 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006631];move=1
+[15:12:43]HREF: 15:12 EngineerConager (usr:Dell Conrad) || The communications console src=[0x200fd35];operation=announce
+[15:13:02]HREF: 15:13 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:13:02]HREF: 15:13 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009a]
+[15:13:03]HREF: 15:13 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:13:06]HREF: 15:13 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:13:10]HREF: 15:13 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009a]
+[15:13:12]HREF: 15:13 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:13:15]HREF: 15:13 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:13:27]HREF: 15:13 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:14:02]HREF: 15:14 Drooper (usr:Jonathon Edhard) || _=1592396043209
+[15:14:02]HREF: 15:14 Drooper (usr:Jonathon Edhard) || _=1592396043210
+[15:14:07]HREF: 15:14 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:14:08]HREF: 15:14 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:14:09]HREF: 15:14 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:14:13]HREF: 15:14 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:14:17]HREF: 15:14 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009a]
+[15:14:18]HREF: 15:14 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:14:32]HREF: 15:14 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396072069
+[15:14:32]HREF: 15:14 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396072070
+[15:14:33]HREF: 15:14 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006647];cmode=1
+[15:14:34]HREF: 15:14 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x21006647];input=max
+[15:14:35]HREF: 15:14 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396075945
+[15:14:35]HREF: 15:14 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396075946
+[15:14:36]HREF: 15:14 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x2100664a];cmode=1
+[15:14:37]HREF: 15:14 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x2100664a];input=max
+[15:14:38]HREF: 15:14 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396078645
+[15:14:38]HREF: 15:14 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396078646
+[15:14:39]HREF: 15:14 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x2100664a];cmode=1
+[15:14:40]HREF: 15:14 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x2100664a];input=max
+[15:14:53]HREF: 15:14 EngineerConager (usr:Dell Conrad) || _=1592396092025
+[15:14:53]HREF: 15:14 EngineerConager (usr:Dell Conrad) || _=1592396092026
+[15:14:55]HREF: 15:14 EngineerConager (usr:Dell Conrad) || _=1592396094610
+[15:14:55]HREF: 15:14 EngineerConager (usr:Dell Conrad) || _=1592396094611
+[15:15:01]HREF: 15:15 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396101404
+[15:15:01]HREF: 15:15 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396101405
+[15:15:03]HREF: 15:15 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396103498
+[15:15:03]HREF: 15:15 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396103499
+[15:15:05]HREF: 15:15 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396105792
+[15:15:05]HREF: 15:15 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396105793
+[15:15:18]HREF: 15:15 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:15:20]HREF: 15:15 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:15:23]HREF: 15:15 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:15:24]HREF: 15:15 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:15:25]HREF: 15:15 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:15:25]HREF: 15:15 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:15:27]HREF: 15:15 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:15:28]HREF: 15:15 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009a]
+[15:15:38]HREF: 15:15 EngineerConager (usr:Dell Conrad) || _=1592396137408
+[15:15:38]HREF: 15:15 EngineerConager (usr:Dell Conrad) || _=1592396137409
+[15:16:02]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396162010
+[15:16:02]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396162011
+[15:16:03]HREF: 15:16 Bobadoba (usr:Lou Kimple) || _=1592396163081
+[15:16:03]HREF: 15:16 Bobadoba (usr:Lou Kimple) || _=1592396163082
+[15:16:03]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396163755
+[15:16:03]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396163756
+[15:16:05]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x2100664d];online=1
+[15:16:06]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x2100664d];output=max
+[15:16:08]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396168205
+[15:16:08]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396168206
+[15:16:09]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x2100664e];online=1
+[15:16:09]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x2100664e];output=max
+[15:16:11]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396171595
+[15:16:11]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396171596
+[15:16:12]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x2100664e];online=1
+[15:16:12]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x2100664e];output=max
+[15:16:13]HREF: 15:16 Bobadoba (usr:Lou Kimple) || _=1592396173617
+[15:16:13]HREF: 15:16 Bobadoba (usr:Lou Kimple) || _=1592396173618
+[15:16:15]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396174996
+[15:16:15]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396174997
+[15:16:20]HREF: 15:16 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];scan=1
+[15:16:21]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396181119
+[15:16:21]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396181120
+[15:16:22]HREF: 15:16 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];login=1
+[15:16:24]HREF: 15:16 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];screen=2
+[15:16:26]HREF: 15:16 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];d_rec=[0x210065df]
+[15:16:27]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396187204
+[15:16:27]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396187205
+[15:16:29]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396189199
+[15:16:29]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396189200
+[15:16:31]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396191198
+[15:16:31]HREF: 15:16 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396191199
+[15:16:40]HREF: 15:16 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];screen=2
+[15:16:41]HREF: 15:16 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];screen=1
+[15:16:42]HREF: 15:16 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x2100664f];move=1
+[15:16:42]HREF: 15:16 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x2100664f];move=1
+[15:16:43]HREF: 15:16 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];screen=5
+[15:16:45]HREF: 15:16 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];screen=1
+[15:16:46]HREF: 15:16 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];screen=3
+[15:16:48]HREF: 15:16 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];screen=1
+[15:16:51]HREF: 15:16 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];search=1
+[15:16:53]HREF: 15:16 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];scan=1
+[15:16:57]HREF: 15:16 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:16:57]HREF: 15:16 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:16:57]HREF: 15:16 Bobadoba (usr:Lou Kimple) || _=1592396217747
+[15:16:57]HREF: 15:16 Bobadoba (usr:Lou Kimple) || _=1592396217748
+[15:16:58]HREF: 15:16 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:16:59]HREF: 15:16 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:17:00]HREF: 15:17 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:17:15]HREF: 15:17 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396235711
+[15:17:15]HREF: 15:17 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396235712
+[15:17:16]HREF: 15:17 EngineerConager (usr:Dell Conrad) || The communications console src=[0x200fd35];operation=announce
+[15:17:17]HREF: 15:17 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396237552
+[15:17:17]HREF: 15:17 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396237553
+[15:17:19]HREF: 15:17 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396239955
+[15:17:20]HREF: 15:17 ZyberCpechnaz (usr:Jadon Taylor) || _=1592396239956
+[15:17:23]HREF: 15:17 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:17:23]HREF: 15:17 Bobadoba (usr:Lou Kimple) || _=1592396243547
+[15:17:23]HREF: 15:17 Bobadoba (usr:Lou Kimple) || _=1592396243548
+[15:17:24]HREF: 15:17 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:17:25]HREF: 15:17 Drooper (usr:Jonathon Edhard) || _=1592396246618
+[15:17:25]HREF: 15:17 Drooper (usr:Jonathon Edhard) || _=1592396246619
+[15:17:52]HREF: 15:17 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:17:53]HREF: 15:17 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:17:54]HREF: 15:17 Bobadoba (usr:Lou Kimple) || _=1592396274059
+[15:17:54]HREF: 15:17 Bobadoba (usr:Lou Kimple) || _=1592396274060
+[15:17:54]HREF: 15:17 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009a]
+[15:17:56]HREF: 15:17 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:17:57]HREF: 15:17 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:17:57]HREF: 15:17 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:18:16]HREF: 15:18 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009a]
+[15:18:16]HREF: 15:18 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:18:17]HREF: 15:18 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:18:19]HREF: 15:18 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:18:49]HREF: 15:18 Bobadoba (usr:Lou Kimple) || _=1592396329746
+[15:18:49]HREF: 15:18 Bobadoba (usr:Lou Kimple) || _=1592396329747
+[15:19:01]HREF: 15:19 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:19:03]HREF: 15:19 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:19:13]HREF: 15:19 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:19:14]HREF: 15:19 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:19:25]HREF: 15:19 Bobadoba (usr:Lou Kimple) || _=1592396365626
+[15:19:25]HREF: 15:19 Bobadoba (usr:Lou Kimple) || _=1592396365627
+[15:19:33]HREF: 15:19 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009a]
+[15:19:36]HREF: 15:19 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:19:39]HREF: 15:19 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:19:40]HREF: 15:19 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=sl_message
+[15:20:03]HREF: 15:20 Bobadoba (usr:Lou Kimple) || _=1592396403048
+[15:20:03]HREF: 15:20 Bobadoba (usr:Lou Kimple) || _=1592396403049
+[15:20:12]HREF: 15:20 ZyberCpechnaz (usr:Jadon Taylor) || Kelvin Focell src=[0x30000ad];squadfireteam=1
+[15:20:14]HREF: 15:20 Artyuom (usr:Johnny Vietnam) || _=1592396413312
+[15:20:14]HREF: 15:20 Artyuom (usr:Johnny Vietnam) || _=1592396413313
+[15:20:14]HREF: 15:20 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210066d4];move=1
+[15:20:30]HREF: 15:20 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:20:31]HREF: 15:20 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:20:45]HREF: 15:20 Bobadoba (usr:Lou Kimple) || _=1592396445546
+[15:20:45]HREF: 15:20 Bobadoba (usr:Lou Kimple) || _=1592396445547
+[15:20:52]HREF: 15:20 Bobadoba (usr:Lou Kimple) || _=1592396452512
+[15:20:52]HREF: 15:20 Bobadoba (usr:Lou Kimple) || _=1592396452513
+[15:21:59]HREF: 15:21 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:21:59]HREF: 15:21 Bobadoba (usr:Lou Kimple) || _=1592396519487
+[15:21:59]HREF: 15:21 Bobadoba (usr:Lou Kimple) || _=1592396519488
+[15:21:59]HREF: 15:21 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:22:00]HREF: 15:22 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:22:01]HREF: 15:22 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009a]
+[15:22:02]HREF: 15:22 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:22:03]HREF: 15:22 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:22:04]HREF: 15:22 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:22:05]HREF: 15:22 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:22:06]HREF: 15:22 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:22:07]HREF: 15:22 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:22:09]HREF: 15:22 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:22:10]HREF: 15:22 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:22:11]HREF: 15:22 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:22:22]HREF: 15:22 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:22:57]HREF: 15:22 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:23:04]HREF: 15:23 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:23:16]HREF: 15:23 Bobadoba (usr:Lou Kimple) || _=1592396596750
+[15:23:16]HREF: 15:23 Bobadoba (usr:Lou Kimple) || _=1592396596751
+[15:23:16]HREF: 15:23 Artyuom (usr:Johnny Vietnam) || _=1592396596198
+[15:23:16]HREF: 15:23 Artyuom (usr:Johnny Vietnam) || _=1592396596199
+[15:23:21]HREF: 15:23 Bobadoba (usr:Lou Kimple) || _=1592396601098
+[15:23:21]HREF: 15:23 Bobadoba (usr:Lou Kimple) || _=1592396601099
+[15:23:23]HREF: 15:23 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:23:23]HREF: 15:23 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:23:25]HREF: 15:23 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:23:25]HREF: 15:23 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210066ee];move=1
+[15:23:25]HREF: 15:23 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:23:27]HREF: 15:23 Artyuom (usr:Johnny Vietnam) || _=1592396607146
+[15:23:27]HREF: 15:23 Artyuom (usr:Johnny Vietnam) || _=1592396607147
+[15:23:30]HREF: 15:23 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:23:31]HREF: 15:23 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:23:33]HREF: 15:23 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009a]
+[15:23:35]HREF: 15:23 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:23:36]HREF: 15:23 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:23:53]HREF: 15:23 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:23:54]HREF: 15:23 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:24:07]HREF: 15:24 Artyuom (usr:Johnny Vietnam) || _=1592396646803
+[15:24:07]HREF: 15:24 Artyuom (usr:Johnny Vietnam) || _=1592396646804
+[15:24:08]HREF: 15:24 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210066ee];move=1
+[15:24:08]HREF: 15:24 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210066ee];move=1
+[15:24:11]HREF: 15:24 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:24:17]HREF: 15:24 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:24:26]HREF: 15:24 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:24:26]HREF: 15:24 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:24:41]HREF: 15:24 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:24:45]HREF: 15:24 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:24:52]HREF: 15:24 Artyuom (usr:Johnny Vietnam) || _=1592396691595
+[15:24:52]HREF: 15:24 Artyuom (usr:Johnny Vietnam) || _=1592396691596
+[15:25:17]HREF: 15:25 Artyuom (usr:Johnny Vietnam) || _=1592396716571
+[15:25:17]HREF: 15:25 Artyuom (usr:Johnny Vietnam) || _=1592396716572
+[15:25:27]HREF: 15:25 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:25:29]HREF: 15:25 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:25:33]HREF: 15:25 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006744];move=1
+[15:25:34]HREF: 15:25 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006744];move=1
+[15:25:36]HREF: 15:25 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:25:37]HREF: 15:25 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:25:37]HREF: 15:25 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:25:42]HREF: 15:25 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:26:04]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || _=1592396763802
+[15:26:04]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || _=1592396763803
+[15:26:07]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || _=1592396766595
+[15:26:07]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || _=1592396766596
+[15:26:09]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || _=1592396769073
+[15:26:09]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || _=1592396769074
+[15:26:10]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100671c];move=1
+[15:26:11]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100671c];move=1
+[15:26:11]HREF: 15:26 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100671c];move=1
+[15:26:19]HREF: 15:26 Chaburek (usr:Chaburek) || Chaburek src=[0x30000b1];lobby_choice=manifest
+[15:26:19]HREF: 15:26 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:26:20]HREF: 15:26 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:27:01]HREF: 15:27 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=bombs
+[15:27:01]HREF: 15:27 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:27:02]HREF: 15:27 Artyuom (usr:Johnny Vietnam) || _=1592396821703
+[15:27:02]HREF: 15:27 Artyuom (usr:Johnny Vietnam) || _=1592396821704
+[15:27:02]HREF: 15:27 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009a]
+[15:27:03]HREF: 15:27 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:27:03]HREF: 15:27 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006743];move=1
+[15:27:06]HREF: 15:27 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:27:09]HREF: 15:27 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009a]
+[15:27:11]HREF: 15:27 Artyuom (usr:Johnny Vietnam) || _=1592396830307
+[15:27:11]HREF: 15:27 Artyuom (usr:Johnny Vietnam) || _=1592396830308
+[15:27:12]HREF: 15:27 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:27:13]HREF: 15:27 Artyuom (usr:Johnny Vietnam) || _=1592396833188
+[15:27:13]HREF: 15:27 Artyuom (usr:Johnny Vietnam) || _=1592396833189
+[15:27:14]HREF: 15:27 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:27:16]HREF: 15:27 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:27:17]HREF: 15:27 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:28:05]HREF: 15:28 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:28:07]HREF: 15:28 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:28:11]HREF: 15:28 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:28:11]HREF: 15:28 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:28:28]HREF: 15:28 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:28:41]HREF: 15:28 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:28:44]HREF: 15:28 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:28:51]HREF: 15:28 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:28:52]HREF: 15:28 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:28:53]HREF: 15:28 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:28:53]HREF: 15:28 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:28:55]HREF: 15:28 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:28:58]HREF: 15:28 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:28:59]HREF: 15:28 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:29:00]HREF: 15:29 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:29:03]HREF: 15:29 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:29:22]HREF: 15:29 Chaburek (usr:Chaburek) || Chaburek src=[0x30000b1];lobby_choice=late_join
+[15:29:23]HREF: 15:29 Chaburek (usr:Chaburek) || Chaburek src=[0x30000b1];lobby_choice=show_preferences
+[15:29:26]HREF: 15:29 Chaburek (usr:Chaburek) || Chaburek src=[0x30000b1];lobby_choice=SelectedJob;job_selected=Squad%20Engineer
+[15:29:48]HREF: 15:29 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:29:48]HREF: 15:29 Artyuom (usr:Johnny Vietnam) || Unknown (as Tom Svirten) src=[0x300009a];item=body
+[15:29:54]HREF: 15:29 Chaburek (usr:Haidee Baxter) || _=1592396995492
+[15:29:54]HREF: 15:29 Chaburek (usr:Haidee Baxter) || _=1592396995493
+[15:29:55]HREF: 15:29 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x21006349];vend=7;cat=0
+[15:29:55]HREF: 15:29 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x21006349];vend=6;cat=0
+[15:30:32]HREF: 15:30 Chaburek (usr:Haidee Baxter) || _=1592397033581
+[15:30:32]HREF: 15:30 Chaburek (usr:Haidee Baxter) || _=1592397033582
+[15:30:36]HREF: 15:30 Chaburek (usr:Haidee Baxter) || _=1592397037367
+[15:30:36]HREF: 15:30 Chaburek (usr:Haidee Baxter) || _=1592397037368
+[15:30:37]HREF: 15:30 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=2
+[15:30:37]HREF: 15:30 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=3
+[15:30:38]HREF: 15:30 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=4
+[15:30:38]HREF: 15:30 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=5
+[15:30:39]HREF: 15:30 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=6
+[15:30:39]HREF: 15:30 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=7
+[15:30:48]HREF: 15:30 Bobadoba (usr:Lou Kimple) || _=1592397048508
+[15:30:48]HREF: 15:30 Bobadoba (usr:Lou Kimple) || _=1592397048509
+[15:31:06]HREF: 15:31 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=9
+[15:31:13]HREF: 15:31 Bobadoba (usr:Lou Kimple) || _=1592397073213
+[15:31:13]HREF: 15:31 Bobadoba (usr:Lou Kimple) || _=1592397073214
+[15:31:15]HREF: 15:31 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=17
+[15:31:19]HREF: 15:31 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=19
+[15:31:20]HREF: 15:31 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=22
+[15:31:31]HREF: 15:31 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=25
+[15:31:43]HREF: 15:31 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=24
+[15:32:03]HREF: 15:32 Chaburek (usr:Haidee Baxter) || _=1592397124457
+[15:32:03]HREF: 15:32 Chaburek (usr:Haidee Baxter) || _=1592397124458
+[15:32:04]HREF: 15:32 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=2
+[15:32:30]HREF: 15:32 Bobadoba (usr:Lou Kimple) || _=1592397150583
+[15:32:30]HREF: 15:32 Bobadoba (usr:Lou Kimple) || _=1592397150584
+[15:32:42]HREF: 15:32 Bobadoba (usr:Lou Kimple) || _=1592397162000
+[15:32:42]HREF: 15:32 Bobadoba (usr:Lou Kimple) || _=1592397162001
+[15:32:43]HREF: 15:32 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=4
+[15:32:43]HREF: 15:32 EngineerConager (usr:Dell Conrad) || _=1592397162102
+[15:32:43]HREF: 15:32 EngineerConager (usr:Dell Conrad) || _=1592397162103
+[15:32:43]HREF: 15:32 Bobadoba (usr:Lou Kimple) || /datum/nanoui src=[0x2100650f];vend=27;cat=0
+[15:32:44]HREF: 15:32 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=4
+[15:32:44]HREF: 15:32 Bobadoba (usr:Lou Kimple) || /datum/nanoui src=[0x2100650f];vend=27;cat=0
+[15:32:45]HREF: 15:32 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=4
+[15:32:47]HREF: 15:32 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=4
+[15:32:47]HREF: 15:32 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x210064b1];move=1
+[15:32:48]HREF: 15:32 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x210064b1];move=1
+[15:32:52]HREF: 15:32 ZyberCpechnaz (usr:Jadon Taylor) || Unknown (as Tom Svirten) src=[0x300009a];item=id
+[15:32:59]HREF: 15:32 ZyberCpechnaz (usr:Jadon Taylor) || Unknown (as Tom Svirten) src=[0x300009a];item=id
+[15:33:00]HREF: 15:33 ZyberCpechnaz (usr:Jadon Taylor) || Unknown (as Tom Svirten) src=[0x300009a];item=id
+[15:33:01]HREF: 15:33 ZyberCpechnaz (usr:Jadon Taylor) || Unknown (as Tom Svirten) src=[0x300009a];item=id
+[15:33:01]HREF: 15:33 ZyberCpechnaz (usr:Jadon Taylor) || Unknown (as Tom Svirten) src=[0x300009a];item=id
+[15:33:04]HREF: 15:33 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=5
+[15:33:14]HREF: 15:33 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=10
+[15:33:20]HREF: 15:33 Drooper (usr:Jonathon Edhard) || Unknown (as Tom Svirten) src=[0x300009a];item=id
+[15:33:21]HREF: 15:33 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=10
+[15:33:32]HREF: 15:33 Drooper (usr:Jonathon Edhard) || Unknown (as Tom Svirten) src=[0x300009a];item=id
+[15:33:40]HREF: 15:33 Drooper (usr:Jonathon Edhard) || Unknown (as Tom Svirten) src=[0x300009a];item=id
+[15:33:41]HREF: 15:33 Drooper (usr:Jonathon Edhard) || Unknown (as Tom Svirten) src=[0x300009a];item=id
+[15:33:41]HREF: 15:33 Drooper (usr:Jonathon Edhard) || Unknown (as Tom Svirten) src=[0x300009a];item=id
+[15:33:48]HREF: 15:33 Drooper (usr:Jonathon Edhard) || Unknown (as Tom Svirten) src=[0x300009a];item=id
+[15:33:55]HREF: 15:33 Drooper (usr:Jonathon Edhard) || Unknown (as Tom Svirten) src=[0x300009a];item=id
+[15:33:56]HREF: 15:33 Drooper (usr:Jonathon Edhard) || Unknown (as Tom Svirten) src=[0x300009a];item=id
+[15:34:03]HREF: 15:34 Drooper (usr:Jonathon Edhard) || Unknown (as Tom Svirten) src=[0x300009a];item=back
+[15:34:09]HREF: 15:34 Drooper (usr:Jonathon Edhard) || Unknown (as Tom Svirten) src=[0x300009a];item=head
+[15:34:21]HREF: 15:34 Drooper (usr:Jonathon Edhard) || Unknown (as Tom Svirten) src=[0x300009a];item=id
+[15:34:46]HREF: 15:34 Drooper (usr:Jonathon Edhard) || Unknown (as Tom Svirten) src=[0x300009a];item=id
+[15:34:47]HREF: 15:34 Drooper (usr:Jonathon Edhard) || Unknown (as Tom Svirten) src=[0x300009a];item=id
+[15:34:48]HREF: 15:34 Drooper (usr:Jonathon Edhard) || Unknown (as Tom Svirten) src=[0x300009a];item=id
+[15:35:02]HREF: 15:35 Drooper (usr:Jonathon Edhard) || Unknown (as Tom Svirten) src=[0x300009a];item=wear_ear
+[15:35:05]HREF: 15:35 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=24
+[15:35:21]HREF: 15:35 Bobadoba (usr:Lou Kimple) || _=1592397320688
+[15:35:21]HREF: 15:35 Bobadoba (usr:Lou Kimple) || _=1592397320689
+[15:35:26]HREF: 15:35 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=5
+[15:35:32]HREF: 15:35 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=5
+[15:35:46]HREF: 15:35 Chaburek (usr:Haidee Baxter) || _=1592397347230
+[15:35:46]HREF: 15:35 Chaburek (usr:Haidee Baxter) || _=1592397347231
+[15:35:47]HREF: 15:35 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=1;cat=0
+[15:35:47]HREF: 15:35 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066e5];vend=1;cat=0
+[15:35:52]HREF: 15:35 Chaburek (usr:Haidee Baxter) || _=1592397353157
+[15:35:52]HREF: 15:35 Chaburek (usr:Haidee Baxter) || _=1592397353158
+[15:35:54]HREF: 15:35 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066bf];vend=3;cat=2
+[15:35:59]HREF: 15:35 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066bf];vend=4;cat=2
+[15:36:00]HREF: 15:36 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:36:00]HREF: 15:36 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:36:01]HREF: 15:36 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:36:02]HREF: 15:36 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000b3]
+[15:36:03]HREF: 15:36 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:36:04]HREF: 15:36 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:36:05]HREF: 15:36 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:36:14]HREF: 15:36 Chaburek (usr:Haidee Baxter) || _=1592397375836
+[15:36:15]HREF: 15:36 Chaburek (usr:Haidee Baxter) || _=1592397375837
+[15:36:18]HREF: 15:36 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066f2];vend=5;cat=0
+[15:36:22]HREF: 15:36 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=insubordination
+[15:36:28]HREF: 15:36 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:36:30]HREF: 15:36 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009a]
+[15:36:37]HREF: 15:36 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066f2];vend=19;cat=0
+[15:36:38]HREF: 15:36 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066f2];vend=22;cat=0
+[15:36:55]HREF: 15:36 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:36:59]HREF: 15:36 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066f2];vend=18;cat=0
+[15:37:01]HREF: 15:37 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000b3]
+[15:37:04]HREF: 15:37 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066f2];vend=18;cat=0
+[15:37:18]HREF: 15:37 Bobadoba (usr:Lou Kimple) || _=1592397437651
+[15:37:18]HREF: 15:37 Bobadoba (usr:Lou Kimple) || _=1592397437652
+[15:37:26]HREF: 15:37 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x210066f2];vend=18;cat=0
+[15:37:39]HREF: 15:37 ZyberCpechnaz (usr:Jadon Taylor) || _=1592397459632
+[15:37:39]HREF: 15:37 ZyberCpechnaz (usr:Jadon Taylor) || _=1592397459633
+[15:37:42]HREF: 15:37 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x2100065a];move=1
+[15:37:43]HREF: 15:37 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x2100065a];move=1
+[15:37:43]HREF: 15:37 ZyberCpechnaz (usr:Jadon Taylor) || /datum/nanoui src=[0x2100065a];move=1
+[15:37:45]HREF: 15:37 ZyberCpechnaz (usr:Jadon Taylor) || _=1592397465768
+[15:37:45]HREF: 15:37 ZyberCpechnaz (usr:Jadon Taylor) || _=1592397465769
+[15:38:03]HREF: 15:38 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:38:08]HREF: 15:38 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:38:08]HREF: 15:38 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:38:19]HREF: 15:38 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000b3]
+[15:38:25]HREF: 15:38 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:38:26]HREF: 15:38 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:38:40]HREF: 15:38 Drooper (usr:Jonathon Edhard) || Unknown (as Tom Svirten) src=[0x300009a];item=id
+[15:39:00]HREF: 15:39 Chaburek (usr:Haidee Baxter) || _=1592397541223
+[15:39:00]HREF: 15:39 Chaburek (usr:Haidee Baxter) || _=1592397541224
+[15:39:02]HREF: 15:39 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x21006510];vend=10;cat=0
+[15:39:04]HREF: 15:39 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x21006510];vend=13;cat=0
+[15:39:05]HREF: 15:39 Bobadoba (usr:Lou Kimple) || _=1592397545429
+[15:39:05]HREF: 15:39 Bobadoba (usr:Lou Kimple) || _=1592397545430
+[15:39:12]HREF: 15:39 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x21006510];vend=7;cat=0
+[15:39:13]HREF: 15:39 Chaburek (usr:Haidee Baxter) || /datum/nanoui src=[0x21006510];vend=7;cat=0
+[15:39:17]HREF: 15:39 ZyberCpechnaz (usr:Jadon Taylor) || The plasteel src=[0x201414a];sublist=;make=2;multiplier=1
+[15:39:30]HREF: 15:39 EngineerConager (usr:Dell Conrad) || _=1592397569175
+[15:39:30]HREF: 15:39 EngineerConager (usr:Dell Conrad) || _=1592397569176
+[15:39:31]HREF: 15:39 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006777];move=1
+[15:39:31]HREF: 15:39 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006777];move=1
+[15:39:32]HREF: 15:39 ZyberCpechnaz (usr:Jadon Taylor) || The metal src=[0x2014149];sublist=;make=13;multiplier=1
+[15:39:39]HREF: 15:39 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:39:44]HREF: 15:39 ZyberCpechnaz (usr:Jadon Taylor) || The metal src=[0x2014149];sublist=;make=13;multiplier=1
+[15:39:57]HREF: 15:39 EngineerConager (usr:Dell Conrad) || The communications console src=[0x200fd35];operation=announce
+[15:40:21]HREF: 15:40 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:40:21]HREF: 15:40 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:40:22]HREF: 15:40 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:40:23]HREF: 15:40 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:40:30]HREF: 15:40 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000b3]
+[15:40:36]HREF: 15:40 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:40:41]HREF: 15:40 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:40:42]HREF: 15:40 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009a]
+[15:40:43]HREF: 15:40 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:40:47]HREF: 15:40 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:40:48]HREF: 15:40 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:40:49]HREF: 15:40 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000b3]
+[15:41:03]HREF: 15:41 Artyuom (usr:Johnny Vietnam) || Kelvin Focell src=[0x30000ad];splints=1
+[15:41:10]HREF: 15:41 Artyuom (usr:Johnny Vietnam) || Kelvin Focell src=[0x30000ad];splints=1
+[15:41:10]HREF: 15:41 Artyuom (usr:Johnny Vietnam) || Kelvin Focell src=[0x30000ad];splints=1
+[15:41:19]HREF: 15:41 Drooper (usr:Jonathon Edhard) || The metal src=[0x2013929];sublist=;make=13;multiplier=1
+[15:41:31]HREF: 15:41 Drooper (usr:Jonathon Edhard) || The metal src=[0x2013929];sublist=;make=12;multiplier=1
+[15:41:33]HREF: 15:41 Chaburek (usr:Haidee Baxter) || The station bounced radio src=[0x200ba39];talk=1
+[15:41:34]HREF: 15:41 ZyberCpechnaz (usr:Jadon Taylor) || The metal src=[0x201415e];sublist=;make=13;multiplier=1
+[15:41:47]HREF: 15:41 ZyberCpechnaz (usr:Jadon Taylor) || The metal src=[0x201415e];sublist=;make=13;multiplier=1
+[15:42:36]HREF: 15:42 EngineerConager (usr:Dell Conrad) || General Listening Channel src=[0x20100d6];listen=0
+[15:42:54]HREF: 15:42 Bobadoba (usr:Lou Kimple) || _=1592397774520
+[15:42:54]HREF: 15:42 Bobadoba (usr:Lou Kimple) || _=1592397774521
+[15:43:03]HREF: 15:43 Drooper (usr:Jonathon Edhard) || The metal src=[0x20072d6];make=12;multiplier=2
+[15:43:36]HREF: 15:43 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:43:38]HREF: 15:43 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:43:38]HREF: 15:43 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000b3]
+[15:43:39]HREF: 15:43 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000b3]
+[15:43:39]HREF: 15:43 Chaburek (usr:Haidee Baxter) || _=1592397820372
+[15:43:39]HREF: 15:43 Chaburek (usr:Haidee Baxter) || _=1592397820373
+[15:43:39]HREF: 15:43 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:43:43]HREF: 15:43 Chaburek (usr:Haidee Baxter) || _=1592397823759
+[15:43:43]HREF: 15:43 Chaburek (usr:Haidee Baxter) || _=1592397823760
+[15:43:46]HREF: 15:43 Chaburek (usr:Haidee Baxter) || The station bounced radio src=[0x200ba39];talk=0
+[15:43:50]HREF: 15:43 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:43:51]HREF: 15:43 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[15:43:55]HREF: 15:43 Chaburek (usr:Haidee Baxter) || _=1592397836282
+[15:43:55]HREF: 15:43 Chaburek (usr:Haidee Baxter) || _=1592397836283
+[15:44:07]HREF: 15:44 EngineerConager (usr:Dell Conrad) || _=1592397845874
+[15:44:07]HREF: 15:44 EngineerConager (usr:Dell Conrad) || _=1592397845875
+[15:44:08]HREF: 15:44 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x2100661a];move=1
+[15:44:09]HREF: 15:44 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x2100661a];move=1
+[15:44:13]HREF: 15:44 EngineerConager (usr:Dell Conrad) || The communications console src=[0x200fd35];operation=announce
+[15:44:31]HREF: 15:44 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:44:32]HREF: 15:44 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:44:33]HREF: 15:44 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:44:34]HREF: 15:44 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:44:35]HREF: 15:44 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:44:39]HREF: 15:44 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:44:39]HREF: 15:44 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:44:40]HREF: 15:44 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:44:41]HREF: 15:44 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000b3]
+[15:44:43]HREF: 15:44 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:45:35]HREF: 15:45 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:45:36]HREF: 15:45 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:46:05]HREF: 15:46 ZyberCpechnaz (usr:Jadon Taylor) || _=1592397965366
+[15:46:05]HREF: 15:46 ZyberCpechnaz (usr:Jadon Taylor) || _=1592397965367
+[15:46:09]HREF: 15:46 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000b3]
+[15:46:11]HREF: 15:46 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:46:12]HREF: 15:46 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:46:14]HREF: 15:46 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009a]
+[15:46:16]HREF: 15:46 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:46:16]HREF: 15:46 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000b3]
+[15:46:32]HREF: 15:46 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:46:58]HREF: 15:46 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[15:46:58]HREF: 15:46 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000b3]
+[15:46:59]HREF: 15:46 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:47:14]HREF: 15:47 EngineerConager (usr:Dell Conrad) || _=1592398032349
+[15:47:14]HREF: 15:47 EngineerConager (usr:Dell Conrad) || _=1592398032350
+[15:47:14]HREF: 15:47 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x2100661b];move=1
+[15:47:55]HREF: 15:47 EngineerConager (usr:Dell Conrad) || _=1592398073873
+[15:47:55]HREF: 15:47 EngineerConager (usr:Dell Conrad) || _=1592398073874
+[15:47:59]HREF: 15:47 Chaburek (usr:Haidee Baxter) || The station bounced radio src=[0x200ba39];talk=1
+[15:48:14]HREF: 15:48 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x2100661b];move=1
+[15:48:15]HREF: 15:48 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x2100661b];move=1
+[15:48:26]HREF: 15:48 Drooper (usr:Jonathon Edhard) || The metal src=[0x201487b];sublist=;make=13;multiplier=1
+[15:48:39]HREF: 15:48 Drooper (usr:Jonathon Edhard) || The metal src=[0x201487b];sublist=;make=13;multiplier=1
+[15:48:44]HREF: 15:48 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:48:44]HREF: 15:48 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:48:45]HREF: 15:48 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:48:46]HREF: 15:48 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000b3]
+[15:48:53]HREF: 15:48 EngineerConager (usr:Dell Conrad) || The communications console src=[0x200fd35];operation=announce
+[15:49:13]HREF: 15:49 EngineerConager (usr:Dell Conrad) || _=1592398151691
+[15:49:13]HREF: 15:49 EngineerConager (usr:Dell Conrad) || _=1592398151692
+[15:49:14]HREF: 15:49 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x2100677d];cmode=1
+[15:49:15]HREF: 15:49 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x2100677d];online=1
+[15:49:15]HREF: 15:49 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x2100677d];input=max
+[15:49:16]HREF: 15:49 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x2100677d];output=max
+[15:49:18]HREF: 15:49 EngineerConager (usr:Dell Conrad) || _=1592398156865
+[15:49:18]HREF: 15:49 EngineerConager (usr:Dell Conrad) || _=1592398156866
+[15:49:19]HREF: 15:49 Chaburek (usr:Haidee Baxter) || The station bounced radio src=[0x200ba39];talk=0
+[15:49:54]HREF: 15:49 EngineerConager (usr:Dell Conrad) || _=1592398193046
+[15:49:54]HREF: 15:49 EngineerConager (usr:Dell Conrad) || _=1592398193047
+[15:49:55]HREF: 15:49 EngineerConager (usr:Dell Conrad) || _=1592398193861
+[15:49:55]HREF: 15:49 EngineerConager (usr:Dell Conrad) || _=1592398193862
+[15:49:55]HREF: 15:49 EngineerConager (usr:Dell Conrad) || _=1592398194357
+[15:49:55]HREF: 15:49 EngineerConager (usr:Dell Conrad) || _=1592398194358
+[15:49:56]HREF: 15:49 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006497];online=1
+[15:49:57]HREF: 15:49 Bobadoba (usr:Lou Kimple) || Kelvin Focell src=[0x30000ad];splints=1
+[15:49:59]HREF: 15:49 EngineerConager (usr:Dell Conrad) || _=1592398198352
+[15:49:59]HREF: 15:49 EngineerConager (usr:Dell Conrad) || _=1592398198353
+[15:49:59]HREF: 15:49 Bobadoba (usr:Lou Kimple) || Kelvin Focell src=[0x30000ad];splints=1
+[15:50:00]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398198991
+[15:50:00]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398198992
+[15:50:00]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398199489
+[15:50:00]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398199490
+[15:50:02]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398200735
+[15:50:02]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398200736
+[15:50:03]HREF: 15:50 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21005db3];online=1
+[15:50:05]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398204436
+[15:50:05]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398204437
+[15:50:06]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398205123
+[15:50:06]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398205124
+[15:50:07]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398205986
+[15:50:07]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398205987
+[15:50:16]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398215076
+[15:50:16]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398215077
+[15:50:26]HREF: 15:50 Bobadoba (usr:Lou Kimple) || Kelvin Focell src=[0x30000ad];splints=1
+[15:50:26]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398225095
+[15:50:26]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398225096
+[15:50:27]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398226216
+[15:50:27]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398226217
+[15:50:28]HREF: 15:50 Bobadoba (usr:Lou Kimple) || Kelvin Focell src=[0x30000ad];splints=1
+[15:50:29]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398227598
+[15:50:29]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398227599
+[15:50:29]HREF: 15:50 Bobadoba (usr:Lou Kimple) || Kelvin Focell src=[0x30000ad];splints=1
+[15:50:30]HREF: 15:50 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006787];cmode=1
+[15:50:31]HREF: 15:50 Bobadoba (usr:Lou Kimple) || Kelvin Focell src=[0x30000ad];pockets=1
+[15:50:31]HREF: 15:50 Bobadoba (usr:Lou Kimple) || Kelvin Focell src=[0x30000ad];item=id
+[15:50:32]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398230763
+[15:50:32]HREF: 15:50 EngineerConager (usr:Dell Conrad) || _=1592398230764
+[15:50:50]HREF: 15:50 BlackCrystalic (usr:Blacky 'GG' Crysis) || /datum/admins src=[0x2100301d];editrights=show
+[15:51:32]HREF: 15:51 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:51:32]HREF: 15:51 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:51:33]HREF: 15:51 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:51:33]HREF: 15:51 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000b3]
+[15:51:35]HREF: 15:51 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:51:37]HREF: 15:51 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:51:38]HREF: 15:51 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:51:44]HREF: 15:51 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:51:45]HREF: 15:51 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:51:46]HREF: 15:51 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:51:47]HREF: 15:51 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:51:52]HREF: 15:51 EngineerConager (usr:Dell Conrad) || _=1592398310364
+[15:51:52]HREF: 15:51 EngineerConager (usr:Dell Conrad) || _=1592398310365
+[15:51:52]HREF: 15:51 Chaburek (usr:Haidee Baxter) || The plasteel src=[0x2014760];sublist=;make=3;multiplier=1
+[15:51:58]HREF: 15:51 Sewa (usr:Kelvin Focell) || _=1592398320563
+[15:51:59]HREF: 15:51 Sewa (usr:Kelvin Focell) || _=1592398320564
+[15:52:11]HREF: 15:52 Bobadoba (usr:Lou Kimple) || _=1592398331162
+[15:52:11]HREF: 15:52 Bobadoba (usr:Lou Kimple) || _=1592398331163
+[15:52:20]HREF: 15:52 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006792];move=1
+[15:52:21]HREF: 15:52 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006792];move=1
+[15:52:25]HREF: 15:52 EngineerConager (usr:Dell Conrad) || The communications console src=[0x200fd35];operation=announce
+[15:52:43]HREF: 15:52 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009a]
+[15:52:44]HREF: 15:52 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:52:45]HREF: 15:52 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000b3]
+[15:52:45]HREF: 15:52 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:52:47]HREF: 15:52 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:52:47]HREF: 15:52 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:53:14]HREF: 15:53 Chaburek (usr:Unknown (as Haidee Baxter)) || The plasteel src=[0x2014760];sublist=;make=3;multiplier=1
+[15:53:48]HREF: 15:53 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:54:01]HREF: 15:54 EngineerConager (usr:Dell Conrad) || _=1592398439927
+[15:54:01]HREF: 15:54 EngineerConager (usr:Dell Conrad) || _=1592398439928
+[15:54:06]HREF: 15:54 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:54:46]HREF: 15:54 ZyberCpechnaz (usr:Jadon Taylor) || The metal src=[0x201487b];sublist=;make=12;multiplier=1
+[15:55:08]HREF: 15:55 ZyberCpechnaz (usr:Jadon Taylor) || The metal src=[0x2014761];sublist=;make=12;multiplier=1
+[15:55:50]HREF: 15:55 Bobadoba (usr:Lou Kimple) || _=1592398549790
+[15:55:50]HREF: 15:55 Bobadoba (usr:Lou Kimple) || _=1592398549791
+[15:55:54]HREF: 15:55 Bobadoba (usr:Lou Kimple) || _=1592398553441
+[15:55:54]HREF: 15:55 Bobadoba (usr:Lou Kimple) || _=1592398553442
+[15:55:58]HREF: 15:55 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:56:20]HREF: 15:56 Chaburek (usr:Unknown (as Haidee Baxter)) || _=1592398581336
+[15:56:20]HREF: 15:56 Chaburek (usr:Unknown (as Haidee Baxter)) || _=1592398581337
+[15:56:21]HREF: 15:56 Chaburek (usr:Unknown (as Haidee Baxter)) || /datum/nanoui src=[0x2100636e];?src=[0x2013e50];op=power
+[15:56:22]HREF: 15:56 Chaburek (usr:Unknown (as Haidee Baxter)) || /datum/nanoui src=[0x2100636e];?src=[0x2013e50];op=burst
+[15:56:39]HREF: 15:56 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:56:40]HREF: 15:56 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000b3]
+[15:56:41]HREF: 15:56 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:56:47]HREF: 15:56 EngineerConager (usr:Dell Conrad) || _=1592398605911
+[15:56:47]HREF: 15:56 EngineerConager (usr:Dell Conrad) || _=1592398605912
+[15:56:48]HREF: 15:56 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x2100636e];move=1
+[15:56:48]HREF: 15:56 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x2100636e];move=1
+[15:56:50]HREF: 15:56 EngineerConager (usr:Dell Conrad) || The communications console src=[0x200fd35];operation=announce
+[15:57:11]HREF: 15:57 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:57:19]HREF: 15:57 Chaburek (usr:Unknown (as Haidee Baxter)) || The metal src=[0x2014761];sublist=;make=12;multiplier=1
+[15:57:27]HREF: 15:57 Bobadoba (usr:Lou Kimple) || _=1592398647051
+[15:57:27]HREF: 15:57 Bobadoba (usr:Lou Kimple) || _=1592398647052
+[15:58:31]HREF: 15:58 Bobadoba (usr:Lou Kimple) || _=1592398710792
+[15:58:31]HREF: 15:58 Bobadoba (usr:Lou Kimple) || _=1592398710793
+[15:58:51]HREF: 15:58 Chaburek (usr:Unknown (as Haidee Baxter)) || The plasteel src=[0x2014750];sublist=;make=2;multiplier=1
+[15:59:08]HREF: 15:59 Chaburek (usr:Unknown (as Haidee Baxter)) || The metal src=[0x2014761];sublist=;make=13;multiplier=1
+[15:59:10]HREF: 15:59 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:59:11]HREF: 15:59 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[15:59:12]HREF: 15:59 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000b3]
+[15:59:13]HREF: 15:59 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[15:59:13]HREF: 15:59 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[15:59:14]HREF: 15:59 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:59:20]HREF: 15:59 EngineerConager (usr:Dell Conrad) || _=1592398758574
+[15:59:20]HREF: 15:59 EngineerConager (usr:Dell Conrad) || _=1592398758575
+[15:59:24]HREF: 15:59 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[15:59:31]HREF: 15:59 Chaburek (usr:Unknown (as Haidee Baxter)) || The metal src=[0x2014761];sublist=;make=13;multiplier=1
+[15:59:31]HREF: 15:59 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[15:59:32]HREF: 15:59 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=sl_message
+[15:59:45]HREF: 15:59 Chaburek (usr:Unknown (as Haidee Baxter)) || The metal src=[0x2014761];sublist=;make=12;multiplier=1
+[15:59:46]HREF: 15:59 Chaburek (usr:Unknown (as Haidee Baxter)) || The metal src=[0x2014761];sublist=;make=12;multiplier=1
+[15:59:47]HREF: 15:59 Chaburek (usr:Unknown (as Haidee Baxter)) || The metal src=[0x2014761];sublist=;make=12;multiplier=1
+[15:59:49]HREF: 15:59 Chaburek (usr:Unknown (as Haidee Baxter)) || The metal src=[0x2014761];sublist=;make=12;multiplier=1
+[16:00:00]HREF: 16:00 EngineerConager (usr:Dell Conrad) || _=1592398799378
+[16:00:00]HREF: 16:00 EngineerConager (usr:Dell Conrad) || _=1592398799379
+[16:00:02]HREF: 16:00 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x210067da];online=1
+[16:00:18]HREF: 16:00 EngineerConager (usr:Dell Conrad) || _=1592398816652
+[16:00:18]HREF: 16:00 EngineerConager (usr:Dell Conrad) || _=1592398816653
+[16:00:31]HREF: 16:00 EngineerConager (usr:Dell Conrad) || _=1592398829836
+[16:00:31]HREF: 16:00 EngineerConager (usr:Dell Conrad) || _=1592398829837
+[16:00:31]HREF: 16:00 Bobadoba (usr:Lou Kimple) || _=1592398830736
+[16:00:31]HREF: 16:00 Bobadoba (usr:Lou Kimple) || _=1592398830737
+[16:00:40]HREF: 16:00 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=monitor
+[16:00:41]HREF: 16:00 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[16:01:13]HREF: 16:01 Bobadoba (usr:Lou Kimple) || _=1592398872713
+[16:01:13]HREF: 16:01 Bobadoba (usr:Lou Kimple) || _=1592398872714
+[16:01:32]HREF: 16:01 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];screen=2
+[16:01:33]HREF: 16:01 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];d_rec=[0x210065df]
+[16:01:37]HREF: 16:01 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];screen=2
+[16:01:38]HREF: 16:01 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];screen=1
+[16:01:41]HREF: 16:01 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];screen=3
+[16:01:43]HREF: 16:01 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];del_all=1
+[16:01:43]HREF: 16:01 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[16:01:44]HREF: 16:01 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];temp=1
+[16:01:44]HREF: 16:01 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000ad]
+[16:01:45]HREF: 16:01 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];u_load=1
+[16:01:45]HREF: 16:01 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x30000b3]
+[16:01:45]HREF: 16:01 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009c]
+[16:01:46]HREF: 16:01 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];back=1
+[16:01:47]HREF: 16:01 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009e]
+[16:01:47]HREF: 16:01 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];screen=1
+[16:01:48]HREF: 16:01 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];screen=5
+[16:01:49]HREF: 16:01 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];screen=1
+[16:01:50]HREF: 16:01 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];search=1
+[16:01:52]HREF: 16:01 Bobadoba (usr:Lou Kimple) || Medical Records src=[0x200d251];screen=2
+[16:01:54]HREF: 16:01 Bobadoba (usr:Lou Kimple) || _=1592398914209
+[16:01:54]HREF: 16:01 Bobadoba (usr:Lou Kimple) || _=1592398914210
+[16:01:55]HREF: 16:01 Bobadoba (usr:Lou Kimple) || /datum/nanoui src=[0x210067d5];showMap=1
+[16:01:56]HREF: 16:01 Bobadoba (usr:Lou Kimple) || /datum/nanoui src=[0x210067d5];showMap=1
+[16:02:32]HREF: 16:02 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=use_cam;cam_target=[0x300009d]
+[16:02:39]HREF: 16:02 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=back
+[16:02:40]HREF: 16:02 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=sl_message
+[16:03:02]HREF: 16:03 Chaburek (usr:Unknown (as Haidee Baxter)) || The plasteel src=[0x2014750];sublist=;make=2;multiplier=1
+[16:03:08]HREF: 16:03 Chaburek (usr:Unknown (as Haidee Baxter)) || The plasteel src=[0x2014750];sublist=;make=2;multiplier=1
+[16:03:25]HREF: 16:03 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[16:03:28]HREF: 16:03 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[16:05:03]HREF: 16:05 Bobadoba (usr:Lou Kimple) || _=1592399102250
+[16:05:03]HREF: 16:05 Bobadoba (usr:Lou Kimple) || _=1592399102251
+[16:05:14]HREF: 16:05 EngineerConager (usr:Dell Conrad) || Overwatch Console src=[0x2010041];operation=message
+[16:05:40]HREF: 16:05 Chaburek (usr:Unknown (as Haidee Baxter)) || The dropship intercom src=[0x200c803];talk=1
+[16:06:12]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=categories
+[16:06:20]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=Medical
+[16:06:26]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=categories
+[16:06:28]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=Operations
+[16:06:31]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=categories
+[16:06:33]HREF: 16:06 Chaburek (usr:Unknown (as Haidee Baxter)) || _=1592399193621
+[16:06:33]HREF: 16:06 Chaburek (usr:Unknown (as Haidee Baxter)) || _=1592399193622
+[16:06:33]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=Supplies
+[16:06:34]HREF: 16:06 Chaburek (usr:Unknown (as Haidee Baxter)) || /datum/nanoui src=[0x210067df];vend=2;cat=0
+[16:06:41]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=categories
+[16:06:42]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=Science
+[16:06:43]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=categories
+[16:06:44]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=Engineering
+[16:06:47]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];doorder=50%20metal%20sheets%20(x50)
+[16:06:48]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];confirmorder=7248
+[16:06:49]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];viewrequests=1
+[16:06:50]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];mainmenu=1
+[16:06:51]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=categories
+[16:06:53]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=Engineering
+[16:06:54]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];doorder=50%20metal%20sheets%20(x50)
+[16:06:55]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];confirmorder=7249
+[16:06:56]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];viewrequests=1
+[16:06:57]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];mainmenu=1
+[16:06:58]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=categories
+[16:06:59]HREF: 16:06 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=Engineering
+[16:07:00]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];doorder=50%20metal%20sheets%20(x50)
+[16:07:01]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];confirmorder=7250
+[16:07:02]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];viewrequests=1
+[16:07:03]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];mainmenu=1
+[16:07:04]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=categories
+[16:07:06]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=Engineering
+[16:07:09]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];doorder=plasteel%20sheets%20(x30)
+[16:07:10]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];confirmorder=7251
+[16:07:11]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];viewrequests=1
+[16:07:11]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];mainmenu=1
+[16:07:13]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=categories
+[16:07:15]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=Weapons
+[16:07:35]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];doorder=UA%20571-C%20sentry%20crate%20(x1)
+[16:07:36]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];confirmorder=7252
+[16:07:37]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];viewrequests=1
+[16:07:38]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];mainmenu=1
+[16:07:39]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=categories
+[16:07:40]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=Operations
+[16:07:41]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=categories
+[16:07:41]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=Weapons
+[16:07:44]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];doorder=UA%20571-C%20sentry%20crate%20(x1)
+[16:07:45]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];confirmorder=7253
+[16:07:45]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];viewrequests=1
+[16:07:46]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];mainmenu=1
+[16:07:48]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=categories
+[16:07:50]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=Supplies
+[16:07:52]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=categories
+[16:07:54]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=Weapons
+[16:07:58]HREF: 16:07 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];doorder=M40%20HEDP%20high%20explosive%20grenade%20box%20crate%20(x25)
+[16:08:00]HREF: 16:08 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];confirmorder=7254
+[16:08:00]HREF: 16:08 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];viewrequests=1
+[16:08:01]HREF: 16:08 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];mainmenu=1
+[16:08:02]HREF: 16:08 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=categories
+[16:08:04]HREF: 16:08 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=Operations
+[16:08:06]HREF: 16:08 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=categories
+[16:08:08]HREF: 16:08 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];order=Supplies
+[16:08:08]HREF: 16:08 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];doorder=USCM%20MRE%20crate%20(x40)
+[16:08:09]HREF: 16:08 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];confirmorder=7255
+[16:08:10]HREF: 16:08 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];viewrequests=1
+[16:08:11]HREF: 16:08 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];mainmenu=1
+[16:08:14]HREF: 16:08 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];send=1
+[16:08:15]HREF: 16:08 EngineerConager (usr:Dell Conrad) || ASRS console src=[0x200d786];mainmenu=1
+[16:08:35]HREF: 16:08 Bobadoba (usr:Lou Kimple) || _=1592399314789
+[16:08:35]HREF: 16:08 Bobadoba (usr:Lou Kimple) || _=1592399314790
+[16:09:50]HREF: 16:09 BlackCrystalic (usr:Blacky 'GG' Crysis) || /datum/controller/vote src=[0x21000002];vote=custom
+[16:10:20]HREF: 16:10 BlackCrystalic (usr:Blacky 'GG' Crysis) || /datum/controller/vote src=[0x21000002];vote=close
+[16:10:20]HREF: 16:10 EngineerConager (usr:Dell Conrad) || /datum/controller/vote src=[0x21000002];vote=1
+[16:10:21]HREF: 16:10 Sewa (usr:Kelvin Focell) || /datum/controller/vote src=[0x21000002];vote=close
+[16:10:22]HREF: 16:10 Artyuom (usr:Johnny Vietnam) || /datum/controller/vote src=[0x21000002];vote=1
+[16:10:23]HREF: 16:10 Artyuom (usr:Johnny Vietnam) || /datum/controller/vote src=[0x21000002];vote=close
+[16:10:23]HREF: 16:10 EngineerConager (usr:Dell Conrad) || /datum/controller/vote src=[0x21000002];vote=1
+[16:10:24]HREF: 16:10 EngineerConager (usr:Dell Conrad) || /datum/controller/vote src=[0x21000002];vote=1
+[16:10:24]HREF: 16:10 Bobadoba (usr:Lou Kimple) || _=1592399423968
+[16:10:24]HREF: 16:10 Bobadoba (usr:Lou Kimple) || _=1592399423969
+[16:10:24]HREF: 16:10 EngineerConager (usr:Dell Conrad) || /datum/controller/vote src=[0x21000002];vote=close
+[16:10:38]HREF: 16:10 Chaburek (usr:Unknown (as Haidee Baxter)) || /datum/controller/vote src=[0x21000002];vote=3
+[16:10:40]HREF: 16:10 Chaburek (usr:Unknown (as Haidee Baxter)) || /datum/controller/vote src=[0x21000002];vote=close
+[16:10:52]HREF: 16:10 ZyberCpechnaz (usr:Jadon Taylor) || _=1592399451992
+[16:10:52]HREF: 16:10 ZyberCpechnaz (usr:Jadon Taylor) || _=1592399451993
+[16:11:02]HREF: 16:11 Chaburek (usr:Unknown (as Haidee Baxter)) || _=1592399463145
+[16:11:02]HREF: 16:11 Chaburek (usr:Unknown (as Haidee Baxter)) || _=1592399463146
+[16:11:03]HREF: 16:11 Sewa (usr:Kelvin Focell) || _=1592399465051
+[16:11:03]HREF: 16:11 Sewa (usr:Kelvin Focell) || _=1592399465052
+[16:11:04]HREF: 16:11 Chaburek (usr:Unknown (as Haidee Baxter)) || /datum/nanoui src=[0x2100687c];vend=3;cat=0
+[16:11:09]HREF: 16:11 Chaburek (usr:Unknown (as Haidee Baxter)) || /datum/nanoui src=[0x2100687c];vend=6;cat=0

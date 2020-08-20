@@ -1,0 +1,114 @@
+
+
+Starting up round 09:12:38
+---------------------
+[09:12:38]MISC: Saved mode is 'Distress Signal'
+[09:12:38]ADMIN: Loading jobban_rank
+[09:12:38]ADMIN: Loading Banlist
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/captain.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/hop.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/assistant.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/bartender.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/chef.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/hydro.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/mining.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/janitor.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/librarian.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/lawyer.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/chaplain.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/qm.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/cargo_tech.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/chief_engineer.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/engineer.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/atmos.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/cmo.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/doctor.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/chemist.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/geneticist.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/psychiatrist.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/rd.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/scientist.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/roboticist.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/hos.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/warden.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/detective.
+[09:12:38]DEBUG: Error setting up jobs, blank title job: /datum/job/officer.
+[09:12:47]DEBUG: Next event in 40.884 minutes.
+[09:13:19]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 127.0.0.1-3990586367 || BYOND v513.1513
+[09:13:22]ACCESS: Logout: BlackCrystalic/(BlackCrystalic)
+[09:13:23]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 22.
+[09:13:23]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 9.
+[09:13:23]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 3.
+[09:13:24]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 80.240.253.147-3990586367 || BYOND v513.1513
+[09:13:30]ADMIN: BlackCrystalic/(BlackCrystalic) delayed the game.
+[09:14:57]ACCESS: Login: CM.RU/(CM.RU) from 127.0.0.1-3990586367 || BYOND v513.1513
+[09:14:57]ACCESS: Notice: CM.RU/(CM.RU) has the same ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[09:14:58]ACCESS: Logout: CM.RU/(CM.RU)
+[09:15:02]ACCESS: Login: CM.RU/(CM.RU) from 80.240.253.147-3990586367 || BYOND v513.1513
+[09:15:02]ACCESS: Notice: CM.RU/(CM.RU) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[09:16:48]ADMIN: BlackCrystalic/(BlackCrystalic) set the mode as Hunter Games.
+[09:16:54]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 80.240.253.147-3990586367 || BYOND v513.1513
+[09:16:54]ACCESS: Notice: ZyberCpechnaz/(ZyberCpechnaz) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[09:16:54]ACCESS: Notice: ZyberCpechnaz/(ZyberCpechnaz) has the same IP (80.240.253.147) and ID (3990586367) as CM.RU/(CM.RU).
+[09:16:55]ACCESS: Logout: ZyberCpechnaz/(ZyberCpechnaz)
+[09:16:59]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 80.240.253.147-3990586367 || BYOND v513.1513
+[09:16:59]ACCESS: Notice: ZyberCpechnaz/(ZyberCpechnaz) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[09:16:59]ACCESS: Notice: ZyberCpechnaz/(ZyberCpechnaz) has the same IP (80.240.253.147) and ID (3990586367) as CM.RU/(CM.RU).
+[09:17:59]ACCESS: Login: Harlex5435/(Harlex5435) from 178.161.223.5-4085160650 || BYOND v513.1526
+[09:18:02]ACCESS: Logout: Harlex5435/(Harlex5435)
+[09:18:06]ACCESS: Login: Harlex5435/(Harlex5435) from 178.161.223.5-4085160650 || BYOND v513.1526
+[09:19:03]ADMIN: BlackCrystalic/(BlackCrystalic) removed the delay.
+[09:19:10]ADMIN: BlackCrystalic/(BlackCrystalic) delayed the game.
+[09:19:27]ACCESS: Logout: Harlex5435/(Harlex5435)
+[09:20:09]ACCESS: Login: Sldk112903/(Sldk112903) from 2.94.108.191-3674928135 || BYOND v513.1526
+[09:20:10]ACCESS: Login: Harlex5435/(Harlex5435) from 178.161.223.5-4085160650 || BYOND v512.1488
+[09:20:11]ACCESS: Logout: Sldk112903/(Sldk112903)
+[09:20:12]ACCESS: Logout: Harlex5435/(Harlex5435)
+[09:20:14]ACCESS: Login: Sldk112903/(Sldk112903) from 2.94.108.191-3674928135 || BYOND v513.1526
+[09:20:15]ACCESS: Login: Harlex5435/(Harlex5435) from 178.161.223.5-4085160650 || BYOND v512.1488
+[09:20:16]ACCESS: Logout: Harlex5435/(Harlex5435)
+[09:20:57]ACCESS: Login: Harlex5435/(Harlex5435) from 178.161.223.5-4085160650 || BYOND v513.1526
+[09:20:59]ACCESS: Logout: Harlex5435/(Harlex5435)
+[09:21:03]ACCESS: Login: Harlex5435/(Harlex5435) from 178.161.223.5-4085160650 || BYOND v513.1526
+[09:22:08]ACCESS: Logout: Sldk112903/(Sldk112903)
+[09:23:58]ADMIN: BlackCrystalic/(BlackCrystalic) removed the delay.
+[09:24:15]ACCESS: Login: Sldk112903/(Sldk112903) from 2.94.108.191-3674928135 || BYOND v513.1526
+[09:24:17]ACCESS: Logout: Sldk112903/(Sldk112903)
+[09:24:20]ACCESS: Login: Sldk112903/(Sldk112903) from 2.94.108.191-3674928135 || BYOND v513.1526
+[09:24:49]ACCESS: Logout: Sldk112903/(Sldk112903)
+[09:26:42]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>40</b>
+[09:26:42]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>41</b>
+[09:26:42]DEBUG: Increasing RA shelf space. Current maximum space: <b>50</b>
+[09:26:42]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>50</b>
+[09:26:42]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>51</b>
+[09:26:42]DEBUG: Increasing RA shelf space. Current maximum space: <b>60</b>
+[09:26:42]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>60</b>
+[09:26:42]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>61</b>
+[09:26:42]DEBUG: Increasing RA shelf space. Current maximum space: <b>70</b>
+[09:26:42]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>70</b>
+[09:26:42]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>71</b>
+[09:26:42]DEBUG: Increasing RA shelf space. Current maximum space: <b>80</b>
+[09:26:42]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>80</b>
+[09:26:42]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>81</b>
+[09:26:42]DEBUG: Increasing RA shelf space. Current maximum space: <b>90</b>
+[09:26:42]ACCESS: Logout: *no key*/(BlackCrystalic)
+[09:26:42]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 80.240.253.147-3990586367 || BYOND v513.1513
+[09:26:42]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same IP (80.240.253.147) and ID (3990586367) as CM.RU/(CM.RU).
+[09:26:42]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[09:26:42]ACCESS: Logout: *no key*/(ZyberCpechnaz)
+[09:26:42]ACCESS: Login: ZyberCpechnaz/(Hank Robertson) from 80.240.253.147-3990586367 || BYOND v513.1513
+[09:26:42]ACCESS: Notice: ZyberCpechnaz/(Hank Robertson) has the same IP (80.240.253.147) and ID (3990586367) as CM.RU/(CM.RU).
+[09:26:42]ACCESS: Notice: ZyberCpechnaz/(Hank Robertson) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(Blacky 'GG' Crysis).
+[09:26:43]ACCESS: Logout: *no key*/(Harlex5435)
+[09:26:43]ACCESS: Login: Harlex5435/(Nickolas Stone) from 178.161.223.5-4085160650 || BYOND v513.1526
+[09:27:17]ACCESS: Login: Atlasic/(Atlasic) from 91.105.139.66-2542303694 || BYOND v513.1526
+[09:27:20]ACCESS: Logout: Atlasic/(Atlasic)
+[09:29:50]ACCESS: Logout: Harlex5435/(Nickolas Stone)
+[09:32:45]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) admin ghosted.
+[09:32:45]ACCESS: Logout: *no key*/(Blacky 'GG' Crysis)
+[09:32:45]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 80.240.253.147-3990586367 || BYOND v513.1513
+[09:32:45]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same IP (80.240.253.147) and ID (3990586367) as CM.RU/(CM.RU).
+[09:32:45]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(Hank Robertson).
+[09:32:49]ACCESS: Logout: BlackCrystalic/(Blacky 'GG' Crysis)
+[09:32:49]ACCESS: Logout: CM.RU/(CM.RU)
+[09:32:49]ACCESS: Logout: ZyberCpechnaz/(Hank Robertson)

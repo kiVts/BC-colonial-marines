@@ -1,0 +1,152 @@
+
+
+Starting up round 15:36:30
+---------------------
+[15:37:19]HREF: 15:37 Sewa (usr:Sewa) || Sewa src=[0x300002e];lobby_choice=ready
+[15:37:48]HREF: 15:37 Das228 (usr:Das228) || Das228 src=[0x3000036];lobby_choice=show_preferences
+[15:37:50]HREF: 15:37 Das228 (usr:Das228) || Das228 src=[0x3000036];lobby_choice=show_preferences
+[15:37:50]HREF: 15:37 Das228 (usr:Das228) || Das228 src=[0x3000036];lobby_choice=show_preferences
+[15:37:51]HREF: 15:37 Das228 (usr:Das228) || Das228 src=[0x3000036];lobby_choice=show_preferences
+[15:37:51]HREF: 15:37 Das228 (usr:Das228) || Das228 src=[0x3000036];lobby_choice=show_preferences
+[15:37:52]HREF: 15:37 Das228 (usr:Das228) || Das228 src=[0x3000036];lobby_choice=show_preferences
+[15:37:53]HREF: 15:37 Das228 (usr:Das228) || Das228 src=[0x3000036];lobby_choice=show_preferences
+[15:38:19]HREF: 15:38 Das228 (usr:Das228) || Das228 src=[0x3000036];lobby_choice=show_preferences
+[15:38:28]HREF: 15:38 Das228 (usr:Das228) || Das228 src=[0x3000036];preference=open_load_dialog
+[15:38:36]HREF: 15:38 Das228 (usr:Das228) || _src_=prefs;preference=job;task=menu
+[15:38:40]HREF: 15:38 Das228 (usr:Das228) || _src_=prefs;preference=job;task=input;text=Squad%20Smartgunner
+[15:38:42]HREF: 15:38 Das228 (usr:Das228) || _src_=prefs;preference=job;task=input;text=Pilot%20Officer
+[15:38:44]HREF: 15:38 Das228 (usr:Das228) || _src_=prefs;preference=job;task=input;text=Pilot%20Officer
+[15:38:45]HREF: 15:38 Das228 (usr:Das228) || _src_=prefs;preference=job;task=input;text=Squad%20Engineer
+[15:38:45]HREF: 15:38 Das228 (usr:Das228) || _src_=prefs;preference=job;task=input;text=Squad%20Engineer
+[15:38:46]HREF: 15:38 Das228 (usr:Das228) || _src_=prefs;preference=job;task=input;text=Squad%20Marine
+[15:38:47]HREF: 15:38 Das228 (usr:Das228) || _src_=prefs;preference=job;task=input;text=Squad%20Marine
+[15:38:49]HREF: 15:38 Das228 (usr:Das228) || _src_=prefs;preference=job;task=input;text=Squad%20Smartgunner
+[15:38:51]HREF: 15:38 Das228 (usr:Das228) || _src_=prefs;preference=job;task=close
+[15:38:52]HREF: 15:38 Das228 (usr:Das228) || Das228 src=[0x3000036];lobby_choice=ready
+[15:38:54]HREF: 15:38 EngineerConager (usr:EngineerConager) || EngineerConager src=[0x3000030];lobby_choice=ready
+[15:38:54]HREF: 15:38 EngineerConager (usr:EngineerConager) || EngineerConager src=[0x3000030];lobby_choice=ready
+[15:38:55]HREF: 15:38 EngineerConager (usr:EngineerConager) || EngineerConager src=[0x3000030];lobby_choice=ready
+[15:38:55]HREF: 15:38 EngineerConager (usr:EngineerConager) || EngineerConager src=[0x3000030];lobby_choice=ready
+[15:38:56]HREF: 15:38 EngineerConager (usr:EngineerConager) || EngineerConager src=[0x3000030];lobby_choice=ready
+[15:38:56]HREF: 15:38 EngineerConager (usr:EngineerConager) || EngineerConager src=[0x3000030];lobby_choice=ready
+[15:38:57]HREF: 15:38 EngineerConager (usr:EngineerConager) || EngineerConager src=[0x3000030];lobby_choice=ready
+[15:38:57]HREF: 15:38 EngineerConager (usr:EngineerConager) || EngineerConager src=[0x3000030];lobby_choice=ready
+[15:38:57]HREF: 15:38 EngineerConager (usr:EngineerConager) || EngineerConager src=[0x3000030];lobby_choice=ready
+[15:38:58]HREF: 15:38 EngineerConager (usr:EngineerConager) || EngineerConager src=[0x3000030];lobby_choice=ready
+[15:38:58]HREF: 15:38 EngineerConager (usr:EngineerConager) || EngineerConager src=[0x3000030];lobby_choice=ready
+[15:38:59]HREF: 15:38 Das228 (usr:Das228) || Das228 src=[0x3000036];lobby_choice=ready
+[15:39:00]HREF: 15:39 Das228 (usr:Das228) || Das228 src=[0x3000036];lobby_choice=ready
+[15:39:47]HREF: 15:39 Artyuom (usr:Artyuom) || Artyuom src=[0x300003a];lobby_choice=ready
+[15:39:50]HREF: 15:39 BlackCrystalic (usr:BlackCrystalic) || BlackCrystalic src=[0x3000035];lobby_choice=ready
+[15:39:50]HREF: 15:39 BlackCrystalic (usr:BlackCrystalic) || BlackCrystalic src=[0x3000035];lobby_choice=show_preferences
+[15:39:52]HREF: 15:39 BlackCrystalic (usr:BlackCrystalic) || _src_=prefs;preference=job;task=menu
+[15:39:53]HREF: 15:39 BlackCrystalic (usr:BlackCrystalic) || _src_=prefs;preference=job;task=input;text=Commander
+[15:39:54]HREF: 15:39 Gaper (usr:Gaper) || Gaper src=[0x300003c];lobby_choice=show_preferences
+[15:39:57]HREF: 15:39 BlackCrystalic (usr:BlackCrystalic) || _src_=prefs;preference=job;task=input;text=Squad%20Leader
+[15:39:58]HREF: 15:39 BlackCrystalic (usr:BlackCrystalic) || _src_=prefs;preference=job;task=input;text=Squad%20Leader
+[15:39:59]HREF: 15:39 BlackCrystalic (usr:BlackCrystalic) || _src_=prefs;preference=job;task=input;text=Squad%20Leader
+[15:40:00]HREF: 15:40 BlackCrystalic (usr:BlackCrystalic) || _src_=prefs;preference=job;task=close
+[15:40:00]HREF: 15:40 BlackCrystalic (usr:BlackCrystalic) || BlackCrystalic src=[0x3000035];preference=save
+[15:40:01]HREF: 15:40 BlackCrystalic (usr:BlackCrystalic) || BlackCrystalic src=[0x3000035];preference=save
+[15:40:01]HREF: 15:40 BlackCrystalic (usr:BlackCrystalic) || BlackCrystalic src=[0x3000035];preference=save
+[15:40:01]HREF: 15:40 BlackCrystalic (usr:BlackCrystalic) || BlackCrystalic src=[0x3000035];preference=save
+[15:40:02]HREF: 15:40 BlackCrystalic (usr:BlackCrystalic) || BlackCrystalic src=[0x3000035];preference=save
+[15:40:08]HREF: 15:40 Artyuom (usr:Artyuom) || Artyuom src=[0x300003a];lobby_choice=show_preferences
+[15:40:12]HREF: 15:40 Gaper (usr:Gaper) || _src_=prefs;preference=name;task=input
+[15:40:16]HREF: 15:40 Artyuom (usr:Artyuom) || _src_=prefs;preference=job;task=menu
+[15:40:21]HREF: 15:40 Artyuom (usr:Artyuom) || _src_=prefs;preference=job;task=input;text=Doctor
+[15:40:23]HREF: 15:40 Artyuom (usr:Artyuom) || _src_=prefs;preference=job;task=input;text=Doctor
+[15:40:24]HREF: 15:40 Artyuom (usr:Artyuom) || _src_=prefs;preference=job;task=input;text=Doctor
+[15:40:25]HREF: 15:40 Artyuom (usr:Artyuom) || _src_=prefs;preference=job;task=close
+[15:40:27]HREF: 15:40 Gaper (usr:Gaper) || Gaper src=[0x300003c];preference=religion;task=input
+[15:40:41]HREF: 15:40 Artyuom (usr:Artyuom) || _src_=prefs;preference=be_special;num=0
+[15:40:41]HREF: 15:40 Artyuom (usr:Artyuom) || _src_=prefs;preference=be_special;num=2
+[15:40:43]HREF: 15:40 Artyuom (usr:Artyuom) || _src_=prefs;preference=be_special;num=3
+[15:40:44]HREF: 15:40 Artyuom (usr:Artyuom) || _src_=prefs;preference=be_special;num=3
+[15:40:45]HREF: 15:40 Artyuom (usr:Artyuom) || _src_=prefs;preference=job;task=menu
+[15:40:49]HREF: 15:40 Gaper (usr:Gaper) || Gaper src=[0x300003c];preference=religion;task=input
+[15:41:00]HREF: 15:41 Gaper (usr:Gaper) || _src_=prefs;preference=nt_relation;task=input
+[15:41:06]HREF: 15:41 Gaper (usr:Gaper) || _src_=prefs;preference=bag;task=input
+[15:41:17]HREF: 15:41 Gaper (usr:Gaper) || _src_=prefs;preference=f_style;task=input
+[15:41:25]HREF: 15:41 Fogusin (usr:Fogusin) || Fogusin src=[0x300003f];lobby_choice=show_preferences
+[15:41:28]HREF: 15:41 Fogusin (usr:Fogusin) || Fogusin src=[0x300003f];lobby_choice=show_preferences
+[15:41:30]HREF: 15:41 EngineerConager (usr:EngineerConager) || EngineerConager src=[0x3000030];lobby_choice=show_preferences
+[15:41:30]HREF: 15:41 Gaper (usr:Gaper) || Gaper src=[0x300003c];preference=save
+[15:41:31]HREF: 15:41 Fogusin (usr:Fogusin) || Fogusin src=[0x3000040];lobby_choice=show_preferences
+[15:41:32]HREF: 15:41 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=menu
+[15:41:34]HREF: 15:41 Gaper (usr:Gaper) || Gaper src=[0x300003c];lobby_choice=show_preferences
+[15:41:34]HREF: 15:41 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Commander
+[15:41:35]HREF: 15:41 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Executive%20Officer
+[15:41:36]HREF: 15:41 Gaper (usr:Gaper) || _src_=prefs;preference=job;task=menu
+[15:41:36]HREF: 15:41 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Executive%20Officer
+[15:41:36]HREF: 15:41 Fogusin (usr:Fogusin) || Fogusin src=[0x3000040];lobby_choice=show_preferences
+[15:41:37]HREF: 15:41 Gaper (usr:Gaper) || _src_=prefs;preference=job;task=input;text=Military%20Police
+[15:41:38]HREF: 15:41 Gaper (usr:Gaper) || _src_=prefs;preference=job;task=input;text=Military%20Police
+[15:41:38]HREF: 15:41 Gaper (usr:Gaper) || _src_=prefs;preference=job;task=input;text=Military%20Police
+[15:41:39]HREF: 15:41 Gaper (usr:Gaper) || _src_=prefs;preference=job;task=close
+[15:41:41]HREF: 15:41 Gaper (usr:Gaper) || Gaper src=[0x300003c];preference=save
+[15:41:41]HREF: 15:41 Fogusin (usr:Fogusin) || Fogusin src=[0x3000040];lobby_choice=show_preferences
+[15:41:42]HREF: 15:41 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Squad%20Leader
+[15:41:42]HREF: 15:41 Fogusin (usr:Fogusin) || Fogusin src=[0x3000040];lobby_choice=show_preferences
+[15:41:42]HREF: 15:41 Fogusin (usr:Fogusin) || Fogusin src=[0x3000040];lobby_choice=show_preferences
+[15:41:43]HREF: 15:41 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Squad%20Leader
+[15:41:43]HREF: 15:41 Fogusin (usr:Fogusin) || Fogusin src=[0x3000040];lobby_choice=show_preferences
+[15:41:44]HREF: 15:41 Gaper (usr:Gaper) || Gaper src=[0x300003c];lobby_choice=ready
+[15:41:44]HREF: 15:41 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Squad%20Leader
+[15:42:11]HREF: 15:42 NIKIGO (usr:NIKIGO) || NIKIGO src=[0x3000032];lobby_choice=show_preferences
+[15:42:26]HREF: 15:42 NIKIGO (usr:NIKIGO) || NIKIGO src=[0x3000032];lobby_choice=ready
+[15:43:49]HREF: 15:43 EngineerConager (usr:Dell Conrad) || _=1592052227411
+[15:43:49]HREF: 15:43 EngineerConager (usr:Dell Conrad) || _=1592052227412
+[15:43:51]HREF: 15:43 BlackCrystalic (usr:Blacky 'GG' Crysis) || _=1592052231413
+[15:43:51]HREF: 15:43 BlackCrystalic (usr:Blacky 'GG' Crysis) || _=1592052231414
+[15:43:51]HREF: 15:43 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21005cad];vend=6;cat=0
+[15:44:02]HREF: 15:44 Das228 (usr:Osmund Howard) || _=1592052239076
+[15:44:02]HREF: 15:44 Das228 (usr:Osmund Howard) || _=1592052239077
+[15:44:03]HREF: 15:44 BlackCrystalic (usr:Blacky 'GG' Crysis) || _=1592052243376
+[15:44:03]HREF: 15:44 BlackCrystalic (usr:Blacky 'GG' Crysis) || _=1592052243377
+[15:44:03]HREF: 15:44 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x21005cb7];vend=1;cat=0
+[15:44:04]HREF: 15:44 BlackCrystalic (usr:Blacky 'GG' Crysis) || /datum/nanoui src=[0x21005cb8];vend=6;cat=0
+[15:44:10]HREF: 15:44 Das228 (usr:Osmund Howard) || _=1592052247042
+[15:44:10]HREF: 15:44 Das228 (usr:Osmund Howard) || _=1592052247043
+[15:44:11]HREF: 15:44 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x21005cb2];vend=3;cat=0
+[15:44:35]HREF: 15:44 Artyuom (usr:Johnny Vietnam) || All-In-One Grinder src=[0x200d897];action=grind
+[15:44:37]HREF: 15:44 EngineerConager (usr:Dell Conrad) || _=1592052275824
+[15:44:37]HREF: 15:44 EngineerConager (usr:Dell Conrad) || _=1592052275825
+[15:44:39]HREF: 15:44 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21005ccf];vend=1;cat=0
+[15:44:41]HREF: 15:44 EngineerConager (usr:Dell Conrad) || _=1592052279915
+[15:44:41]HREF: 15:44 EngineerConager (usr:Dell Conrad) || _=1592052279916
+[15:44:42]HREF: 15:44 Artyuom (usr:Johnny Vietnam) || _=1592052278967
+[15:44:42]HREF: 15:44 Artyuom (usr:Johnny Vietnam) || _=1592052278968
+[15:44:46]HREF: 15:44 Artyuom (usr:Johnny Vietnam) || _=1592052282923
+[15:44:46]HREF: 15:44 Artyuom (usr:Johnny Vietnam) || _=1592052282924
+[15:45:08]HREF: 15:45 Artyuom (usr:Johnny Vietnam) || _=1592052304904
+[15:45:08]HREF: 15:45 Artyuom (usr:Johnny Vietnam) || _=1592052304905
+[15:45:08]HREF: 15:45 Artyuom (usr:Johnny Vietnam) || _=1592052304966
+[15:45:08]HREF: 15:45 Artyuom (usr:Johnny Vietnam) || _=1592052304967
+[15:45:23]HREF: 15:45 EngineerConager (usr:Dell Conrad) || _=1592052322107
+[15:45:23]HREF: 15:45 EngineerConager (usr:Dell Conrad) || _=1592052322108
+[15:45:28]HREF: 15:45 Artyuom (usr:Johnny Vietnam) || _=1592052324814
+[15:45:28]HREF: 15:45 Artyuom (usr:Johnny Vietnam) || _=1592052324815
+[15:45:29]HREF: 15:45 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21005cdb];vend=1;cat=0
+[15:45:29]HREF: 15:45 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21005cdb];vend=1;cat=0
+[15:45:30]HREF: 15:45 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21005cdb];vend=1;cat=0
+[15:45:32]HREF: 15:45 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005cd4];dispense=sacid
+[15:45:33]HREF: 15:45 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005cd4];ejectBeaker=1
+[15:45:37]HREF: 15:45 EngineerConager (usr:Dell Conrad) || _=1592052336036
+[15:45:37]HREF: 15:45 EngineerConager (usr:Dell Conrad) || _=1592052336037
+[15:45:38]HREF: 15:45 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21005cd2];vend=1;cat=0
+[15:45:39]HREF: 15:45 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21005cd2];vend=1;cat=0
+[15:45:39]HREF: 15:45 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21005cd2];vend=1;cat=0
+[15:45:40]HREF: 15:45 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21005cd2];vend=1;cat=0
+[15:45:40]HREF: 15:45 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21005cd2];vend=2;cat=0
+[15:45:40]HREF: 15:45 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21005cd2];vend=2;cat=0
+[15:45:47]HREF: 15:45 Das228 (usr:Osmund Howard) || _=1592052343828
+[15:45:47]HREF: 15:45 Das228 (usr:Osmund Howard) || _=1592052343829
+[15:45:48]HREF: 15:45 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x21005cd4];vend=2
+[15:45:48]HREF: 15:45 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x21005cd4];vend=3
+[15:45:48]HREF: 15:45 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x21005cd4];vend=4
+[15:45:49]HREF: 15:45 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x21005cd4];vend=6
+[15:45:50]HREF: 15:45 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x21005cd4];vend=5
+[15:45:55]HREF: 15:45 EngineerConager (usr:Dell Conrad) || _=1592052353341
+[15:45:55]HREF: 15:45 EngineerConager (usr:Dell Conrad) || _=1592052353342
+[15:45:56]HREF: 15:45 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21005cd3];vend=2;cat=0

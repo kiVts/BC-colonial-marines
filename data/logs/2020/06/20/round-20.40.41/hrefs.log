@@ -1,0 +1,15 @@
+
+
+Starting up round 20:40:41
+---------------------
+[21:36:38]HREF: 21:36 ZyberCpechnaz (usr:ZyberCpechnaz) || ZyberCpechnaz src=[0x3000030];lobby_choice=ready
+[21:36:39]HREF: 21:36 ZyberCpechnaz (usr:ZyberCpechnaz) || ZyberCpechnaz src=[0x3000030];lobby_choice=show_preferences
+[21:36:40]HREF: 21:36 ZyberCpechnaz (usr:ZyberCpechnaz) || _src_=prefs;preference=be_special;num=1
+[21:36:41]HREF: 21:36 ZyberCpechnaz (usr:ZyberCpechnaz) || _src_=prefs;preference=be_special;num=0
+[21:36:41]HREF: 21:36 ZyberCpechnaz (usr:ZyberCpechnaz) || ZyberCpechnaz src=[0x3000030];preference=save
+[21:36:42]HREF: 21:36 ZyberCpechnaz (usr:ZyberCpechnaz) || _src_=prefs;preference=job;task=menu
+[21:36:44]HREF: 21:36 ZyberCpechnaz (usr:ZyberCpechnaz) || _src_=prefs;preference=job;task=close
+[21:36:48]HREF: 21:36 BlackCrystalic (usr:BlackCrystalic) || BlackCrystalic src=[0x300002e];lobby_choice=ready
+[21:36:48]HREF: 21:36 BlackCrystalic (usr:BlackCrystalic) || BlackCrystalic src=[0x300002e];lobby_choice=show_preferences
+[21:36:49]HREF: 21:36 BlackCrystalic (usr:BlackCrystalic) || _src_=prefs;preference=job;task=menu
+[21:36:51]HREF: 21:36 BlackCrystalic (usr:BlackCrystalic) || _src_=prefs;preference=job;task=close

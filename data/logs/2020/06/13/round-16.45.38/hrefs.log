@@ -1,0 +1,729 @@
+
+
+Starting up round 16:45:38
+---------------------
+[16:45:59]HREF: 16:45 Sewa (usr:Sewa) || Sewa src=[0x300001f];lobby_choice=ready
+[16:46:10]HREF: 16:46 Artyuom (usr:Artyuom) || Artyuom src=[0x3000022];lobby_choice=show_preferences
+[16:46:14]HREF: 16:46 Das228 (usr:Das228) || Das228 src=[0x300001d];lobby_choice=show_preferences
+[16:46:15]HREF: 16:46 Artyuom (usr:Artyuom) || _src_=prefs;preference=be_special;num=0
+[16:46:16]HREF: 16:46 Artyuom (usr:Artyuom) || _src_=prefs;preference=be_special;num=2
+[16:46:17]HREF: 16:46 Artyuom (usr:Artyuom) || _src_=prefs;preference=job;task=menu
+[16:46:18]HREF: 16:46 Das228 (usr:Das228) || _src_=prefs;preference=job;task=menu
+[16:46:20]HREF: 16:46 Das228 (usr:Das228) || _src_=prefs;preference=job;task=input;text=Pilot%20Officer
+[16:46:22]HREF: 16:46 Das228 (usr:Das228) || _src_=prefs;preference=job;task=input;text=Squad%20Engineer
+[16:46:22]HREF: 16:46 Sewa (usr:Sewa) || Sewa src=[0x300001f];lobby_choice=ready
+[16:46:22]HREF: 16:46 Sewa (usr:Sewa) || Sewa src=[0x300001f];lobby_choice=ready
+[16:46:23]HREF: 16:46 Das228 (usr:Das228) || _src_=prefs;preference=job;task=input;text=Squad%20Engineer
+[16:46:24]HREF: 16:46 Das228 (usr:Das228) || _src_=prefs;preference=job;task=input;text=Squad%20Marine
+[16:46:24]HREF: 16:46 Das228 (usr:Das228) || _src_=prefs;preference=job;task=input;text=Squad%20Marine
+[16:46:26]HREF: 16:46 Das228 (usr:Das228) || _src_=prefs;preference=job;task=input;text=Squad%20Smartgunner
+[16:46:29]HREF: 16:46 Das228 (usr:Das228) || _src_=prefs;preference=job;task=close
+[16:46:30]HREF: 16:46 Das228 (usr:Das228) || Das228 src=[0x300001d];preference=save
+[16:46:32]HREF: 16:46 CM.RU (usr:CM.RU) || CM.RU src=[0x300001e];lobby_choice=show_preferences
+[16:46:33]HREF: 16:46 Das228 (usr:Das228) || Das228 src=[0x300001d];lobby_choice=ready
+[16:46:37]HREF: 16:46 CM.RU (usr:CM.RU) || _src_=prefs;preference=prefsquad;task=input
+[16:46:41]HREF: 16:46 CM.RU (usr:CM.RU) || _src_=prefs;preference=job;task=menu
+[16:46:45]HREF: 16:46 CM.RU (usr:CM.RU) || _src_=prefs;preference=job;task=input;text=Squad%20Leader
+[16:46:46]HREF: 16:46 CM.RU (usr:CM.RU) || _src_=prefs;preference=job;task=input;text=Squad%20Leader
+[16:46:46]HREF: 16:46 CM.RU (usr:CM.RU) || _src_=prefs;preference=job;task=input;text=Squad%20Leader
+[16:46:48]HREF: 16:46 CM.RU (usr:CM.RU) || _src_=prefs;preference=job;task=close
+[16:46:49]HREF: 16:46 CM.RU (usr:CM.RU) || CM.RU src=[0x300001e];preference=save
+[16:46:49]HREF: 16:46 CM.RU (usr:CM.RU) || CM.RU src=[0x300001e];preference=save
+[16:46:49]HREF: 16:46 CM.RU (usr:CM.RU) || CM.RU src=[0x300001e];preference=save
+[16:46:50]HREF: 16:46 CM.RU (usr:CM.RU) || CM.RU src=[0x300001e];preference=save
+[16:46:50]HREF: 16:46 CM.RU (usr:CM.RU) || CM.RU src=[0x300001e];preference=save
+[16:46:50]HREF: 16:46 CM.RU (usr:CM.RU) || CM.RU src=[0x300001e];preference=save
+[16:46:58]HREF: 16:46 Artyuom (usr:Artyuom) || Artyuom src=[0x3000022];lobby_choice=ready
+[16:47:01]HREF: 16:47 EngineerConager (usr:EngineerConager) || EngineerConager src=[0x3000024];lobby_choice=show_preferences
+[16:47:01]HREF: 16:47 Artyuom (usr:Artyuom) || Artyuom src=[0x3000022];lobby_choice=ready
+[16:47:01]HREF: 16:47 Artyuom (usr:Artyuom) || Artyuom src=[0x3000022];lobby_choice=show_preferences
+[16:47:05]HREF: 16:47 Artyuom (usr:Artyuom) || _src_=prefs;preference=job;task=menu
+[16:47:06]HREF: 16:47 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=menu
+[16:47:37]HREF: 16:47 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Squad%20Engineer
+[16:47:42]HREF: 16:47 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Squad%20Engineer
+[16:47:43]HREF: 16:47 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Squad%20Marine
+[16:47:44]HREF: 16:47 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Squad%20Marine
+[16:47:44]HREF: 16:47 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Squad%20Marine
+[16:47:46]HREF: 16:47 Random12234 (usr:Random12234) || Random12234 src=[0x3000023];lobby_choice=ready
+[16:47:47]HREF: 16:47 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Vehicle%20Crewman
+[16:47:48]HREF: 16:47 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Vehicle%20Crewman
+[16:47:48]HREF: 16:47 Das228 (usr:Das228) || Das228 src=[0x300001d];lobby_choice=ready
+[16:47:49]HREF: 16:47 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Vehicle%20Crewman
+[16:47:49]HREF: 16:47 Das228 (usr:Das228) || Das228 src=[0x300001d];lobby_choice=show_preferences
+[16:47:51]HREF: 16:47 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Commander
+[16:47:52]HREF: 16:47 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Commander
+[16:47:52]HREF: 16:47 Das228 (usr:Das228) || _src_=prefs;preference=job;task=menu
+[16:47:53]HREF: 16:47 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Executive%20Officer
+[16:47:54]HREF: 16:47 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Executive%20Officer
+[16:47:55]HREF: 16:47 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Executive%20Officer
+[16:47:56]HREF: 16:47 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Executive%20Officer
+[16:47:56]HREF: 16:47 Random12234 (usr:Random12234) || Random12234 src=[0x3000023];lobby_choice=show_preferences
+[16:47:56]HREF: 16:47 Das228 (usr:Das228) || _src_=prefs;preference=job;task=input;text=Vehicle%20Crewman
+[16:47:56]HREF: 16:47 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Executive%20Officer
+[16:47:57]HREF: 16:47 Das228 (usr:Das228) || _src_=prefs;preference=job;task=input;text=Vehicle%20Crewman
+[16:47:57]HREF: 16:47 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Executive%20Officer
+[16:47:57]HREF: 16:47 Das228 (usr:Das228) || _src_=prefs;preference=job;task=input;text=Vehicle%20Crewman
+[16:47:58]HREF: 16:47 Das228 (usr:Das228) || _src_=prefs;preference=job;task=close
+[16:47:59]HREF: 16:47 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Squad%20Marine
+[16:48:00]HREF: 16:48 Random12234 (usr:Random12234) || _src_=prefs;preference=be_special;num=0
+[16:48:00]HREF: 16:48 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Squad%20Marine
+[16:48:01]HREF: 16:48 Das228 (usr:Das228) || Das228 src=[0x300001d];preference=citizenship;task=input
+[16:48:01]HREF: 16:48 EngineerConager (usr:EngineerConager) || _src_=prefs;preference=job;task=input;text=Vehicle%20Crewman
+[16:48:06]HREF: 16:48 EngineerConager (usr:EngineerConager) || EngineerConager src=[0x3000024];lobby_choice=ready
+[16:48:09]HREF: 16:48 ZyberCpechnaz (usr:ZyberCpechnaz) || ZyberCpechnaz src=[0x300001c];lobby_choice=ready
+[16:48:09]HREF: 16:48 ZyberCpechnaz (usr:ZyberCpechnaz) || ZyberCpechnaz src=[0x300001c];lobby_choice=show_preferences
+[16:48:09]HREF: 16:48 Das228 (usr:Das228) || Das228 src=[0x300001d];lobby_choice=ready
+[16:48:11]HREF: 16:48 ZyberCpechnaz (usr:ZyberCpechnaz) || _src_=prefs;preference=job;task=menu
+[16:48:14]HREF: 16:48 ZyberCpechnaz (usr:ZyberCpechnaz) || _src_=prefs;preference=job;task=input;text=Squad%20Leader
+[16:48:15]HREF: 16:48 ZyberCpechnaz (usr:ZyberCpechnaz) || _src_=prefs;preference=job;task=input;text=Squad%20Leader
+[16:48:16]HREF: 16:48 ZyberCpechnaz (usr:ZyberCpechnaz) || _src_=prefs;preference=job;task=input;text=Squad%20Leader
+[16:48:17]HREF: 16:48 ZyberCpechnaz (usr:ZyberCpechnaz) || _src_=prefs;preference=job;task=close
+[16:48:18]HREF: 16:48 ZyberCpechnaz (usr:ZyberCpechnaz) || ZyberCpechnaz src=[0x300001c];preference=save
+[16:48:18]HREF: 16:48 ZyberCpechnaz (usr:ZyberCpechnaz) || ZyberCpechnaz src=[0x300001c];preference=save
+[16:48:18]HREF: 16:48 ZyberCpechnaz (usr:ZyberCpechnaz) || ZyberCpechnaz src=[0x300001c];preference=save
+[16:48:18]HREF: 16:48 ZyberCpechnaz (usr:ZyberCpechnaz) || ZyberCpechnaz src=[0x300001c];preference=save
+[16:48:19]HREF: 16:48 ZyberCpechnaz (usr:ZyberCpechnaz) || ZyberCpechnaz src=[0x300001c];preference=save
+[16:48:33]HREF: 16:48 Das228 (usr:Das228) || Das228 src=[0x300001d];lobby_choice=ready
+[16:48:33]HREF: 16:48 Das228 (usr:Das228) || Das228 src=[0x300001d];lobby_choice=show_preferences
+[16:48:34]HREF: 16:48 Das228 (usr:Das228) || Das228 src=[0x300001d];preference=open_load_dialog
+[16:48:37]HREF: 16:48 Das228 (usr:Das228) || _src_=prefs;preference=job;task=menu
+[16:48:38]HREF: 16:48 Das228 (usr:Das228) || _src_=prefs;preference=job;task=input;text=Vehicle%20Crewman
+[16:48:40]HREF: 16:48 Das228 (usr:Das228) || _src_=prefs;preference=job;task=input;text=Squad%20Smartgunner
+[16:48:41]HREF: 16:48 Das228 (usr:Das228) || _src_=prefs;preference=job;task=close
+[16:48:44]HREF: 16:48 Das228 (usr:Das228) || Das228 src=[0x300001d];lobby_choice=ready
+[16:48:56]HREF: 16:48 Artyuom (usr:Artyuom) || Artyuom src=[0x3000022];lobby_choice=ready
+[16:48:56]HREF: 16:48 Alot (usr:Alot) || Alot src=[0x3000020];lobby_choice=ready
+[16:48:57]HREF: 16:48 Artyuom (usr:Artyuom) || Artyuom src=[0x3000022];lobby_choice=late_join
+[16:48:57]HREF: 16:48 Alot (usr:Alot) || Alot src=[0x3000020];lobby_choice=manifest
+[16:49:00]HREF: 16:49 Alot (usr:Alot) || Alot src=[0x3000020];lobby_choice=manifest
+[16:49:05]HREF: 16:49 Alot (usr:Alot) || Alot src=[0x3000020];lobby_choice=late_join_xeno
+[16:49:08]HREF: 16:49 Alot (usr:Alot) || Alot src=[0x3000020];lobby_choice=late_join_xeno
+[16:49:10]HREF: 16:49 Das228 (usr:Osmund Howard) || _=1592056149309
+[16:49:10]HREF: 16:49 Das228 (usr:Osmund Howard) || _=1592056149310
+[16:49:10]HREF: 16:49 Alot (usr:Alot) || Alot src=[0x3000020];lobby_choice=manifest
+[16:49:11]HREF: 16:49 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x21006129];vend=2;cat=0
+[16:49:12]HREF: 16:49 Alot (usr:Alot) || Alot src=[0x3000020];lobby_choice=late_join
+[16:49:16]HREF: 16:49 Alot (usr:Alot) || Alot src=[0x3000020];lobby_choice=SelectedJob;job_selected=Squad%20Specialist
+[16:49:30]HREF: 16:49 Alot (usr:Sarah 'Phantom' Black) || _=1592056167238
+[16:49:30]HREF: 16:49 Alot (usr:Sarah 'Phantom' Black) || _=1592056167239
+[16:49:30]HREF: 16:49 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x21006158];vend=7;cat=0
+[16:49:31]HREF: 16:49 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x21006158];vend=6;cat=0
+[16:49:32]HREF: 16:49 Danik_10p (usr:Danik_10p) || Danik_10p src=[0x3000021];lobby_choice=ready
+[16:49:35]HREF: 16:49 Danik_10p (usr:Danik_10p) || Danik_10p src=[0x3000021];lobby_choice=late_join_xeno
+[16:49:37]HREF: 16:49 Das228 (usr:Osmund Howard) || _=1592056176238
+[16:49:37]HREF: 16:49 Das228 (usr:Osmund Howard) || _=1592056176239
+[16:49:37]HREF: 16:49 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x2100616f];vend=2
+[16:49:38]HREF: 16:49 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x2100616f];vend=3
+[16:49:38]HREF: 16:49 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x2100616f];vend=4
+[16:49:38]HREF: 16:49 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x2100616f];vend=5
+[16:49:39]HREF: 16:49 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x2100616f];vend=6
+[16:49:45]HREF: 16:49 CM.RU (usr:CM.RU) || CM.RU src=[0x300001e];lobby_choice=observe
+[16:49:45]HREF: 16:49 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x2100616f];vend=8
+[16:49:48]HREF: 16:49 BlackCrystalic (usr:BlackCrystalic) || BlackCrystalic src=[0x3000025];lobby_choice=observe
+[16:49:54]HREF: 16:49 Alot (usr:Sarah 'Phantom' Black) || _=1592056191353
+[16:49:54]HREF: 16:49 Alot (usr:Sarah 'Phantom' Black) || _=1592056191354
+[16:49:54]HREF: 16:49 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x2100616f];vend=11
+[16:49:55]HREF: 16:49 Alot (usr:Sarah 'Phantom' Black) || _=1592056193014
+[16:49:55]HREF: 16:49 Alot (usr:Sarah 'Phantom' Black) || _=1592056193015
+[16:50:00]HREF: 16:50 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x2100617e];vend=4
+[16:50:08]HREF: 16:50 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x2100615d];vend=2
+[16:50:09]HREF: 16:50 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x2100615d];vend=3
+[16:50:09]HREF: 16:50 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x2100615d];vend=4
+[16:50:10]HREF: 16:50 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x2100615d];vend=5
+[16:50:14]HREF: 16:50 Danik_10p (usr:Danik_10p) || Danik_10p src=[0x3000021];lobby_choice=late_join_xeno
+[16:50:17]HREF: 16:50 Danik_10p (usr:Danik_10p) || Danik_10p src=[0x3000021];lobby_choice=late_join_xeno
+[16:50:20]HREF: 16:50 Artyuom (usr:Artyuom) || Artyuom src=[0x3000022];lobby_choice=late_join
+[16:50:28]HREF: 16:50 Artyuom (usr:Artyuom) || Artyuom src=[0x3000022];lobby_choice=SelectedJob;job_selected=Squad%20Medic
+[16:50:30]HREF: 16:50 Das228 (usr:Osmund Howard) || _=1592056229950
+[16:50:30]HREF: 16:50 Das228 (usr:Osmund Howard) || _=1592056229951
+[16:50:30]HREF: 16:50 Sewa (usr:Kelvin Focell) || _=1592056230911
+[16:50:30]HREF: 16:50 Sewa (usr:Kelvin Focell) || _=1592056230912
+[16:50:31]HREF: 16:50 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x2100616f];vend=8;cat=0
+[16:50:32]HREF: 16:50 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x210061a8];vend=2
+[16:50:49]HREF: 16:50 Artyuom (usr:Johnny Vietnam) || _=1592056245105
+[16:50:49]HREF: 16:50 Artyuom (usr:Johnny Vietnam) || _=1592056245106
+[16:50:50]HREF: 16:50 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061bb];vend=5;cat=0
+[16:50:51]HREF: 16:50 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061bb];vend=5;cat=0
+[16:51:13]HREF: 16:51 Alot (usr:Sarah 'Phantom' Black) || _=1592056270385
+[16:51:13]HREF: 16:51 Alot (usr:Sarah 'Phantom' Black) || _=1592056270386
+[16:51:14]HREF: 16:51 Artyuom (usr:Johnny Vietnam) || _=1592056269953
+[16:51:14]HREF: 16:51 Artyuom (usr:Johnny Vietnam) || _=1592056269954
+[16:51:15]HREF: 16:51 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061d9];vend=2
+[16:51:18]HREF: 16:51 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061d9];vend=3
+[16:51:19]HREF: 16:51 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061d9];vend=4
+[16:51:19]HREF: 16:51 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061d9];vend=6
+[16:51:20]HREF: 16:51 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061d9];vend=7
+[16:51:20]HREF: 16:51 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061d9];vend=5
+[16:51:20]HREF: 16:51 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x210061be];vend=19
+[16:51:32]HREF: 16:51 Alot (usr:Sarah 'Phantom' Black) || _=1592056289199
+[16:51:32]HREF: 16:51 Alot (usr:Sarah 'Phantom' Black) || _=1592056289200
+[16:51:39]HREF: 16:51 ZyberCpechnaz (usr:Cletus Rogers) || _=1592056299235
+[16:51:39]HREF: 16:51 ZyberCpechnaz (usr:Cletus Rogers) || _=1592056299236
+[16:51:44]HREF: 16:51 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x210061b8];vend=18
+[16:51:45]HREF: 16:51 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061d9];vend=11
+[16:51:47]HREF: 16:51 ZyberCpechnaz (usr:Cletus Rogers) || _=1592056307878
+[16:51:47]HREF: 16:51 ZyberCpechnaz (usr:Cletus Rogers) || _=1592056307879
+[16:51:49]HREF: 16:51 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210061b8];vend=5;cat=0
+[16:51:49]HREF: 16:51 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210061b8];vend=5;cat=0
+[16:51:53]HREF: 16:51 Alot (usr:Sarah 'Phantom' Black) || _=1592056310368
+[16:51:53]HREF: 16:51 Alot (usr:Sarah 'Phantom' Black) || _=1592056310369
+[16:51:55]HREF: 16:51 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061d9];vend=16
+[16:52:00]HREF: 16:52 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061d9];vend=19
+[16:52:01]HREF: 16:52 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x210061d3];vend=19;cat=0
+[16:52:03]HREF: 16:52 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061d9];vend=23
+[16:52:06]HREF: 16:52 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061d9];vend=25
+[16:52:10]HREF: 16:52 Artyuom (usr:Johnny Vietnam) || _=1592056326233
+[16:52:10]HREF: 16:52 Artyuom (usr:Johnny Vietnam) || _=1592056326234
+[16:52:11]HREF: 16:52 ZyberCpechnaz (usr:Cletus Rogers) || _=1592056331334
+[16:52:11]HREF: 16:52 ZyberCpechnaz (usr:Cletus Rogers) || _=1592056331335
+[16:52:12]HREF: 16:52 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210061dd];vend=2
+[16:52:12]HREF: 16:52 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210061dd];vend=3
+[16:52:15]HREF: 16:52 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061c1];vend=2
+[16:52:15]HREF: 16:52 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210061dd];vend=4
+[16:52:16]HREF: 16:52 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x210061a8];vend=15
+[16:52:18]HREF: 16:52 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210061dd];vend=5
+[16:52:20]HREF: 16:52 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210061dd];vend=6
+[16:52:21]HREF: 16:52 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210061dd];vend=7
+[16:52:25]HREF: 16:52 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x210061d3];vend=1;cat=0
+[16:52:26]HREF: 16:52 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210061dd];vend=14
+[16:52:26]HREF: 16:52 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x210061d3];vend=1;cat=0
+[16:52:30]HREF: 16:52 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210061dd];vend=17
+[16:52:32]HREF: 16:52 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210061dd];vend=25
+[16:52:33]HREF: 16:52 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210061dd];vend=25
+[16:52:39]HREF: 16:52 ZyberCpechnaz (usr:Cletus Rogers) || _=1592056359652
+[16:52:39]HREF: 16:52 ZyberCpechnaz (usr:Cletus Rogers) || _=1592056359653
+[16:52:40]HREF: 16:52 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210061dd];vend=2
+[16:52:42]HREF: 16:52 Alot (usr:Sarah 'Phantom' Black) || _=1592056359796
+[16:52:42]HREF: 16:52 Alot (usr:Sarah 'Phantom' Black) || _=1592056359797
+[16:52:48]HREF: 16:52 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061c1];vend=12
+[16:52:49]HREF: 16:52 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061c1];vend=13
+[16:52:52]HREF: 16:52 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061c1];vend=17
+[16:52:55]HREF: 16:52 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210061dd];vend=14
+[16:52:55]HREF: 16:52 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210061dd];vend=14
+[16:52:58]HREF: 16:52 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x210061a8];vend=4
+[16:53:05]HREF: 16:53 Sewa (usr:Kelvin Focell) || The high-res forensic scanning computer src=[0x200a5ce];operation=login
+[16:53:13]HREF: 16:53 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061c1];vend=14
+[16:53:15]HREF: 16:53 Alot (usr:Sarah 'Phantom' Black) || _=1592056392220
+[16:53:15]HREF: 16:53 Alot (usr:Sarah 'Phantom' Black) || _=1592056392221
+[16:53:15]HREF: 16:53 Danik_10p (usr:Danik_10p) || Danik_10p src=[0x3000021];lobby_choice=late_join_xeno
+[16:53:17]HREF: 16:53 Danik_10p (usr:Danik_10p) || Danik_10p src=[0x3000021];lobby_choice=late_join_xeno
+[16:53:23]HREF: 16:53 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x210061a8];vend=9
+[16:53:24]HREF: 16:53 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x210061a8];vend=9
+[16:53:25]HREF: 16:53 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x210061a8];vend=9
+[16:53:25]HREF: 16:53 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x210061a8];vend=9
+[16:53:26]HREF: 16:53 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061c1];vend=27
+[16:53:28]HREF: 16:53 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061c1];vend=27
+[16:53:29]HREF: 16:53 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061c1];vend=28
+[16:53:50]HREF: 16:53 Alot (usr:Sarah 'Phantom' Black) || _=1592056427474
+[16:53:50]HREF: 16:53 Alot (usr:Sarah 'Phantom' Black) || _=1592056427475
+[16:53:54]HREF: 16:53 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x210063c3];vend=11;cat=0
+[16:54:00]HREF: 16:54 ZyberCpechnaz (usr:Cletus Rogers) || _=1592056440157
+[16:54:00]HREF: 16:54 ZyberCpechnaz (usr:Cletus Rogers) || _=1592056440158
+[16:54:05]HREF: 16:54 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210063c2];vend=42;cat=0
+[16:54:09]HREF: 16:54 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210063c2];vend=40;cat=0
+[16:54:10]HREF: 16:54 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210063c2];vend=40;cat=0
+[16:54:10]HREF: 16:54 Artyuom (usr:Johnny Vietnam) || _=1592056445623
+[16:54:10]HREF: 16:54 Artyuom (usr:Johnny Vietnam) || _=1592056445624
+[16:54:10]HREF: 16:54 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210063c2];vend=40;cat=0
+[16:54:10]HREF: 16:54 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210063c2];vend=40;cat=0
+[16:54:11]HREF: 16:54 Das228 (usr:Osmund Howard) || _=1592056450849
+[16:54:11]HREF: 16:54 Das228 (usr:Osmund Howard) || _=1592056450850
+[16:54:11]HREF: 16:54 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210063c7];vend=20;cat=0
+[16:54:12]HREF: 16:54 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210063c7];vend=19;cat=0
+[16:54:15]HREF: 16:54 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x210063d0];vend=19;cat=0
+[16:54:26]HREF: 16:54 Fogusin (usr:Fogusin) || Fogusin src=[0x300004b];lobby_choice=show_preferences
+[16:54:35]HREF: 16:54 ZyberCpechnaz (usr:Cletus Rogers) || _=1592056475711
+[16:54:35]HREF: 16:54 ZyberCpechnaz (usr:Cletus Rogers) || _=1592056475712
+[16:54:41]HREF: 16:54 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210063dc];vend=6;cat=0
+[16:55:06]HREF: 16:55 ZyberCpechnaz (usr:Cletus Rogers) || _=1592056506108
+[16:55:06]HREF: 16:55 ZyberCpechnaz (usr:Cletus Rogers) || _=1592056506109
+[16:55:07]HREF: 16:55 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210063da];vend=11;cat=0
+[16:55:13]HREF: 16:55 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210063da];vend=5;cat=0
+[16:55:21]HREF: 16:55 ZyberCpechnaz (usr:Cletus Rogers) || _=1592056521849
+[16:55:21]HREF: 16:55 ZyberCpechnaz (usr:Cletus Rogers) || _=1592056521850
+[16:55:25]HREF: 16:55 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210063d0];vend=34;cat=0
+[16:55:30]HREF: 16:55 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210063d0];vend=41;cat=0
+[16:55:30]HREF: 16:55 Danik_10p (usr:Danik_10p) || Danik_10p src=[0x3000021];lobby_choice=late_join_xeno
+[16:55:32]HREF: 16:55 Danik_10p (usr:Danik_10p) || Danik_10p src=[0x3000021];lobby_choice=late_join_xeno
+[16:55:38]HREF: 16:55 ZyberCpechnaz (usr:Cletus Rogers) || _=1592056538362
+[16:55:38]HREF: 16:55 ZyberCpechnaz (usr:Cletus Rogers) || _=1592056538363
+[16:55:46]HREF: 16:55 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x21005619];vend=19;cat=0
+[16:55:47]HREF: 16:55 Das228 (usr:Osmund Howard) || _=1592056546586
+[16:55:47]HREF: 16:55 Das228 (usr:Osmund Howard) || _=1592056546587
+[16:55:57]HREF: 16:55 Sewa (usr:Kelvin Focell) || The metal src=[0x2017776];sublist=;make=13;multiplier=1
+[16:56:01]HREF: 16:56 Sewa (usr:Kelvin Focell) || The metal src=[0x2017776];sublist=;make=13;multiplier=1
+[16:56:03]HREF: 16:56 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x21005619];vend=19;cat=0
+[16:56:08]HREF: 16:56 Artyuom (usr:Johnny Vietnam) || _=1592056563804
+[16:56:08]HREF: 16:56 Artyuom (usr:Johnny Vietnam) || _=1592056563805
+[16:56:10]HREF: 16:56 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100561c];vend=23;cat=0
+[16:56:13]HREF: 16:56 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x21005619];vend=6;cat=0
+[16:56:13]HREF: 16:56 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x21005619];vend=7;cat=0
+[16:56:13]HREF: 16:56 Alot (usr:Sarah 'Phantom' Black) || _=1592056570963
+[16:56:13]HREF: 16:56 Alot (usr:Sarah 'Phantom' Black) || _=1592056570964
+[16:56:14]HREF: 16:56 Sewa (usr:Kelvin Focell) || The metal src=[0x2017776];sublist=;make=13;multiplier=1
+[16:56:15]HREF: 16:56 Sewa (usr:Kelvin Focell) || The metal src=[0x2017776];sublist=;make=13;multiplier=1
+[16:56:16]HREF: 16:56 Sewa (usr:Kelvin Focell) || The metal src=[0x2017776];sublist=;make=13;multiplier=1
+[16:56:20]HREF: 16:56 Sewa (usr:Kelvin Focell) || The metal src=[0x2017776];sublist=;make=13;multiplier=1
+[16:56:26]HREF: 16:56 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x21005619];vend=5;cat=0
+[16:56:30]HREF: 16:56 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x21005619];vend=11;cat=0
+[16:56:32]HREF: 16:56 Sewa (usr:Kelvin Focell) || The metal src=[0x2017776];sublist=;make=13;multiplier=1
+[16:56:41]HREF: 16:56 Artyuom (usr:Johnny Vietnam) || _=1592056596618
+[16:56:41]HREF: 16:56 Artyuom (usr:Johnny Vietnam) || _=1592056596619
+[16:56:43]HREF: 16:56 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100561a];vend=18;cat=0
+[16:56:43]HREF: 16:56 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100561a];vend=18;cat=0
+[16:56:43]HREF: 16:56 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100561a];vend=18;cat=0
+[16:56:53]HREF: 16:56 Artyuom (usr:Johnny Vietnam) || _=1592056609285
+[16:56:53]HREF: 16:56 Artyuom (usr:Johnny Vietnam) || _=1592056609286
+[16:56:55]HREF: 16:56 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210063d0];vend=18;cat=0
+[16:56:55]HREF: 16:56 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210063d0];vend=18;cat=0
+[16:56:56]HREF: 16:56 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210063d0];vend=18;cat=0
+[16:56:56]HREF: 16:56 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210063d0];vend=18;cat=0
+[16:57:46]HREF: 16:57 Danik_10p (usr:Danik_10p) || Danik_10p src=[0x3000021];lobby_choice=late_join_xeno
+[16:58:16]HREF: 16:58 Alot (usr:Sarah 'Phantom' Black) || _=1592056693204
+[16:58:16]HREF: 16:58 Alot (usr:Sarah 'Phantom' Black) || _=1592056693205
+[16:58:17]HREF: 16:58 Sewa (usr:Kelvin Focell) || The metal src=[0x200aa28];sublist=;make=13;multiplier=1
+[16:58:20]HREF: 16:58 Alot (usr:Sarah 'Phantom' Black) || _=1592056697986
+[16:58:20]HREF: 16:58 Alot (usr:Sarah 'Phantom' Black) || _=1592056697987
+[16:58:28]HREF: 16:58 Sewa (usr:Kelvin Focell) || The metal src=[0x200aa28];make=12;multiplier=4
+[16:58:28]HREF: 16:58 Sewa (usr:Kelvin Focell) || The metal src=[0x200aa28];sublist=;make=12;multiplier=1
+[16:58:29]HREF: 16:58 Sewa (usr:Kelvin Focell) || The metal src=[0x200aa28];sublist=;make=12;multiplier=1
+[16:58:30]HREF: 16:58 Sewa (usr:Kelvin Focell) || The metal src=[0x200aa28];sublist=;make=12;multiplier=1
+[16:58:30]HREF: 16:58 Sewa (usr:Kelvin Focell) || The metal src=[0x200aa28];sublist=;make=12;multiplier=1
+[16:58:32]HREF: 16:58 Sewa (usr:Kelvin Focell) || The metal src=[0x200aa28];sublist=;make=12;multiplier=1
+[16:58:33]HREF: 16:58 Sewa (usr:Kelvin Focell) || The metal src=[0x200aa28];sublist=;make=12;multiplier=1
+[16:58:33]HREF: 16:58 Sewa (usr:Kelvin Focell) || The metal src=[0x200aa28];sublist=;make=12;multiplier=1
+[16:58:38]HREF: 16:58 Alot (usr:Sarah 'Phantom' Black) || _=1592056715397
+[16:58:38]HREF: 16:58 Alot (usr:Sarah 'Phantom' Black) || _=1592056715398
+[16:58:40]HREF: 16:58 Alot (usr:Sarah 'Phantom' Black) || _=1592056717648
+[16:58:40]HREF: 16:58 Alot (usr:Sarah 'Phantom' Black) || _=1592056717649
+[16:58:48]HREF: 16:58 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x2100632a];vend=23
+[16:58:52]HREF: 16:58 Sewa (usr:Kelvin Focell) || The metal src=[0x2017776];sublist=;make=12;multiplier=1
+[16:58:54]HREF: 16:58 Sewa (usr:Kelvin Focell) || The metal src=[0x2017776];sublist=;make=12;multiplier=1
+[16:58:55]HREF: 16:58 Sewa (usr:Kelvin Focell) || The metal src=[0x2017776];sublist=;make=12;multiplier=1
+[16:58:57]HREF: 16:58 Sewa (usr:Kelvin Focell) || The metal src=[0x2017776];sublist=;make=12;multiplier=1
+[16:59:13]HREF: 16:59 Artyuom (usr:Johnny Vietnam) || _=1592056749025
+[16:59:13]HREF: 16:59 Artyuom (usr:Johnny Vietnam) || _=1592056749026
+[16:59:14]HREF: 16:59 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100561d];vend=27;cat=0
+[16:59:15]HREF: 16:59 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100561d];vend=27;cat=0
+[16:59:16]HREF: 16:59 Alot (usr:Sarah 'Phantom' Black) || _=1592056753565
+[16:59:16]HREF: 16:59 Alot (usr:Sarah 'Phantom' Black) || _=1592056753566
+[16:59:18]HREF: 16:59 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x21005656];vend=21;cat=0
+[16:59:20]HREF: 16:59 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x21005656];vend=21;cat=0
+[16:59:50]HREF: 16:59 ZyberCpechnaz (usr:Cletus Rogers) || The Emergency Medical Entrance src=[0x20102d1];pulse=6
+[16:59:50]HREF: 16:59 ZyberCpechnaz (usr:Cletus Rogers) || The Emergency Medical Entrance src=[0x20102d1];pulse=7
+[16:59:50]HREF: 16:59 ZyberCpechnaz (usr:Cletus Rogers) || The Emergency Medical Entrance src=[0x20102d1];pulse=8
+[16:59:51]HREF: 16:59 ZyberCpechnaz (usr:Cletus Rogers) || The Emergency Medical Entrance src=[0x20102d1];pulse=12
+[16:59:53]HREF: 16:59 ZyberCpechnaz (usr:Cletus Rogers) || The Emergency Medical Entrance src=[0x200fe31];pulse=8
+[16:59:53]HREF: 16:59 ZyberCpechnaz (usr:Cletus Rogers) || The Emergency Medical Entrance src=[0x200fe31];pulse=9
+[16:59:53]HREF: 16:59 ZyberCpechnaz (usr:Cletus Rogers) || The Emergency Medical Entrance src=[0x200fe31];pulse=10
+[16:59:54]HREF: 16:59 ZyberCpechnaz (usr:Cletus Rogers) || The Emergency Medical Entrance src=[0x200fe31];pulse=11
+[16:59:55]HREF: 16:59 ZyberCpechnaz (usr:Cletus Rogers) || The Emergency Medical Entrance src=[0x200fe31];pulse=6
+[16:59:55]HREF: 16:59 ZyberCpechnaz (usr:Cletus Rogers) || The Emergency Medical Entrance src=[0x200fe31];pulse=4
+[16:59:56]HREF: 16:59 ZyberCpechnaz (usr:Cletus Rogers) || The Emergency Medical Entrance src=[0x200fe31];pulse=5
+[16:59:56]HREF: 16:59 ZyberCpechnaz (usr:Cletus Rogers) || The Emergency Medical Entrance src=[0x200fe31];pulse=3
+[17:00:05]HREF: 17:00 Alot (usr:Sarah 'Phantom' Black) || _=1592056802049
+[17:00:05]HREF: 17:00 Alot (usr:Sarah 'Phantom' Black) || _=1592056802050
+[17:00:07]HREF: 17:00 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x210056c8];vend=7;cat=0
+[17:00:12]HREF: 17:00 ZyberCpechnaz (usr:Cletus Rogers) || The Emergency Medical Entrance src=[0x20102d1];pulse=4
+[17:00:12]HREF: 17:00 ZyberCpechnaz (usr:Cletus Rogers) || The Emergency Medical Entrance src=[0x20102d1];pulse=5
+[17:00:14]HREF: 17:00 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x210056c8];vend=8;cat=0
+[17:01:00]HREF: 17:01 Artyuom (usr:Johnny Vietnam) || _=1592056855331
+[17:01:00]HREF: 17:01 Artyuom (usr:Johnny Vietnam) || _=1592056855332
+[17:01:01]HREF: 17:01 ZyberCpechnaz (usr:Cletus Rogers) || The Emergency Medical Entrance src=[0x20102d1];pulse=5
+[17:01:11]HREF: 17:01 Danik_10p (usr:Danik_10p) || Danik_10p src=[0x3000021];lobby_choice=late_join_xeno
+[17:01:14]HREF: 17:01 Danik_10p (usr:Danik_10p) || Danik_10p src=[0x3000021];lobby_choice=late_join_xeno
+[17:01:52]HREF: 17:01 ZyberCpechnaz (usr:Cletus Rogers) || The dropship intercom src=[0x2010c33];talk=1
+[17:03:13]HREF: 17:03 ZyberCpechnaz (usr:Cletus Rogers) || _=1592056993221
+[17:03:13]HREF: 17:03 ZyberCpechnaz (usr:Cletus Rogers) || _=1592056993222
+[17:03:14]HREF: 17:03 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210056d1];move=1
+[17:03:14]HREF: 17:03 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x210056d1];move=1
+[17:04:27]HREF: 17:04 Danik_10p (usr:Danik_10p) || Danik_10p src=[0x3000021];lobby_choice=late_join_xeno
+[17:04:40]HREF: 17:04 Danik_10p (usr:Danik_10p) || Danik_10p src=[0x3000021];lobby_choice=late_join_xeno
+[17:04:54]HREF: 17:04 Das228 (usr:Osmund Howard) || _=1592057093018
+[17:04:54]HREF: 17:04 Das228 (usr:Osmund Howard) || _=1592057093019
+[17:04:56]HREF: 17:04 Das228 (usr:Osmund Howard) || _=1592057095394
+[17:04:56]HREF: 17:04 Das228 (usr:Osmund Howard) || _=1592057095395
+[17:06:10]HREF: 17:06 Danik_10p (usr:Danik_10p) || Danik_10p src=[0x3000021];lobby_choice=late_join_xeno
+[17:06:58]HREF: 17:06 Danik_10p (usr:Danik_10p) || Danik_10p src=[0x3000021];lobby_choice=late_join_xeno
+[17:07:10]HREF: 17:07 Danik_10p (usr:Danik_10p) || Danik_10p src=[0x3000021];lobby_choice=late_join_xeno
+[17:12:38]HREF: 17:12 Artyuom (usr:Johnny Vietnam) || _=1592057553527
+[17:12:38]HREF: 17:12 Artyuom (usr:Johnny Vietnam) || _=1592057553528
+[17:13:04]HREF: 17:13 Das228 (usr:Osmund Howard) || _=1592057583590
+[17:13:04]HREF: 17:13 Das228 (usr:Osmund Howard) || _=1592057583591
+[17:13:26]HREF: 17:13 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];broken=1
+[17:13:31]HREF: 17:13 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];brute=1
+[17:13:32]HREF: 17:13 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];burn=1
+[17:13:36]HREF: 17:13 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];surgery=1
+[17:13:37]HREF: 17:13 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];surgery=1
+[17:13:41]HREF: 17:13 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];surgery=1
+[17:14:53]HREF: 17:14 Hodonn (usr:Hodonn) || Hodonn src=[0x3000050];lobby_choice=show_preferences
+[17:15:14]HREF: 17:15 Hodonn (usr:Hodonn) || _src_=prefs;preference=job;task=menu
+[17:15:20]HREF: 17:15 Hodonn (usr:Hodonn) || _src_=prefs;preference=job;task=menu
+[17:15:21]HREF: 17:15 Hodonn (usr:Hodonn) || _src_=prefs;preference=job;task=menu
+[17:15:30]HREF: 17:15 Hodonn (usr:Hodonn) || Hodonn src=[0x3000050];lobby_choice=show_preferences
+[17:15:33]HREF: 17:15 Hodonn (usr:Hodonn) || Hodonn src=[0x3000050];lobby_choice=show_preferences
+[17:15:37]HREF: 17:15 Hodonn (usr:Hodonn) || Hodonn src=[0x3000050];lobby_choice=show_preferences
+[17:15:37]HREF: 17:15 Hodonn (usr:Hodonn) || Hodonn src=[0x3000050];lobby_choice=show_preferences
+[17:15:37]HREF: 17:15 Hodonn (usr:Hodonn) || Hodonn src=[0x3000050];lobby_choice=show_preferences
+[17:15:37]HREF: 17:15 Hodonn (usr:Hodonn) || Hodonn src=[0x3000050];lobby_choice=show_preferences
+[17:15:38]HREF: 17:15 Hodonn (usr:Hodonn) || Hodonn src=[0x3000050];lobby_choice=show_preferences
+[17:15:39]HREF: 17:15 Hodonn (usr:Hodonn) || Hodonn src=[0x3000050];lobby_choice=show_preferences
+[17:15:43]HREF: 17:15 Hodonn (usr:Hodonn) || Hodonn src=[0x3000050];lobby_choice=show_preferences
+[17:15:44]HREF: 17:15 Hodonn (usr:Hodonn) || Hodonn src=[0x3000050];lobby_choice=show_preferences
+[17:15:44]HREF: 17:15 Hodonn (usr:Hodonn) || Hodonn src=[0x3000050];lobby_choice=show_preferences
+[17:16:14]HREF: 17:16 Random12234 (usr:Queen) || Queen src=[0x3000049];queentrack=[0x300004e]
+[17:16:51]HREF: 17:16 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];burn=1
+[17:16:52]HREF: 17:16 Random12234 (usr:Queen) || Queen src=[0x3000049];queentrack=[0x300004e]
+[17:16:53]HREF: 17:16 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];brute=1
+[17:16:57]HREF: 17:16 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];surgery=1
+[17:18:44]HREF: 17:18 Alot (usr:Sarah 'Phantom' Black) || The metal src=[0x200aae9];sublist=;make=13;multiplier=1
+[17:18:45]HREF: 17:18 Das228 (usr:Osmund Howard) || _=1592057924215
+[17:18:45]HREF: 17:18 Das228 (usr:Osmund Howard) || _=1592057924216
+[17:18:49]HREF: 17:18 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];broken=1
+[17:18:57]HREF: 17:18 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];facial=1
+[17:19:00]HREF: 17:19 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];brute=1
+[17:19:01]HREF: 17:19 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];surgery=1
+[17:19:08]HREF: 17:19 Das228 (usr:Osmund Howard) || _=1592057947276
+[17:19:08]HREF: 17:19 Das228 (usr:Osmund Howard) || _=1592057947277
+[17:21:25]HREF: 17:21 EngineerConager (usr:Dell Conrad) || _=1592058082462
+[17:21:25]HREF: 17:21 EngineerConager (usr:Dell Conrad) || _=1592058082463
+[17:21:26]HREF: 17:21 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006357];move=1
+[17:21:27]HREF: 17:21 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006357];move=1
+[17:21:27]HREF: 17:21 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006357];move=1
+[17:22:27]HREF: 17:22 Alot (usr:Sarah 'Phantom' Black) || The metal src=[0x200a5f6];sublist=;make=13;multiplier=1
+[17:22:43]HREF: 17:22 EngineerConager (usr:Dell Conrad) || /datum/admins src=[0x2100368d];revive=[0x3000043]
+[17:22:49]HREF: 17:22 Alot (usr:Sarah 'Phantom' Black) || The metal src=[0x200a5f6];sublist=;make=13;multiplier=1
+[17:23:09]HREF: 17:23 NIKIGO (usr:NIKIGO) || NIKIGO src=[0x3000056];lobby_choice=manifest
+[17:23:29]HREF: 17:23 ZyberCpechnaz (usr:Cletus Rogers) || The metal src=[0x200a5f6];make=12;multiplier=2
+[17:23:36]HREF: 17:23 NIKIGO (usr:NIKIGO) || NIKIGO src=[0x3000056];lobby_choice=late_join
+[17:24:05]HREF: 17:24 Sewa (usr:Kelvin Focell) || _=1592058245396
+[17:24:05]HREF: 17:24 Sewa (usr:Kelvin Focell) || _=1592058245397
+[17:24:09]HREF: 17:24 Sewa (usr:Kelvin Focell) || /datum/nanoui src=[0x21005689];vend=7;cat=0
+[17:24:22]HREF: 17:24 ZyberCpechnaz (usr:Cletus Rogers) || The metal src=[0x200a5f6];sublist=;make=13;multiplier=1
+[17:24:35]HREF: 17:24 ZyberCpechnaz (usr:Cletus Rogers) || The metal src=[0x200a5f6];sublist=;make=12;multiplier=1
+[17:24:35]HREF: 17:24 Artyuom (usr:Johnny Vietnam) || _=1592058270476
+[17:24:35]HREF: 17:24 Artyuom (usr:Johnny Vietnam) || _=1592058270477
+[17:24:39]HREF: 17:24 ZyberCpechnaz (usr:Cletus Rogers) || The metal src=[0x200a5f6];sublist=;make=12;multiplier=1
+[17:24:42]HREF: 17:24 EngineerConager (usr:Dell Conrad) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:24:47]HREF: 17:24 Random12234 (usr:Elder Queen) || Elder Queen src=[0x3000049];queentrack=[0x300004e]
+[17:24:48]HREF: 17:24 Random12234 (usr:Elder Queen) || Elder Queen src=[0x3000049];queentrack=[0x300004e]
+[17:24:49]HREF: 17:24 Random12234 (usr:Elder Queen) || Elder Queen src=[0x3000049];queentrack=[0x300004e]
+[17:24:56]HREF: 17:24 ZyberCpechnaz (usr:Cletus Rogers) || The plasteel src=[0x2017abf];sublist=;make=2;multiplier=1
+[17:24:57]HREF: 17:24 EngineerConager (usr:Dell Conrad) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:24:58]HREF: 17:24 NIKIGO (usr:NIKIGO) || NIKIGO src=[0x3000056];lobby_choice=late_join
+[17:25:03]HREF: 17:25 NIKIGO (usr:NIKIGO) || NIKIGO src=[0x3000056];lobby_choice=manifest
+[17:25:08]HREF: 17:25 ZyberCpechnaz (usr:Cletus Rogers) || The plasteel src=[0x2017abf];sublist=;make=2;multiplier=1
+[17:25:16]HREF: 17:25 NIKIGO (usr:NIKIGO) || NIKIGO src=[0x3000056];lobby_choice=late_join
+[17:25:17]HREF: 17:25 Random12234 (usr:Elder Queen) || Elder Queen src=[0x3000049];queentrack=[0x300004e]
+[17:25:18]HREF: 17:25 Random12234 (usr:Elder Queen) || Elder Queen src=[0x3000049];queentrack=[0x300004e]
+[17:25:19]HREF: 17:25 Random12234 (usr:Elder Queen) || Elder Queen src=[0x3000049];queentrack=[0x300004e]
+[17:25:21]HREF: 17:25 Random12234 (usr:Elder Queen) || Elder Queen src=[0x3000049];queentrack=[0x300004e]
+[17:25:21]HREF: 17:25 Random12234 (usr:Elder Queen) || Elder Queen src=[0x3000049];queentrack=[0x300004e]
+[17:25:30]HREF: 17:25 ZyberCpechnaz (usr:Cletus Rogers) || The metal src=[0x200a5f6];make=12;multiplier=3
+[17:25:34]HREF: 17:25 EngineerConager (usr:Dell Conrad) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:25:47]HREF: 17:25 NIKIGO (usr:NIKIGO) || NIKIGO src=[0x3000056];lobby_choice=SelectedJob;job_selected=Vehicle%20Crewman
+[17:25:47]HREF: 17:25 NIKIGO (usr:Colten Stange) || NIKIGO src=[0x3000056];lobby_choice=SelectedJob;job_selected=Vehicle%20Crewman
+[17:25:54]HREF: 17:25 Das228 (usr:Osmund Howard) || Personal Computer src=[0x201187e];open_inbox=1
+[17:25:56]HREF: 17:25 Das228 (usr:Osmund Howard) || Personal Computer src=[0x201187e];selectmail=1
+[17:26:15]HREF: 17:26 EngineerConager (usr:Dell Conrad) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:26:16]HREF: 17:26 EngineerConager (usr:Dell Conrad) || ColMarTech Automated Module Repair Station src=[0x20112a1];eject=0
+[17:26:17]HREF: 17:26 EngineerConager (usr:Dell Conrad) || ColMarTech Automated Module Repair Station src=[0x20112a1];eject=0
+[17:26:17]HREF: 17:26 EngineerConager (usr:Dell Conrad) || ColMarTech Automated Module Repair Station src=[0x20112a1];eject=0
+[17:26:20]HREF: 17:26 EngineerConager (usr:Dell Conrad) || ColMarTech Automated Module Repair Station src=[0x20112a1];eject=0
+[17:26:21]HREF: 17:26 EngineerConager (usr:Dell Conrad) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:26:49]HREF: 17:26 Das228 (usr:Osmund Howard) || _=1592058408478
+[17:26:49]HREF: 17:26 Das228 (usr:Osmund Howard) || _=1592058408479
+[17:27:29]HREF: 17:27 Das228 (usr:Osmund Howard) || _=1592058448003
+[17:27:29]HREF: 17:27 Das228 (usr:Osmund Howard) || _=1592058448004
+[17:27:32]HREF: 17:27 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x21005762];vend=2;cat=0
+[17:28:15]HREF: 17:28 Das228 (usr:Osmund Howard) || _=1592058494219
+[17:28:15]HREF: 17:28 Das228 (usr:Osmund Howard) || _=1592058494220
+[17:28:27]HREF: 17:28 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x21003b08];vend=4;cat=0
+[17:30:29]HREF: 17:30 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:31:15]HREF: 17:31 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:31:15]HREF: 17:31 EngineerConager (usr:Dell Conrad) || Kelvin Focell src=[0x3000041];item=jacket
+[17:31:29]HREF: 17:31 EngineerConager (usr:Dell Conrad) || Kelvin Focell src=[0x3000041];pockets=1
+[17:31:30]HREF: 17:31 EngineerConager (usr:Dell Conrad) || Kelvin Focell src=[0x3000041];tie=1
+[17:31:31]HREF: 17:31 EngineerConager (usr:Dell Conrad) || Kelvin Focell src=[0x3000041];tie=1
+[17:31:32]HREF: 17:31 EngineerConager (usr:Dell Conrad) || Kelvin Focell src=[0x3000041];splints=1
+[17:31:33]HREF: 17:31 EngineerConager (usr:Dell Conrad) || Kelvin Focell src=[0x3000041];splints=1
+[17:31:54]HREF: 17:31 Artyuom (usr:Johnny Vietnam) || Kelvin Focell src=[0x3000041];item=body
+[17:33:02]HREF: 17:33 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:33:03]HREF: 17:33 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:33:03]HREF: 17:33 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:33:24]HREF: 17:33 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];eject=0
+[17:33:27]HREF: 17:33 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];eject=0
+[17:33:28]HREF: 17:33 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];eject=0
+[17:33:30]HREF: 17:33 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];eject=0
+[17:33:35]HREF: 17:33 Das228 (usr:Osmund Howard) || _=1592058813853
+[17:33:35]HREF: 17:33 Das228 (usr:Osmund Howard) || _=1592058813854
+[17:33:41]HREF: 17:33 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:33:41]HREF: 17:33 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:33:43]HREF: 17:33 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];eject=0
+[17:33:48]HREF: 17:33 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];eject=0
+[17:33:49]HREF: 17:33 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:34:10]HREF: 17:34 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:34:10]HREF: 17:34 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:34:11]HREF: 17:34 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:34:11]HREF: 17:34 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:34:12]HREF: 17:34 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:34:15]HREF: 17:34 Das228 (usr:Osmund Howard) || Medical Records src=[0x2010877];scan=1
+[17:34:21]HREF: 17:34 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:34:22]HREF: 17:34 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:34:22]HREF: 17:34 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];eject=0
+[17:34:22]HREF: 17:34 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];eject=0
+[17:34:45]HREF: 17:34 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:34:45]HREF: 17:34 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];eject=0
+[17:34:45]HREF: 17:34 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];eject=0
+[17:34:46]HREF: 17:34 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];eject=0
+[17:34:46]HREF: 17:34 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];eject=0
+[17:34:46]HREF: 17:34 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];eject=0
+[17:34:48]HREF: 17:34 Das228 (usr:Osmund Howard) || _=1592058886921
+[17:34:48]HREF: 17:34 Das228 (usr:Osmund Howard) || _=1592058886922
+[17:34:50]HREF: 17:34 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x21006427];vend=4;cat=0
+[17:34:52]HREF: 17:34 ZyberCpechnaz (usr:Cletus Rogers) || _=1592058892725
+[17:34:52]HREF: 17:34 ZyberCpechnaz (usr:Cletus Rogers) || _=1592058892726
+[17:34:53]HREF: 17:34 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x2100642a];move=1
+[17:34:55]HREF: 17:34 Das228 (usr:Osmund Howard) || _=1592058894563
+[17:34:55]HREF: 17:34 Das228 (usr:Osmund Howard) || _=1592058894564
+[17:34:56]HREF: 17:34 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x2100642b];vend=1;cat=0
+[17:34:58]HREF: 17:34 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x2100642b];vend=2;cat=0
+[17:34:59]HREF: 17:34 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:34:59]HREF: 17:34 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x2100642b];vend=3;cat=0
+[17:35:02]HREF: 17:35 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x2100642b];vend=4;cat=0
+[17:35:03]HREF: 17:35 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x2100642b];vend=5;cat=0
+[17:35:03]HREF: 17:35 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];eject=0
+[17:35:04]HREF: 17:35 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:35:05]HREF: 17:35 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x2100642b];vend=6;cat=0
+[17:35:06]HREF: 17:35 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x2100642b];vend=7;cat=0
+[17:35:08]HREF: 17:35 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x2100642b];vend=8;cat=0
+[17:35:35]HREF: 17:35 Das228 (usr:Osmund Howard) || _=1592058934231
+[17:35:35]HREF: 17:35 Das228 (usr:Osmund Howard) || _=1592058934232
+[17:35:44]HREF: 17:35 Das228 (usr:Osmund Howard) || _=1592058943129
+[17:35:44]HREF: 17:35 Das228 (usr:Osmund Howard) || _=1592058943130
+[17:35:52]HREF: 17:35 Das228 (usr:Osmund Howard) || _=1592058951500
+[17:35:52]HREF: 17:35 Das228 (usr:Osmund Howard) || _=1592058951501
+[17:35:56]HREF: 17:35 NIKIGO (usr:Colten Stange) || The tank part fabricator src=[0x200ee5f];produce=/obj/item/hardpoint/tank/treads/standard;cost=25
+[17:36:32]HREF: 17:36 ZyberCpechnaz (usr:Cletus Rogers) || _=1592058992814
+[17:36:32]HREF: 17:36 ZyberCpechnaz (usr:Cletus Rogers) || _=1592058992815
+[17:36:33]HREF: 17:36 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x2100644f];move=1
+[17:36:34]HREF: 17:36 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x2100644f];move=1
+[17:36:34]HREF: 17:36 ZyberCpechnaz (usr:Cletus Rogers) || /datum/nanoui src=[0x2100644f];move=1
+[17:36:52]HREF: 17:36 BlackCrystalic (usr:Blacky 'GG' Crysis) || Blacky 'GG' Crysis src=[0x3000046];track=[0x3000057]
+[17:36:54]HREF: 17:36 BlackCrystalic (usr:Blacky 'GG' Crysis) || Blacky 'GG' Crysis src=[0x3000046];track=[0x3000057]
+[17:36:54]HREF: 17:36 BlackCrystalic (usr:Blacky 'GG' Crysis) || Blacky 'GG' Crysis src=[0x3000046];track=[0x3000043]
+[17:36:55]HREF: 17:36 BlackCrystalic (usr:Blacky 'GG' Crysis) || Blacky 'GG' Crysis src=[0x3000046];track=[0x300003f]
+[17:36:57]HREF: 17:36 BlackCrystalic (usr:Blacky 'GG' Crysis) || Blacky 'GG' Crysis src=[0x3000046];track=[0x3000045]
+[17:37:30]HREF: 17:37 NIKIGO (usr:Colten Stange) || The tank part fabricator src=[0x200ee5f];produce=/obj/item/hardpoint/tank/armor/concussive;cost=100
+[17:37:46]HREF: 17:37 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=25
+[17:39:29]HREF: 17:39 NIKIGO (usr:Colten Stange) || The tank part fabricator src=[0x200ee5f];produce=/obj/item/hardpoint/tank/primary/autocannon;cost=100
+[17:39:50]HREF: 17:39 NIKIGO (usr:Colten Stange) || The tank part fabricator src=[0x200ee5f];produce=/obj/item/hardpoint/tank/secondary/grenade_launcher;cost=100
+[17:39:52]HREF: 17:39 Artyuom (usr:Johnny Vietnam) || _=1592059187373
+[17:39:52]HREF: 17:39 Artyuom (usr:Johnny Vietnam) || _=1592059187374
+[17:40:22]HREF: 17:40 NIKIGO (usr:Colten Stange) || The tank part fabricator src=[0x200ee5f];produce=/obj/item/hardpoint/tank/support/weapons_sensor;cost=100
+[17:41:02]HREF: 17:41 Das228 (usr:Osmund Howard) || _=1592059261134
+[17:41:02]HREF: 17:41 Das228 (usr:Osmund Howard) || _=1592059261135
+[17:41:05]HREF: 17:41 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x21005b42];vend=9;cat=0
+[17:41:21]HREF: 17:41 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005638];showMap=1
+[17:41:22]HREF: 17:41 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005638];showMap=1
+[17:41:25]HREF: 17:41 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005638];showMap=1
+[17:42:13]HREF: 17:42 Artyuom (usr:Johnny Vietnam) || _=1592059328066
+[17:42:13]HREF: 17:42 Artyuom (usr:Johnny Vietnam) || _=1592059328067
+[17:42:14]HREF: 17:42 Das228 (usr:Osmund Howard) || _=1592059332670
+[17:42:14]HREF: 17:42 Das228 (usr:Osmund Howard) || _=1592059332671
+[17:42:16]HREF: 17:42 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x21006401];showMap=1
+[17:42:17]HREF: 17:42 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x21006401];showMap=1
+[17:42:18]HREF: 17:42 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x21006401];showMap=1
+[17:42:18]HREF: 17:42 Artyuom (usr:Johnny Vietnam) || _=1592059333113
+[17:42:18]HREF: 17:42 Artyuom (usr:Johnny Vietnam) || _=1592059333114
+[17:42:18]HREF: 17:42 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x21006401];showMap=1
+[17:42:19]HREF: 17:42 Das228 (usr:Osmund Howard) || /datum/nanoui src=[0x21006401];showMap=1
+[17:42:38]HREF: 17:42 NIKIGO (usr:Colten Stange) || ColMarTech Automated Module Repair Station src=[0x20112a1];repair=0
+[17:43:09]HREF: 17:43 Das228 (usr:Osmund Howard) || The disposal unit src=[0x2010ed4];pump=0
+[17:43:11]HREF: 17:43 Das228 (usr:Osmund Howard) || The disposal unit src=[0x2010ed4];pump=0
+[17:43:11]HREF: 17:43 Artyuom (usr:Johnny Vietnam) || _=1592059385870
+[17:43:11]HREF: 17:43 Artyuom (usr:Johnny Vietnam) || _=1592059385871
+[17:43:11]HREF: 17:43 Das228 (usr:Osmund Howard) || The disposal unit src=[0x2010ed4];pump=0
+[17:43:22]HREF: 17:43 Artyuom (usr:Johnny Vietnam) || _=1592059397160
+[17:43:22]HREF: 17:43 Artyuom (usr:Johnny Vietnam) || _=1592059397161
+[17:43:25]HREF: 17:43 Das228 (usr:Osmund Howard) || _=1592059404157
+[17:43:25]HREF: 17:43 Das228 (usr:Osmund Howard) || _=1592059404158
+[17:43:39]HREF: 17:43 Artyuom (usr:Johnny Vietnam) || _=1592059413711
+[17:43:39]HREF: 17:43 Artyuom (usr:Johnny Vietnam) || _=1592059413712
+[17:44:37]HREF: 17:44 Artyuom (usr:Johnny Vietnam) || _=1592059471747
+[17:44:37]HREF: 17:44 Artyuom (usr:Johnny Vietnam) || _=1592059471748
+[17:45:33]HREF: 17:45 Random12234 (usr:Elder Queen) || Elder Queen src=[0x3000049];watch_xeno_number=79
+[17:45:56]HREF: 17:45 Fogusin (usr:Fogusin) || Fogusin src=[0x3000069];lobby_choice=show_preferences
+[17:46:14]HREF: 17:46 EngineerConager (usr:Dell Conrad) || _=1592059571864
+[17:46:14]HREF: 17:46 EngineerConager (usr:Dell Conrad) || _=1592059571865
+[17:46:15]HREF: 17:46 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x210063de];move=1
+[17:46:16]HREF: 17:46 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x210063de];move=1
+[17:46:16]HREF: 17:46 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x210063de];move=1
+[17:46:32]HREF: 17:46 Fogusin (usr:Fogusin) || Fogusin src=[0x3000069];lobby_choice=show_preferences
+[17:46:34]HREF: 17:46 Fogusin (usr:Fogusin) || Fogusin src=[0x3000069];lobby_choice=show_preferences
+[17:46:36]HREF: 17:46 Fogusin (usr:Fogusin) || Fogusin src=[0x3000069];lobby_choice=manifest
+[17:47:19]HREF: 17:47 Random12234 (usr:Elder Queen) || Elder Queen src=[0x3000049];queentrack=[0x3000052]
+[17:47:26]HREF: 17:47 Fogusin (usr:Fogusin) || _src_=prefs;preference=job;task=menu
+[17:47:31]HREF: 17:47 Fogusin (usr:Fogusin) || _src_=prefs;preference=job;task=input;text=Military%20Police
+[17:47:43]HREF: 17:47 Fogusin (usr:Fogusin) || _src_=prefs;preference=job;task=input;text=Squad%20Marine
+[17:47:45]HREF: 17:47 Fogusin (usr:Fogusin) || _src_=prefs;preference=job;task=close
+[17:47:55]HREF: 17:47 Fogusin (usr:Fogusin) || Fogusin src=[0x3000069];preference=citizenship;task=input
+[17:48:00]HREF: 17:48 Artyuom (usr:Johnny Vietnam) || _=1592059675507
+[17:48:00]HREF: 17:48 Artyuom (usr:Johnny Vietnam) || _=1592059675508
+[17:48:04]HREF: 17:48 Fogusin (usr:Fogusin) || _src_=prefs;preference=nt_relation;task=input
+[17:48:08]HREF: 17:48 Random12234 (usr:Elder Queen) || Elder Queen src=[0x3000049];watch_xeno_number=79
+[17:48:09]HREF: 17:48 Fogusin (usr:Fogusin) || _src_=prefs;preference=prefsquad;task=input
+[17:48:11]HREF: 17:48 Das228 (usr:Osmund Howard) || _=1592059690340
+[17:48:11]HREF: 17:48 Das228 (usr:Osmund Howard) || _=1592059690341
+[17:48:23]HREF: 17:48 Fogusin (usr:Fogusin) || Fogusin src=[0x3000069];preference=save
+[17:48:27]HREF: 17:48 Fogusin (usr:Fogusin) || Fogusin src=[0x3000069];lobby_choice=late_join
+[17:48:32]HREF: 17:48 Fogusin (usr:Fogusin) || Fogusin src=[0x3000069];lobby_choice=late_join_xeno
+[17:48:43]HREF: 17:48 Fogusin (usr:Fogusin) || Fogusin src=[0x3000069];lobby_choice=late_join
+[17:48:49]HREF: 17:48 Fogusin (usr:Fogusin) || Fogusin src=[0x3000069];lobby_choice=SelectedJob;job_selected=Squad%20Marine
+[17:49:13]HREF: 17:49 Artyuom (usr:Johnny Vietnam) || _=1592059748452
+[17:49:13]HREF: 17:49 Artyuom (usr:Johnny Vietnam) || _=1592059748453
+[17:49:18]HREF: 17:49 EngineerConager (usr:Dell Conrad) || _=1592059755275
+[17:49:18]HREF: 17:49 EngineerConager (usr:Dell Conrad) || _=1592059755276
+[17:49:23]HREF: 17:49 Fogusin (usr:Apple Dimeling) || _=1592060063949
+[17:49:23]HREF: 17:49 Fogusin (usr:Apple Dimeling) || _=1592060063950
+[17:49:24]HREF: 17:49 Fogusin (usr:Apple Dimeling) || /datum/nanoui src=[0x21006486];vend=2
+[17:49:25]HREF: 17:49 Fogusin (usr:Apple Dimeling) || /datum/nanoui src=[0x21006486];vend=3
+[17:49:26]HREF: 17:49 Fogusin (usr:Apple Dimeling) || /datum/nanoui src=[0x21006486];vend=4
+[17:49:26]HREF: 17:49 Fogusin (usr:Apple Dimeling) || /datum/nanoui src=[0x21006486];vend=5
+[17:49:27]HREF: 17:49 Fogusin (usr:Apple Dimeling) || /datum/nanoui src=[0x21006486];vend=6
+[17:49:36]HREF: 17:49 Artyuom (usr:Johnny Vietnam) || _=1592059771561
+[17:49:36]HREF: 17:49 Artyuom (usr:Johnny Vietnam) || _=1592059771562
+[17:49:40]HREF: 17:49 EngineerConager (usr:Dell Conrad) || _=1592059777949
+[17:49:40]HREF: 17:49 EngineerConager (usr:Dell Conrad) || _=1592059777950
+[17:49:51]HREF: 17:49 EngineerConager (usr:Dell Conrad) || _=1592059788359
+[17:49:51]HREF: 17:49 EngineerConager (usr:Dell Conrad) || _=1592059788360
+[17:49:55]HREF: 17:49 Artyuom (usr:Johnny Vietnam) || _=1592059790013
+[17:49:55]HREF: 17:49 Artyuom (usr:Johnny Vietnam) || _=1592059790014
+[17:50:03]HREF: 17:50 Artyuom (usr:Johnny Vietnam) || _=1592059797810
+[17:50:03]HREF: 17:50 Artyuom (usr:Johnny Vietnam) || _=1592059797811
+[17:50:10]HREF: 17:50 Fogusin (usr:Apple Dimeling) || /datum/nanoui src=[0x21006486];vend=9
+[17:50:25]HREF: 17:50 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006484];move=1
+[17:50:25]HREF: 17:50 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006484];move=1
+[17:50:26]HREF: 17:50 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006484];move=1
+[17:50:26]HREF: 17:50 EngineerConager (usr:Dell Conrad) || /datum/nanoui src=[0x21006484];move=1
+[17:50:45]HREF: 17:50 Fogusin (usr:Apple Dimeling) || /datum/nanoui src=[0x21006486];vend=38
+[17:51:18]HREF: 17:51 Fogusin (usr:Apple Dimeling) || /datum/nanoui src=[0x21006486];vend=53
+[17:51:40]HREF: 17:51 Fogusin (usr:Apple Dimeling) || _=1592060201524
+[17:51:40]HREF: 17:51 Fogusin (usr:Apple Dimeling) || _=1592060201525
+[17:51:54]HREF: 17:51 Fogusin (usr:Apple Dimeling) || /datum/nanoui src=[0x21005787];vend=15;cat=0
+[17:52:03]HREF: 17:52 Fogusin (usr:Apple Dimeling) || /datum/nanoui src=[0x21005787];vend=4;cat=0
+[17:52:26]HREF: 17:52 Fogusin (usr:Apple Dimeling) || /datum/nanoui src=[0x21005787];vend=14;cat=0
+[17:52:41]HREF: 17:52 Fogusin (usr:Apple Dimeling) || /datum/nanoui src=[0x21005787];vend=4;cat=0
+[17:52:54]HREF: 17:52 Fogusin (usr:Apple Dimeling) || /datum/nanoui src=[0x21005787];vend=14;cat=0
+[17:53:09]HREF: 17:53 Fogusin (usr:Apple Dimeling) || _=1592060290837
+[17:53:09]HREF: 17:53 Fogusin (usr:Apple Dimeling) || _=1592060290838
+[17:53:17]HREF: 17:53 Fogusin (usr:Apple Dimeling) || /datum/nanoui src=[0x2100587e];vend=19
+[17:53:19]HREF: 17:53 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];brute=1
+[17:53:21]HREF: 17:53 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];burn=1
+[17:53:23]HREF: 17:53 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];broken=1
+[17:53:29]HREF: 17:53 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];organdamage=1
+[17:53:31]HREF: 17:53 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];surgery=1
+[17:53:39]HREF: 17:53 Fogusin (usr:Apple Dimeling) || _=1592060320417
+[17:53:39]HREF: 17:53 Fogusin (usr:Apple Dimeling) || _=1592060320418
+[17:53:41]HREF: 17:53 Fogusin (usr:Apple Dimeling) || /datum/nanoui src=[0x21005892];vend=14;cat=0
+[17:53:42]HREF: 17:53 Fogusin (usr:Apple Dimeling) || /datum/nanoui src=[0x21005892];vend=14;cat=0
+[17:54:46]HREF: 17:54 BlackCrystalic (usr:Blacky 'GG' Crysis) || Blacky 'GG' Crysis src=[0x3000046];track=[0x3000049]
+[17:54:55]HREF: 17:54 BlackCrystalic (usr:Blacky 'GG' Crysis) || Blacky 'GG' Crysis src=[0x3000046];track=[0x3000045]
+[17:56:28]HREF: 17:56 Burzu (usr:Burzu) || Burzu src=[0x3000074];lobby_choice=late_join
+[17:56:37]HREF: 17:56 Das228 (usr:Osmund Howard) || Cletus Rogers src=[0x300003f];item=id
+[17:57:08]HREF: 17:57 Alot (usr:Sarah 'Phantom' Black) || _=1592060224392
+[17:57:08]HREF: 17:57 Alot (usr:Sarah 'Phantom' Black) || _=1592060224393
+[17:57:10]HREF: 17:57 Alot (usr:Sarah 'Phantom' Black) || /datum/nanoui src=[0x21005889];vend=7;cat=0
+[17:57:30]HREF: 17:57 Burzu (usr:Burzu) || Burzu src=[0x3000074];lobby_choice=late_join_xeno
+[17:57:33]HREF: 17:57 Burzu (usr:Burzu) || /datum/controller/vote src=[0x21000002];vote=close
+[17:57:34]HREF: 17:57 Burzu (usr:Burzu) || Burzu src=[0x3000074];lobby_choice=late_join_xeno
+[17:57:47]HREF: 17:57 KiVts (usr:KiVts) || KiVts src=[0x3000078];lobby_choice=late_join
+[17:57:50]HREF: 17:57 KiVts (usr:KiVts) || KiVts src=[0x3000078];lobby_choice=late_join
+[17:58:00]HREF: 17:58 KiVts (usr:KiVts) || KiVts src=[0x3000078];lobby_choice=SelectedJob;job_selected=Squad%20Specialist
+[17:58:03]HREF: 17:58 KiVts (usr:Kaden Blaine) || KiVts src=[0x3000078];lobby_choice=SelectedJob;job_selected=Squad%20Specialist
+[17:58:04]HREF: 17:58 KiVts (usr:Kaden Blaine) || KiVts src=[0x3000078];lobby_choice=SelectedJob;job_selected=Squad%20Specialist
+[17:58:11]HREF: 17:58 KiVts (usr:Kaden Blaine) || KiVts src=[0x3000078];lobby_choice=SelectedJob;job_selected=Squad%20Specialist
+[17:58:12]HREF: 17:58 KiVts (usr:Kaden Blaine) || KiVts src=[0x3000078];lobby_choice=SelectedJob;job_selected=Squad%20Specialist
+[17:58:20]HREF: 17:58 Artyuom (usr:Johnny Vietnam) || Cletus Rogers src=[0x300003f];item=id
+[17:58:25]HREF: 17:58 Artyuom (usr:Johnny Vietnam) || Cletus Rogers src=[0x300003f];item=j_store
+[18:01:31]HREF: 18:01 Artyuom (usr:Johnny Vietnam) || Colten Stange src=[0x3000057];item=body
+[18:01:40]HREF: 18:01 NIKIGO (usr:Colten Stange) || Colten Stange src=[0x300007c];reentercorpse=1
+[18:01:40]HREF: 18:01 NIKIGO (usr:Colten Stange) || Colten Stange src=[0x300007c];reentercorpse=1
+[18:01:41]HREF: 18:01 NIKIGO (usr:Colten Stange) || Colten Stange src=[0x300007c];reentercorpse=1
+[18:01:41]HREF: 18:01 NIKIGO (usr:Colten Stange) || Colten Stange src=[0x300007c];reentercorpse=1
+[18:03:00]HREF: 18:03 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];brute=1
+[18:03:01]HREF: 18:03 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];burn=1
+[18:03:01]HREF: 18:03 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];toxin=1
+[18:03:03]HREF: 18:03 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];organdamage=1
+[18:03:05]HREF: 18:03 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];organgerms=1
+[18:03:09]HREF: 18:03 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];surgery=1
+[18:03:57]HREF: 18:03 KiVts (usr:Kaden Blaine) || _=1592060637238
+[18:03:57]HREF: 18:03 KiVts (usr:Kaden Blaine) || _=1592060637239
+[18:04:03]HREF: 18:04 KiVts (usr:Kaden Blaine) || /datum/nanoui src=[0x21006495];vend=4
+[18:04:04]HREF: 18:04 KiVts (usr:Kaden Blaine) || /datum/nanoui src=[0x21006495];vend=4
+[18:04:05]HREF: 18:04 KiVts (usr:Kaden Blaine) || /datum/nanoui src=[0x21006495];vend=4
+[18:04:09]HREF: 18:04 KiVts (usr:Kaden Blaine) || /datum/nanoui src=[0x21006495];vend=3
+[18:04:13]HREF: 18:04 KiVts (usr:Kaden Blaine) || _=1592060652417
+[18:04:13]HREF: 18:04 KiVts (usr:Kaden Blaine) || _=1592060652418
+[18:04:14]HREF: 18:04 KiVts (usr:Kaden Blaine) || /datum/nanoui src=[0x21006495];vend=2
+[18:04:14]HREF: 18:04 KiVts (usr:Kaden Blaine) || /datum/nanoui src=[0x21006495];vend=3
+[18:04:15]HREF: 18:04 KiVts (usr:Kaden Blaine) || /datum/nanoui src=[0x21006495];vend=4
+[18:04:16]HREF: 18:04 KiVts (usr:Kaden Blaine) || /datum/nanoui src=[0x21006495];vend=5
+[18:04:29]HREF: 18:04 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];brute=1
+[18:04:30]HREF: 18:04 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];burn=1
+[18:04:32]HREF: 18:04 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];organgerms=1
+[18:04:34]HREF: 18:04 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];organdamage=1
+[18:04:37]HREF: 18:04 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];broken=1
+[18:04:38]HREF: 18:04 Artyuom (usr:Johnny Vietnam) || The autodoc medical system control console src=[0x201472f];surgery=1
+[18:04:40]HREF: 18:04 KiVts (usr:Kaden Blaine) || /datum/nanoui src=[0x21006495];vend=15
+[18:05:34]HREF: 18:05 KiVts (usr:Kaden Blaine) || /datum/nanoui src=[0x21006495];vend=29
+[18:06:09]HREF: 18:06 KiVts (usr:Kaden Blaine) || _=1592060768994
+[18:06:09]HREF: 18:06 KiVts (usr:Kaden Blaine) || _=1592060768995
+[18:06:10]HREF: 18:06 KiVts (usr:Kaden Blaine) || _=1592060769529
+[18:06:10]HREF: 18:06 KiVts (usr:Kaden Blaine) || _=1592060769530
+[18:06:11]HREF: 18:06 KiVts (usr:Kaden Blaine) || /datum/nanoui src=[0x21006338];vend=5;cat=0
+[18:06:15]HREF: 18:06 KiVts (usr:Kaden Blaine) || _=1592060774509
+[18:06:15]HREF: 18:06 KiVts (usr:Kaden Blaine) || _=1592060774510
+[18:06:30]HREF: 18:06 KiVts (usr:Kaden Blaine) || _=1592060789700
+[18:06:30]HREF: 18:06 KiVts (usr:Kaden Blaine) || _=1592060789701
+[18:06:31]HREF: 18:06 KiVts (usr:Kaden Blaine) || /datum/nanoui src=[0x21006378];vend=5;cat=0
+[18:10:11]HREF: 18:10 Artyuom (usr:Johnny Vietnam) || _=1592061005407
+[18:10:11]HREF: 18:10 Artyuom (usr:Johnny Vietnam) || _=1592061005408
+[18:10:12]HREF: 18:10 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005968];move=1
+[18:10:12]HREF: 18:10 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005968];move=1
+[18:10:55]HREF: 18:10 Artyuom (usr:Johnny Vietnam) || _=1592061049622
+[18:10:55]HREF: 18:10 Artyuom (usr:Johnny Vietnam) || _=1592061049623
+[18:12:04]HREF: 18:12 NIKIGO (usr:Colten Stange) || _=1592061123486
+[18:12:04]HREF: 18:12 NIKIGO (usr:Colten Stange) || _=1592061123487
+[18:13:03]HREF: 18:13 NIKIGO (usr:Colten Stange) || Colten Stange src=[0x3000082];track=[0x3000043]
+[18:13:31]HREF: 18:13 EngineerConager (usr:Dell Conrad) || _=1592061208051
+[18:13:31]HREF: 18:13 EngineerConager (usr:Dell Conrad) || _=1592061208052
+[18:13:38]HREF: 18:13 Alot (usr:Sarah 'Phantom' Black) || Sarah 'Phantom' Black src=[0x3000081];track=[0x3000052]
+[18:13:48]HREF: 18:13 Alot (usr:Sarah 'Phantom' Black) || Sarah 'Phantom' Black src=[0x3000081];track=[0x3000077]
+[18:15:09]HREF: 18:15 Alot (usr:Sarah 'Phantom' Black) || Sarah 'Phantom' Black src=[0x3000081];track=[0x3000077]
+[18:15:21]HREF: 18:15 Das228 (usr:Osmund Howard) || Unknown (as Johnny Vietnam) src=[0x3000047];item=j_store
+[18:15:34]HREF: 18:15 Das228 (usr:Osmund Howard) || Unknown (as Johnny Vietnam) src=[0x3000047];item=body
+[18:16:40]HREF: 18:16 BlackCrystalic (usr:Mature Drone (27)) || _src_=vars;mobToDamage=[0x3000040];adjustDamage=brute
+[18:16:43]HREF: 18:16 BlackCrystalic (usr:Mature Drone (27)) || _src_=vars;mobToDamage=[0x3000040];adjustDamage=oxygen
+[18:16:46]HREF: 18:16 BlackCrystalic (usr:Mature Drone (27)) || _src_=vars;mobToDamage=[0x3000040];adjustDamage=oxygen
+[18:16:56]HREF: 18:16 Alot (usr:Sarah 'Phantom' Black) || Sarah 'Phantom' Black src=[0x3000081];track=[0x3000049]
+[18:17:02]HREF: 18:17 BlackCrystalic (usr:Mature Drone (27)) || /datum/controller/vote src=[0x21000002];vote=custom
+[18:17:33]HREF: 18:17 Artyuom (usr:Johnny Vietnam) || /datum/controller/vote src=[0x21000002];vote=1
+[18:17:38]HREF: 18:17 Sewa (usr:Young Defender (321)) || /datum/controller/vote src=[0x21000002];vote=1
+[18:17:40]HREF: 18:17 Sewa (usr:Young Defender (321)) || /datum/controller/vote src=[0x21000002];vote=close
+[18:17:44]HREF: 18:17 BlackCrystalic (usr:Mature Drone (27)) || /datum/controller/vote src=[0x21000002];vote=1
+[18:17:45]HREF: 18:17 BlackCrystalic (usr:Mature Drone (27)) || /datum/controller/vote src=[0x21000002];vote=1
+[18:18:00]HREF: 18:18 ZyberCpechnaz (usr:Young Defender (554)) || Young Defender (554) src=[0x300007d];track=[0x3000049]
+[18:18:01]HREF: 18:18 ZyberCpechnaz (usr:Young Defender (554)) || Young Defender (554) src=[0x300007d];track=[0x3000052]
+[18:18:11]HREF: 18:18 Alot (usr:Sarah 'Phantom' Black) || /datum/controller/vote src=[0x21000002];vote=4
+[18:18:12]HREF: 18:18 Alot (usr:Sarah 'Phantom' Black) || /datum/controller/vote src=[0x21000002];vote=close
+[18:18:18]HREF: 18:18 Alot (usr:Sarah 'Phantom' Black) || /datum/controller/vote src=[0x21000002];vote=close
+[18:18:18]HREF: 18:18 BlackCrystalic (usr:Mature Drone (27)) || /datum/controller/vote src=[0x21000002];vote=close
+[18:18:19]HREF: 18:18 Artyuom (usr:Johnny Vietnam) || /datum/controller/vote src=[0x21000002];vote=1
+[18:18:20]HREF: 18:18 Artyuom (usr:Johnny Vietnam) || /datum/controller/vote src=[0x21000002];vote=1
+[18:18:21]HREF: 18:18 Artyuom (usr:Johnny Vietnam) || /datum/controller/vote src=[0x21000002];vote=1
+[18:18:21]HREF: 18:18 Artyuom (usr:Johnny Vietnam) || /datum/controller/vote src=[0x21000002];vote=1
+[18:18:22]HREF: 18:18 Artyuom (usr:Johnny Vietnam) || /datum/controller/vote src=[0x21000002];vote=1
+[18:18:22]HREF: 18:18 Artyuom (usr:Johnny Vietnam) || /datum/controller/vote src=[0x21000002];vote=1
+[18:18:23]HREF: 18:18 Artyuom (usr:Johnny Vietnam) || /datum/controller/vote src=[0x21000002];vote=1
+[18:18:31]HREF: 18:18 Artyuom (usr:Johnny Vietnam) || /datum/controller/vote src=[0x21000002];vote=close

@@ -1,0 +1,237 @@
+
+
+Starting up round 14:25:08
+---------------------
+[14:25:08]MISC: Saved mode is 'Hunter Games'
+[14:25:08]ADMIN: Loading jobban_rank
+[14:25:08]ADMIN: Loading Banlist
+[14:25:08]DEBUG: Error setting up jobs, blank title job: /datum/job/captain.
+[14:25:08]DEBUG: Error setting up jobs, blank title job: /datum/job/hop.
+[14:25:08]DEBUG: Error setting up jobs, blank title job: /datum/job/assistant.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/bartender.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/chef.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/hydro.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/mining.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/janitor.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/librarian.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/lawyer.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/chaplain.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/qm.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/cargo_tech.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/chief_engineer.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/engineer.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/atmos.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/cmo.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/doctor.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/chemist.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/geneticist.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/psychiatrist.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/rd.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/scientist.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/roboticist.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/hos.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/warden.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/detective.
+[14:25:09]DEBUG: Error setting up jobs, blank title job: /datum/job/officer.
+[14:25:15]DEBUG: Next event in 24.938 minutes.
+[14:25:16]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 80.240.253.147-3990586367 || BYOND v513.1525
+[14:25:17]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 80.240.253.147-3990586367 || BYOND v513.1525
+[14:25:17]ACCESS: Notice: BlackCrystalic/(BlackCrystalic) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[14:25:18]ACCESS: Logout: ZyberCpechnaz/(ZyberCpechnaz)
+[14:25:18]ACCESS: Logout: BlackCrystalic/(BlackCrystalic)
+[14:25:22]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 22.
+[14:25:22]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 9.
+[14:25:22]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 3.
+[14:25:22]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 80.240.253.147-3990586367 || BYOND v513.1525
+[14:25:23]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 80.240.253.147-3990586367 || BYOND v513.1525
+[14:25:23]ACCESS: Notice: BlackCrystalic/(BlackCrystalic) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[14:25:28]ACCESS: Login: NIKIGO/(NIKIGO) from 79.104.200.2-1951049353 || BYOND v513.1525
+[14:25:29]ACCESS: Logout: NIKIGO/(NIKIGO)
+[14:25:30]ACCESS: Login: EngineerConager/(EngineerConager) from 176.32.153.98-2402443160 || BYOND v513.1525
+[14:25:32]ADMIN: BlackCrystalic/(BlackCrystalic) set the mode as Distress Signal.
+[14:25:33]ACCESS: Login: NIKIGO/(NIKIGO) from 79.104.200.2-1951049353 || BYOND v513.1525
+[14:25:34]ACCESS: Logout: EngineerConager/(EngineerConager)
+[14:25:38]ACCESS: Login: Artyuom/(Artyuom) from 95.174.127.234-114134526 || BYOND v513.1517
+[14:25:39]ACCESS: Logout: Artyuom/(Artyuom)
+[14:25:42]ACCESS: Login: Artyuom/(Artyuom) from 95.174.127.234-114134526 || BYOND v513.1517
+[14:25:54]ACCESS: Login: EngineerConager/(EngineerConager) from 176.32.153.98-2402443160 || BYOND v513.1525
+[14:25:59]OOC: Artyuom/(Artyuom) "лагает" (start area (8, 8, 2))
+[14:26:57]ACCESS: Logout: EngineerConager/(EngineerConager)
+[14:27:39]ACCESS: Login: EngineerConager/(EngineerConager) from 176.32.153.98-2402443160 || BYOND v513.1525
+[14:27:41]ACCESS: Logout: EngineerConager/(EngineerConager)
+[14:27:47]ACCESS: Login: EngineerConager/(EngineerConager) from 176.32.153.98-2402443160 || BYOND v513.1525
+[14:27:56]ADMIN: EngineerConager/(EngineerConager) delayed the game.
+[14:27:57]ADMIN: EngineerConager/(EngineerConager) removed the delay.
+[14:27:58]ADMIN: EngineerConager/(EngineerConager) delayed the game.
+[14:30:15]ACCESS: Login: DarkMan24Rus/(DarkMan24Rus) from 213.110.252.243-2838666589 || BYOND v513.1525
+[14:30:17]ACCESS: Logout: DarkMan24Rus/(DarkMan24Rus)
+[14:30:21]ACCESS: Login: DarkMan24Rus/(DarkMan24Rus) from 213.110.252.243-2838666589 || BYOND v513.1525
+[14:30:35]ACCESS: Logout: DarkMan24Rus/(DarkMan24Rus)
+[14:32:25]ACCESS: Login: Sewa/(Sewa) from 188.19.160.117-1345515308 || BYOND v513.1525
+[14:32:27]ACCESS: Logout: Sewa/(Sewa)
+[14:32:31]ACCESS: Login: Sewa/(Sewa) from 188.19.160.117-1345515308 || BYOND v513.1525
+[14:33:28]ADMIN: BlackCrystalic/(BlackCrystalic) set the mode as Hunter Games.
+[14:34:18]ADMIN: BlackCrystalic/(BlackCrystalic) removed the delay.
+[14:34:27]ACCESS: Login: Drooper/(Drooper) from 178.49.120.109-144915930 || BYOND v513.1513
+[14:34:29]ACCESS: Logout: Drooper/(Drooper)
+[14:34:32]ACCESS: Login: Drooper/(Drooper) from 178.49.120.109-144915930 || BYOND v513.1513
+[14:34:41]ACCESS: Logout: Drooper/(Drooper)
+[14:34:44]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>40</b>
+[14:34:44]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>41</b>
+[14:34:44]DEBUG: Increasing RA shelf space. Current maximum space: <b>50</b>
+[14:34:44]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>50</b>
+[14:34:44]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>51</b>
+[14:34:44]DEBUG: Increasing RA shelf space. Current maximum space: <b>60</b>
+[14:34:44]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>60</b>
+[14:34:44]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>61</b>
+[14:34:44]DEBUG: Increasing RA shelf space. Current maximum space: <b>70</b>
+[14:34:44]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>70</b>
+[14:34:44]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>71</b>
+[14:34:44]DEBUG: Increasing RA shelf space. Current maximum space: <b>80</b>
+[14:34:44]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>80</b>
+[14:34:44]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>81</b>
+[14:34:44]DEBUG: Increasing RA shelf space. Current maximum space: <b>90</b>
+[14:34:44]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>90</b>
+[14:34:44]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>91</b>
+[14:34:44]DEBUG: Increasing RA shelf space. Current maximum space: <b>100</b>
+[14:34:44]ACCESS: Logout: *no key*/(ZyberCpechnaz)
+[14:34:44]ACCESS: Login: ZyberCpechnaz/(Nasir Navarro) from 80.240.253.147-3990586367 || BYOND v513.1525
+[14:34:44]ACCESS: Notice: ZyberCpechnaz/(Nasir Navarro) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[14:34:44]ACCESS: Logout: *no key*/(BlackCrystalic)
+[14:34:44]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 80.240.253.147-3990586367 || BYOND v513.1525
+[14:34:44]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(Nasir Navarro).
+[14:34:44]ACCESS: Logout: *no key*/(NIKIGO)
+[14:34:44]ACCESS: Login: NIKIGO/(Colten Stange) from 79.104.200.2-1951049353 || BYOND v513.1525
+[14:34:44]ACCESS: Logout: *no key*/(Artyuom)
+[14:34:44]ACCESS: Login: Artyuom/(Johnny Vietnam) from 95.174.127.234-114134526 || BYOND v513.1517
+[14:34:44]ACCESS: Logout: *no key*/(EngineerConager)
+[14:34:44]ACCESS: Login: EngineerConager/(Dell Conrad) from 176.32.153.98-2402443160 || BYOND v513.1525
+[14:34:44]ACCESS: Logout: *no key*/(Sewa)
+[14:34:44]ACCESS: Login: Sewa/(Kelvin Focell) from 188.19.160.117-1345515308 || BYOND v513.1525
+[14:35:12]ACCESS: Login: Exadv13/(Exadv13) from 73.170.72.124-3179555612 || BYOND v512.1488
+[14:35:16]ACCESS: Logout: Exadv13/(Exadv13)
+[14:35:23]ACCESS: Login: Exadv13/(Exadv13) from 73.170.72.124-3179555612 || BYOND v512.1488
+[14:35:26]ACCESS: Logout: Artyuom/(Johnny Vietnam)
+[14:35:27]ACCESS: Logout: Exadv13/(Exadv13)
+[14:36:09]ACCESS: Login: Artyuom/(Johnny Vietnam) from 95.174.127.234-114134526 || BYOND v513.1517
+[14:36:12]ACCESS: Logout: Artyuom/(Johnny Vietnam)
+[14:36:16]ACCESS: Login: Artyuom/(Johnny Vietnam) from 95.174.127.234-114134526 || BYOND v513.1517
+[14:36:29]EMOTE: EngineerConager/(Dell Conrad) <B></B> screams! (Tramp Freighter "Rocinante" (91, 75, 1))
+[14:36:30]EMOTE: EngineerConager/(Dell Conrad) <B></B> screams! (Tramp Freighter "Rocinante" (91, 75, 1))
+[14:36:30]EMOTE: EngineerConager/(Dell Conrad) <B></B> screams! (Tramp Freighter "Rocinante" (91, 75, 1))
+[14:36:30]EMOTE: EngineerConager/(Dell Conrad) <B></B> screams! (Tramp Freighter "Rocinante" (91, 75, 1))
+[14:36:30]EMOTE: EngineerConager/(Dell Conrad) <B></B> screams! (Tramp Freighter "Rocinante" (91, 75, 1))
+[14:36:55]ACCESS: Logout: *no key*/(Dell Conrad)
+[14:36:55]ACCESS: Login: EngineerConager/(Dell Conrad) from 176.32.153.98-2402443160 || BYOND v513.1525
+[14:37:28]ACCESS: Login: Ivan2004fantom/(Ivan2004fantom) from 185.108.23.55-115942307 || BYOND v513.1525
+[14:37:30]ACCESS: Logout: Ivan2004fantom/(Ivan2004fantom)
+[14:37:34]ACCESS: Login: Ivan2004fantom/(Ivan2004fantom) from 185.108.23.55-115942307 || BYOND v513.1525
+[14:37:46]ACCESS: Logout: Artyuom/(Johnny Vietnam)
+[14:37:46]ACCESS: Login: Artyuom/(Johnny Vietnam) from 95.174.127.234-114134526 || BYOND v513.1517
+[14:37:49]ACCESS: Logout: Artyuom/(Johnny Vietnam)
+[14:37:53]ACCESS: Login: Artyuom/(Johnny Vietnam) from 95.174.127.234-114134526 || BYOND v513.1517
+[14:38:31]ACCESS: Logout: ZyberCpechnaz/(Nasir Navarro)
+[14:38:32]ACCESS: Logout: BlackCrystalic/(Blacky 'GG' Crysis)
+[14:38:42]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 127.0.0.1-3990586367 || BYOND v513.1525
+[14:38:44]ACCESS: Logout: BlackCrystalic/(Blacky 'GG' Crysis)
+[14:38:49]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 80.240.253.147-3990586367 || BYOND v513.1525
+[14:39:28]ACCESS: Logout: *no key*/(Ivan2004fantom)
+[14:39:28]ACCESS: Login: Ivan2004fantom/(Martin 'Ghost' Kauter) from 185.108.23.55-115942307 || BYOND v513.1525
+[14:39:36]ACCESS: Login: ZyberCpechnaz/(Nasir Navarro) from 127.0.0.1-3990586367 || BYOND v513.1525
+[14:39:36]ACCESS: Notice: ZyberCpechnaz/(Nasir Navarro) has the same ID (3990586367) as BlackCrystalic/(Blacky 'GG' Crysis).
+[14:39:38]ACCESS: Logout: ZyberCpechnaz/(Nasir Navarro)
+[14:39:44]ACCESS: Login: ZyberCpechnaz/(Nasir Navarro) from 80.240.253.147-3990586367 || BYOND v513.1525
+[14:39:44]ACCESS: Notice: ZyberCpechnaz/(Nasir Navarro) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(Blacky 'GG' Crysis).
+[14:40:16]ACCESS: Logout: Ivan2004fantom/(Martin 'Ghost' Kauter)
+[14:40:25]ACCESS: Login: Ivan2004fantom/(Martin 'Ghost' Kauter) from 185.108.23.55-115942307 || BYOND v513.1525
+[14:40:27]ACCESS: Logout: Ivan2004fantom/(Martin 'Ghost' Kauter)
+[14:40:30]ACCESS: Login: Ivan2004fantom/(Martin 'Ghost' Kauter) from 185.108.23.55-115942307 || BYOND v513.1525
+[14:42:24]GAME: <a href='?priv_msg=[0x5000002]'>ZyberCpechnaz</a>/(Nasir Navarro) has ghosted.
+[14:42:24]ACCESS: Logout: *no key*/(Nasir Navarro)
+[14:42:24]ACCESS: Login: ZyberCpechnaz/(Nasir Navarro) from 80.240.253.147-3990586367 || BYOND v513.1525
+[14:42:24]ACCESS: Notice: ZyberCpechnaz/(Nasir Navarro) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(Blacky 'GG' Crysis).
+[14:42:48]ACCESS: Logout: ZyberCpechnaz/(Nasir Navarro)
+[14:42:49]ACCESS: Logout: BlackCrystalic/(Blacky 'GG' Crysis)
+[14:42:58]ADMIN: EngineerConager/(Dell Conrad) deleted Infirmary at (152,157,1) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000071]'>JMP</A>)
+[14:43:45]ADMIN: EngineerConager/(Dell Conrad) deleted the heavy reinforced wall at (152,152,1) (<A HREF='?_src_=holder;adminplayerobservejump=[0x3000071]'>JMP</A>)
+[14:45:05]SAY: *no key*/(BlackCrystalic) "Esp!" (Commander's Bunk (98, 269, 3))
+[14:45:05]ACCESS: Login: KluexTheSunborn/(KluexTheSunborn) from 188.170.77.111-1862427750 || BYOND v512.1488
+[14:45:08]ACCESS: Logout: KluexTheSunborn/(KluexTheSunborn)
+[14:45:11]ACCESS: Login: KluexTheSunborn/(KluexTheSunborn) from 188.170.77.111-1862427750 || BYOND v512.1488
+[14:45:15]ACCESS: Logout: KluexTheSunborn/(KluexTheSunborn)
+[14:45:32]SAY: NIKIGO/(Colten Stange) "пиздец" (North High-Security Cellblock South (94, 145, 1))
+[14:45:33]ACCESS: Login: ZyberCpechnaz/(Nasir Navarro) from 127.0.0.1-3990586367 || BYOND v513.1525
+[14:45:34]ACCESS: Logout: ZyberCpechnaz/(Nasir Navarro)
+[14:45:38]ACCESS: Login: ZyberCpechnaz/(Nasir Navarro) from 80.240.253.147-3990586367 || BYOND v513.1525
+[14:45:41]ACCESS: Login: KluexTheSunborn/(KluexTheSunborn) from 188.170.77.111-1862427750 || BYOND v512.1488
+[14:45:41]SAY: NIKIGO/(Colten Stange) "лом бы хоть" (North High-Security Cellblock South (90, 147, 1))
+[14:45:42]ACCESS: Logout: KluexTheSunborn/(KluexTheSunborn)
+[14:45:44]ACCESS: Login: KluexTheSunborn/(KluexTheSunborn) from 188.170.77.111-1862427750 || BYOND v512.1488
+[14:45:49]ACCESS: Logout: KluexTheSunborn/(KluexTheSunborn)
+[14:47:27]ACCESS: Login: KluexTheSunborn/(KluexTheSunborn) from 188.170.77.111-1862427750 || BYOND v513.1525
+[14:47:27]ADMIN: EngineerConager/(Dell Conrad) jumped to 119,150,1 in Central Ring
+[14:47:30]ACCESS: Logout: KluexTheSunborn/(KluexTheSunborn)
+[14:47:32]ACCESS: Login: KluexTheSunborn/(KluexTheSunborn) from 188.170.77.111-1862427750 || BYOND v513.1525
+[14:48:18]EMOTE: Sewa/(Kelvin Focell) <B>Unknown</B> screams! (Central Ring (167, 125, 1))
+[14:48:22]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 127.0.0.1-3990586367 || BYOND v513.1525
+[14:48:22]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same ID (3990586367) as ZyberCpechnaz/(Nasir Navarro).
+[14:48:24]ACCESS: Logout: BlackCrystalic/(Blacky 'GG' Crysis)
+[14:48:24]EMOTE: Artyuom/(Johnny Vietnam) <B></B> screams! (Central Ring (168, 128, 1))
+[14:48:25]EMOTE: Artyuom/(Johnny Vietnam) <B></B> screams! (Central Ring (168, 128, 1))
+[14:48:26]EMOTE: Artyuom/(Johnny Vietnam) <B></B> screams! (Central Ring (168, 128, 1))
+[14:48:28]EMOTE: Artyuom/(Johnny Vietnam) <B></B> screams! (Central Ring (168, 129, 1))
+[14:48:29]EMOTE: Sewa/(Kelvin Focell) <B>Unknown</B> screams! (Central Ring (167, 129, 1))
+[14:48:29]ACCESS: Logout: *no key*/(Kelvin Focell)
+[14:48:29]ACCESS: Login: Sewa/(Kelvin Focell) from 188.19.160.117-1345515308 || BYOND v513.1525
+[14:48:30]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 80.240.253.147-3990586367 || BYOND v513.1525
+[14:48:30]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(Nasir Navarro).
+[14:48:43]ACCESS: Logout: *no key*/(KluexTheSunborn)
+[14:48:43]ACCESS: Login: KluexTheSunborn/(Bob Ross) from 188.170.77.111-1862427750 || BYOND v513.1525
+[14:49:34]ACCESS: Logout: *no key*/(Kelvin Focell)
+[14:49:34]ACCESS: Login: Sewa/(Kelvin Focell) from 188.19.160.117-1345515308 || BYOND v513.1525
+[14:49:48]GAME: <a href='?priv_msg=[0x5000007]'>BlackCrystalic</a>/(Blacky 'GG' Crysis) has ghosted.
+[14:49:48]ACCESS: Logout: *no key*/(Blacky 'GG' Crysis)
+[14:49:48]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 80.240.253.147-3990586367 || BYOND v513.1525
+[14:49:48]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(Nasir Navarro).
+[14:50:00]ADMIN: EngineerConager/(Dell Conrad) checked antagonists.
+[14:50:13]DEBUG: Next event in 44.098 minutes.
+[14:50:49]EMOTE: NIKIGO/(Colten Stange) <B></B> screams! (North High-Security Checkpoint (112, 144, 1))
+[14:50:53]EMOTE: NIKIGO/(Colten Stange) <B>Unknown</B> screams! (North High-Security Checkpoint (112, 139, 1))
+[14:50:56]EMOTE: NIKIGO/(Colten Stange) <B>Unknown</B> screams! (North High-Security Checkpoint (112, 139, 1))
+[14:50:58]EMOTE: NIKIGO/(Colten Stange) <B>Unknown</B> screams! (North High-Security Checkpoint (112, 139, 1))
+[14:51:02]EMOTE: NIKIGO/(Colten Stange) <B>Unknown</B> screams! (North High-Security Checkpoint (112, 139, 1))
+[14:51:03]ACCESS: Logout: KluexTheSunborn/(Bob Ross)
+[14:51:04]EMOTE: NIKIGO/(Colten Stange) <B>Unknown</B> screams! (North High-Security Checkpoint (112, 139, 1))
+[14:51:05]EMOTE: NIKIGO/(Colten Stange) <B>Unknown</B> screams! (North High-Security Checkpoint (112, 139, 1))
+[14:51:13]EMOTE: NIKIGO/(Colten Stange) <B>Unknown</B> screams! (North High-Security Checkpoint (112, 139, 1))
+[14:51:16]EMOTE: NIKIGO/(Colten Stange) <B>Unknown</B> screams! (North High-Security Checkpoint (112, 139, 1))
+[14:51:16]EMOTE: NIKIGO/(Colten Stange) <B>Unknown</B> screams! (North High-Security Checkpoint (112, 139, 1))
+[14:51:17]EMOTE: NIKIGO/(Colten Stange) <B>Unknown</B> screams! (North High-Security Checkpoint (112, 139, 1))
+[14:51:17]EMOTE: NIKIGO/(Colten Stange) <B>Unknown</B> screams! (North High-Security Checkpoint (112, 139, 1))
+[14:51:26]ADMIN: PM: EngineerConager/(Dell Conrad)->NIKIGO/(Colten Stange): -_-
+[14:51:37]EMOTE: NIKIGO/(Colten Stange) <B>Unknown</B> screams! (North High-Security Checkpoint (112, 140, 1))
+[14:51:49]ADMIN: PM: NIKIGO/(Colten Stange)->EngineerConager/(Dell Conrad): А че делать я окружен обесточеными шлюзами
+[14:51:54]ACCESS: Login: KluexTheSunborn/(Bob Ross) from 188.170.77.111-1862427750 || BYOND v513.1525
+[14:51:56]ACCESS: Logout: KluexTheSunborn/(Bob Ross)
+[14:51:59]ACCESS: Login: KluexTheSunborn/(Bob Ross) from 188.170.77.111-1862427750 || BYOND v513.1525
+[14:52:02]ACCESS: Login: Artyom Clark/(Artyom Clark) from 31.162.167.175-2300495692 || BYOND v512.1488
+[14:52:03]ACCESS: Logout: Artyom Clark/(Artyom Clark)
+[14:52:06]ACCESS: Login: Artyom Clark/(Artyom Clark) from 31.162.167.175-2300495692 || BYOND v512.1488
+[14:52:09]ADMIN: PM: EngineerConager/(Dell Conrad)->NIKIGO/(Colten Stange): Ладно делай что хочешь 
+[14:52:10]ACCESS: Logout: Artyom Clark/(Artyom Clark)
+[14:52:12]GAME: Explosion with size (1, 2, 3) in area Civilian Residences Central 
+[14:52:17]GAME: Humans remaining: 1
+Round time: 0:26
+Big Winner: Colten Stange (NIKIGO)
+[14:52:17]GAME: Antagonists at round end were...
+[14:52:30]EMOTE: Artyuom/(Johnny Vietnam) <B></B> gasps! (Central Ring (168, 127, 1))
+[14:52:39]ACCESS: Logout: *no key*/(Johnny Vietnam)
+[14:52:39]ACCESS: Login: Artyuom/(Johnny Vietnam) from 95.174.127.234-114134526 || BYOND v513.1517
+[14:54:22]ACCESS: Logout: ZyberCpechnaz/(Nasir Navarro)
+[14:54:22]ACCESS: Logout: Artyuom/(Johnny Vietnam)
+[14:54:22]ACCESS: Logout: KluexTheSunborn/(Bob Ross)
+[14:54:22]ACCESS: Logout: NIKIGO/(Colten Stange)
+[14:54:22]ACCESS: Logout: EngineerConager/(Dell Conrad)
+[14:54:22]ACCESS: Logout: Sewa/(Kelvin Focell)
+[14:54:22]ACCESS: Logout: Ivan2004fantom/(Martin 'Ghost' Kauter)
+[14:54:22]ACCESS: Logout: BlackCrystalic/(Blacky 'GG' Crysis)

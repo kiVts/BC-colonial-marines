@@ -1,0 +1,102 @@
+
+
+Starting up round 18:03:40
+---------------------
+[18:03:40]MISC: Saved mode is 'Distress Signal'
+[18:03:41]ADMIN: Loading jobban_rank
+[18:03:41]ADMIN: Loading Banlist
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/captain.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/hop.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/assistant.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/bartender.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/chef.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/hydro.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/mining.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/janitor.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/librarian.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/lawyer.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/chaplain.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/qm.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/cargo_tech.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/chief_engineer.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/engineer.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/atmos.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/cmo.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/doctor.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/chemist.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/geneticist.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/psychiatrist.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/rd.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/scientist.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/roboticist.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/hos.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/warden.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/detective.
+[18:03:41]DEBUG: Error setting up jobs, blank title job: /datum/job/officer.
+[18:03:55]DEBUG: Next event in 35.86 minutes.
+[18:03:55]ACCESS: Login: CM.RU/(CM.RU) from 127.0.0.1-3990586367 || BYOND v513.1513
+[18:03:56]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 80.240.253.147-3990586367 || BYOND v513.1513
+[18:03:56]ACCESS: Notice: ZyberCpechnaz/(ZyberCpechnaz) has the same ID (3990586367) as CM.RU/(CM.RU).
+[18:03:56]ACCESS: Login: Alot/(Alot) from 85.141.70.207-1465043992 || BYOND v513.1513
+[18:03:56]ACCESS: Login: Artyuom/(Artyuom) from 95.174.127.234-114134526 || BYOND v513.1517
+[18:03:56]ACCESS: Login: GhostPokolenie/(GhostPokolenie) from 95.215.48.242-300637069 || BYOND v513.1524
+[18:03:56]ACCESS: Login: ALex13t/(ALex13t) from 176.36.139.205-647948570 || BYOND v513.1525
+[18:03:57]ACCESS: Login: Danik_10p/(Danik_10p) from 188.163.54.53-2119476545 || BYOND v513.1522
+[18:03:57]ACCESS: Logout: CM.RU/(CM.RU)
+[18:03:57]ACCESS: Login: Drooper/(Drooper) from 178.49.120.109-2888179243 || BYOND v513.1513
+[18:03:57]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 80.240.253.147-3990586367 || BYOND v513.1513
+[18:03:57]ACCESS: Notice: BlackCrystalic/(BlackCrystalic) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[18:03:57]ACCESS: Logout: ZyberCpechnaz/(ZyberCpechnaz)
+[18:03:57]ACCESS: Login: CM.RU/(CM.RU) from 127.0.0.1-3990586367 || BYOND v513.1513
+[18:03:57]ACCESS: Notice: CM.RU/(CM.RU) has the same ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[18:03:57]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 127.0.0.1-3990586367 || BYOND v513.1513
+[18:03:57]ACCESS: Notice: ZyberCpechnaz/(ZyberCpechnaz) has the same ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[18:03:57]ACCESS: Notice: ZyberCpechnaz/(ZyberCpechnaz) has the same IP (127.0.0.1) and ID (3990586367) as CM.RU/(CM.RU).
+[18:03:57]ACCESS: Logout: Alot/(Alot)
+[18:03:58]ACCESS: Logout: Drooper/(Drooper)
+[18:03:58]ACCESS: Logout: ALex13t/(ALex13t)
+[18:03:59]ACCESS: Logout: Artyuom/(Artyuom)
+[18:03:59]ACCESS: Logout: GhostPokolenie/(GhostPokolenie)
+[18:03:59]ACCESS: Logout: Danik_10p/(Danik_10p)
+[18:03:59]ACCESS: Logout: BlackCrystalic/(BlackCrystalic)
+[18:04:00]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 22.
+[18:04:00]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 9.
+[18:04:00]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 3.
+[18:04:01]ACCESS: Login: ALex13t/(ALex13t) from 176.36.139.205-647948570 || BYOND v513.1525
+[18:04:02]ACCESS: Login: Artyuom/(Artyuom) from 95.174.127.234-114134526 || BYOND v513.1517
+[18:04:02]ACCESS: Login: Drooper/(Drooper) from 178.49.120.109-2888179243 || BYOND v513.1513
+[18:04:02]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 80.240.253.147-3990586367 || BYOND v513.1513
+[18:04:02]ACCESS: Notice: BlackCrystalic/(BlackCrystalic) has the same ID (3990586367) as CM.RU/(CM.RU).
+[18:04:02]ACCESS: Notice: BlackCrystalic/(BlackCrystalic) has the same ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[18:04:03]ACCESS: Login: Danik_10p/(Danik_10p) from 188.163.54.53-2119476545 || BYOND v513.1522
+[18:04:08]ACCESS: Login: GhostPokolenie/(GhostPokolenie) from 95.215.48.242-300637069 || BYOND v513.1524
+[18:04:14]OOC: BlackCrystalic/(BlackCrystalic) "СЕйчас будет доставка пиццы" (start area (8, 8, 2))
+[18:04:18]OOC: BlackCrystalic/(BlackCrystalic) "нет-" (start area (8, 8, 2))
+[18:04:21]OOC: Danik_10p/(Danik_10p) "ммм" (start area (8, 8, 2))
+[18:04:25]OOC: BlackCrystalic/(BlackCrystalic) "нужно 20 человек" (start area (8, 8, 2))
+[18:04:28]OOC: Danik_10p/(Danik_10p) "гост, альо" (start area (8, 8, 2))
+[18:04:29]OOC: BlackCrystalic/(BlackCrystalic) "для этого ивента" (start area (8, 8, 2))
+[18:04:34]OOC: BlackCrystalic/(BlackCrystalic) "ласт раунд" (start area (8, 8, 2))
+[18:04:39]OOC: GhostPokolenie/(GhostPokolenie) "А" (start area (8, 8, 2))
+[18:04:42]OOC: GhostPokolenie/(GhostPokolenie) "Где ты?" (start area (8, 8, 2))
+[18:04:45]ACCESS: Logout: ALex13t/(ALex13t)
+[18:04:59]OOC: Danik_10p/(Danik_10p) "на сервере парика" (start area (8, 8, 2))
+[18:05:07]ACCESS: Login: Snoud/(Snoud) from 176.214.201.45-3267929178 || BYOND v513.1524
+[18:05:09]ACCESS: Logout: Snoud/(Snoud)
+[18:05:10]ACCESS: Logout: Artyuom/(Artyuom)
+[18:05:16]ACCESS: Login: Snoud/(Snoud) from 176.214.201.45-3267929178 || BYOND v513.1524
+[18:05:22]ACCESS: Logout: GhostPokolenie/(GhostPokolenie)
+[18:05:30]ACCESS: Logout: Drooper/(Drooper)
+[18:05:58]OOC: Danik_10p/(Danik_10p) "ну?" (start area (8, 8, 2))
+[18:06:16]ACCESS: Login: GhostPokolenie/(GhostPokolenie) from 95.215.48.242-300637069 || BYOND v513.1524
+[18:06:18]ACCESS: Logout: GhostPokolenie/(GhostPokolenie)
+[18:06:21]ADMIN: BlackCrystalic/(BlackCrystalic) delayed the game.
+[18:06:26]ACCESS: Login: GhostPokolenie/(GhostPokolenie) from 95.215.48.242-300637069 || BYOND v513.1524
+[18:06:28]ACCESS: Logout: CM.RU/(CM.RU)
+[18:06:29]ACCESS: Logout: BlackCrystalic/(BlackCrystalic)
+[18:06:31]ACCESS: Logout: ZyberCpechnaz/(ZyberCpechnaz)
+[18:06:32]OOC: GhostPokolenie/(GhostPokolenie) "Ох" (start area (8, 8, 2))
+[18:06:34]OOC: GhostPokolenie/(GhostPokolenie) "Май" (start area (8, 8, 2))
+[18:06:38]ACCESS: Logout: GhostPokolenie/(GhostPokolenie)
+[18:06:38]ACCESS: Logout: Snoud/(Snoud)
+[18:06:38]ACCESS: Logout: Danik_10p/(Danik_10p)

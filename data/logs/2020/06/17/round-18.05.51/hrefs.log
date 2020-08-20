@@ -1,0 +1,626 @@
+
+
+Starting up round 18:05:51
+---------------------
+[18:06:13]HREF: 18:06 Wincant (usr:Wincant) || Wincant src=[0x300001a];lobby_choice=ready
+[18:06:16]HREF: 18:06 Gaper (usr:Gaper) || Gaper src=[0x3000020];lobby_choice=show_preferences
+[18:06:18]HREF: 18:06 Wincant (usr:Wincant) || Wincant src=[0x300001a];lobby_choice=show_preferences
+[18:06:21]HREF: 18:06 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];lobby_choice=show_preferences
+[18:06:31]HREF: 18:06 Gaper (usr:Gaper) || Gaper src=[0x3000020];lobby_choice=show_preferences
+[18:06:34]HREF: 18:06 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];lobby_choice=show_preferences
+[18:06:36]HREF: 18:06 Gaper (usr:Gaper) || _src_=prefs;preference=be_special;num=1
+[18:06:37]HREF: 18:06 Gaper (usr:Gaper) || _src_=prefs;preference=be_special;num=0
+[18:06:48]HREF: 18:06 Wincant (usr:Wincant) || Wincant src=[0x300001a];lobby_choice=show_preferences
+[18:06:51]HREF: 18:06 Gaper (usr:Gaper) || Gaper src=[0x3000020];lobby_choice=ready
+[18:06:57]HREF: 18:06 Gaper (usr:Gaper) || Gaper src=[0x3000020];lobby_choice=show_preferences
+[18:07:06]HREF: 18:07 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];preference=flavor_text;task=open
+[18:07:10]HREF: 18:07 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];lobby_choice=show_preferences
+[18:07:13]HREF: 18:07 Wincant (usr:Wincant) || Wincant src=[0x3000022];lobby_choice=ready
+[18:07:16]HREF: 18:07 Wincant (usr:Wincant) || Wincant src=[0x3000022];lobby_choice=show_preferences
+[18:07:17]HREF: 18:07 Wincant (usr:Wincant) || Wincant src=[0x3000022];lobby_choice=show_preferences
+[18:07:17]HREF: 18:07 Wincant (usr:Wincant) || Wincant src=[0x3000022];lobby_choice=show_preferences
+[18:07:18]HREF: 18:07 Wincant (usr:Wincant) || Wincant src=[0x3000022];lobby_choice=show_preferences
+[18:07:18]HREF: 18:07 Wincant (usr:Wincant) || Wincant src=[0x3000022];lobby_choice=show_preferences
+[18:07:18]HREF: 18:07 Wincant (usr:Wincant) || Wincant src=[0x3000022];lobby_choice=show_preferences
+[18:07:21]HREF: 18:07 Artyuom (usr:Artyuom) || _src_=prefs;preference=age;task=input
+[18:07:29]HREF: 18:07 Wincant (usr:Wincant) || Wincant src=[0x3000022];lobby_choice=show_preferences
+[18:07:30]HREF: 18:07 Wincant (usr:Wincant) || Wincant src=[0x3000022];lobby_choice=show_preferences
+[18:07:30]HREF: 18:07 Wincant (usr:Wincant) || Wincant src=[0x3000022];lobby_choice=show_preferences
+[18:07:30]HREF: 18:07 Wincant (usr:Wincant) || Wincant src=[0x3000022];lobby_choice=show_preferences
+[18:07:30]HREF: 18:07 Wincant (usr:Wincant) || Wincant src=[0x3000022];lobby_choice=show_preferences
+[18:07:31]HREF: 18:07 Wincant (usr:Wincant) || Wincant src=[0x3000022];lobby_choice=show_preferences
+[18:07:31]HREF: 18:07 Wincant (usr:Wincant) || Wincant src=[0x3000022];lobby_choice=show_preferences
+[18:07:55]HREF: 18:07 Wincant (usr:Wincant) || Wincant src=[0x3000022];lobby_choice=ready
+[18:07:55]HREF: 18:07 Wincant (usr:Wincant) || Wincant src=[0x3000022];lobby_choice=ready
+[18:07:55]HREF: 18:07 Wincant (usr:Wincant) || Wincant src=[0x3000022];lobby_choice=ready
+[18:07:56]HREF: 18:07 Wincant (usr:Wincant) || Wincant src=[0x3000022];lobby_choice=show_preferences
+[18:08:39]HREF: 18:08 BlackCrystalic (usr:BlackCrystalic) || BlackCrystalic src=[0x3000018];lobby_choice=observe
+[18:08:48]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=show_preferences
+[18:08:51]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:08:51]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:08:51]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:08:51]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:08:52]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:08:53]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:08:53]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:08:53]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:08:53]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:08:54]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:08:54]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:08:55]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:08:55]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:08:55]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:08:56]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:08:56]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:08:57]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=show_preferences
+[18:08:57]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=show_preferences
+[18:08:58]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=show_preferences
+[18:08:58]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=show_preferences
+[18:08:58]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=show_preferences
+[18:08:59]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=show_preferences
+[18:08:59]HREF: 18:08 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=show_preferences
+[18:09:00]HREF: 18:09 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=show_preferences
+[18:09:00]HREF: 18:09 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=show_preferences
+[18:09:00]HREF: 18:09 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=show_preferences
+[18:09:16]HREF: 18:09 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=show_preferences
+[18:09:26]HREF: 18:09 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:09:27]HREF: 18:09 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:09:27]HREF: 18:09 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=show_preferences
+[18:09:28]HREF: 18:09 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:09:28]HREF: 18:09 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:09:29]HREF: 18:09 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:09:29]HREF: 18:09 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:09:29]HREF: 18:09 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:09:30]HREF: 18:09 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:09:30]HREF: 18:09 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:09:38]HREF: 18:09 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:09:38]HREF: 18:09 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:09:39]HREF: 18:09 Wincant (usr:Wincant) || Wincant src=[0x3000025];lobby_choice=ready
+[18:09:39]HREF: 18:09 CM.RU (usr:CM.RU) || CM.RU src=[0x300001c];lobby_choice=ready
+[18:09:40]HREF: 18:09 CM.RU (usr:CM.RU) || CM.RU src=[0x300001c];lobby_choice=show_preferences
+[18:09:41]HREF: 18:09 CM.RU (usr:CM.RU) || _src_=prefs;preference=job;task=menu
+[18:09:42]HREF: 18:09 CM.RU (usr:CM.RU) || _src_=prefs;preference=job;task=input;text=Squad%20Leader
+[18:09:43]HREF: 18:09 CM.RU (usr:CM.RU) || _src_=prefs;preference=job;task=input;text=Commander
+[18:09:43]HREF: 18:09 CM.RU (usr:CM.RU) || _src_=prefs;preference=job;task=input;text=Commander
+[18:09:43]HREF: 18:09 CM.RU (usr:CM.RU) || _src_=prefs;preference=job;task=input;text=Commander
+[18:09:44]HREF: 18:09 CM.RU (usr:CM.RU) || _src_=prefs;preference=job;task=close
+[18:09:45]HREF: 18:09 CM.RU (usr:CM.RU) || CM.RU src=[0x300001c];preference=save
+[18:09:45]HREF: 18:09 CM.RU (usr:CM.RU) || CM.RU src=[0x300001c];preference=save
+[18:09:45]HREF: 18:09 CM.RU (usr:CM.RU) || CM.RU src=[0x300001c];preference=save
+[18:09:46]HREF: 18:09 CM.RU (usr:CM.RU) || CM.RU src=[0x300001c];preference=save
+[18:09:46]HREF: 18:09 CM.RU (usr:CM.RU) || CM.RU src=[0x300001c];preference=save
+[18:10:06]HREF: 18:10 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];preference=loadout;task=input
+[18:10:25]HREF: 18:10 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];preference=loadout;task=input
+[18:10:32]HREF: 18:10 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];preference=loadout;task=input
+[18:11:43]HREF: 18:11 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];preference=flavor_text;task=open
+[18:11:46]HREF: 18:11 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];preference=flavor_text;task=general
+[18:11:55]HREF: 18:11 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];preference=flavor_text;task=general
+[18:11:57]HREF: 18:11 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];preference=flavor_text;task=done
+[18:11:58]HREF: 18:11 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];preference=records;record=1
+[18:13:17]HREF: 18:13 Chaburek (usr:Chaburek) || Chaburek src=[0x3000019];lobby_choice=show_preferences
+[18:13:20]HREF: 18:13 Chaburek (usr:Chaburek) || _src_=prefs;preference=be_special;num=0
+[18:13:21]HREF: 18:13 Chaburek (usr:Chaburek) || Chaburek src=[0x3000019];preference=save
+[18:13:22]HREF: 18:13 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];preference=records;task=med_record
+[18:13:22]HREF: 18:13 Chaburek (usr:Chaburek) || Chaburek src=[0x3000019];lobby_choice=ready
+[18:13:44]HREF: 18:13 Chaburek (usr:Chaburek) || Chaburek src=[0x3000019];lobby_choice=show_preferences
+[18:13:46]HREF: 18:13 Chaburek (usr:Chaburek) || _src_=prefs;preference=be_special;num=1
+[18:13:47]HREF: 18:13 Chaburek (usr:Chaburek) || Chaburek src=[0x3000019];preference=save
+[18:14:14]HREF: 18:14 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];preference=flavor_text;task=general
+[18:15:11]HREF: 18:15 Alot (usr:Alot) || Alot src=[0x3000017];lobby_choice=ready
+[18:15:13]HREF: 18:15 Alot (usr:Alot) || Alot src=[0x3000017];lobby_choice=late_join_pred
+[18:16:05]HREF: 18:16 BlackCrystalic (usr:Blacky 'GG' Crysis) || Blacky 'GG' Crysis src=[0x3000024];track=[0x3000042]
+[18:16:15]HREF: 18:16 BlackCrystalic (usr:Blacky 'GG' Crysis) || _src_=holder;sendbacktolobby=[0x3000045]
+[18:16:30]HREF: 18:16 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];preference=flavor_text;task=general
+[18:16:40]HREF: 18:16 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];preference=flavor_text;task=done
+[18:16:41]HREF: 18:16 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];lobby_choice=show_preferences
+[18:16:42]HREF: 18:16 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];lobby_choice=show_preferences
+[18:16:45]HREF: 18:16 CM.RU (usr:the new player) || The new player src=[0x3000046];lobby_choice=late_join
+[18:16:46]HREF: 18:16 CM.RU (usr:the new player) || The new player src=[0x3000046];lobby_choice=SelectedJob;job_selected=Commander
+[18:16:49]HREF: 18:16 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];preference=records;record=1
+[18:16:53]HREF: 18:16 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];preference=records;task=sec_record
+[18:17:35]HREF: 18:17 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407054954
+[18:17:35]HREF: 18:17 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407054955
+[18:17:37]HREF: 18:17 Gaper (usr:Alim Ali Khan San Sikh) || /datum/nanoui src=[0x2100568a];move=1
+[18:18:28]HREF: 18:18 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];preference=records;record=1
+[18:18:39]HREF: 18:18 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];preference=records;task=gen_record
+[18:18:43]HREF: 18:18 Alot (usr:Unknown) || _=1592407122398
+[18:18:43]HREF: 18:18 Alot (usr:Unknown) || _=1592407122399
+[18:18:48]HREF: 18:18 Alot (usr:Unknown) || _=1592407127326
+[18:18:48]HREF: 18:18 Alot (usr:Unknown) || _=1592407127327
+[18:19:04]HREF: 18:19 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407143476
+[18:19:04]HREF: 18:19 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407143477
+[18:19:05]HREF: 18:19 Gaper (usr:Alim Ali Khan San Sikh) || /datum/nanoui src=[0x21005689];move=1
+[18:19:25]HREF: 18:19 Gaper (usr:Alim Ali Khan San Sikh) || /datum/nanoui src=[0x21005689];move=1
+[18:19:27]HREF: 18:19 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407167248
+[18:19:27]HREF: 18:19 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407167249
+[18:19:28]HREF: 18:19 Gaper (usr:Alim Ali Khan San Sikh) || /datum/nanoui src=[0x21005689];move=1
+[18:19:32]HREF: 18:19 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407171414
+[18:19:32]HREF: 18:19 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407171415
+[18:19:42]HREF: 18:19 Gaper (usr:Alim Ali Khan San Sikh) || /datum/nanoui src=[0x21005689];move=1
+[18:19:58]HREF: 18:19 Gaper (usr:Alim Ali Khan San Sikh) || /datum/nanoui src=[0x21005689];move=1
+[18:19:59]HREF: 18:19 Gaper (usr:Alim Ali Khan San Sikh) || /datum/nanoui src=[0x21005689];move=1
+[18:20:04]HREF: 18:20 Bobadoba (usr:Bobadoba) || Bobadoba src=[0x300004b];lobby_choice=late_join
+[18:20:11]HREF: 18:20 Bobadoba (usr:Bobadoba) || Bobadoba src=[0x300004b];lobby_choice=late_join
+[18:20:15]HREF: 18:20 Bobadoba (usr:Bobadoba) || Bobadoba src=[0x300004b];lobby_choice=SelectedJob;job_selected=Doctor
+[18:20:15]HREF: 18:20 Gaper (usr:Alim Ali Khan San Sikh) || /datum/nanoui src=[0x21005689];move=1
+[18:20:16]HREF: 18:20 Gaper (usr:Alim Ali Khan San Sikh) || /datum/nanoui src=[0x21005689];move=1
+[18:20:19]HREF: 18:20 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407219260
+[18:20:19]HREF: 18:20 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407219261
+[18:20:20]HREF: 18:20 Gaper (usr:Alim Ali Khan San Sikh) || /datum/nanoui src=[0x21005689];move=1
+[18:20:23]HREF: 18:20 Bobadoba (usr:John Rhinehart) || _=1592407220546
+[18:20:23]HREF: 18:20 Bobadoba (usr:John Rhinehart) || _=1592407220547
+[18:20:23]HREF: 18:20 Bobadoba (usr:John Rhinehart) || /datum/nanoui src=[0x21005689];vend=4;cat=0
+[18:20:33]HREF: 18:20 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407232613
+[18:20:33]HREF: 18:20 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407232614
+[18:20:34]HREF: 18:20 Gaper (usr:Alim Ali Khan San Sikh) || /datum/nanoui src=[0x2100619d];move=1
+[18:20:47]HREF: 18:20 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407246854
+[18:20:47]HREF: 18:20 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407246855
+[18:20:48]HREF: 18:20 Gaper (usr:Alim Ali Khan San Sikh) || /datum/nanoui src=[0x21005689];move=1
+[18:21:13]HREF: 18:21 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];preference=records;task=sec_record
+[18:21:20]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407279749
+[18:21:20]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407279750
+[18:21:21]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || /datum/nanoui src=[0x210056bd];move=1
+[18:21:21]HREF: 18:21 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];lobby_choice=show_preferences
+[18:21:22]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || /datum/nanoui src=[0x210056bd];move=1
+[18:21:23]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || /datum/nanoui src=[0x210056bd];move=1
+[18:21:23]HREF: 18:21 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];preference=records;record=1
+[18:21:27]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407287061
+[18:21:27]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407287062
+[18:21:28]HREF: 18:21 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];lobby_choice=ready
+[18:21:28]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || /datum/nanoui src=[0x210056bd];move=1
+[18:21:29]HREF: 18:21 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];lobby_choice=late_join
+[18:21:30]HREF: 18:21 Artyuom (usr:Artyuom) || Artyuom src=[0x300001f];lobby_choice=SelectedJob;job_selected=Squad%20Medic
+[18:21:31]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || /datum/nanoui src=[0x210056bd];move=1
+[18:21:31]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || /datum/nanoui src=[0x210056bd];move=1
+[18:21:33]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407292457
+[18:21:33]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407292458
+[18:21:34]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407294257
+[18:21:34]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407294258
+[18:21:37]HREF: 18:21 Alot (usr:Unknown) || _=1592407296675
+[18:21:37]HREF: 18:21 Alot (usr:Unknown) || _=1592407296676
+[18:21:40]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407299700
+[18:21:40]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407299701
+[18:21:43]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407302912
+[18:21:43]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407302913
+[18:21:49]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407308748
+[18:21:49]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407308749
+[18:21:54]HREF: 18:21 Artyuom (usr:Johnny Vietnam) || _=1592407311314
+[18:21:54]HREF: 18:21 Artyuom (usr:Johnny Vietnam) || _=1592407311315
+[18:21:57]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407316502
+[18:21:57]HREF: 18:21 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407316503
+[18:21:58]HREF: 18:21 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061a7];vend=5;cat=0
+[18:21:58]HREF: 18:21 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061a7];vend=5;cat=0
+[18:22:01]HREF: 18:22 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407321048
+[18:22:01]HREF: 18:22 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407321049
+[18:22:12]HREF: 18:22 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407331810
+[18:22:12]HREF: 18:22 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407331811
+[18:22:29]HREF: 18:22 Artyuom (usr:Johnny Vietnam) || _=1592407346496
+[18:22:29]HREF: 18:22 Artyuom (usr:Johnny Vietnam) || _=1592407346497
+[18:22:30]HREF: 18:22 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=2
+[18:22:32]HREF: 18:22 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407351724
+[18:22:32]HREF: 18:22 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407351725
+[18:22:33]HREF: 18:22 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=3
+[18:22:33]HREF: 18:22 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=4
+[18:22:34]HREF: 18:22 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=5
+[18:22:34]HREF: 18:22 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=6
+[18:22:34]HREF: 18:22 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=7
+[18:22:41]HREF: 18:22 Alot (usr:Unknown) || _=1592407360748
+[18:22:41]HREF: 18:22 Alot (usr:Unknown) || _=1592407360749
+[18:23:01]HREF: 18:23 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=9
+[18:23:15]HREF: 18:23 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=16
+[18:23:21]HREF: 18:23 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=19
+[18:23:22]HREF: 18:23 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=23
+[18:23:23]HREF: 18:23 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=25
+[18:23:33]HREF: 18:23 Artyuom (usr:Johnny Vietnam) || _=1592407409716
+[18:23:33]HREF: 18:23 Artyuom (usr:Johnny Vietnam) || _=1592407409717
+[18:23:34]HREF: 18:23 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=2
+[18:23:45]HREF: 18:23 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407425127
+[18:23:45]HREF: 18:23 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407425128
+[18:23:56]HREF: 18:23 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407435328
+[18:23:56]HREF: 18:23 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407435329
+[18:24:04]HREF: 18:24 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407443772
+[18:24:04]HREF: 18:24 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407443773
+[18:24:10]HREF: 18:24 Alot (usr:Unknown) || _=1592407448984
+[18:24:10]HREF: 18:24 Alot (usr:Unknown) || _=1592407448985
+[18:24:11]HREF: 18:24 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407450525
+[18:24:11]HREF: 18:24 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407450526
+[18:24:13]HREF: 18:24 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=12
+[18:24:14]HREF: 18:24 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=13
+[18:24:14]HREF: 18:24 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=14
+[18:24:15]HREF: 18:24 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=17
+[18:24:41]HREF: 18:24 Alot (usr:Unknown) || _=1592407479972
+[18:24:41]HREF: 18:24 Alot (usr:Unknown) || _=1592407479973
+[18:24:41]HREF: 18:24 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407480542
+[18:24:41]HREF: 18:24 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407480543
+[18:24:41]HREF: 18:24 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=27
+[18:24:42]HREF: 18:24 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=27
+[18:24:43]HREF: 18:24 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=28
+[18:25:06]HREF: 18:25 Artyuom (usr:Johnny Vietnam) || _=1592407502710
+[18:25:06]HREF: 18:25 Artyuom (usr:Johnny Vietnam) || _=1592407502711
+[18:25:08]HREF: 18:25 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=5;cat=0
+[18:25:16]HREF: 18:25 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=23;cat=0
+[18:25:16]HREF: 18:25 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=22;cat=0
+[18:25:26]HREF: 18:25 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=19;cat=0
+[18:26:01]HREF: 18:26 Gaper (usr:Alim Ali Khan San Sikh) || General Listening Channel src=[0x200e0ff];talk=1
+[18:26:10]HREF: 18:26 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=18;cat=0
+[18:26:11]HREF: 18:26 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=18;cat=0
+[18:26:11]HREF: 18:26 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=18;cat=0
+[18:26:12]HREF: 18:26 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=18;cat=0
+[18:26:13]HREF: 18:26 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210061ac];vend=18;cat=0
+[18:26:50]HREF: 18:26 Artyuom (usr:Johnny Vietnam) || _=1592407606734
+[18:26:50]HREF: 18:26 Artyuom (usr:Johnny Vietnam) || _=1592407606735
+[18:26:51]HREF: 18:26 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100578c];vend=18;cat=0
+[18:26:57]HREF: 18:26 Alot (usr:Unknown) || _=1592407616298
+[18:26:57]HREF: 18:26 Alot (usr:Unknown) || _=1592407616299
+[18:27:03]HREF: 18:27 BlackCrystalic (usr:Blacky 'GG' Crysis) || /datum/admins src=[0x210036c0];simplemake=larva;mob=[0x3000024]
+[18:28:30]HREF: 18:28 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407709586
+[18:28:30]HREF: 18:28 Gaper (usr:Alim Ali Khan San Sikh) || _=1592407709587
+[18:28:37]HREF: 18:28 Chaburek (usr:Queen) || _=1592407715598
+[18:28:37]HREF: 18:28 Chaburek (usr:Queen) || _=1592407715599
+[18:29:01]HREF: 18:29 Alot (usr:Unknown) || _=1592407740497
+[18:29:01]HREF: 18:29 Alot (usr:Unknown) || _=1592407740498
+[18:29:57]HREF: 18:29 Alot (usr:Unknown) || _=1592407796313
+[18:29:57]HREF: 18:29 Alot (usr:Unknown) || _=1592407796314
+[18:31:33]HREF: 18:31 Chaburek (usr:Queen) || _=1592407891685
+[18:31:33]HREF: 18:31 Chaburek (usr:Queen) || _=1592407891686
+[18:32:33]HREF: 18:32 Chaburek (usr:Queen) || Queen src=[0x3000043];watch_xeno_number=993
+[18:32:51]HREF: 18:32 BlackCrystalic (usr:Young Defender (993)) || _src_=holder;adminmoreinfo=[0x3000044]
+[18:32:53]HREF: 18:32 BlackCrystalic (usr:Young Defender (993)) || /datum/admins src=[0x210036c0];adminplayerobservejump=[0x3000044]
+[18:33:33]HREF: 18:33 Chaburek (usr:Queen) || Queen src=[0x3000043];watch_xeno_number=993
+[18:33:40]HREF: 18:33 Chaburek (usr:Queen) || Queen src=[0x3000043];watch_xeno_number=993
+[18:33:45]HREF: 18:33 BlackCrystalic (usr:Young Defender (993)) || _src_=holder;adminmoreinfo=[0x3000044]
+[18:33:46]HREF: 18:33 BlackCrystalic (usr:Young Defender (993)) || /datum/admins src=[0x210036c0];adminplayerobservejump=[0x3000044]
+[18:34:26]HREF: 18:34 BlackCrystalic (usr:Young Defender (993)) || Young Defender (993) src=[0x3000055];track=[0x3000041]
+[18:34:28]HREF: 18:34 BlackCrystalic (usr:Young Defender (993)) || Young Defender (993) src=[0x3000055];track=[0x3000041]
+[18:35:00]HREF: 18:35 BlackCrystalic (usr:Young Defender (993)) || /datum/admins src=[0x210036c0];adminplayeropts=[0x3000041]
+[18:36:16]HREF: 18:36 ZyberCpechnaz (usr:Mature Defender (993)) || ZyberCpechnaz src=[0x300001b];lobby_choice=observe
+[18:36:18]HREF: 18:36 Chaburek (usr:Queen) || Queen src=[0x3000043];watch_xeno_number=993
+[18:36:23]HREF: 18:36 Chaburek (usr:Queen) || _=1592408181870
+[18:36:23]HREF: 18:36 Chaburek (usr:Queen) || _=1592408181871
+[18:36:28]HREF: 18:36 Chaburek (usr:Queen) || Queen src=[0x3000043];watch_xeno_number=993
+[18:36:29]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];increment=1
+[18:36:30]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];increment=1
+[18:36:30]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];increment=1
+[18:36:30]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];increment=1
+[18:36:30]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];increment=1
+[18:36:30]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];increment=1
+[18:36:30]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];increment=1
+[18:36:32]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];increment=1
+[18:36:32]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];increment=1
+[18:36:32]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];increment2=1
+[18:36:33]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];increment2=1
+[18:36:33]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];increment2=1
+[18:36:33]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];increment2=1
+[18:36:33]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];increment2=1
+[18:36:34]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];increment2=1
+[18:36:34]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];increment2=1
+[18:36:34]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];increment2=1
+[18:36:35]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];decrement=1
+[18:36:36]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];open=1
+[18:36:37]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];retrieve=[0x2014205]
+[18:36:44]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];retrieve=[0x20141f9]
+[18:36:46]HREF: 18:36 CM.RU (usr:Crush Ahmed) || The safe src=[0x20141ed];retrieve=[0x20141f0]
+[18:37:38]HREF: 18:37 CM.RU (usr:Crush Ahmed) || _=1592408258205
+[18:37:38]HREF: 18:37 CM.RU (usr:Crush Ahmed) || _=1592408258206
+[18:37:52]HREF: 18:37 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x2100592f];vend=40;cat=0
+[18:37:52]HREF: 18:37 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x2100592f];vend=40;cat=0
+[18:37:53]HREF: 18:37 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x2100592f];vend=40;cat=0
+[18:37:53]HREF: 18:37 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x2100592f];vend=40;cat=0
+[18:37:57]HREF: 18:37 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x2100592f];vend=44;cat=0
+[18:37:57]HREF: 18:37 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x2100592f];vend=44;cat=0
+[18:37:58]HREF: 18:37 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x2100592f];vend=44;cat=0
+[18:37:58]HREF: 18:37 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x2100592f];vend=44;cat=0
+[18:37:59]HREF: 18:37 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x2100592f];vend=42;cat=0
+[18:37:59]HREF: 18:37 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x2100592f];vend=42;cat=0
+[18:38:00]HREF: 18:38 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x2100592f];vend=42;cat=0
+[18:38:00]HREF: 18:38 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x2100592f];vend=42;cat=0
+[18:38:08]HREF: 18:38 CM.RU (usr:Crush Ahmed) || The plasteel src=[0x2017dde];sublist=;make=1;multiplier=1
+[18:38:20]HREF: 18:38 Chaburek (usr:Queen) || Queen src=[0x3000043];watch_xeno_number=993
+[18:38:21]HREF: 18:38 Chaburek (usr:Queen) || _=1592408300328
+[18:38:21]HREF: 18:38 Chaburek (usr:Queen) || _=1592408300329
+[18:38:25]HREF: 18:38 Chaburek (usr:Queen) || Queen src=[0x3000043];watch_xeno_number=993
+[18:39:24]HREF: 18:39 Artyuom (usr:Johnny Vietnam) || _=1592408360794
+[18:39:24]HREF: 18:39 Artyuom (usr:Johnny Vietnam) || _=1592408360795
+[18:39:26]HREF: 18:39 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100595e];vend=44;cat=0
+[18:39:26]HREF: 18:39 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100595e];vend=44;cat=0
+[18:39:28]HREF: 18:39 Artyuom (usr:Johnny Vietnam) || _=1592408365097
+[18:39:28]HREF: 18:39 Artyuom (usr:Johnny Vietnam) || _=1592408365098
+[18:39:34]HREF: 18:39 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100595e];vend=4;cat=0
+[18:39:57]HREF: 18:39 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];order=categories
+[18:40:00]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];order=Operations
+[18:40:02]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];order=categories
+[18:40:05]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];order=Engineering
+[18:40:09]HREF: 18:40 Chaburek (usr:Queen) || Queen src=[0x3000043];watch_xeno_number=993
+[18:40:11]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];order=categories
+[18:40:11]HREF: 18:40 Chaburek (usr:Queen) || _=1592408409566
+[18:40:11]HREF: 18:40 Chaburek (usr:Queen) || _=1592408409567
+[18:40:15]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];order=Weapons
+[18:40:19]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];doorder=plastic%20explosives%20crate%20(x5)
+[18:40:20]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];order=Weapons
+[18:40:22]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];doorder=plastic%20explosives%20crate%20(x5)
+[18:40:23]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];order=Weapons
+[18:40:24]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];doorder=plastic%20explosives%20crate%20(x5)
+[18:40:24]HREF: 18:40 Chaburek (usr:Queen) || Queen src=[0x3000043];watch_xeno_number=993
+[18:40:25]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];order=Weapons
+[18:40:26]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];order=categories
+[18:40:37]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];mainmenu=1
+[18:40:38]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];viewrequests=1
+[18:40:39]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];confirmorder=4755
+[18:40:40]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];viewrequests=1
+[18:40:41]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];confirmorder=4756
+[18:40:41]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];viewrequests=1
+[18:40:42]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];confirmorder=4757
+[18:40:42]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];viewrequests=1
+[18:40:43]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];mainmenu=1
+[18:40:44]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];send=1
+[18:40:45]HREF: 18:40 CM.RU (usr:Crush Ahmed) || ASRS console src=[0x200f5de];mainmenu=1
+[18:41:12]HREF: 18:41 BlackCrystalic (usr:Mature Defender (993)) || _src_=holder;sendbacktolobby=[0x300005a]
+[18:41:15]HREF: 18:41 Artyuom (usr:the new player) || The new player src=[0x300005b];lobby_choice=manifest
+[18:41:17]HREF: 18:41 Artyuom (usr:the new player) || The new player src=[0x300005b];lobby_choice=late_join
+[18:41:19]HREF: 18:41 Artyuom (usr:the new player) || The new player src=[0x300005b];lobby_choice=SelectedJob;job_selected=Squad%20Smartgunner
+[18:41:39]HREF: 18:41 Artyuom (usr:Johnny Vietnam) || _=1592408495743
+[18:41:39]HREF: 18:41 Artyuom (usr:Johnny Vietnam) || _=1592408495744
+[18:41:40]HREF: 18:41 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100597a];vend=5;cat=0
+[18:41:41]HREF: 18:41 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100597a];vend=5;cat=0
+[18:42:04]HREF: 18:42 Artyuom (usr:Johnny Vietnam) || _=1592408520468
+[18:42:04]HREF: 18:42 Artyuom (usr:Johnny Vietnam) || _=1592408520469
+[18:42:05]HREF: 18:42 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005862];vend=2
+[18:42:06]HREF: 18:42 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005862];vend=3
+[18:42:07]HREF: 18:42 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005862];vend=4
+[18:42:07]HREF: 18:42 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005862];vend=5
+[18:42:08]HREF: 18:42 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005862];vend=6
+[18:42:16]HREF: 18:42 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005862];vend=8
+[18:42:23]HREF: 18:42 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005862];vend=22
+[18:42:27]HREF: 18:42 Artyuom (usr:Johnny Vietnam) || _=1592408544157
+[18:42:27]HREF: 18:42 Artyuom (usr:Johnny Vietnam) || _=1592408544158
+[18:42:28]HREF: 18:42 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005863];vend=2
+[18:42:29]HREF: 18:42 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005863];vend=4
+[18:43:13]HREF: 18:43 Artyuom (usr:Johnny Vietnam) || _=1592408589420
+[18:43:13]HREF: 18:43 Artyuom (usr:Johnny Vietnam) || _=1592408589421
+[18:43:18]HREF: 18:43 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005a0c];vend=21
+[18:43:40]HREF: 18:43 Artyuom (usr:Johnny Vietnam) || _=1592408617094
+[18:43:40]HREF: 18:43 Artyuom (usr:Johnny Vietnam) || _=1592408617095
+[18:43:44]HREF: 18:43 Artyuom (usr:Johnny Vietnam) || _=1592408620542
+[18:43:44]HREF: 18:43 Artyuom (usr:Johnny Vietnam) || _=1592408620543
+[18:43:45]HREF: 18:43 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100576b];vend=19;cat=0
+[18:45:07]HREF: 18:45 CM.RU (usr:Crush Ahmed) || The metal src=[0x2017bf5];sublist=;make=13;multiplier=1
+[18:46:02]HREF: 18:46 CM.RU (usr:Crush Ahmed) || _=1592408762894
+[18:46:02]HREF: 18:46 CM.RU (usr:Crush Ahmed) || _=1592408762895
+[18:46:03]HREF: 18:46 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x21005aa0];vend=1;cat=0
+[18:46:03]HREF: 18:46 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x21005aa0];vend=1;cat=0
+[18:46:08]HREF: 18:46 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x21005aa0];vend=4;cat=2
+[18:46:11]HREF: 18:46 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x21005aa0];vend=3;cat=2
+[18:46:55]HREF: 18:46 Chaburek (usr:Elder Queen) || Elder Queen src=[0x3000043];watch_xeno_number=993
+[18:46:57]HREF: 18:46 Chaburek (usr:Elder Queen) || _=1592408815492
+[18:46:57]HREF: 18:46 Chaburek (usr:Elder Queen) || _=1592408815493
+[18:46:58]HREF: 18:46 CM.RU (usr:Crush Ahmed) || _=1592408818283
+[18:46:58]HREF: 18:46 CM.RU (usr:Crush Ahmed) || _=1592408818284
+[18:47:00]HREF: 18:47 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x210056e4];vend=11;cat=0
+[18:47:09]HREF: 18:47 Artyuom (usr:Johnny Vietnam) || _=1592408825506
+[18:47:09]HREF: 18:47 Artyuom (usr:Johnny Vietnam) || _=1592408825507
+[18:47:10]HREF: 18:47 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210056e3];vend=44;cat=0
+[18:47:10]HREF: 18:47 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210056e3];vend=44;cat=0
+[18:47:14]HREF: 18:47 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x210056e4];vend=5;cat=0
+[18:47:15]HREF: 18:47 Artyuom (usr:Johnny Vietnam) || _=1592408831507
+[18:47:15]HREF: 18:47 Artyuom (usr:Johnny Vietnam) || _=1592408831508
+[18:47:20]HREF: 18:47 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x210056e4];vend=22;cat=0
+[18:47:20]HREF: 18:47 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210056e3];vend=44;cat=0
+[18:47:22]HREF: 18:47 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210056e3];vend=42;cat=0
+[18:47:22]HREF: 18:47 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210056e3];vend=42;cat=0
+[18:47:23]HREF: 18:47 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210056e3];vend=42;cat=0
+[18:47:23]HREF: 18:47 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210056e3];vend=42;cat=0
+[18:47:44]HREF: 18:47 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x210056e4];vend=13;cat=0
+[18:47:56]HREF: 18:47 Artyuom (usr:Johnny Vietnam) || The plasteel src=[0x2017fd4];sublist=;make=1;multiplier=1
+[18:48:08]HREF: 18:48 CM.RU (usr:Crush Ahmed) || _=1592408888469
+[18:48:08]HREF: 18:48 CM.RU (usr:Crush Ahmed) || _=1592408888470
+[18:48:10]HREF: 18:48 CM.RU (usr:Crush Ahmed) || _=1592408890949
+[18:48:11]HREF: 18:48 CM.RU (usr:Crush Ahmed) || _=1592408890950
+[18:48:14]HREF: 18:48 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x2100577a];vend=16;cat=0
+[18:48:14]HREF: 18:48 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x2100577a];vend=17;cat=0
+[18:48:15]HREF: 18:48 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x2100577a];vend=17;cat=0
+[18:48:15]HREF: 18:48 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x2100577a];vend=17;cat=0
+[18:48:15]HREF: 18:48 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x2100577a];vend=17;cat=0
+[18:48:16]HREF: 18:48 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x2100577a];vend=17;cat=0
+[18:48:19]HREF: 18:48 CM.RU (usr:Crush Ahmed) || _=1592408899213
+[18:48:19]HREF: 18:48 CM.RU (usr:Crush Ahmed) || _=1592408899214
+[18:48:22]HREF: 18:48 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x210056e4];vend=10;cat=0
+[18:48:27]HREF: 18:48 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x210056e4];vend=29;cat=0
+[18:48:44]HREF: 18:48 Artyuom (usr:Johnny Vietnam) || _=1592408920555
+[18:48:44]HREF: 18:48 Artyuom (usr:Johnny Vietnam) || _=1592408920556
+[18:48:49]HREF: 18:48 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100629c];vend=29;cat=0
+[18:48:54]HREF: 18:48 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100629c];vend=43;cat=0
+[18:48:56]HREF: 18:48 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100629c];vend=44;cat=0
+[18:48:56]HREF: 18:48 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100629c];vend=44;cat=0
+[18:48:56]HREF: 18:48 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100629c];vend=44;cat=0
+[18:49:08]HREF: 18:49 Artyuom (usr:Johnny Vietnam) || _=1592408944393
+[18:49:08]HREF: 18:49 Artyuom (usr:Johnny Vietnam) || _=1592408944394
+[18:49:13]HREF: 18:49 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005886];vend=16;cat=0
+[18:49:14]HREF: 18:49 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005886];vend=17;cat=0
+[18:49:15]HREF: 18:49 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005886];vend=17;cat=0
+[18:49:15]HREF: 18:49 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005886];vend=17;cat=0
+[18:49:16]HREF: 18:49 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005886];vend=17;cat=0
+[18:49:16]HREF: 18:49 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21005886];vend=17;cat=0
+[18:49:22]HREF: 18:49 CM.RU (usr:Crush Ahmed) || The metal src=[0x2017bf5];sublist=;make=13;multiplier=1
+[18:49:34]HREF: 18:49 CM.RU (usr:Crush Ahmed) || The metal src=[0x2017bf5];sublist=;make=13;multiplier=1
+[18:49:49]HREF: 18:49 CM.RU (usr:Crush Ahmed) || The metal src=[0x2017bd8];sublist=;make=13;multiplier=1
+[18:50:10]HREF: 18:50 CM.RU (usr:Crush Ahmed) || The plasteel src=[0x2017dde];sublist=;make=2;multiplier=1
+[18:50:19]HREF: 18:50 Artyuom (usr:Johnny Vietnam) || The plasteel src=[0x2017fd4];sublist=;make=1;multiplier=1
+[18:50:26]HREF: 18:50 CM.RU (usr:Crush Ahmed) || The plasteel src=[0x2017dde];sublist=;make=2;multiplier=1
+[18:50:39]HREF: 18:50 Chaburek (usr:Elder Queen) || Elder Queen src=[0x3000043];watch_xeno_number=993
+[18:50:40]HREF: 18:50 Chaburek (usr:Elder Queen) || Elder Queen src=[0x3000043];watch_xeno_number=993
+[18:50:41]HREF: 18:50 Chaburek (usr:Elder Queen) || _=1592409040226
+[18:50:41]HREF: 18:50 Chaburek (usr:Elder Queen) || _=1592409040227
+[18:50:46]HREF: 18:50 Chaburek (usr:Elder Queen) || _=1592409044879
+[18:50:46]HREF: 18:50 Chaburek (usr:Elder Queen) || _=1592409044880
+[18:51:16]HREF: 18:51 Chaburek (usr:Elder Queen) || _=1592409075049
+[18:51:16]HREF: 18:51 Chaburek (usr:Elder Queen) || _=1592409075050
+[18:51:20]HREF: 18:51 Chaburek (usr:Elder Queen) || /datum/nanoui src=[0x210059d8];move=1
+[18:51:28]HREF: 18:51 Chaburek (usr:Elder Queen) || Elder Queen src=[0x3000043];watch_xeno_number=993
+[18:51:37]HREF: 18:51 Artyuom (usr:Johnny Vietnam) || _=1592409093644
+[18:51:37]HREF: 18:51 Artyuom (usr:Johnny Vietnam) || _=1592409093645
+[18:51:39]HREF: 18:51 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210059d8];vend=44;cat=0
+[18:51:39]HREF: 18:51 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x210059d8];vend=44;cat=0
+[18:52:09]HREF: 18:52 Artyuom (usr:Johnny Vietnam) || _=1592409126174
+[18:52:09]HREF: 18:52 Artyuom (usr:Johnny Vietnam) || _=1592409126175
+[18:52:13]HREF: 18:52 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100588a];vend=47;cat=0
+[18:52:13]HREF: 18:52 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100588a];vend=47;cat=0
+[18:52:14]HREF: 18:52 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100588a];vend=47;cat=0
+[18:52:15]HREF: 18:52 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100588a];vend=47;cat=0
+[18:52:15]HREF: 18:52 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100588a];vend=47;cat=0
+[18:52:16]HREF: 18:52 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100588a];vend=47;cat=0
+[18:52:16]HREF: 18:52 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100588a];vend=47;cat=0
+[18:52:17]HREF: 18:52 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100588a];vend=47;cat=0
+[18:52:17]HREF: 18:52 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100588a];vend=47;cat=0
+[18:52:17]HREF: 18:52 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x2100588a];vend=47;cat=0
+[18:52:24]HREF: 18:52 CM.RU (usr:Crush Ahmed) || The metal src=[0x2017bd8];sublist=;make=13;multiplier=1
+[18:52:43]HREF: 18:52 CM.RU (usr:Crush Ahmed) || The plasteel src=[0x2017dde];sublist=;make=2;multiplier=1
+[18:52:49]HREF: 18:52 CM.RU (usr:Crush Ahmed) || The metal src=[0x2017bd8];sublist=;make=13;multiplier=1
+[18:53:14]HREF: 18:53 CM.RU (usr:Crush Ahmed) || The metal src=[0x2017bd8];make=12;multiplier=20
+[18:53:23]HREF: 18:53 ALex13t (usr:ALex13t) || ALex13t src=[0x300005f];lobby_choice=manifest
+[18:53:43]HREF: 18:53 CM.RU (usr:Crush Ahmed) || The plasteel src=[0x2017dde];sublist=;make=2;multiplier=1
+[18:53:57]HREF: 18:53 ALex13t (usr:ALex13t) || ALex13t src=[0x300005f];lobby_choice=late_join
+[18:54:00]HREF: 18:54 CM.RU (usr:Crush Ahmed) || The plasteel src=[0x2017fd4];sublist=;make=2;multiplier=1
+[18:54:10]HREF: 18:54 ALex13t (usr:ALex13t) || ALex13t src=[0x300005f];lobby_choice=SelectedJob;job_selected=Squad%20Specialist
+[18:54:23]HREF: 18:54 CM.RU (usr:Crush Ahmed) || The plasteel src=[0x2017fd4];sublist=;make=2;multiplier=1
+[18:54:41]HREF: 18:54 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409277189
+[18:54:41]HREF: 18:54 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409277190
+[18:54:42]HREF: 18:54 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x210056f7];vend=1;cat=0
+[18:54:42]HREF: 18:54 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x210056f7];vend=1;cat=0
+[18:54:42]HREF: 18:54 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x210056f7];vend=1;cat=0
+[18:54:43]HREF: 18:54 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x210056f7];vend=1;cat=0
+[18:54:43]HREF: 18:54 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x210056f7];vend=1;cat=0
+[18:54:44]HREF: 18:54 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x210056f7];vend=1;cat=0
+[18:54:44]HREF: 18:54 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x210056f7];vend=1;cat=0
+[18:54:54]HREF: 18:54 CM.RU (usr:Crush Ahmed) || The metal src=[0x200d653];sublist=;make=13;multiplier=1
+[18:55:09]HREF: 18:55 CM.RU (usr:Crush Ahmed) || The metal src=[0x200d653];sublist=;make=13;multiplier=1
+[18:55:20]HREF: 18:55 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409316113
+[18:55:20]HREF: 18:55 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409316114
+[18:55:21]HREF: 18:55 CM.RU (usr:Crush Ahmed) || The metal src=[0x200d653];sublist=;make=13;multiplier=1
+[18:55:32]HREF: 18:55 Artyuom (usr:Johnny Vietnam) || _=1592409328385
+[18:55:32]HREF: 18:55 Artyuom (usr:Johnny Vietnam) || _=1592409328386
+[18:55:37]HREF: 18:55 Artyuom (usr:Johnny Vietnam) || _=1592409333442
+[18:55:37]HREF: 18:55 Artyuom (usr:Johnny Vietnam) || _=1592409333443
+[18:55:43]HREF: 18:55 Artyuom (usr:Johnny Vietnam) || _=1592409339911
+[18:55:43]HREF: 18:55 Artyuom (usr:Johnny Vietnam) || _=1592409339912
+[18:55:45]HREF: 18:55 Artyuom (usr:Johnny Vietnam) || _=1592409342217
+[18:55:45]HREF: 18:55 Artyuom (usr:Johnny Vietnam) || _=1592409342218
+[18:55:48]HREF: 18:55 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006281];vend=47;cat=0
+[18:55:49]HREF: 18:55 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006281];vend=47;cat=0
+[18:55:49]HREF: 18:55 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006281];vend=47;cat=0
+[18:55:50]HREF: 18:55 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006281];vend=47;cat=0
+[18:55:51]HREF: 18:55 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006281];vend=47;cat=0
+[18:55:51]HREF: 18:55 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006281];vend=47;cat=0
+[18:55:52]HREF: 18:55 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006281];vend=47;cat=0
+[18:55:52]HREF: 18:55 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006281];vend=47;cat=0
+[18:55:53]HREF: 18:55 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006281];vend=47;cat=0
+[18:55:53]HREF: 18:55 Artyuom (usr:Johnny Vietnam) || /datum/nanoui src=[0x21006281];vend=47;cat=0
+[18:55:53]HREF: 18:55 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x210058da];vend=2
+[18:55:56]HREF: 18:55 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409352526
+[18:55:56]HREF: 18:55 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409352527
+[18:55:57]HREF: 18:55 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x210058da];vend=2
+[18:55:58]HREF: 18:55 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x210058da];vend=3
+[18:55:58]HREF: 18:55 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x210058da];vend=4
+[18:55:58]HREF: 18:55 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x210058da];vend=5
+[18:56:16]HREF: 18:56 CM.RU (usr:Crush Ahmed) || The Evacuation Airlock src=[0x201222d];pulse=1
+[18:56:24]HREF: 18:56 CM.RU (usr:Crush Ahmed) || The Evacuation Airlock src=[0x201222e];pulse=1
+[18:56:49]HREF: 18:56 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409404948
+[18:56:49]HREF: 18:56 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409404949
+[18:56:53]HREF: 18:56 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x210061bb];vend=12
+[18:57:02]HREF: 18:57 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x210061bb];vend=15
+[18:57:06]HREF: 18:57 CM.RU (usr:Crush Ahmed) || Maintenance Hatch src=[0x201225e];pulse=1
+[18:57:30]HREF: 18:57 Alot (usr:Unknown) || _=1592409449297
+[18:57:30]HREF: 18:57 Alot (usr:Unknown) || _=1592409449298
+[18:57:36]HREF: 18:57 Alot (usr:Unknown) || /datum/nanoui src=[0x210061bb];vend=21;cat=0
+[18:57:54]HREF: 18:57 Alot (usr:Unknown) || _=1592409473190
+[18:57:54]HREF: 18:57 Alot (usr:Unknown) || _=1592409473191
+[18:58:00]HREF: 18:58 Alot (usr:Unknown) || /datum/nanoui src=[0x210061bb];vend=25;cat=0
+[18:58:24]HREF: 18:58 Chaburek (usr:Elder Queen) || Elder Queen src=[0x3000043];watch_xeno_number=993
+[18:58:25]HREF: 18:58 Chaburek (usr:Elder Queen) || _=1592409503792
+[18:58:25]HREF: 18:58 Chaburek (usr:Elder Queen) || _=1592409503793
+[18:58:27]HREF: 18:58 Chaburek (usr:Elder Queen) || Elder Queen src=[0x3000043];watch_xeno_number=993
+[18:58:44]HREF: 18:58 CM.RU (usr:Crush Ahmed) || _=1592409524240
+[18:58:44]HREF: 18:58 CM.RU (usr:Crush Ahmed) || _=1592409524241
+[18:58:45]HREF: 18:58 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x21005731];vend=1;cat=0
+[18:58:45]HREF: 18:58 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x21005731];vend=1;cat=0
+[18:58:49]HREF: 18:58 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x21005731];vend=4;cat=2
+[18:58:53]HREF: 18:58 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x21005731];vend=3;cat=2
+[18:59:05]HREF: 18:59 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409541403
+[18:59:05]HREF: 18:59 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409541404
+[18:59:11]HREF: 18:59 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100569d];vend=27
+[18:59:32]HREF: 18:59 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x2100569d];vend=25
+[18:59:41]HREF: 18:59 CM.RU (usr:Crush Ahmed) || The plasteel src=[0x200d654];sublist=;make=2;multiplier=1
+[18:59:41]HREF: 18:59 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409577512
+[18:59:41]HREF: 18:59 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409577513
+[18:59:49]HREF: 18:59 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x210061bb];vend=18
+[19:00:16]HREF: 19:00 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409612496
+[19:00:16]HREF: 19:00 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409612497
+[19:00:33]HREF: 19:00 CM.RU (usr:Crush Ahmed) || The plasteel src=[0x200d654];sublist=;make=2;multiplier=1
+[19:00:35]HREF: 19:00 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409631246
+[19:00:35]HREF: 19:00 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409631247
+[19:00:52]HREF: 19:00 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409648409
+[19:00:52]HREF: 19:00 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409648410
+[19:00:57]HREF: 19:00 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409653570
+[19:00:57]HREF: 19:00 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409653571
+[19:01:06]HREF: 19:01 Alot (usr:Unknown) || _=1592409664515
+[19:01:06]HREF: 19:01 Alot (usr:Unknown) || _=1592409664516
+[19:01:07]HREF: 19:01 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409663652
+[19:01:07]HREF: 19:01 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409663653
+[19:01:09]HREF: 19:01 Alot (usr:Unknown) || /datum/nanoui src=[0x21005734];vend=3;cat=0
+[19:01:35]HREF: 19:01 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409691523
+[19:01:35]HREF: 19:01 ALex13t (usr:Reno 'Slowflake' Flake) || _=1592409691524
+[19:01:37]HREF: 19:01 Alot (usr:Unknown) || _=1592409696190
+[19:01:37]HREF: 19:01 Alot (usr:Unknown) || _=1592409696191
+[19:01:39]HREF: 19:01 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x21005734];vend=5;cat=0
+[19:01:47]HREF: 19:01 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x21005734];vend=16;cat=0
+[19:01:47]HREF: 19:01 ALex13t (usr:Reno 'Slowflake' Flake) || /datum/nanoui src=[0x21005734];vend=16;cat=0
+[19:01:54]HREF: 19:01 BlackCrystalic (usr:Mature Defender (993)) || /datum/admins src=[0x210036c0];secretsfun=getxenos
+[19:02:02]HREF: 19:02 BlackCrystalic (usr:Mature Defender (993)) || /datum/admins src=[0x210036c0];secretsfun=blackout
+[19:02:09]HREF: 19:02 BlackCrystalic (usr:Mature Defender (993)) || /datum/admins src=[0x210036c0];secretsfun=unpower
+[19:02:15]HREF: 19:02 Alot (usr:Unknown) || /datum/nanoui src=[0x210058e6];vend=18;cat=0
+[19:05:02]HREF: 19:05 Artyuom (usr:Johnny Vietnam) || The metal src=[0x2017c23];sublist=;make=10;multiplier=1
+[19:05:04]HREF: 19:05 Artyuom (usr:Johnny Vietnam) || The metal src=[0x2017c23];sublist=;make=10;multiplier=1
+[19:05:07]HREF: 19:05 Artyuom (usr:Johnny Vietnam) || The metal src=[0x2017c23];sublist=;make=12;multiplier=1
+[19:05:09]HREF: 19:05 Artyuom (usr:Johnny Vietnam) || The metal src=[0x2017c23];sublist=;make=12;multiplier=1
+[19:05:50]HREF: 19:05 Artyuom (usr:Johnny Vietnam) || The metal src=[0x2017c23];sublist=;make=10;multiplier=1
+[19:05:50]HREF: 19:05 Artyuom (usr:Johnny Vietnam) || The metal src=[0x2017c23];sublist=;make=10;multiplier=1
+[19:13:11]HREF: 19:13 Artyuom (usr:Johnny Vietnam) || The metal src=[0x2017c23];make=10;multiplier=2
+[19:13:16]HREF: 19:13 Artyuom (usr:Johnny Vietnam) || The metal src=[0x2017c23];make=10;multiplier=2
+[19:13:42]HREF: 19:13 Artyuom (usr:Johnny Vietnam) || The metal src=[0x2017c07];sublist=;make=10;multiplier=1
+[19:13:42]HREF: 19:13 Artyuom (usr:Johnny Vietnam) || The metal src=[0x2017c07];sublist=;make=10;multiplier=1
+[19:13:43]HREF: 19:13 Artyuom (usr:Johnny Vietnam) || The metal src=[0x2017c07];sublist=;make=10;multiplier=1
+[19:13:47]HREF: 19:13 Artyuom (usr:Johnny Vietnam) || The metal src=[0x2017c07];sublist=;make=10;multiplier=1
+[19:13:47]HREF: 19:13 Artyuom (usr:Johnny Vietnam) || The metal src=[0x2017c07];sublist=;make=10;multiplier=1
+[19:13:47]HREF: 19:13 Artyuom (usr:Johnny Vietnam) || The metal src=[0x2017c07];sublist=;make=10;multiplier=1
+[19:13:48]HREF: 19:13 Artyuom (usr:Johnny Vietnam) || The metal src=[0x2017c07];sublist=;make=10;multiplier=1
+[19:13:48]HREF: 19:13 Artyuom (usr:Johnny Vietnam) || The metal src=[0x2017c07];sublist=;make=10;multiplier=1
+[19:13:49]HREF: 19:13 Artyuom (usr:Johnny Vietnam) || The metal src=[0x2017c07];sublist=;make=10;multiplier=1
+[19:13:49]HREF: 19:13 Artyuom (usr:Johnny Vietnam) || The metal src=[0x2017c07];sublist=;make=10;multiplier=1
+[19:13:53]HREF: 19:13 Artyuom (usr:Johnny Vietnam) || The metal src=[0x2017c07];make=12;multiplier=20
+[19:14:03]HREF: 19:14 Artyuom (usr:Johnny Vietnam) || The metal src=[0x2017c07];make=10;multiplier=3
+[19:20:29]HREF: 19:20 CM.RU (usr:Crush Ahmed) || The metal src=[0x200d653];sublist=;make=13;multiplier=1
+[19:20:56]HREF: 19:20 CM.RU (usr:Crush Ahmed) || The plasteel src=[0x20181b0];sublist=;make=2;multiplier=1
+[19:20:59]HREF: 19:20 CM.RU (usr:Crush Ahmed) || The plasteel src=[0x20181b0];sublist=;make=3;multiplier=1
+[19:27:48]HREF: 19:27 BlackCrystalic (usr:Mature Defender (993)) || /datum/admins src=[0x210036c0];revive=[0x300005c]
+[19:29:20]HREF: 19:29 ZyberCpechnaz (usr:Young Praetorian (993)) || ZyberCpechnaz src=[0x300001b];lobby_choice=observe
+[19:29:20]HREF: 19:29 ZyberCpechnaz (usr:Young Praetorian (993)) || ZyberCpechnaz src=[0x300001b];lobby_choice=ready
+[19:39:13]HREF: 19:39 Artyuom (usr:Johnny Vietnam) || Unknown src=[0x3000044];item=body
+[19:39:25]HREF: 19:39 Artyuom (usr:Johnny Vietnam) || Unknown src=[0x3000044];item=head
+[19:39:26]HREF: 19:39 Artyuom (usr:Johnny Vietnam) || Unknown src=[0x3000044];item=eyes
+[19:39:28]HREF: 19:39 Artyuom (usr:Johnny Vietnam) || Unknown src=[0x3000044];item=hands
+[19:39:31]HREF: 19:39 Artyuom (usr:Johnny Vietnam) || Unknown src=[0x3000044];item=face
+[19:40:31]HREF: 19:40 Artyuom (usr:Johnny Vietnam) || Unknown src=[0x3000044];item=body
+[19:40:38]HREF: 19:40 Artyuom (usr:Johnny Vietnam) || Unknown src=[0x3000044];item=back
+[19:40:58]HREF: 19:40 Artyuom (usr:Johnny Vietnam) || Unknown src=[0x3000044];item=waist
+[19:41:05]HREF: 19:41 Artyuom (usr:Johnny Vietnam) || Unknown src=[0x3000044];item=face
+[19:41:35]HREF: 19:41 Artyuom (usr:Johnny Vietnam) || Unknown src=[0x3000044];item=jacket
+[19:46:17]HREF: 19:46 BlackCrystalic (usr:Mature Defender (993)) || /datum/admins src=[0x210036c0];check_antagonist=1
+[19:46:19]HREF: 19:46 BlackCrystalic (usr:Mature Defender (993)) || /datum/admins src=[0x210036c0];evac_authority=init_evac
+[19:46:55]HREF: 19:46 CM.RU (usr:Crush Ahmed) || _=1592412415511
+[19:46:55]HREF: 19:46 CM.RU (usr:Crush Ahmed) || _=1592412415512
+[19:47:11]HREF: 19:47 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x210058a8];command=lock_door
+[19:47:12]HREF: 19:47 CM.RU (usr:Crush Ahmed) || /datum/nanoui src=[0x210058a8];command=lock_door
+[19:52:38]HREF: 19:52 BlackCrystalic (usr:Mature Defender (993)) || /datum/admins src=[0x210036c0];check_antagonist=1
+[19:54:09]HREF: 19:54 BlackCrystalic (usr:Mature Defender (993)) || /datum/admins src=[0x210036c0];evac_authority=init_dest
+[19:58:03]HREF: 19:58 BlackCrystalic (usr:Mature Defender (993)) || /datum/admins src=[0x210036c0];check_antagonist=1
+[19:58:04]HREF: 19:58 BlackCrystalic (usr:Mature Defender (993)) || /datum/admins src=[0x210036c0];evac_authority=cancel_dest
+[19:58:05]HREF: 19:58 BlackCrystalic (usr:Mature Defender (993)) || /datum/admins src=[0x210036c0];evac_authority=use_dest

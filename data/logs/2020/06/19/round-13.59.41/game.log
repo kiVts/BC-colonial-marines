@@ -1,0 +1,122 @@
+
+
+Starting up round 13:59:41
+---------------------
+[13:59:41]MISC: Saved mode is 'Hunter Games'
+[13:59:41]ADMIN: Loading jobban_rank
+[13:59:41]ADMIN: Loading Banlist
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/captain.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/hop.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/assistant.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/bartender.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/chef.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/hydro.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/mining.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/janitor.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/librarian.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/lawyer.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/chaplain.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/qm.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/cargo_tech.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/chief_engineer.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/engineer.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/atmos.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/cmo.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/doctor.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/chemist.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/geneticist.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/psychiatrist.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/rd.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/scientist.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/roboticist.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/hos.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/warden.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/detective.
+[13:59:42]DEBUG: Error setting up jobs, blank title job: /datum/job/officer.
+[13:59:50]DEBUG: Next event in 39.58 minutes.
+[14:01:08]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 22.
+[14:01:08]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 9.
+[14:01:08]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 3.
+[14:01:59]ACCESS: Login: EngineerConager/(EngineerConager) from 176.32.156.103-2402443160 || BYOND v513.1526
+[14:02:04]ACCESS: Logout: EngineerConager/(EngineerConager)
+[14:02:16]ACCESS: Login: EngineerConager/(EngineerConager) from 176.32.156.103-2402443160 || BYOND v513.1526
+[14:02:48]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 127.0.0.1-3990586367 || BYOND v513.1513
+[14:02:50]ACCESS: Logout: ZyberCpechnaz/(ZyberCpechnaz)
+[14:02:53]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 80.240.253.147-3990586367 || BYOND v513.1513
+[14:03:08]ADMIN: EngineerConager/(EngineerConager) delayed the game.
+[14:03:23]SAY: *no key*/(corgi) "YAP" (Commandant's Quarters (106, 24, 1))
+[14:04:17]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 127.0.0.1-3990586367 || BYOND v513.1513
+[14:04:17]ACCESS: Notice: BlackCrystalic/(BlackCrystalic) has the same ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[14:04:19]ACCESS: Logout: BlackCrystalic/(BlackCrystalic)
+[14:04:23]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 80.240.253.147-3990586367 || BYOND v513.1513
+[14:04:23]ACCESS: Notice: BlackCrystalic/(BlackCrystalic) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[14:04:44]ACCESS: Login: CM.RU/(CM.RU) from 127.0.0.1-3990586367 || BYOND v513.1513
+[14:04:44]ACCESS: Notice: CM.RU/(CM.RU) has the same ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[14:04:44]ACCESS: Notice: CM.RU/(CM.RU) has the same ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[14:04:46]ACCESS: Logout: CM.RU/(CM.RU)
+[14:04:50]ACCESS: Login: CM.RU/(CM.RU) from 80.240.253.147-3990586367 || BYOND v513.1513
+[14:04:50]ACCESS: Notice: CM.RU/(CM.RU) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[14:04:50]ACCESS: Notice: CM.RU/(CM.RU) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[14:06:56]ACCESS: Login: Harlex5435/(Harlex5435) from 178.161.223.5-4085160650 || BYOND v513.1526
+[14:07:00]ACCESS: Logout: Harlex5435/(Harlex5435)
+[14:07:07]ACCESS: Login: Harlex5435/(Harlex5435) from 178.161.223.5-4085160650 || BYOND v513.1526
+[14:12:27]ADMIN: EngineerConager/(EngineerConager) removed the delay.
+[14:13:09]SAY: *no key*/(corgi) "Bark!" (Commandant's Quarters (104, 25, 1))
+[14:13:32]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>40</b>
+[14:13:32]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>41</b>
+[14:13:32]DEBUG: Increasing RA shelf space. Current maximum space: <b>50</b>
+[14:13:32]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>50</b>
+[14:13:32]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>51</b>
+[14:13:32]DEBUG: Increasing RA shelf space. Current maximum space: <b>60</b>
+[14:13:32]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>60</b>
+[14:13:32]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>61</b>
+[14:13:32]DEBUG: Increasing RA shelf space. Current maximum space: <b>70</b>
+[14:13:32]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>70</b>
+[14:13:32]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>71</b>
+[14:13:32]DEBUG: Increasing RA shelf space. Current maximum space: <b>80</b>
+[14:13:32]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>80</b>
+[14:13:32]DEBUG: RA: trashed the product instead of recycling. Current shelf length is: <b>81</b>
+[14:13:32]DEBUG: Increasing RA shelf space. Current maximum space: <b>90</b>
+[14:13:32]ACCESS: Logout: *no key*/(EngineerConager)
+[14:13:32]ACCESS: Login: EngineerConager/(Dell Conrad) from 176.32.156.103-2402443160 || BYOND v513.1526
+[14:13:32]ACCESS: Logout: *no key*/(Harlex5435)
+[14:13:32]ACCESS: Login: Harlex5435/(Nickolas Stone) from 178.161.223.5-4085160650 || BYOND v513.1526
+[14:16:10]ACCESS: Logout: *no key*/(BlackCrystalic)
+[14:16:10]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 80.240.253.147-3990586367 || BYOND v513.1513
+[14:16:10]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(ZyberCpechnaz).
+[14:16:10]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same IP (80.240.253.147) and ID (3990586367) as CM.RU/(CM.RU).
+[14:19:57]SAY: EngineerConager/(Dell Conrad) "Есть кто ?" (Communications Relay (72, 24, 1))
+[14:21:09]ACCESS: Login: Baloris/(Baloris) from 1.132.106.14-2856888136 || BYOND v513.1526
+[14:21:14]ACCESS: Logout: Baloris/(Baloris)
+[14:21:35]ACCESS: Login: Baloris/(Baloris) from 1.132.106.14-2856888136 || BYOND v513.1526
+[14:22:07]ACCESS: Logout: Baloris/(Baloris)
+[14:22:24]SAY: *no key*/(МилкиВей) "Meow!" (Commander's Bunk (95, 268, 3))
+[14:27:28]EMOTE: Harlex5435/(Nickolas Stone) <B>Unknown</B> screams! (Main Hallway (117, 18, 1))
+[14:27:32]EMOTE: Harlex5435/(Nickolas Stone) <B>Unknown</B> screams! (Main Hallway (117, 18, 1))
+[14:27:38]GAME: Humans remaining: 1
+Round time: 0:26
+Big Winner: Dell Conrad (EngineerConager)
+[14:27:38]GAME: Antagonists at round end were...
+[14:28:09]ACCESS: Login: Artyuom/(Artyuom) from 95.174.127.234-114134526 || BYOND v513.1517
+[14:28:13]VOTE: Custom vote started by BlackCrystalic.
+Decalm Slay
+[14:28:13]ACCESS: Logout: Artyuom/(Artyuom)
+[14:28:20]ACCESS: Login: Artyuom/(Artyuom) from 95.174.127.234-114134526 || BYOND v513.1517
+[14:28:36]EMOTE: EngineerConager/(Dell Conrad) <B></B> screams! (Main Hallway (117, 31, 1))
+[14:28:39]ACCESS: Logout: *no key*/(Artyuom)
+[14:28:39]ACCESS: Login: Artyuom/(Johnny Vietnam) from 95.174.127.234-114134526 || BYOND v513.1517
+[14:28:50]SAY: *no key*/(corgi) "Woof!" (Commandant's Quarters (105, 23, 1))
+[14:28:57]ACCESS: Logout: *no key*/(Nickolas Stone)
+[14:28:57]ACCESS: Login: Harlex5435/(Nickolas Stone) from 178.161.223.5-4085160650 || BYOND v513.1526
+[14:28:58]SAY: Artyuom/(Johnny Vietnam) (ghost) "делаем ставки кто выиграет" (Main Hallway (116, 30, 1))
+[14:29:01]EMOTE: EngineerConager/(Dell Conrad) <B></B> screams! (Main Hallway (117, 31, 1))
+[14:29:15]SAY: Artyuom/(Johnny Vietnam) (ghost) "мм дэл суицыднулся" (Main Hallway (116, 30, 1))
+[14:29:22]ACCESS: Logout: *no key*/(Dell Conrad)
+[14:29:22]ACCESS: Login: EngineerConager/(Dell Conrad) from 176.32.156.103-2402443160 || BYOND v513.1526
+[14:29:30]SAY: Artyuom/(Johnny Vietnam) (ghost) "F" (Main Hallway (118, 33, 1))
+[14:29:43]ACCESS: Logout: EngineerConager/(Dell Conrad)
+[14:29:43]ACCESS: Logout: ZyberCpechnaz/(ZyberCpechnaz)
+[14:29:43]ACCESS: Logout: BlackCrystalic/(Blacky 'GG' Crysis)
+[14:29:43]ACCESS: Logout: CM.RU/(CM.RU)
+[14:29:43]ACCESS: Logout: Harlex5435/(Nickolas Stone)
+[14:29:43]ACCESS: Logout: Artyuom/(Johnny Vietnam)

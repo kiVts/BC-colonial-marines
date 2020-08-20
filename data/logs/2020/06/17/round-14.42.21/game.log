@@ -1,0 +1,561 @@
+
+
+Starting up round 14:42:21
+---------------------
+[14:42:22]MISC: Saved mode is 'Hunter Games'
+[14:42:22]ADMIN: Loading jobban_rank
+[14:42:22]ADMIN: Loading Banlist
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/captain.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/hop.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/assistant.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/bartender.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/chef.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/hydro.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/mining.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/janitor.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/librarian.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/lawyer.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/chaplain.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/qm.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/cargo_tech.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/chief_engineer.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/engineer.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/atmos.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/cmo.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/doctor.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/chemist.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/geneticist.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/psychiatrist.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/rd.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/scientist.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/roboticist.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/hos.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/warden.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/detective.
+[14:42:22]DEBUG: Error setting up jobs, blank title job: /datum/job/officer.
+[14:42:38]DEBUG: Next event in 47.236 minutes.
+[14:42:38]ACCESS: Login: CM.RU/(CM.RU) from 80.240.253.147-3990586367 || BYOND v513.1513
+[14:42:39]ACCESS: Login: Random12234/(Random12234) from 91.216.61.199-3230727184 || BYOND v513.1517
+[14:42:39]ACCESS: Login: Sanyas325/(Sanyas325) from 85.174.199.231-3205515855 || BYOND v513.1525
+[14:42:39]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 80.240.253.147-3990586367 || BYOND v513.1513
+[14:42:39]ACCESS: Notice: BlackCrystalic/(BlackCrystalic) has the same IP (80.240.253.147) and ID (3990586367) as CM.RU/(CM.RU).
+[14:42:40]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 80.240.253.147-3990586367 || BYOND v513.1513
+[14:42:40]ACCESS: Notice: ZyberCpechnaz/(ZyberCpechnaz) has the same IP (80.240.253.147) and ID (3990586367) as CM.RU/(CM.RU).
+[14:42:40]ACCESS: Notice: ZyberCpechnaz/(ZyberCpechnaz) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[14:42:40]ACCESS: Logout: CM.RU/(CM.RU)
+[14:42:40]ACCESS: Login: Drooper/(Drooper) from 178.49.120.109-144915930 || BYOND v513.1513
+[14:42:40]ACCESS: Login: EngineerConager/(EngineerConager) from 176.32.154.191-2402443160 || BYOND v513.1525
+[14:42:40]ACCESS: Login: Artyuom/(Artyuom) from 95.174.127.234-114134526 || BYOND v513.1517
+[14:42:40]ACCESS: Logout: BlackCrystalic/(BlackCrystalic)
+[14:42:40]ACCESS: Logout: Random12234/(Random12234)
+[14:42:40]ACCESS: Logout: Sanyas325/(Sanyas325)
+[14:42:42]ACCESS: Logout: ZyberCpechnaz/(ZyberCpechnaz)
+[14:42:42]ACCESS: Logout: Drooper/(Drooper)
+[14:42:42]ACCESS: Logout: Artyuom/(Artyuom)
+[14:42:42]ACCESS: Logout: EngineerConager/(EngineerConager)
+[14:42:43]ACCESS: Login: CM.RU/(CM.RU) from 80.240.253.147-3990586367 || BYOND v513.1513
+[14:42:43]ACCESS: Login: BlackCrystalic/(BlackCrystalic) from 80.240.253.147-3990586367 || BYOND v513.1513
+[14:42:43]ACCESS: Notice: BlackCrystalic/(BlackCrystalic) has the same IP (80.240.253.147) and ID (3990586367) as CM.RU/(CM.RU).
+[14:42:43]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 22.
+[14:42:43]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 9.
+[14:42:43]DEBUG: ERROR CODE EV1.5: could not find door in USS Almayer Evac 3.
+[14:42:44]ACCESS: Login: ZyberCpechnaz/(ZyberCpechnaz) from 80.240.253.147-3990586367 || BYOND v513.1513
+[14:42:44]ACCESS: Notice: ZyberCpechnaz/(ZyberCpechnaz) has the same IP (80.240.253.147) and ID (3990586367) as CM.RU/(CM.RU).
+[14:42:44]ACCESS: Notice: ZyberCpechnaz/(ZyberCpechnaz) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[14:42:45]ACCESS: Login: Drooper/(Drooper) from 178.49.120.109-144915930 || BYOND v513.1513
+[14:42:45]ACCESS: Login: EngineerConager/(EngineerConager) from 176.32.154.191-2402443160 || BYOND v513.1525
+[14:42:45]ACCESS: Login: Artyuom/(Artyuom) from 95.174.127.234-114134526 || BYOND v513.1517
+[14:42:45]ACCESS: Login: Random12234/(Random12234) from 91.216.61.199-3230727184 || BYOND v513.1517
+[14:43:51]ADMIN: BlackCrystalic/(BlackCrystalic) set the mode as Distress Signal.
+[14:45:05]ACCESS: Login: Sanyas325/(Sanyas325) from 85.174.199.231-3205515855 || BYOND v513.1525
+[14:45:42]DEBUG: Random12234 had Alien enabled, so we are drafting them.
+[14:45:42]ACCESS: Logout: *no key*/(EngineerConager)
+[14:45:42]ACCESS: Login: EngineerConager/(Dell Conrad) from 176.32.154.191-2402443160 || BYOND v513.1525
+[14:45:42]ACCESS: Logout: *no key*/(Random12234)
+[14:45:42]ACCESS: Login: Random12234/(Terrance Rader) from 91.216.61.199-3230727184 || BYOND v513.1517
+[14:45:42]ACCESS: Logout: *no key*/(Sanyas325)
+[14:45:42]ACCESS: Login: Sanyas325/(Tom Svirten) from 85.174.199.231-3205515855 || BYOND v513.1525
+[14:45:42]ACCESS: Logout: *no key*/(Terrance Rader)
+[14:45:42]ACCESS: Login: Random12234/(Bloody Larva (0)) from 91.216.61.199-3230727184 || BYOND v513.1517
+[14:45:54]ACCESS: Logout: *no key*/(Artyuom)
+[14:45:54]ACCESS: Login: Artyuom/(Johnny Vietnam) from 95.174.127.234-114134526 || BYOND v513.1517
+[14:45:54]ADMIN: Artyuom/(Johnny Vietnam) has been assigned as Alpha Squad Medic
+[14:46:04]ACCESS: Logout: *no key*/(ZyberCpechnaz)
+[14:46:04]ACCESS: Login: ZyberCpechnaz/(Jadon Taylor) from 80.240.253.147-3990586367 || BYOND v513.1513
+[14:46:04]ACCESS: Notice: ZyberCpechnaz/(Jadon Taylor) has the same IP (80.240.253.147) and ID (3990586367) as CM.RU/(CM.RU).
+[14:46:04]ACCESS: Notice: ZyberCpechnaz/(Jadon Taylor) has the same IP (80.240.253.147) and ID (3990586367) as BlackCrystalic/(BlackCrystalic).
+[14:46:04]ADMIN: ZyberCpechnaz/(Jadon Taylor) has been assigned as Alpha Squad Leader
+[14:46:07]ACCESS: Logout: *no key*/(Drooper)
+[14:46:07]ACCESS: Login: Drooper/(Jonathon Edhard) from 178.49.120.109-144915930 || BYOND v513.1513
+[14:46:07]ADMIN: Drooper/(Jonathon Edhard) has been assigned as Alpha Squad Specialist
+[14:46:11]SAY: Random12234/(Bloody Larva (201)) "Мда" (Weyland Yutani Research Lab (191, 126, 1))
+[14:46:19]SAY: Random12234/(Bloody Larva (201)) "Куда все делись..." (Weyland Yutani Research Lab (191, 126, 1))
+[14:47:47]ACCESS: Logout: *no key*/(Mature Larva (201))
+[14:47:47]ACCESS: Login: Random12234/(Drone) from 91.216.61.199-3230727184 || BYOND v513.1517
+[14:47:47]SAY: *no key*/(МилкиВей) "Esp!" (Commander's Bunk (94, 269, 3))
+[14:48:25]SAY: *no key*/(МилкиВей) "Purr!" (Commander's Bunk (94, 269, 3))
+[14:48:29]SAY: EngineerConager/(Dell Conrad) (Command Announcement) "Command Announcement - Добрый день морпехи
+Брифинг назначен на 12:15 
+ - Dell Conrad (Commander)" (Combat Information Center (100, 252, 3))
+[14:48:57]ACCESS: Logout: *no key*/(Young Drone (201))
+[14:48:57]ACCESS: Login: Random12234/(Queen) from 91.216.61.199-3230727184 || BYOND v513.1517
+[14:51:57]SAY: Drooper/(Jonathon Edhard) "Кит на вп-78" (Squad Alpha Cargo (175, 177, 3))
+[14:52:09]SAY: Drooper/(Jonathon Edhard) "Персональная защита вроде" (Squad Alpha Cargo (175, 177, 3))
+[14:52:18]SAY: Drooper/(Jonathon Edhard) "Благадарю" (Squad Alpha Cargo (175, 177, 3))
+[14:52:57]ACCESS: Logout: *no key*/(BlackCrystalic)
+[14:52:57]ACCESS: Login: BlackCrystalic/(Blacky 'GG' Crysis) from 80.240.253.147-3990586367 || BYOND v513.1513
+[14:52:57]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same IP (80.240.253.147) and ID (3990586367) as CM.RU/(CM.RU).
+[14:52:57]ACCESS: Notice: BlackCrystalic/(Blacky 'GG' Crysis) has the same IP (80.240.253.147) and ID (3990586367) as ZyberCpechnaz/(Jadon Taylor).
+[14:53:06]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) healed / revived EngineerConager/(Dell Conrad)
+[14:53:21]SAY: ZyberCpechnaz/(Jadon Taylor) "КАРГО ЗАКРЫВАЕТСЯ ЧЕРЕЗ 30 СЕК!" (Squad Alpha Cargo (173, 177, 3))
+[14:54:05]ACCESS: Login: Bobadoba/(Bobadoba) from 217.77.215.165-1393982353 || BYOND v513.1525
+[14:54:07]ACCESS: Logout: Bobadoba/(Bobadoba)
+[14:54:10]ACCESS: Login: Bobadoba/(Bobadoba) from 217.77.215.165-1393982353 || BYOND v513.1525
+[14:54:24]ACCESS: Logout: *no key*/(Bobadoba)
+[14:54:24]ACCESS: Login: Bobadoba/(Lou Kimple) from 217.77.215.165-1393982353 || BYOND v513.1525
+[14:56:11]EMOTE: ZyberCpechnaz/(Jadon Taylor) <B>SSGT Jadon Taylor</B> мило смотрит на специалиста (Briefing Area (171, 154, 3))
+[14:56:18]EMOTE: ZyberCpechnaz/(Jadon Taylor) <B>SSGT Jadon Taylor</B> грозно на медика альфы (Briefing Area (171, 154, 3))
+[14:56:31]SAY: Drooper/(Jonathon Edhard) "Чем вы занеты сержант?" (Briefing Area (172, 154, 3))
+[14:56:32]EMOTE: ZyberCpechnaz/(Jadon Taylor) <B>SSGT Jadon Taylor</B> ухмельнулся (Briefing Area (171, 154, 3))
+[14:56:37]SAY: ZyberCpechnaz/(Jadon Taylor) "Ничем" (Briefing Area (171, 154, 3))
+[14:56:50]SAY: ZyberCpechnaz/(Jadon Taylor) "Но для тебя могу уделить минутку" (Briefing Area (171, 154, 3))
+[14:56:52]EMOTE: EngineerConager/(Dell Conrad) <B>CDR Dell Conrad</B> Вздох (Hull Lower (175, 151, 3))
+[14:56:53]EMOTE: Artyuom/(Johnny Vietnam) <B>CPL Johnny Vietnam</B> задумал хитроумный план (Briefing Area (175, 154, 3))
+[14:56:57]EMOTE: ZyberCpechnaz/(Jadon Taylor) <B>SSGT Jadon Taylor</B> поперхнулся (Briefing Area (171, 154, 3))
+[14:57:22]ACCESS: Login: Prostolol11/(Prostolol11) from 37.215.21.83-2633444399 || BYOND v512.1488
+[14:57:23]ACCESS: Logout: Prostolol11/(Prostolol11)
+[14:57:24]SAY: EngineerConager/(Dell Conrad) "1 минута до брифинга" (Hull Lower (175, 151, 3))
+[14:57:26]ACCESS: Login: Prostolol11/(Prostolol11) from 37.215.21.83-2633444399 || BYOND v512.1488
+[14:57:30]ACCESS: Logout: Prostolol11/(Prostolol11)
+[14:57:31]EMOTE: ZyberCpechnaz/(Jadon Taylor) <B>SSGT Jadon Taylor</B> смотрит на командира, на его неухоженную куртку (Briefing Area (171, 154, 3))
+[14:57:37]EMOTE: ZyberCpechnaz/(Jadon Taylor) <B>SSGT Jadon Taylor</B> резко обернулся (Briefing Area (171, 154, 3))
+[14:58:17]WHISPER: Artyuom/(Johnny Vietnam) "глянте на этого жолтого петуха" (Briefing Area (172, 155, 3))
+[14:58:25]EMOTE: ZyberCpechnaz/(Jadon Taylor) <B>SSGT Jadon Taylor</B> погладил по головке (Briefing Area (171, 154, 3))
+[14:58:27]SAY: EngineerConager/(Dell Conrad) "Начало брифинга" (Hull Lower (175, 151, 3))
+[14:58:36]SAY: Artyuom/(Johnny Vietnam) "Шшшшш" (Briefing Area (172, 155, 3))
+[14:58:37]ADMIN: EngineerConager/(Dell Conrad) used a megaphone to say: >И так  <
+[14:58:49]ADMIN: EngineerConager/(Dell Conrad) used a megaphone to say: >Ещё раз добрый день морпехи   <
+[14:58:52]SAY: ZyberCpechnaz/(Jadon Taylor) "В УКРЫТИЕ!" (Briefing Area (171, 154, 3))
+[14:59:01]SAY: Artyuom/(Johnny Vietnam) "Так точно" (Briefing Area (173, 154, 3))
+[14:59:03]OOC: (LOCAL) Jonathon Edhard/Drooper : XD
+[14:59:04]SAY: ZyberCpechnaz/(Jadon Taylor) "НА НАС НАПАЛИ СИНТЕТИКИ" (Briefing Area (171, 154, 3))
+[14:59:18]SAY: Drooper/(Jonathon Edhard) "Пиздец" (Briefing Area (172, 154, 3))
+[14:59:28]SAY: ZyberCpechnaz/(Jadon Taylor) "Я в укрытие, а вы?" (Hull Lower (172, 152, 3))
+[14:59:38]ADMIN: EngineerConager/(Dell Conrad) used a megaphone to say: >Сегодняшнее ваше задание заключается в осмотре ближайшей колоний   <
+[14:59:43]WHISPER: Drooper/(Jonathon Edhard) "Ёбанный стыд" (Briefing Area (172, 154, 3))
+[14:59:44]SAY: Artyuom/(Johnny Vietnam) "Жди те меня командир" (Briefing Area (173, 154, 3))
+[15:00:10]SAY: ZyberCpechnaz/(Jadon Taylor) "ЗЕРГИ АТАКУЮТ!" (Hull Lower (172, 152, 3))
+[15:00:19]SAY: EngineerConager/(Dell Conrad) "КХМ !" (Hull Lower (175, 152, 3))
+[15:00:22]SAY: Drooper/(Jonathon Edhard) "Испанский стыд" (Briefing Area (172, 154, 3))
+[15:00:23]ADMIN: EngineerConager/(Dell Conrad) used a megaphone to say: >Мы получили информацию о присутствий враждебных сил на её територий   <
+[15:00:27]OOC: (LOCAL) Johnny Vietnam/Artyuom : бля флэшбыки
+[15:00:56]SAY: ZyberCpechnaz/(Jadon Taylor) "Наниты уже на мостике!" (Hull Lower (172, 152, 3))
+[15:01:06]ADMIN: EngineerConager/(Dell Conrad) used a megaphone to say: >Ваша задача по прибытию наладить контакт с обитателями колоний… Если токовые имеются <
+[15:01:12]SAY: EngineerConager/(Dell Conrad) "На этом всё удачи" (Hull Lower (175, 152, 3))
+[15:01:14]SAY: ZyberCpechnaz/(Jadon Taylor) "Сераю буря уничтожает всё" (Hull Lower (172, 152, 3))
+[15:01:21]SAY: Drooper/(Jonathon Edhard) "Пиздец." (Briefing Area (172, 154, 3))
+[15:01:26]SAY: ZyberCpechnaz/(Jadon Taylor) "БЕГИТЕ" (Briefing Area (172, 159, 3))
+[15:01:27]SAY: Drooper/(Jonathon Edhard) "Будет весело" (Briefing Area (172, 154, 3))
+[15:01:37]SAY: ZyberCpechnaz/(Jadon Taylor) "САЙЛОНЫ УЖЕ НА ХАТЕ" (Hallway Starboard (171, 161, 3))
+[15:02:00]SAY: ZyberCpechnaz/(Jadon Taylor) "ИВАНЫЧИ УЖЕ В ХАТЕ" (Hallway Starboard (148, 163, 3))
+[15:02:22]ADMIN: Bobadoba/(Lou Kimple) put a BloodPack O- into IV drip, containing ;Blood at (129,150,3).
+[15:02:30]SAY: EngineerConager/(Dell Conrad) (Command Announcement) "Command Announcement - Брифинг окончен
+Этап подготовки
+Начало операций назначено на 12:
+ - Dell Conrad (Commander)" (Combat Information Center (100, 252, 3))
+[15:03:08]SAY: Random12234/(Queen) "Бля" (Weyland Yutani Research Lab (196, 121, 1))
+[15:03:09]SAY: ZyberCpechnaz/(Jadon Taylor) "У нас будет операция? иль как?" (Dropship Alamo (92, 153, 3))
+[15:03:11]SAY: Drooper/(Jonathon Edhard) "Ёбанный стыд, а не армия" (Dropship Alamo (94, 151, 3))
+[15:03:12]SAY: Random12234/(Queen) "Мда" (Weyland Yutani Research Lab (196, 121, 1))
+[15:03:15]SAY: ZyberCpechnaz/(Jadon Taylor) "Забей" (Dropship Alamo (92, 153, 3))
+[15:03:19]SAY: ZyberCpechnaz/(Jadon Taylor) "Это рашки получше" (Dropship Alamo (92, 153, 3))
+[15:03:30]SAY: Drooper/(Jonathon Edhard) "ПИздец" (Dropship Alamo (94, 151, 3))
+[15:03:42]SAY: Drooper/(Jonathon Edhard) "Полная жопа" (Dropship Alamo (94, 151, 3))
+[15:04:42]SAY: Random12234/(Queen) "F" (Weyland Yutani Research Lab (199, 120, 1))
+[15:04:43]OOC: (LOCAL) Lou Kimple/Bobadoba : у медика есть медивак?
+[15:04:52]SAY: Drooper/(Jonathon Edhard) "Как с такими людми работать" (Dropship Alamo (94, 151, 3))
+[15:04:53]SAY: Artyuom/(Johnny Vietnam) "Ебут" (Dropship Alamo (95, 152, 3))
+[15:05:00]SAY: Drooper/(Jonathon Edhard) "Бля" (Dropship Alamo (94, 151, 3))
+[15:05:00]SAY: Artyuom/(Johnny Vietnam) "Бля" (Dropship Alamo (93, 150, 3))
+[15:05:07]SAY: Drooper/(Jonathon Edhard) "Испанский стыд" (Dropship Alamo (94, 151, 3))
+[15:05:10]SAY: Artyuom/(Johnny Vietnam) "Лидер альфы гей!" (Dropship Alamo (93, 154, 3))
+[15:05:15]SAY: ZyberCpechnaz/(Jadon Taylor) "Че?" (Dropship Alamo (92, 154, 3))
+[15:05:27]SAY: ZyberCpechnaz/(Jadon Taylor) "Ебать, овощь завёлся" (Dropship Alamo (92, 154, 3))
+[15:05:28]SAY: Drooper/(Jonathon Edhard) "Пиздец." (Dropship Alamo (94, 151, 3))
+[15:05:59]SAY: Drooper/(Jonathon Edhard) "Да, похоже у нас тут весь отряд скоро такими же овощами будет" (Dropship Alamo (94, 151, 3))
+[15:06:29]SAY: Sanyas325/(Tom Svirten) "Всмысле "скоро"?" (Dropship Alamo (94, 154, 3))
+[15:06:39]SAY: Drooper/(Jonathon Edhard) "Хах, значит уже" (Dropship Alamo (94, 151, 3))
+[15:07:20]ACCESS: Login: Sewa/(Sewa) from 188.19.54.29-1345515308 || BYOND v513.1525
+[15:07:23]ACCESS: Logout: Sewa/(Sewa)
+[15:07:27]ACCESS: Login: Sewa/(Sewa) from 188.19.54.29-1345515308 || BYOND v513.1525
+[15:07:46]ACCESS: Logout: *no key*/(Sewa)
+[15:07:46]ACCESS: Login: Sewa/(Kelvin Focell) from 188.19.54.29-1345515308 || BYOND v513.1525
+[15:07:46]ADMIN: Sewa/(Kelvin Focell) has been assigned as Alpha Squad Smartgunner
+[15:07:51]SAY: EngineerConager/(Dell Conrad) (Command Announcement) "Command Announcement - Начало операций - Dell Conrad (Commander)" (Combat Information Center (100, 252, 3))
+[15:07:54]ADMIN: Dell Conrad (EngineerConager) launched a shuttle from 'Alamo' dropship console
+[15:07:56]SAY: Drooper/(Jonathon Edhard) "Огородные войска" (Dropship Alamo (94, 151, 3))
+[15:08:04]EMOTE: Drooper/(Jonathon Edhard) <B>SGT Jonathon Edhard</B> усмехается (Dropship Alamo (94, 151, 3))
+[15:08:13]SAY: Artyuom/(Johnny Vietnam) "Овощная битва" (Dropship Alamo Transit (72, 29, 4))
+[15:08:20]SAY: Drooper/(Jonathon Edhard) "Пиздец, все поляжем...На одну грядку" (Dropship Alamo Transit (72, 30, 4))
+[15:08:35]SAY: Artyuom/(Johnny Vietnam) "Не в маю смену все по разным" (Dropship Alamo Transit (72, 29, 4))
+[15:08:42]SAY: Artyuom/(Johnny Vietnam) "Так лутше расти" (Dropship Alamo Transit (72, 29, 4))
+[15:08:49]SAY: Drooper/(Jonathon Edhard) "Пиздец" (Dropship Alamo Transit (72, 30, 4))
+[15:08:50]SAY: Sanyas325/(Tom Svirten) "Что за "овощебаза"?" (Dropship Alamo Transit (72, 33, 4))
+[15:09:05]SAY: Drooper/(Jonathon Edhard) "Овощи. Уже поздно просить о переводе?" (Dropship Alamo Transit (72, 30, 4))
+[15:09:11]SAY: *no key*/(МилкиВей) "HSSSSS" (Commander's Bunk (96, 269, 3))
+[15:09:36]SAY: Artyuom/(Johnny Vietnam) "Да брат овощ" (Dropship Alamo Transit (72, 29, 4))
+[15:09:42]SAY: ZyberCpechnaz/(Jadon Taylor) "Грядку скоро по швам порвёт" (Dropship Alamo Transit (70, 32, 4))
+[15:09:44]SAY: Drooper/(Jonathon Edhard) "О! Слышали у нас пополнение ебать" (Dropship Alamo Transit (72, 30, 4))
+[15:09:55]SAY: Artyuom/(Johnny Vietnam) "Ещё 1 овощ" (Dropship Alamo Transit (72, 29, 4))
+[15:09:57]SAY: Sanyas325/(Tom Svirten) "Команда овощей..?" (Dropship Alamo Transit (72, 33, 4))
+[15:10:01]SAY: Artyuom/(Johnny Vietnam) "Да" (Dropship Alamo (35, 195, 1))
+[15:10:07]SAY: Drooper/(Jonathon Edhard) "Овощной десант" (Dropship Alamo (35, 196, 1))
+[15:10:26]SAY: Drooper/(Jonathon Edhard) "Мда" (Space Cargo (37, 184, 1))
+[15:10:32]SAY: Artyuom/(Johnny Vietnam) "Бля лидер сука" (Space Port (39, 182, 1))
+[15:11:01]SAY: ZyberCpechnaz/(Jadon Taylor) "НЕМО" (Space Cargo (41, 184, 1))
+[15:11:12]ADMIN: Jadon Taylor(zybercpechnaz) has forced open an emergency shutter.
+[15:12:18]SAY: Drooper/(Jonathon Edhard) "Нету метала и инжа" (Space Cargo (48, 188, 1))
+[15:12:32]ADMIN: Dell Conrad (EngineerConager) launched a shuttle from 'Alamo' dropship console
+[15:12:55]SAY: EngineerConager/(Dell Conrad) (Command Announcement) "Command Announcement - Аламо отозван для переброски подкрепления  - Dell Conrad (Commander)" (Combat Information Center (100, 252, 3))
+[15:13:23]ACCESS: Failed Login: Guest-1234330318 - Guests not allowed
+[15:14:28]SAY: Sanyas325/(Tom Svirten) "Чё мне делать, сержант?" (Engineering Complex (24, 179, 1))
+[15:14:58]SAY: ZyberCpechnaz/(Jadon Taylor) "Держать фоб и придумать нам гимн для овощей" (Engineering Complex (21, 179, 1))
+[15:15:11]SAY: Sanyas325/(Tom Svirten) "Будет сделано!" (Engineering Complex (23, 179, 1))
+[15:15:17]SAY: ZyberCpechnaz/(Jadon Taylor) "Про гимн" (Engineering Complex (23, 178, 1))
+[15:15:30]SAY: ZyberCpechnaz/(Jadon Taylor) "Про гимн, лишние" (Space Port (33, 182, 1))
+[15:15:39]SAY: Sanyas325/(Tom Svirten) "Оу... Окей." (Space Port (35, 182, 1))
+[15:15:41]SAY: Artyuom/(Johnny Vietnam) "Посвещение в овощи" (Space Cargo (44, 191, 1))
+[15:15:42]SAY: ZyberCpechnaz/(Jadon Taylor) "Я его просто придумал уже" (Space Port (32, 182, 1))
+[15:15:49]SAY: Sanyas325/(Tom Svirten) "Вы молодец." (Space Port (35, 182, 1))
+[15:15:50]SAY: Drooper/(Jonathon Edhard) "Мда. Овощное укрепление" (Space Port (43, 192, 1))
+[15:16:42]ADMIN: Dell Conrad (EngineerConager) launched a shuttle from 'Alamo' dropship console
+[15:17:17]SAY: EngineerConager/(Dell Conrad) (Command Announcement) "Command Announcement - Подкрепление отправлено   - Dell Conrad (Commander)" (Combat Information Center (100, 252, 3))
+[15:17:22]SAY: *no key*/(МилкиВей) "Meow!" (Commander's Bunk (98, 270, 3))
+[15:18:14]SAY: Artyuom/(Johnny Vietnam) "Огонь на порожение это гусеница" (Space Port (47, 192, 1))
+[15:18:24]SAY: Drooper/(Jonathon Edhard) "Это пиздец" (Space Port (47, 191, 1))
+[15:18:36]SAY: Drooper/(Jonathon Edhard) "Это даже не овощной десант" (Space Port (46, 191, 1))
+[15:18:45]SAY: Artyuom/(Johnny Vietnam) "Гусеницы злейший враг овощей" (Space Port (49, 191, 1))
+[15:19:17]SAY: Drooper/(Jonathon Edhard) "Добро пожаловать в овощной десант" (Space Port (41, 183, 1))
+[15:19:42]SAY: Drooper/(Jonathon Edhard) "ЛИДЕР!" (Space Port (45, 187, 1))
+[15:19:53]SAY: Drooper/(Jonathon Edhard) "Нам приказали двигатся!" (Space Port (45, 185, 1))
+[15:19:54]SAY: Sanyas325/(Tom Svirten) "Ведите нас." (Space Port (45, 184, 1))
+[15:20:01]SAY: ZyberCpechnaz/(Jadon Taylor) "ЗА МНОЙ ОВОЩИ" (Space Port (46, 190, 1))
+[15:20:06]SAY: Drooper/(Jonathon Edhard) "Приздец" (Space Port (44, 189, 1))
+[15:20:14]ADMIN: Johnny Vietnam (Artyuom) launched a elevator from Elevator Console
+[15:20:30]SAY: Drooper/(Jonathon Edhard) "Блять" (Elevator I (197, 9, 1))
+[15:20:37]SAY: Drooper/(Jonathon Edhard) "Сука реально овощь" (Elevator I (197, 9, 1))
+[15:20:54]SAY: ZyberCpechnaz/(Jadon Taylor) "ВСЕ ВКЛЮЧИТЕ СВЕТ НА БРОНЕ" (Colony Grounds (46, 145, 1))
+[15:20:57]SAY: ZyberCpechnaz/(Jadon Taylor) "ДАРЖАТЬСЯ ЗА МНОЙ" (Colony Grounds (46, 145, 1))
+[15:21:05]SAY: ZyberCpechnaz/(Jadon Taylor) "В СЛУЧАЕ ЧЕГО, БЕЖАТЬ НАХУЙ НА ЛИФТ" (Colony Grounds (45, 144, 1))
+[15:21:26]SAY: Drooper/(Jonathon Edhard) "Это лестница" (Administration (36, 147, 1))
+[15:21:58]SAY: Artyuom/(Johnny Vietnam) "Бля" (Administration (33, 149, 1))
+[15:22:01]SAY: Artyuom/(Johnny Vietnam) "Ау" (Administration (33, 149, 1))
+[15:22:03]SAY: Artyuom/(Johnny Vietnam) "Есть кто" (Administration (33, 149, 1))
+[15:22:05]SAY: Artyuom/(Johnny Vietnam) "Живой" (Administration (33, 149, 1))
+[15:22:06]SAY: ZyberCpechnaz/(Jadon Taylor) "Командный мостик" (Administration (42, 127, 1))
+[15:22:09]SAY: Drooper/(Jonathon Edhard) "Восток чист" (Administration (43, 123, 1))
+[15:22:14]SAY: ZyberCpechnaz/(Jadon Taylor) "Всё более мение чисто" (Administration (42, 127, 1))
+[15:22:24]SAY: Artyuom/(Johnny Vietnam) "Ау" (Administration (33, 149, 1))
+[15:22:30]SAY: Artyuom/(Johnny Vietnam) "Бля" (Administration (33, 149, 1))
+[15:22:47]SAY: ZyberCpechnaz/(Jadon Taylor) "Бля" (Weyland Yutani Compound (75, 109, 1))
+[15:22:51]SAY: ZyberCpechnaz/(Jadon Taylor) "Что тут случилось?" (Weyland Yutani Compound (75, 109, 1))
+[15:22:54]SAY: Drooper/(Jonathon Edhard) "Трни трупа!" (Weyland Yutani Compound (76, 108, 1))
+[15:23:15]SAY: Sanyas325/(Tom Svirten) "Эй, там что-то было" (Weyland Yutani Compound (87, 109, 1))
+[15:23:15]SAY: ZyberCpechnaz/(Jadon Taylor) "Уберите трупы" (Weyland Yutani Compound (89, 103, 1))
+[15:23:25]SAY: Sewa/(Kelvin Focell) "А эта дверь должна быть открытой?" (Weyland Yutani Compound (91, 109, 1))
+[15:23:25]ADMIN: Johnny Vietnam (Artyuom) launched a elevator from Elevator Console
+[15:23:27]SAY: Drooper/(Jonathon Edhard) "На охранном" (Weyland Yutani Research Lab (84, 105, 1))
+[15:23:39]SAY: ZyberCpechnaz/(Jadon Taylor) "Это вроде аварийные тех тоннели" (Weyland Yutani Compound (88, 109, 1))
+[15:23:45]SAY: ZyberCpechnaz/(Jadon Taylor) "Она ведёт в Эко" (Weyland Yutani Compound (88, 109, 1))
+[15:23:48]SAY: ZyberCpechnaz/(Jadon Taylor) "БЛЯТЬ" (Weyland Yutani Compound (89, 109, 1))
+[15:23:52]SAY: Sanyas325/(Tom Svirten) "ВОН ОНО" (Weyland Yutani Compound (89, 108, 1))
+[15:23:52]SAY: ZyberCpechnaz/(Jadon Taylor) "ЧТО ЭТО БЫЛО" (Weyland Yutani Compound (89, 109, 1))
+[15:24:07]EMOTE: Random12234/(Elder Queen) <B>The Elder Queen</B> roars! (Weyland Yutani Compound (74, 109, 1))
+[15:24:08]ADMIN: Johnny Vietnam (Artyuom) launched a elevator from Elevator Console
+[15:24:28]SAY: ZyberCpechnaz/(Jadon Taylor) "Медик, оно бежит к тебе" (Weyland Yutani Compound (75, 108, 1))
+[15:24:33]EMOTE: Sewa/(Kelvin Focell) <B>LCPL Kelvin Focell</B> screams! (Lambda Lab (75, 117, 1))
+[15:24:43]EMOTE: Sewa/(Kelvin Focell) <B>LCPL Kelvin Focell</B> lets out a sharp cry and drops what they were holding in their left hand! (Lambda Lab (78, 123, 1))
+[15:25:03]GAME: ZyberCpechnaz/(Jadon Taylor) planted plastic explosives on Underground Maintenance at (82,122,1) with 10 second fuse
+[15:25:05]SAY: Drooper/(Jonathon Edhard) "Смарт, живой?" (Lambda Lab (77, 125, 1))
+[15:25:11]EMOTE: Sewa/(Kelvin Focell) <B>LCPL Kelvin Focell</B> screams in pain and drops what they were holding in their left hand! (Lambda Lab (77, 126, 1))
+[15:25:13]GAME: Explosion with size (-1, -1, 2) in area Lambda Lab 
+[15:25:21]SAY: Artyuom/(Johnny Vietnam) "Приём" (Space Port (46, 193, 1))
+[15:25:23]EMOTE: Drooper/(Jonathon Edhard) <B>SGT Jonathon Edhard</B> screams! (General Store (83, 121, 1))
+[15:25:23]SAY: Artyuom/(Johnny Vietnam) "Бля" (Space Port (46, 193, 1))
+[15:25:24]EMOTE: Random12234/(Elder Queen) <B>The Elder Queen</B> roars! (General Store (84, 121, 1))
+[15:25:27]SAY: Artyuom/(Johnny Vietnam) "Помяним" (Space Port (46, 193, 1))
+[15:25:27]EMOTE: Sewa/(Kelvin Focell) <B>LCPL Kelvin Focell</B> screams in pain and drops what they were holding in their left hand! (Lambda Lab (81, 125, 1))
+[15:25:32]EMOTE: Random12234/(Elder Queen) <B>The Elder Queen</B> hisses. (General Store (91, 121, 1))
+[15:25:33]ADMIN: Johnny Vietnam (Artyuom) launched a elevator from Elevator Console
+[15:25:34]EMOTE: Sewa/(Kelvin Focell) <B>LCPL Kelvin Focell</B> is having trouble keeping their eyes open. (Lambda Lab (80, 124, 1))
+[15:25:38]SAY: Artyuom/(Johnny Vietnam) "Бля" (Space Port (44, 193, 1))
+[15:26:03]ACCESS: Login: Chaburek/(Chaburek) from 178.46.63.9-2047396774 || BYOND v513.1513
+[15:26:05]ACCESS: Logout: Chaburek/(Chaburek)
+[15:26:09]ACCESS: Login: Chaburek/(Chaburek) from 178.46.63.9-2047396774 || BYOND v513.1513
+[15:26:33]EMOTE: Sewa/(Kelvin Focell) <B>LCPL Kelvin Focell</B> screams in pain and drops what they were holding in their left hand! (General Store (97, 121, 1))
+[15:26:37]EMOTE: Sewa/(Kelvin Focell) <B>LCPL Kelvin Focell</B>  is having trouble standing. (General Store (97, 121, 1))
+[15:26:41]EMOTE: Random12234/(Elder Queen) <B>The Elder Queen</B> roars! (Weyland Yutani Compound (75, 109, 1))
+[15:27:02]SAY: ZyberCpechnaz/(Jadon Taylor) "ОТСТУПАЙ" (Lambda Lab (81, 123, 1))
+[15:27:03]ADMIN: Johnny Vietnam (Artyuom) launched a elevator from Elevator Console
+[15:27:05]SAY: ZyberCpechnaz/(Jadon Taylor) "ОТСТУПАЙТЕ" (Lambda Lab (81, 123, 1))
+[15:27:25]SAY: Random12234/(Elder Queen) "Пиздец превозмогаю как могу" (Lambda Lab (70, 144, 1))
+[15:27:46]SAY: ZyberCpechnaz/(Jadon Taylor) "РАНЕНЫЕ, ОТСТУПАЙТЕ" (Lambda Lab (68, 144, 1))
+[15:28:05]SAY: Drooper/(Jonathon Edhard) "Смарт!" (Lambda Lab (69, 141, 1))
+[15:28:21]SAY: Drooper/(Jonathon Edhard) "Что с тобой?" (Lambda Lab (71, 144, 1))
+[15:28:22]EMOTE: Sanyas325/(Tom Svirten) <B>PFC Tom Svirten</B> screams! (Lambda Lab (78, 124, 1))
+[15:28:25]SAY: ZyberCpechnaz/(Jadon Taylor) "БЛЯТД" (Lambda Lab (79, 125, 1))
+[15:28:27]EMOTE: Sanyas325/(Tom Svirten) <B>PFC Tom Svirten</B> screams! (Lambda Lab (79, 124, 1))
+[15:28:36]EMOTE: Sanyas325/(Tom Svirten) <B>PFC Tom Svirten</B> gasps! (General Store (81, 121, 1))
+[15:28:47]EMOTE: Random12234/(Elder Queen) <B>The Elder Queen</B> roars! (General Store (81, 121, 1))
+[15:28:47]EMOTE: Random12234/(Elder Queen) <B>The Elder Queen</B> hisses. (General Store (81, 121, 1))
+[15:29:01]SAY: Drooper/(Jonathon Edhard) "Где столовая?!" (Lambda Lab (76, 140, 1))
+[15:29:15]SAY: ZyberCpechnaz/(Jadon Taylor) "НА ФОБ" (Lambda Lab (80, 124, 1))
+[15:29:26]ACCESS: Logout: *no key*/(Chaburek)
+[15:29:26]ACCESS: Login: Chaburek/(Haidee Baxter) from 178.46.63.9-2047396774 || BYOND v513.1513
+[15:29:26]ADMIN: Chaburek/(Haidee Baxter) has been assigned as Alpha Squad Engineer
+[15:29:33]ACCESS: Login: Corona Guy/(Corona Guy) from 188.146.189.226-409039771 || BYOND v513.1525
+[15:29:36]ACCESS: Logout: Corona Guy/(Corona Guy)
+[15:29:42]ACCESS: Login: Corona Guy/(Corona Guy) from 188.146.189.226-409039771 || BYOND v513.1525
+[15:29:44]ACCESS: Logout: Corona Guy/(Corona Guy)
+[15:29:51]SAY: Drooper/(Jonathon Edhard) "Гдк лидер?" (Lambda Lab (63, 130, 1))
+[15:29:53]DEBUG: Next event in 34.892 minutes.
+[15:30:36]SAY: ZyberCpechnaz/(Jadon Taylor) "НАЗАД" (Lambda Lab (64, 127, 1))
+[15:30:38]SAY: ZyberCpechnaz/(Jadon Taylor) "БЛЯТЬ" (Lambda Lab (64, 127, 1))
+[15:30:40]SAY: ZyberCpechnaz/(Jadon Taylor) "ОНО ТУТ" (Lambda Lab (64, 127, 1))
+[15:30:42]SAY: Drooper/(Jonathon Edhard) "Оно ему брюха разорвало!" (Lambda Lab (63, 130, 1))
+[15:30:54]SAY: ZyberCpechnaz/(Jadon Taylor) "СТРОГЙТЕ" (Lambda Lab (66, 124, 1))
+[15:31:04]SAY: Drooper/(Jonathon Edhard) "Песка нет!" (Lambda Lab (68, 123, 1))
+[15:31:32]SAY: Artyuom/(Johnny Vietnam) "Помяним" (Lambda Lab (62, 134, 1))
+[15:31:45]SAY: Drooper/(Jonathon Edhard) "Вколи что нибудь!" (Lambda Lab (64, 129, 1))
+[15:31:55]SAY: EngineerConager/(Dell Conrad) "ДОК" (Hallway Starboard (115, 162, 3))
+[15:32:03]SAY: EngineerConager/(Dell Conrad) "ДОК" (Medical Lower (110, 158, 3))
+[15:32:08]SAY: Bobadoba/(Lou Kimple) "Что?" (Medical Lower (110, 159, 3))
+[15:32:25]SAY: EngineerConager/(Dell Conrad) "У нас потерь готовьте операционную" (Medical Lower (110, 158, 3))
+[15:32:30]SAY: Drooper/(Jonathon Edhard) "Нет пульса" (Lambda Lab (63, 133, 1))
+[15:32:35]SAY: Drooper/(Jonathon Edhard) "Помянем" (Lambda Lab (63, 133, 1))
+[15:32:42]SAY: ZyberCpechnaz/(Jadon Taylor) "ЖЕТОН?" (Lambda Lab (62, 135, 1))
+[15:32:47]SAY: ZyberCpechnaz/(Jadon Taylor) "Прости" (Lambda Lab (62, 135, 1))
+[15:32:47]ADMIN: Dell Conrad (EngineerConager) launched a shuttle from 'Alamo' dropship console
+[15:32:48]SAY: ZyberCpechnaz/(Jadon Taylor) "Я" (Lambda Lab (62, 135, 1))
+[15:32:50]SAY: ZyberCpechnaz/(Jadon Taylor) "Я пыталс" (Lambda Lab (62, 135, 1))
+[15:33:07]SAY: Artyuom/(Johnny Vietnam) "У тебя инфекция на ладони лефой" (Lambda Lab (61, 128, 1))
+[15:33:24]SAY: EngineerConager/(Dell Conrad) "Чёрт.." (Hangar (98, 150, 3))
+[15:33:55]ACCESS: Logout: Sanyas325/(Tom Svirten)
+[15:34:16]SAY: Drooper/(Jonathon Edhard) "Он труп" (Lambda Lab (62, 135, 1))
+[15:34:18]SAY: ZyberCpechnaz/(Jadon Taylor) "ОНО ТУТ" (Lambda Lab (63, 132, 1))
+[15:34:46]SAY: EngineerConager/(Dell Conrad) "Долго летит" (Hangar (98, 150, 3))
+[15:34:48]SAY: EngineerConager/(Dell Conrad) "А нет..." (Hangar (98, 150, 3))
+[15:35:03]SAY: ZyberCpechnaz/(Jadon Taylor) "Сюда" (Lambda Lab (60, 126, 1))
+[15:35:09]SAY: EngineerConager/(Dell Conrad) "Они что не загрузил его ?!" (Dropship Alamo (93, 149, 3))
+[15:35:10]SAY: ZyberCpechnaz/(Jadon Taylor) "Сюда" (Lambda Lab (61, 132, 1))
+[15:35:11]SAY: EngineerConager/(Dell Conrad) "ИДИОТЦЫ !" (Dropship Alamo (93, 149, 3))
+[15:35:12]SAY: Drooper/(Jonathon Edhard) "Жетон" (Lambda Lab (61, 134, 1))
+[15:35:50]SAY: ZyberCpechnaz/(Jadon Taylor) "ЗАмной" (Library (48, 136, 1))
+[15:36:33]SAY: Drooper/(Jonathon Edhard) "Си 12" (Administration (34, 137, 1))
+[15:36:36]SAY: ZyberCpechnaz/(Jadon Taylor) "ВЗРЫВ ПОКЕТ" (Administration (34, 142, 1))
+[15:36:40]SAY: ZyberCpechnaz/(Jadon Taylor) "В РУКИ МНЕ" (Administration (34, 142, 1))
+[15:36:57]GAME: Drooper/(Jonathon Edhard) planted plastic explosives on Underground Maintenance at (34,143,1) with 10 second fuse
+[15:37:07]GAME: Explosion with size (-1, -1, 2) in area Administration 
+[15:37:42]ADMIN: Jadon Taylor (ZyberCpechnaz) launched a elevator from Elevator Console
+[15:37:57]SAY: Drooper/(Jonathon Edhard) "Фух" (Elevator I (200, 11, 1))
+[15:38:06]SAY: ZyberCpechnaz/(Jadon Taylor) "ПРОНЕСЛО" (Elevator I (198, 9, 1))
+[15:38:08]SAY: Artyuom/(Johnny Vietnam) "Ебать в последний момент" (Elevator I (43, 198, 1))
+[15:38:56]SAY: Drooper/(Jonathon Edhard) "У нас был инж?" (Space Cargo (33, 184, 1))
+[15:39:10]SAY: Drooper/(Jonathon Edhard) "У нас есть инж?" (Space Port (36, 183, 1))
+[15:39:23]SAY: Drooper/(Jonathon Edhard) "Смарт, ты там живой?" (Space Port (38, 186, 1))
+[15:39:31]ADMIN: Dell Conrad (EngineerConager) launched a shuttle from 'Alamo' dropship console
+[15:39:42]SAY: Chaburek/(Haidee Baxter) "Я за турелями." (Medical Lower (110, 158, 3))
+[15:40:12]SAY: EngineerConager/(Dell Conrad) (Command Announcement) "Command Announcement - Подкрепление и наушники отправлены     - Dell Conrad (Commander)" (Combat Information Center (100, 252, 3))
+[15:40:43]SAY: Chaburek/(Haidee Baxter) "А что со связью?" (Medical Lower (107, 153, 3))
+[15:40:49]SAY: Chaburek/(Haidee Baxter) "Почему не починили?" (Medical Lower (107, 153, 3))
+[15:40:49]SAY: Bobadoba/(Lou Kimple) "Не знаю" (Medical Lower (108, 151, 3))
+[15:41:02]SAY: Chaburek/(Haidee Baxter) "Проверка связи." (Medical Lower (104, 152, 3))
+[15:41:13]SAY: Chaburek/(Haidee Baxter) "Можете открыть?" (Medical Lower (112, 145, 3))
+[15:41:16]SAY: Chaburek/(Haidee Baxter) "Нужна рация." (Medical Lower (112, 145, 3))
+[15:41:38]SAY: Chaburek/(Haidee Baxter) "Прием?" (Medical Lower (113, 145, 3))
+[15:41:43]SAY: Chaburek/(Haidee Baxter) "Что со связью?" (Medical Lower (113, 145, 3))
+[15:41:53]SAY: EngineerConager/(Dell Conrad) "Хер его знает" (Combat Information Center (93, 254, 3))
+[15:42:03]SAY: EngineerConager/(Dell Conrad) "Всё так плохо ?" (Combat Information Center (93, 254, 3))
+[15:42:09]SAY: Chaburek/(Haidee Baxter) "Есть кто-нибудь на связи?" (Medical Lower (101, 150, 3))
+[15:42:14]SAY: Drooper/(Jonathon Edhard) "Сетку" (Space Port (44, 183, 1))
+[15:42:21]SAY: Drooper/(Jonathon Edhard) "Проволоку" (Space Port (49, 184, 1))
+[15:42:46]ADMIN: A bioscan/Queen Mother message has completed. Humans: 4 on the planet and 3 on the ship. Xenos: 3 on the planet and 0 on the ship.
+[15:42:51]SAY: Chaburek/(Haidee Baxter) "Коммодор, вы на связи?" (Hangar (98, 150, 3))
+[15:42:59]SAY: EngineerConager/(Dell Conrad) "Со связью у нас небольшие перебой" (Combat Information Center (94, 256, 3))
+[15:43:09]SAY: EngineerConager/(Dell Conrad) "Да..." (Combat Information Center (94, 256, 3))
+[15:43:11]SAY: ZyberCpechnaz/(Jadon Taylor) "Дай металл" (Space Port (47, 185, 1))
+[15:43:16]SAY: Drooper/(Jonathon Edhard) "Нету" (Space Port (47, 181, 1))
+[15:43:26]SAY: Random12234/(Elder Queen) "Та пиздец где они" (Administration (42, 124, 1))
+[15:43:51]SAY: Chaburek/(Haidee Baxter) "А ведь там все прекрасно..." (Medical Lower (110, 155, 3))
+[15:44:06]SAY: Chaburek/(Haidee Baxter) "Значит, операция идет по плану?" (Medical Lower (110, 155, 3))
+[15:44:08]ADMIN: Dell Conrad (EngineerConager) launched a shuttle from 'Alamo' dropship console
+[15:44:17]SAY: Bobadoba/(Lou Kimple) "Наверное" (Medical Lower (110, 156, 3))
+[15:44:26]SAY: EngineerConager/(Dell Conrad) (Command Announcement) "Command Announcement - Аламо отозван для переброски подкрепления    - Dell Conrad (Commander)" (Combat Information Center (100, 252, 3))
+[15:44:36]SAY: Random12234/(Elder Queen) "СУКА" (Administration (24, 130, 1))
+[15:44:49]SAY: Chaburek/(Haidee Baxter) "Там кто-то летит." (Hangar (98, 150, 3))
+[15:44:49]EMOTE: Random12234/(Elder Queen) <B>Elder Queen</B> roar3 (Administration (24, 130, 1))
+[15:44:52]SAY: Random12234/(Elder Queen) "Roar3" (Administration (24, 130, 1))
+[15:44:56]SAY: Chaburek/(Haidee Baxter) "Но они ведь здоровые..." (Hangar (98, 150, 3))
+[15:45:05]SAY: Bobadoba/(Lou Kimple) "Они дебилы" (Hangar (99, 151, 3))
+[15:45:09]SAY: Chaburek/(Haidee Baxter) "Наверное." (Hangar (98, 150, 3))
+[15:45:16]SAY: Chaburek/(Haidee Baxter) "Только зачем так грубо?" (Hangar (98, 150, 3))
+[15:45:23]SAY: Bobadoba/(Lou Kimple) "Я доктор" (Hangar (99, 151, 3))
+[15:45:31]SAY: Chaburek/(Haidee Baxter) "Хотя из-за этого операция часто идет к черту..." (Hangar (98, 150, 3))
+[15:45:36]SAY: Bobadoba/(Lou Kimple) "Я поставил диагноз" (Hangar (99, 151, 3))
+[15:45:39]SAY: Drooper/(Jonathon Edhard) "Метал!" (Space Port (45, 181, 1))
+[15:46:01]SAY: Chaburek/(Haidee Baxter) "Теперь я вам полностью заверяю свою жизнь. Видно, что вы хороший доктор." (Hangar (98, 150, 3))
+[15:46:02]SAY: Random12234/(Elder Queen) "Вот это весело" (Administration (23, 128, 1))
+[15:46:23]SAY: Drooper/(Jonathon Edhard) "Наушник!" (Space Port (46, 188, 1))
+[15:46:31]SAY: Artyuom/(Johnny Vietnam) "У него рука сломана" (Hangar (96, 152, 3))
+[15:46:42]SAY: Chaburek/(Haidee Baxter) "А что со связью?" (Dropship Alamo (94, 151, 3))
+[15:46:48]SAY: Artyuom/(Johnny Vietnam) "Пиздец" (Dropship Alamo (94, 152, 3))
+[15:46:54]SAY: Drooper/(Jonathon Edhard) "Щас я дам тебе прикурить тварь" (Space Port (45, 181, 1))
+[15:46:55]SAY: Chaburek/(Haidee Baxter) "Эй." (Dropship Alamo (94, 152, 3))
+[15:47:07]SAY: Drooper/(Jonathon Edhard) "Наушники одень" (Space Port (45, 181, 1))
+[15:47:32]SAY: Chaburek/(Haidee Baxter) "Ну да ладно, а мне что делать?" (Dropship Alamo (94, 151, 3))
+[15:47:38]SAY: Chaburek/(Haidee Baxter) "ФОБ делать?" (Dropship Alamo (94, 151, 3))
+[15:47:46]SAY: Artyuom/(Johnny Vietnam) "Да" (Dropship Alamo (92, 151, 3))
+[15:47:47]SAY: Chaburek/(Haidee Baxter) "Как там вообще ситуация?" (Dropship Alamo (94, 151, 3))
+[15:47:54]SAY: Bobadoba/(Lou Kimple) "Снимай броню" (Medical Operating Room 2 (129, 147, 3))
+[15:48:03]SAY: Artyuom/(Johnny Vietnam) "Скажу кратко это пиздец" (Dropship Alamo (92, 152, 3))
+[15:48:05]SAY: Chaburek/(Haidee Baxter) "Коммодор, вы на связи?" (Dropship Alamo (94, 151, 3))
+[15:48:14]ADMIN: Dell Conrad (EngineerConager) launched a shuttle from 'Alamo' dropship console
+[15:48:19]SAY: Chaburek/(Haidee Baxter) "Да что же никого нет на связи..." (Dropship Alamo (94, 151, 3))
+[15:48:21]SAY: Drooper/(Jonathon Edhard) "Поправка сварку и очки сюда" (Space Port (45, 181, 1))
+[15:48:33]SAY: EngineerConager/(Dell Conrad) "Нет нет вот я" (Combat Information Center (94, 256, 3))
+[15:48:39]SAY: EngineerConager/(Dell Conrad) "Что у вас ?" (Combat Information Center (94, 256, 3))
+[15:49:02]SAY: EngineerConager/(Dell Conrad) (Command Announcement) "Command Announcement - Подкрепление отправлено     - Dell Conrad (Commander)" (Combat Information Center (100, 252, 3))
+[15:49:20]SAY: Chaburek/(Haidee Baxter) "Ввиде одного инженера... Да." (Dropship Alamo Transit (72, 30, 4))
+[15:49:26]SAY: Drooper/(Jonathon Edhard) "По одному паскуды инопланетны" (Space Port (46, 181, 1))
+[15:49:30]SAY: Artyuom/(Johnny Vietnam) "Мы кстати называемся не отряд альфа а отряд овощей" (Dropship Alamo Transit (70, 31, 4))
+[15:49:41]SAY: Chaburek/(Haidee Baxter) "Серьезно?" (Dropship Alamo Transit (72, 30, 4))
+[15:49:51]SAY: Chaburek/(Haidee Baxter) "Ну, мне больше фрукты по душе." (Dropship Alamo Transit (72, 30, 4))
+[15:49:52]SAY: Artyuom/(Johnny Vietnam) "Мы гордый овощной десант" (Dropship Alamo Transit (70, 31, 4))
+[15:50:04]SAY: Artyuom/(Johnny Vietnam) "Нет ты овощ" (Dropship Alamo Transit (70, 31, 4))
+[15:50:10]SAY: Chaburek/(Haidee Baxter) "Неплохо." (Dropship Alamo Transit (72, 30, 4))
+[15:50:11]SAY: Artyuom/(Johnny Vietnam) "И я ттоже" (Dropship Alamo Transit (70, 31, 4))
+[15:50:17]SAY: Artyuom/(Johnny Vietnam) "В бой за грядку" (Dropship Alamo Transit (70, 31, 4))
+[15:50:36]SAY: Bobadoba/(Lou Kimple) "Все" (Medical Operating Room 2 (130, 147, 3))
+[15:50:53]SAY: Drooper/(Jonathon Edhard) "Не на орётся тварь" (Space Port (47, 181, 1))
+[15:51:00]ADMIN: PM: BlackCrystalic/(Blacky 'GG' Crysis)->Random12234/(Elder Queen): Там есть пару проходов + лифт
+[15:51:04]SAY: Drooper/(Jonathon Edhard) "Турель сюда!" (Space Port (47, 181, 1))
+[15:51:10]ADMIN: PM: BlackCrystalic/(Blacky 'GG' Crysis)->Random12234/(Elder Queen): и 1 секретка
+[15:51:15]ADMIN: PM: BlackCrystalic/(Blacky 'GG' Crysis)->Random12234/(Elder Queen): как проход
+[15:51:17]SAY: Drooper/(Jonathon Edhard) "Турель поставь сюда" (Space Port (47, 181, 1))
+[15:51:18]SAY: Chaburek/(Haidee Baxter) "Так понимаю, наушники можно снимать?" (Space Port (41, 184, 1))
+[15:51:22]ADMIN: PM: Random12234/(Elder Queen)->BlackCrystalic/(Blacky 'GG' Crysis): Да я карту не знаю) 
+[15:51:28]ADMIN: PM: EngineerConager/(Dell Conrad)->BlackCrystalic/(Blacky 'GG' Crysis): Не подсказывай…     
+[15:51:34]SAY: Chaburek/(Haidee Baxter) "Ручную, или автоматическую?" (Space Port (44, 184, 1))
+[15:51:41]SAY: Drooper/(Jonathon Edhard) "Автомат" (Space Port (46, 185, 1))
+[15:51:46]ADMIN: PM: Random12234/(Elder Queen)->BlackCrystalic/(Blacky 'GG' Crysis): Буду так пытатся прорватся 
+[15:51:55]EMOTE: Chaburek/(Haidee Baxter) <B>CPL Unknown (as Haidee Baxter)</B> screams! (Space Port (46, 183, 1))
+[15:52:01]EMOTE: Random12234/(Elder Queen) <B>The Elder Queen</B> hisses. (Space Port (49, 178, 1))
+[15:52:01]EMOTE: Random12234/(Elder Queen) <B>The Elder Queen</B> hisses. (Space Port (49, 178, 1))
+[15:52:12]SAY: Random12234/(Elder Queen) "Хмммм" (Administration (23, 127, 1))
+[15:52:15]SAY: Drooper/(Jonathon Edhard) "Гори гори ясно" (Space Port (45, 181, 1))
+[15:52:16]SAY: ZyberCpechnaz/(Jadon Taylor) "Блять, я обосрался" (Space Port (45, 182, 1))
+[15:52:20]ADMIN: Dell Conrad (EngineerConager) launched a shuttle from 'Alamo' dropship console
+[15:52:23]SAY: Random12234/(Elder Queen) "Были бы у меня дети" (Administration (23, 127, 1))
+[15:52:23]SAY: Chaburek/(Haidee Baxter) "В голову зачем целиться?" (Space Port (44, 185, 1))
+[15:52:26]SAY: Chaburek/(Haidee Baxter) "Ты серьезно?" (Space Port (44, 185, 1))
+[15:52:29]EMOTE: Drooper/(Jonathon Edhard) <B>SGT Jonathon Edhard</B> Истерически смеётся (Space Port (45, 181, 1))
+[15:52:31]SAY: ZyberCpechnaz/(Jadon Taylor) "Чо?" (Space Port (45, 182, 1))
+[15:52:38]SAY: EngineerConager/(Dell Conrad) (Command Announcement) "Command Announcement - Аламо отозван для переброски подкрепления       - Dell Conrad (Commander)" (Combat Information Center (100, 253, 3))
+[15:52:40]SAY: Chaburek/(Haidee Baxter) "Хотя бы в бронежилет нужно стрелять..." (Space Port (44, 185, 1))
+[15:52:44]SAY: ZyberCpechnaz/(Jadon Taylor) "КОГДА ОНО ЗАКРИЧАЛО, Я ОБОСРАЛСЯ" (Space Port (45, 182, 1))
+[15:52:46]SAY: Drooper/(Jonathon Edhard) "Гори паскуда инопланетная" (Space Port (45, 181, 1))
+[15:52:48]SAY: Artyuom/(Johnny Vietnam) "Тупи пизда" (Space Port (43, 185, 1))
+[15:53:03]SAY: Artyuom/(Johnny Vietnam) "Всё иди строй" (Space Port (43, 185, 1))
+[15:53:28]SAY: Drooper/(Jonathon Edhard) "Сюда" (Space Port (45, 181, 1))
+[15:54:07]SAY: ZyberCpechnaz/(Jadon Taylor) "Ушло" (Space Port (47, 181, 1))
+[15:54:13]SAY: Drooper/(Jonathon Edhard) "Только решил перевязатся" (Space Port (45, 181, 1))
+[15:54:20]SAY: ZyberCpechnaz/(Jadon Taylor) "Мне нужен IFF ПРИЦЕЛ" (Space Port (47, 181, 1))
+[15:54:57]SAY: Sewa/(Kelvin Focell) "Тест" (Dropship Alamo (92, 149, 3))
+[15:55:03]SAY: Random12234/(Elder Queen) "УХХХ" (Administration (22, 127, 1))
+[15:55:07]SAY: Sewa/(Kelvin Focell) "Тест" (Dropship Alamo (92, 150, 3))
+[15:55:21]SAY: Sewa/(Kelvin Focell) "Тест" (Dropship Alamo (92, 150, 3))
+[15:55:23]SAY: *no key*/(МилкиВей) "HSSSSS" (Commander's Bunk (98, 270, 3))
+[15:55:32]SAY: Drooper/(Jonathon Edhard) "Пройдёшь только через наши трупы!" (Space Port (48, 181, 1))
+[15:56:18]SAY: Sewa/(Kelvin Focell) "Тест" (Dropship Alamo (92, 151, 3))
+[15:56:34]SAY: Chaburek/(Haidee Baxter) "Эм, это." (Space Port (46, 183, 1))
+[15:56:43]SAY: Chaburek/(Haidee Baxter) "А вы всегда носите эти наушники?" (Space Port (46, 183, 1))
+[15:56:45]SAY: Drooper/(Jonathon Edhard) "Что?" (Space Port (45, 181, 1))
+[15:56:48]ADMIN: Dell Conrad (EngineerConager) launched a shuttle from 'Alamo' dropship console
+[15:56:50]SAY: ZyberCpechnaz/(Jadon Taylor) "Дай одну проволку" (Space Port (47, 184, 1))
+[15:56:52]SAY: Sewa/(Kelvin Focell) "Тест" (Dropship Alamo (92, 151, 3))
+[15:56:55]SAY: Sewa/(Kelvin Focell) "Тест" (Dropship Alamo (92, 151, 3))
+[15:57:03]SAY: EngineerConager/(Dell Conrad) (Command Announcement) "Command Announcement - Подкрепление отправлено        - Dell Conrad (Commander)" (Combat Information Center (100, 253, 3))
+[15:57:09]SAY: Drooper/(Jonathon Edhard) "Сдохни блять!" (Space Port (48, 181, 1))
+[15:57:10]SAY: Random12234/(Elder Queen) "Пахую" (Administration (23, 127, 1))
+[15:57:35]SAY: ZyberCpechnaz/(Jadon Taylor) "ПРОВОЛКУ" (Space Port (44, 184, 1))
+[15:57:41]SAY: Chaburek/(Haidee Baxter) "Я проЯ дал." (Space Port (45, 183, 1))
+[15:57:43]SAY: Chaburek/(Haidee Baxter) "Ахем." (Space Port (45, 183, 1))
+[15:57:44]SAY: Chaburek/(Haidee Baxter) "Дал я." (Space Port (45, 183, 1))
+[15:58:09]EMOTE: Random12234/(Elder Queen) <B>The Elder Queen</B> hisses. (Space Port (45, 179, 1))
+[15:58:19]EMOTE: ZyberCpechnaz/(Jadon Taylor) <B>SSGT Jadon Taylor</B> screams! (Space Port (47, 182, 1))
+[15:58:22]SAY: Random12234/(Elder Queen) "Ух ебать близко" (Administration (22, 127, 1))
+[15:58:30]SAY: Random12234/(Elder Queen) "Ладно надо искать другой путь" (Administration (22, 127, 1))
+[15:59:21]SAY: Drooper/(Jonathon Edhard) "Отойдите зацепят!" (Space Port (47, 183, 1))
+[16:00:01]ADMIN: Unknown (as Haidee Baxter)(chaburek) has forced open an emergency shutter.
+[16:00:03]ADMIN: Unknown (as Haidee Baxter)(chaburek) has forced open an emergency shutter.
+[16:00:07]SAY: EngineerConager/(Dell Conrad) "ШЕВЕЛИТЕСЬ!" (Hallway Aft (123, 247, 3))
+[16:00:42]SAY: Random12234/(Elder Queen) "О походу ОНО" (Administration (32, 147, 1))
+[16:00:47]OOC: (LOCAL) Unknown (as Haidee Baxter)/Chaburek : А как вы сделали "эту" колючую проволку?
+[16:01:29]SAY: Random12234/(Elder Queen) "ХМММ ЕБАТЬ" (Administration (32, 147, 1))
+[16:01:37]SAY: Drooper/(Jonathon Edhard) "Я щас пойду за это тварью" (Space Port (47, 181, 1))
+[16:01:42]SAY: Random12234/(Elder Queen) "НЕ НЕ" (Administration (29, 144, 1))
+[16:01:48]SAY: Chaburek/(Haidee Baxter) "А" мне плохо." (Space Port (45, 183, 1))
+[16:02:00]SAY: Drooper/(Jonathon Edhard) "А кому хорошо?" (Space Port (47, 181, 1))
+[16:02:01]SAY: Chaburek/(Haidee Baxter) "Ну да." (Space Port (45, 183, 1))
+[16:02:06]SAY: Chaburek/(Haidee Baxter) "Спасибо за пулю в виске." (Space Port (45, 183, 1))
+[16:02:14]SAY: Chaburek/(Haidee Baxter) "Можно ее вытащить?" (Space Port (45, 183, 1))
+[16:02:49]SAY: Chaburek/(Haidee Baxter) "Давай мы заменим на пласталь одну?" (Space Port (44, 182, 1))
+[16:04:43]SAY: Chaburek/(Haidee Baxter) "Медик." (Space Port (45, 182, 1))
+[16:04:50]DEBUG: Next event in 44.074 minutes.
+[16:05:06]SAY: Random12234/(Elder Queen) "Чтоб не раслоблялись хехех" (Administration (23, 127, 1))
+[16:05:06]SAY: Chaburek/(Haidee Baxter) "Не сломайте турель!" (Space Port (44, 181, 1))
+[16:05:51]SAY: Chaburek/(Haidee Baxter) "Отправьте меня на Аламо!" (Dropship Alamo (33, 195, 1))
+[16:05:55]SAY: Chaburek/(Haidee Baxter) "Мне очень плохо!" (Dropship Alamo (33, 195, 1))
+[16:06:01]SAY: Chaburek/(Haidee Baxter) "Меня свой голову прострелил." (Dropship Alamo (33, 195, 1))
+[16:06:07]SAY: Chaburek/(Haidee Baxter) "Я умираю." (Dropship Alamo (33, 195, 1))
+[16:06:13]SAY: Chaburek/(Haidee Baxter) "Коммодор, вы вообще на связи?" (Dropship Alamo (33, 195, 1))
+[16:06:15]SAY: ZyberCpechnaz/(Jadon Taylor) "Палож" (Space Port (44, 183, 1))
+[16:06:18]EMOTE: Chaburek/(Haidee Baxter) <B>CPL Unknown (as Haidee Baxter)</B> is having trouble keeping their eyes open. (Dropship Alamo (33, 196, 1))
+[16:06:20]SAY: ZyberCpechnaz/(Jadon Taylor) "Это запасы на чёрный день" (Space Port (44, 183, 1))
+[16:06:32]SAY: Drooper/(Jonathon Edhard) "Это ты запас на чёрный день овощь" (Space Port (53, 185, 1))
+[16:06:41]SAY: ZyberCpechnaz/(Jadon Taylor) "Теперь ты тоже запас на чёрный день" (Space Port (52, 184, 1))
+[16:07:09]SAY: Random12234/(Elder Queen) "Ммм ебать" (Unknown Area (51, 196, 1))
+[16:07:20]SAY: Artyuom/(Johnny Vietnam) "Приём наш лидер сошол с ума приём бля он хочет сожрать спека" (Space Port (51, 182, 1))
+[16:07:22]SAY: Drooper/(Jonathon Edhard) "Кусок дебила, а не лидер" (Space Port (45, 183, 1))
+[16:08:17]EMOTE: Random12234/(Elder Queen) <B>The Elder Queen</B> roars! (Administration (28, 123, 1))
+[16:09:32]EMOTE: Chaburek/(Haidee Baxter) <B>CPL Unknown (as Haidee Baxter)</B> бессознательно лежит в кресле. (Dropship Alamo (33, 196, 1))
+[16:09:36]ACCESS: Logout: Random12234/(Elder Queen)
+[16:09:36]GAME: Marine Major Victory
+Game mode: Distress Signal
+Round time: 1:26
+End round player population: 9
+Total xenos spawned: 1
+Total Preds spawned: 0
+Total humans spawned: 9
+[16:09:36]GAME: Antagonists at round end were...
+[16:09:36]GAME: Xenomorphs: Elder Queen(Random12234).
+[16:09:40]ADMIN: BlackCrystalic/(Blacky 'GG' Crysis) has created a Queen Mother report: Пора идти через второй ход, я своей силой его открыла!
+[16:09:49]OOC: (LOCAL) Unknown (as Haidee Baxter)/Chaburek : Лучший конец.
+[16:09:51]SAY: Artyuom/(Johnny Vietnam) "Бля" (Space Port (43, 184, 1))
+[16:09:57]OOC: (LOCAL) Unknown (as Haidee Baxter)/Chaburek : Который я не смог увидеть.
+[16:10:12]VOTE: Custom vote started by BlackCrystalic.
+Next Map (OOC>VOTE)
+[16:10:15]OOC: Drooper/(Jonathon Edhard) "Официально заявляю рот ебал нашего СЛ" (Space Port (43, 181, 1))
+[16:10:46]OOC: Artyuom/(Johnny Vietnam) "согласен немного" (Space Port (48, 185, 1))
+[16:11:05]OOC: Drooper/(Jonathon Edhard) "Овощной десант оправдал себа" (Space Port (39, 185, 1))
+[16:11:14]VOTE: <b>Vote Result: Big Red</b>
+[16:11:32]GAME: Explosion with size (-1, -1, 2) in area Space Port 
+[16:11:41]ACCESS: Logout: BlackCrystalic/(Blacky 'GG' Crysis)
+[16:11:41]ACCESS: Logout: CM.RU/(CM.RU)
+[16:11:41]ACCESS: Logout: ZyberCpechnaz/(Jadon Taylor)
+[16:11:41]ACCESS: Logout: Drooper/(Jonathon Edhard)
+[16:11:41]ACCESS: Logout: EngineerConager/(Dell Conrad)
+[16:11:41]ACCESS: Logout: Artyuom/(Johnny Vietnam)
+[16:11:41]ACCESS: Logout: Bobadoba/(Lou Kimple)
+[16:11:41]ACCESS: Logout: Sewa/(Kelvin Focell)
+[16:11:41]ACCESS: Logout: Chaburek/(Haidee Baxter)

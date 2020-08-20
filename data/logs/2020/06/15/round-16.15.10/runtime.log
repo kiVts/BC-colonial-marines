@@ -1,0 +1,587 @@
+
+
+Starting up round 16:15:10
+---------------------
+runtime error: pick() from empty list
+proc name: setupTeleportLocs (/hook/startup/proc/setupTeleportLocs)
+  source file: Space Station 13 areas.dm,68
+  usr: null
+  src: /hook/startup (/hook/startup)
+  call stack:
+/hook/startup (/hook/startup): setupTeleportLocs()
+callHook("startup", null)
+world: New()
+## ERROR: Hook '/hook/startup/proc/setupTeleportLocs' failed or runtimed.
+runtime error: pick() from empty list
+proc name: setupGhostTeleportLocs (/hook/startup/proc/setupGhostTeleportLocs)
+  source file: Space Station 13 areas.dm,85
+  usr: null
+  src: /hook/startup (/hook/startup)
+  call stack:
+/hook/startup (/hook/startup): setupGhostTeleportLocs()
+callHook("startup", null)
+world: New()
+## ERROR: Hook '/hook/startup/proc/setupGhostTeleportLocs' failed or runtimed.
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the desert (66,13,1) (/turf/open/desertdam/desert)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the desert (66,13,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (66,13,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (66,13,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (66,13,1) (/turf/open/desertdam/desert), null)
+Colonist Drew Bellel (/obj/effect/landmark/corpsespawner/doctor): createCorpse()
+Colonist Drew Bellel (/obj/effect/landmark/corpsespawner/doctor): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the desert (70,13,1) (/turf/open/desertdam/desert)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the desert (70,13,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (70,13,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (70,13,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (70,13,1) (/turf/open/desertdam/desert), null)
+Colonist Jac Mester (/obj/effect/landmark/corpsespawner/security): createCorpse()
+Colonist Jac Mester (/obj/effect/landmark/corpsespawner/security): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the desert (68,15,1) (/turf/open/desertdam/desert)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the desert (68,15,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (68,15,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (68,15,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (68,15,1) (/turf/open/desertdam/desert), null)
+Colonist Ted Jarka (/obj/effect/landmark/corpsespawner/engineer): createCorpse()
+Colonist Ted Jarka (/obj/effect/landmark/corpsespawner/engineer): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the desert (73,15,1) (/turf/open/desertdam/desert)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the desert (73,15,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (73,15,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (73,15,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (73,15,1) (/turf/open/desertdam/desert), null)
+Colonist Lee Hesto (/obj/effect/landmark/corpsespawner/scientist): createCorpse()
+Colonist Lee Hesto (/obj/effect/landmark/corpsespawner/scientist): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the desert (64,16,1) (/turf/open/desertdam/desert)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the desert (64,16,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (64,16,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (64,16,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (64,16,1) (/turf/open/desertdam/desert), null)
+Colonist Olgin Vekin (/obj/effect/landmark/corpsespawner/miner): createCorpse()
+Colonist Olgin Vekin (/obj/effect/landmark/corpsespawner/miner): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the desert (66,16,1) (/turf/open/desertdam/desert)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the desert (66,16,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (66,16,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (66,16,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (66,16,1) (/turf/open/desertdam/desert), null)
+Colonist Wes Uvin (/obj/effect/landmark/corpsespawner/engineer): createCorpse()
+Colonist Wes Uvin (/obj/effect/landmark/corpsespawner/engineer): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the desert (64,20,1) (/turf/open/desertdam/desert)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the desert (64,20,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (64,20,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (64,20,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (64,20,1) (/turf/open/desertdam/desert), null)
+Colonist Ellis Bark (/obj/effect/landmark/corpsespawner/scientist): createCorpse()
+Colonist Ellis Bark (/obj/effect/landmark/corpsespawner/scientist): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the desert (75,20,1) (/turf/open/desertdam/desert)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the desert (75,20,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (75,20,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (75,20,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (75,20,1) (/turf/open/desertdam/desert), null)
+Colonist Innio Morris (/obj/effect/landmark/corpsespawner/scientist): createCorpse()
+Colonist Innio Morris (/obj/effect/landmark/corpsespawner/scientist): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the desert (71,23,1) (/turf/open/desertdam/desert)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the desert (71,23,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (71,23,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (71,23,1) (/turf/open/desertdam/desert), null)
+the unknown (/mob/living/carbon/human): New(the desert (71,23,1) (/turf/open/desertdam/desert), null)
+Colonist Olin Berus (/obj/effect/landmark/corpsespawner/security): createCorpse()
+Colonist Olin Berus (/obj/effect/landmark/corpsespawner/security): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the floor (46,58,1) (/turf/open/floor/deadwood)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the floor (46,58,1) (/turf/open/floor/deadwood), null)
+the unknown (/mob/living/carbon/human): New(the floor (46,58,1) (/turf/open/floor/deadwood), null)
+the unknown (/mob/living/carbon/human): New(the floor (46,58,1) (/turf/open/floor/deadwood), null)
+the unknown (/mob/living/carbon/human): New(the floor (46,58,1) (/turf/open/floor/deadwood), null)
+Colonist Tevin Marks (/obj/effect/landmark/corpsespawner/scientist): createCorpse()
+Colonist Tevin Marks (/obj/effect/landmark/corpsespawner/scientist): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the floor (47,64,1) (/turf/open/floor/deadwood)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the floor (47,64,1) (/turf/open/floor/deadwood), null)
+the unknown (/mob/living/carbon/human): New(the floor (47,64,1) (/turf/open/floor/deadwood), null)
+the unknown (/mob/living/carbon/human): New(the floor (47,64,1) (/turf/open/floor/deadwood), null)
+the unknown (/mob/living/carbon/human): New(the floor (47,64,1) (/turf/open/floor/deadwood), null)
+Unknown (/obj/effect/landmark/corpsespawner/miner): createCorpse()
+Unknown (/obj/effect/landmark/corpsespawner/miner): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the floor (42,141,1) (/turf/open/floor/deadwood)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the floor (42,141,1) (/turf/open/floor/deadwood), null)
+the unknown (/mob/living/carbon/human): New(the floor (42,141,1) (/turf/open/floor/deadwood), null)
+the unknown (/mob/living/carbon/human): New(the floor (42,141,1) (/turf/open/floor/deadwood), null)
+the unknown (/mob/living/carbon/human): New(the floor (42,141,1) (/turf/open/floor/deadwood), null)
+Doctor (/obj/effect/landmark/corpsespawner/doctor): createCorpse()
+Doctor (/obj/effect/landmark/corpsespawner/doctor): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+  usr: (src)
+  src: the unknown (/mob/living/carbon/human)
+  src.loc: the plating (54,141,1) (/turf/open/floor/plating)
+  call stack:
+the unknown (/mob/living/carbon/human): hud set order()
+the unknown (/mob/living/carbon/human): prepare huds()
+the unknown (/mob/living/carbon/human): New(the plating (54,141,1) (/turf/open/floor/plating), null)
+the unknown (/mob/living/carbon/human): New(the plating (54,141,1) (/turf/open/floor/plating), null)
+the unknown (/mob/living/carbon/human): New(the plating (54,141,1) (/turf/open/floor/plating), null)
+the unknown (/mob/living/carbon/human): New(the plating (54,141,1) (/turf/open/floor/plating), null)
+Colonist Marko Quin (/obj/effect/landmark/corpsespawner/scientist): createCorpse()
+Colonist Marko Quin (/obj/effect/landmark/corpsespawner/scientist): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot read null.x
+proc name: New (/datum/shuttle/ferry/hangar/New)
+  source file: shuttle_hangar.dm,25
+  usr: null
+  src: /datum/shuttle/ferry/hangar (/datum/shuttle/ferry/hangar)
+  call stack:
+/datum/shuttle/ferry/hangar (/datum/shuttle/ferry/hangar): New()
+/datum/shuttle_controller (/datum/shuttle_controller): New()
+Shuttles (/datum/controller/process/shuttle): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Shuttles (/datum/controller/process/shuttle))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: Cannot read null.x
+proc name: New (/datum/shuttle/ferry/hangar/New)
+  source file: shuttle_hangar.dm,25
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: undefined proc or verb /mob/living/carbon/Xenomorph/Queen/set xeno overwatch().
+
+proc name: action activate (/datum/action/xeno_action/watch_xeno/action_activate)
+  source file: Abilities.dm,1159
+runtime error: undefined proc or verb /mob/living/carbon/Xenomorph/Queen/set xeno overwatch().
+
+proc name: action activate (/datum/action/xeno_action/watch_xeno/action_activate)
+  source file: Abilities.dm,1159
+runtime error: undefined proc or verb /mob/living/carbon/Xenomorph/Queen/set xeno overwatch().
+
+proc name: action activate (/datum/action/xeno_action/watch_xeno/action_activate)
+  source file: Abilities.dm,1159
+runtime error: undefined proc or verb /mob/living/carbon/Xenomorph/Queen/set xeno overwatch().
+
+proc name: action activate (/datum/action/xeno_action/watch_xeno/action_activate)
+  source file: Abilities.dm,1161
+runtime error: undefined proc or verb /mob/living/carbon/Xenomorph/Queen/set xeno overwatch().
+
+proc name: action activate (/datum/action/xeno_action/watch_xeno/action_activate)
+  source file: Abilities.dm,1161
+runtime error: Cannot read null.prefs
+proc name: Login (/mob/dead/observer/Login)
+  source file: observer.dm,32
+runtime error: Cannot modify null.icon_state.
+proc name: hud set order (/mob/living/carbon/human/proc/hud_set_order)
+  source file: mob_hud.dm,557
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: undefined proc or verb /mob/living/carbon/Xenomorph/Queen/set xeno overwatch().
+
+proc name: action activate (/datum/action/xeno_action/watch_xeno/action_activate)
+  source file: Abilities.dm,1159
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: Cannot read null.prefs
+proc name: Login (/mob/dead/observer/Login)
+  source file: observer.dm,32
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: Cannot read null.prefs
+proc name: Login (/mob/dead/observer/Login)
+  source file: observer.dm,32
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: Cannot read null.prefs
+proc name: Login (/mob/dead/observer/Login)
+  source file: observer.dm,32
+runtime error: Cannot read null.prefs
+proc name: Login (/mob/dead/observer/Login)
+  source file: observer.dm,32
+runtime error: undefined proc or verb /mob/living/carbon/Xenomorph/Queen/set xeno overwatch().
+
+proc name: action activate (/datum/action/xeno_action/watch_xeno/action_activate)
+  source file: Abilities.dm,1161
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+runtime error: filter argument border not found
+
+proc name: backdrop (/obj/screen/plane_master/game_world/backdrop)
+  source file: plane_master.dm,18
+Warning: further proc crash messages are being suppressed to prevent overload...

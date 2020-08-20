@@ -1,0 +1,31 @@
+<hr><br>
+<span class='centerbold'>
+
+<b><u><h2><a style="color: red">Добро пожаловать на Colonial Marines RU!</a></h2></u></b><br>
+
+<a>Colonial Marines RU это medium roleplay server. It's inspired by the Aliens film and heavily modified using Baystation 12.
+If you're not sure how to roleplay, check out the</a> <b><a href="https://wiki.baystation12.net/A_Crash_Course_in_Roleplaying">Crash Course in Roleplaying.</b></a>
+
+<b><a href="https://discord.gg/gZphsav" style="color: red">Прочитайте Правила!</a> <a style="color: red">НЕЗНАНИЕ ПРАВИЛ НЕ ОСВОБОЖДАЕТ ОТ ОТВЕТСТВЕННОСТИ!</a></b>
+
+</span>
+
+<a><h3>Вайтлисты:</h3></a>
+<a href="https://discord.gg/3Hwp7ad">Вайтлист На Командера</a>
+<a href="https://discord.gg/3Hwp7ad">Вайтлист На ИИ</a>
+<a href="https://discord.gg/3Hwp7ad">Вайтлист На Предатора</a>
+<a href="https://discord.gg/3Hwp7ad">Вайтлист На Синтетика</a>
+<a href="https://cm-ss13.com/wiki/Marine_Quickstart_Guide">Wiki: Marine Quick-Start Гайд</a>
+<a href="https://cm-ss13.com/wiki/Xeno_Quickstart_Guide">Wiki: Xeno Quick-Start Гайд</a>
+
+<a><h3>Быстрый старт гайд:</h3></a>
+<a>* Воспринимайте ролевые игры серьёзно! Помните, что у вас нет информации о Xenomorph's. Вы не знаете что это такое, как он живёт и как размножается, вы можете знать только то из чего сделан улей. (Все ролеплейные сцены неординарного типа должны утверждаться админами в "Ahelp")</a>
+<a>* Xenomorp's: Чтобы говорить в Hivemind <b>:a</b> (:a/;Слава Улью!).</a>
+<a>* Чтобы играть за ксеноморфов после начала раунда, нажмите на кнопку в окне лобби <b>Join the Hive!</b> или если вы наблюдатель, <b>Ghost</b> вкладка вверху -> <b>Join as Xeno</b>.</a>
+
+<span class='centerbold'>
+
+<font color='#00CC00'><<Перемены наступают всегда и неожиданно>></a></b>
+
+</span>
+<hr><br>
