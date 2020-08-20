@@ -1,5 +1,5 @@
-## Server name: Xenos Mad ; Human Mad ; Tarrets Mad ; Cats Mad ; CoronaVayrys Mad ; Infected CoronaVayrys ; Crystalic Mad ; Grenades Mad ; Commander Exterminatus? ; Durka Exterminatus ; Durka Infectatus ; Trololo & Evasion? ; Die And Fight! ; Fight For Day! ; Crysis ; Hoste Sup ; The Last ; Fray Is Gay! ; R'T' Not Detected... ;
-# SERVERNAME CM-SS13.RU Crysis/Tarrets Mad
+## Server name: This appears at the top of the screen in-game. In this case it will read "tgstation: station_name" where station_name is the randomly generated name of the station for the round. Remove the # infront of SERVERNAME and replace 'tgstation' with the name of your choice
+SERVERNAME ColonialMarines:Emergency Access(RU)
 
 ## Alert levels
 ALERT_GREEN All threats to the station have passed. Security may not have weapons visible, privacy laws are once again fully enforced.
@@ -28,9 +28,6 @@ JOBS_HAVE_MINIMAL_ACCESS
 ## Unhash this to use recursive explosions, keep it hashed to use circle explosions. Recursive explosions react to walls, airlocks and blast doors, making them look a lot cooler than the boring old circular explosions. They require more CPU and are (as of january 2013) experimental
 #USE_RECURSIVE_EXPLOSIONS
 
-## Unhash this to permit husking from flames.
-#HUSKING_ON
-
 ## log OOC channel
 LOG_OOC
 
@@ -42,9 +39,6 @@ LOG_HIVEMIND
 
 ## log admin actions
 LOG_ADMIN
-
-## log admin chat
-LOG_ADMINCHAT
 
 ## log client access (logon/logoff)
 LOG_ACCESS
@@ -70,14 +64,11 @@ LOG_PDA
 ## log all Topic() calls (for use by coders in tracking down Topic issues)
 LOG_HREFS
 
-## log world/Topic() calls
-LOG_WORLD_TOPIC
-
 ## log world.log and runtime errors to a file
 LOG_RUNTIME
 
 ## log admin warning messages
-#LOG_ADMINWARN  ## Also duplicates a bunch of other messages.
+##LOG_ADMINWARN  ## Also duplicates a bunch of other messages.
 
 ## sql switching
 # SQL_ENABLED
@@ -173,6 +164,9 @@ NORESPAWN
 ## disables calling del(src) on newmobs if they logout before spawnin in
 # DONT_DEL_NEWMOB
 
+## set a hosted by name for unix platforms
+HOSTEDBY BlackCrystall
+
 ## Set to jobban "Guest-" accounts from Captain, HoS, HoP, CE, RD, CMO, Warden, Security, Detective, and AI positions.
 ## Set to 1 to jobban them from those positions, set to 0 to allow them.
 GUEST_JOBBAN
@@ -187,25 +181,16 @@ GUEST_BAN
 #SERVER server.net:port
 
 ## forum address
-FORUMURL https://discord.gg/3Hwp7ad
+FORUMURL https://
 
 ## Wiki address
-WIKIURL https://discord.gg/3Hwp7ad
+WIKIURL https://
 
 ## Rules address
-RULESURL https://discord.gg/3Hwp7ad
-
-## Chat address
-CHATURL https://discord.gg/3Hwp7ad
-
-## Donation address
-DONATIONURL https://money.yandex.ru/to/4100112036970135
-
-## Bug tracker address
-BUGTRACKERURL https://discord.gg/3Hwp7ad
+RULESURL https://
 
 ## Ban appeals URL - usually for a forum or wherever people should go to contact your admins.
-BANAPPEALS https://discord.gg/3Hwp7ad
+BANAPPEALS https://
 
 ## In-game features
 ## spawns a spellbook which gives object-type spells instead of verb-type spells for the wizard
@@ -257,19 +242,19 @@ USEALIENWHITELIST
 #GHOST_INTERACTION
 
 ## Password used for authorizing ircbot and other external tools.
-COMMS_PASSWORD
+#COMMS_PASSWORD
 
 ## Uncomment to enable sending data to the IRC bot.
-USE_IRC_BOT
+#USE_IRC_BOT
 
 ## Host where the IRC bot is hosted.  Port 45678 needs to be open.
-IRC_BOT_HOST localhost
+#IRC_BOT_HOST localhost
 
 ## IRC channel to send information to.  Leave blank to disable.
-MAIN_IRC #коморка-кристала
+#MAIN_IRC #main
 
 ## IRC channel to send adminhelps to.  Leave blank to disable adminhelps-to-irc.
-ADMIN_IRC #коморка-кристала
+#ADMIN_IRC #admin
 
 ## Path to the python2 executable on the system.  Leave blank for default.
 ## Default is "python" on Windows, "/usr/bin/env python2" on UNIX.
@@ -295,20 +280,3 @@ REQ_CULT_GHOSTWRITER 6
 
 ## Automute the OOC channel. OOC mutes itself at round-start and unmutes itself at round-end.
 AUTOOOCMUTE
-
-# MAP URLS
-ALMAYER_URL https://blackcrystall.github.io/SS13WebMap/Almayer/index.html
-BIGRED_URL https://blackcrystall.github.io/SS13WebMap/BigRed/index.html
-ICECOLONY_URL https://blackcrystall.github.io/SS13WebMap/IceColony/index.html
-LV624_URL https://blackcrystall.github.io/SS13WebMap/LV-624/index.html
-PRISONSTATION_URL https://blackcrystall.github.io/SS13WebMap/Prison/index.html
-WHISKEYOUTPOST_URL https://blackcrystall.github.io/SS13WebMap/WhiskeyOutpost/index.html
-DESRTDAM_URL https://blackcrystall.github.io/SS13WebMap/DesertDam/index.html
-DECALMSLEY_URL https://blackcrystall.github.io/SS13WebMap/DecalmSley/index.html
-SECRETOBJECT_URL https://blackcrystall.github.io/SS13WebMap/SecretObject/index.html
-
-## Password to make your server appear on the hub.
-HUBPASSWORD kMZy3U5jJHSiBQjr
-
-## Hosted by name for unix platforms.
-HOSTEDBY BlackCrystalic

@@ -6,43 +6,4 @@
 ######################################################################
 
 # not_a_user - Host
-----(Создатель/Высокие Ранги)-----
-BlackCrystalic - BlackCrystalic
-EngineerConager - Head Of Community
-Psewdoplot - Head Admin
-
-------------(Хост)----------------
-
-
-------------(Хеновизоры)----------
- - Xenovisor
-
-------------(Дев)-----------------
- - Spriter
- - Coder
-
-------------(Админы)--------------
-Artyom Clark - Admin
-DamirFBI - Admin
-
-------------(Модераторы)----------
-Artyuom - Moderator
-
-------------(На испытание)--------
- - TrialAdmin
-Sosike - TrialModerator
-Artem pas - TrialModerator
-------------(Что-то)--------------
-Fox2408 - ESP8266
-
-------------(Помошники)-----------
-Lieutenant SkyZooM - Donator
- - Donator
- - Donator
- - Donator
- - Donator
- - Donator
- - Donator
- - Donator
- - Donator
- - Donator
+BlackCrystall - Host
