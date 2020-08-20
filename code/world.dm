@@ -24,7 +24,7 @@ var/global/datum/global_init/init = new ()
 
 /world/New()
 
-	hub_password = "[config.hub_password]"
+	hub_password = ""
 	changelog_hash = md5('html/changelog.html')					//used for telling if the changelog has changed recently
 
 	if(byond_version < RECOMMENDED_VERSION)
@@ -380,9 +380,9 @@ var/world_topic_spam_protect_time = world.timeofday
 	var/s = ""
 
 	if (config && config.server_name)
-		s += "<a href=\"https://discord.gg/eWKjvt4\"><b>CM-SS13.RU Crysis/Tarrets Mad &#8212; [MAIN_SHIP_NAME]</b></a>"
+		s += "<a href=\"https://discord.gg/eWKjvt4\"><b></b></a>"
 	else
-		s += "<a href=\"https://discord.gg/eWKjvt4\"><b>CM-SS13.RU 513, 5+13 - Very good! &#8212; [MAIN_SHIP_NAME]</b></a>"
+		s += "<a href=\"https://discord.gg/eWKjvt4\"><b></b></a>"
 		if(ticker)
 			if(master_mode)
 				s += "<br>Map: <b>[map_tag]</b>"
